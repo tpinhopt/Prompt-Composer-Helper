@@ -26,7 +26,7 @@ Why It Exists:
  - It was designed as a deterministic compiler, and not trying to guess what you mean.
 
 How To Use:
- - Download index.html
+ - Download index.html (inside dist folder)
  - Double-click it
  - Type your description
  - Copy the generated prompts into your preferred UI
