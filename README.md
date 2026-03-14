@@ -1,4 +1,4 @@
-Pony-friendly Structured Prompt Composer
+SDXL and Anima friendly Structured Prompt Composer
 
 This Prompt Composer is a small, self-contained HTML tool that converts natural text into structured diffusion prompts with consistent tag routing.
 It was built to solve a very specific problem:
