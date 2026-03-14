@@ -1,0 +1,1400 @@
+{
+  "items": [
+    {
+      "phrase": "aerial",
+      "tag": "Aerial"
+    },
+    {
+      "phrase": "aerial angle",
+      "tag": "Aerial"
+    },
+    {
+      "phrase": "from aerial",
+      "tag": "Aerial"
+    },
+    {
+      "phrase": "bird's eye",
+      "tag": "Bird's_Eye"
+    },
+    {
+      "phrase": "bird's eye angle",
+      "tag": "Bird's_Eye"
+    },
+    {
+      "phrase": "from bird's eye",
+      "tag": "Bird's_Eye"
+    },
+    {
+      "phrase": "close",
+      "tag": "Close"
+    },
+    {
+      "phrase": "close angle",
+      "tag": "Close"
+    },
+    {
+      "phrase": "from close",
+      "tag": "Close"
+    },
+    {
+      "phrase": "distant",
+      "tag": "Distant"
+    },
+    {
+      "phrase": "distant angle",
+      "tag": "Distant"
+    },
+    {
+      "phrase": "from distant",
+      "tag": "Distant"
+    },
+    {
+      "phrase": "eye level",
+      "tag": "Eye_Level"
+    },
+    {
+      "phrase": "eye level angle",
+      "tag": "Eye_Level"
+    },
+    {
+      "phrase": "from eye level",
+      "tag": "Eye_Level"
+    },
+    {
+      "phrase": "fish eye",
+      "tag": "Fish_Eye"
+    },
+    {
+      "phrase": "fish eye angle",
+      "tag": "Fish_Eye"
+    },
+    {
+      "phrase": "from fish eye",
+      "tag": "Fish_Eye"
+    },
+    {
+      "phrase": "from ground level",
+      "tag": "Ground_Level"
+    },
+    {
+      "phrase": "ground level",
+      "tag": "Ground_Level"
+    },
+    {
+      "phrase": "ground level angle",
+      "tag": "Ground_Level"
+    },
+    {
+      "phrase": "from high angle",
+      "tag": "High_Angle"
+    },
+    {
+      "phrase": "high angle",
+      "tag": "High_Angle"
+    },
+    {
+      "phrase": "high angle angle",
+      "tag": "High_Angle"
+    },
+    {
+      "phrase": "from low angle",
+      "tag": "Low_Angle"
+    },
+    {
+      "phrase": "low angle",
+      "tag": "Low_Angle"
+    },
+    {
+      "phrase": "low angle angle",
+      "tag": "Low_Angle"
+    },
+    {
+      "phrase": "from narrow angle",
+      "tag": "Narrow_Angle"
+    },
+    {
+      "phrase": "narrow angle",
+      "tag": "Narrow_Angle"
+    },
+    {
+      "phrase": "narrow angle angle",
+      "tag": "Narrow_Angle"
+    },
+    {
+      "phrase": "from overhead",
+      "tag": "Overhead"
+    },
+    {
+      "phrase": "overhead",
+      "tag": "Overhead"
+    },
+    {
+      "phrase": "overhead angle",
+      "tag": "Overhead"
+    },
+    {
+      "phrase": "from panoramic",
+      "tag": "Panoramic"
+    },
+    {
+      "phrase": "panoramic",
+      "tag": "Panoramic"
+    },
+    {
+      "phrase": "panoramic angle",
+      "tag": "Panoramic"
+    },
+    {
+      "phrase": "from wide angle",
+      "tag": "Wide_Angle"
+    },
+    {
+      "phrase": "wide angle",
+      "tag": "Wide_Angle"
+    },
+    {
+      "phrase": "wide angle angle",
+      "tag": "Wide_Angle"
+    },
+    {
+      "phrase": "animal focus",
+      "tag": "animal_focus"
+    },
+    {
+      "phrase": "animal focus angle",
+      "tag": "animal_focus"
+    },
+    {
+      "phrase": "focus on animal",
+      "tag": "animal_focus"
+    },
+    {
+      "phrase": "focused on animal",
+      "tag": "animal_focus"
+    },
+    {
+      "phrase": "from animal focus",
+      "tag": "animal_focus"
+    },
+    {
+      "phrase": "animal pov",
+      "tag": "animal_pov"
+    },
+    {
+      "phrase": "animal pov angle",
+      "tag": "animal_pov"
+    },
+    {
+      "phrase": "from animal pov",
+      "tag": "animal_pov"
+    },
+    {
+      "phrase": "ass focus",
+      "tag": "ass_focus"
+    },
+    {
+      "phrase": "ass focus angle",
+      "tag": "ass_focus"
+    },
+    {
+      "phrase": "focus on ass",
+      "tag": "ass_focus"
+    },
+    {
+      "phrase": "focused on ass",
+      "tag": "ass_focus"
+    },
+    {
+      "phrase": "from ass focus",
+      "tag": "ass_focus"
+    },
+    {
+      "phrase": "back focus",
+      "tag": "back_focus"
+    },
+    {
+      "phrase": "back focus angle",
+      "tag": "back_focus"
+    },
+    {
+      "phrase": "focus on back",
+      "tag": "back_focus"
+    },
+    {
+      "phrase": "focused on back",
+      "tag": "back_focus"
+    },
+    {
+      "phrase": "from back focus",
+      "tag": "back_focus"
+    },
+    {
+      "phrase": "breast focus",
+      "tag": "breast_focus"
+    },
+    {
+      "phrase": "breast focus angle",
+      "tag": "breast_focus"
+    },
+    {
+      "phrase": "focus on breast",
+      "tag": "breast_focus"
+    },
+    {
+      "phrase": "focused on breast",
+      "tag": "breast_focus"
+    },
+    {
+      "phrase": "from breast focus",
+      "tag": "breast_focus"
+    },
+    {
+      "phrase": "camera pov",
+      "tag": "camera_pov"
+    },
+    {
+      "phrase": "camera pov angle",
+      "tag": "camera_pov"
+    },
+    {
+      "phrase": "from camera pov",
+      "tag": "camera_pov"
+    },
+    {
+      "phrase": "center opening",
+      "tag": "center_opening"
+    },
+    {
+      "phrase": "center opening angle",
+      "tag": "center_opening"
+    },
+    {
+      "phrase": "from center opening",
+      "tag": "center_opening"
+    },
+    {
+      "phrase": "close-up",
+      "tag": "close-up"
+    },
+    {
+      "phrase": "close-up angle",
+      "tag": "close-up"
+    },
+    {
+      "phrase": "from close-up",
+      "tag": "close-up"
+    },
+    {
+      "phrase": "cowboy shot",
+      "tag": "cowboy_shot"
+    },
+    {
+      "phrase": "cowboy shot angle",
+      "tag": "cowboy_shot"
+    },
+    {
+      "phrase": "from cowboy shot",
+      "tag": "cowboy_shot"
+    },
+    {
+      "phrase": "depth of field",
+      "tag": "depth_of_field"
+    },
+    {
+      "phrase": "depth of field angle",
+      "tag": "depth_of_field"
+    },
+    {
+      "phrase": "from depth of field",
+      "tag": "depth_of_field"
+    },
+    {
+      "phrase": "dollhouse view",
+      "tag": "dollhouse_view"
+    },
+    {
+      "phrase": "dollhouse view angle",
+      "tag": "dollhouse_view"
+    },
+    {
+      "phrase": "from dollhouse view",
+      "tag": "dollhouse_view"
+    },
+    {
+      "phrase": "double exposure",
+      "tag": "double_exposure"
+    },
+    {
+      "phrase": "double exposure angle",
+      "tag": "double_exposure"
+    },
+    {
+      "phrase": "from double exposure",
+      "tag": "double_exposure"
+    },
+    {
+      "phrase": "dutch angle",
+      "tag": "dutch_angle"
+    },
+    {
+      "phrase": "dutch angle angle",
+      "tag": "dutch_angle"
+    },
+    {
+      "phrase": "from dutch angle",
+      "tag": "dutch_angle"
+    },
+    {
+      "phrase": "ear focus",
+      "tag": "ear_focus"
+    },
+    {
+      "phrase": "ear focus angle",
+      "tag": "ear_focus"
+    },
+    {
+      "phrase": "focus on ear",
+      "tag": "ear_focus"
+    },
+    {
+      "phrase": "focused on ear",
+      "tag": "ear_focus"
+    },
+    {
+      "phrase": "from ear focus",
+      "tag": "ear_focus"
+    },
+    {
+      "phrase": "eye pov",
+      "tag": "eye_pov"
+    },
+    {
+      "phrase": "eye pov angle",
+      "tag": "eye_pov"
+    },
+    {
+      "phrase": "from eye pov",
+      "tag": "eye_pov"
+    },
+    {
+      "phrase": "eyes out of frame",
+      "tag": "eyes_out_of_frame"
+    },
+    {
+      "phrase": "eyes out of frame angle",
+      "tag": "eyes_out_of_frame"
+    },
+    {
+      "phrase": "from eyes out of frame",
+      "tag": "eyes_out_of_frame"
+    },
+    {
+      "phrase": "eyewear view",
+      "tag": "eyewear_view"
+    },
+    {
+      "phrase": "eyewear view angle",
+      "tag": "eyewear_view"
+    },
+    {
+      "phrase": "from eyewear view",
+      "tag": "eyewear_view"
+    },
+    {
+      "phrase": "facing away",
+      "tag": "facing_away"
+    },
+    {
+      "phrase": "facing away angle",
+      "tag": "facing_away"
+    },
+    {
+      "phrase": "from facing away",
+      "tag": "facing_away"
+    },
+    {
+      "phrase": "facing viewer",
+      "tag": "facing_viewer"
+    },
+    {
+      "phrase": "facing viewer angle",
+      "tag": "facing_viewer"
+    },
+    {
+      "phrase": "from facing viewer",
+      "tag": "facing_viewer"
+    },
+    {
+      "phrase": "feet out of frame",
+      "tag": "feet_out_of_frame"
+    },
+    {
+      "phrase": "feet out of frame angle",
+      "tag": "feet_out_of_frame"
+    },
+    {
+      "phrase": "from feet out of frame",
+      "tag": "feet_out_of_frame"
+    },
+    {
+      "phrase": "female pov",
+      "tag": "female_pov"
+    },
+    {
+      "phrase": "female pov angle",
+      "tag": "female_pov"
+    },
+    {
+      "phrase": "from female pov",
+      "tag": "female_pov"
+    },
+    {
+      "phrase": "fisheye",
+      "tag": "fisheye"
+    },
+    {
+      "phrase": "fisheye angle",
+      "tag": "fisheye"
+    },
+    {
+      "phrase": "from fisheye",
+      "tag": "fisheye"
+    },
+    {
+      "phrase": "focus on food",
+      "tag": "food_focus"
+    },
+    {
+      "phrase": "focused on food",
+      "tag": "food_focus"
+    },
+    {
+      "phrase": "food focus",
+      "tag": "food_focus"
+    },
+    {
+      "phrase": "food focus angle",
+      "tag": "food_focus"
+    },
+    {
+      "phrase": "from food focus",
+      "tag": "food_focus"
+    },
+    {
+      "phrase": "foot out of frame",
+      "tag": "foot_out_of_frame"
+    },
+    {
+      "phrase": "foot out of frame angle",
+      "tag": "foot_out_of_frame"
+    },
+    {
+      "phrase": "from foot out of frame",
+      "tag": "foot_out_of_frame"
+    },
+    {
+      "phrase": "focus on footwear",
+      "tag": "footwear_focus"
+    },
+    {
+      "phrase": "focused on footwear",
+      "tag": "footwear_focus"
+    },
+    {
+      "phrase": "footwear focus",
+      "tag": "footwear_focus"
+    },
+    {
+      "phrase": "footwear focus angle",
+      "tag": "footwear_focus"
+    },
+    {
+      "phrase": "from footwear focus",
+      "tag": "footwear_focus"
+    },
+    {
+      "phrase": "foreshortening",
+      "tag": "foreshortening"
+    },
+    {
+      "phrase": "foreshortening angle",
+      "tag": "foreshortening"
+    },
+    {
+      "phrase": "from foreshortening",
+      "tag": "foreshortening"
+    },
+    {
+      "phrase": "from above",
+      "tag": "from_above"
+    },
+    {
+      "phrase": "from above angle",
+      "tag": "from_above"
+    },
+    {
+      "phrase": "from from above",
+      "tag": "from_above"
+    },
+    {
+      "phrase": "from behind",
+      "tag": "from_behind"
+    },
+    {
+      "phrase": "from behind angle",
+      "tag": "from_behind"
+    },
+    {
+      "phrase": "from from behind",
+      "tag": "from_behind"
+    },
+    {
+      "phrase": "from below",
+      "tag": "from_below"
+    },
+    {
+      "phrase": "from below angle",
+      "tag": "from_below"
+    },
+    {
+      "phrase": "from from below",
+      "tag": "from_below"
+    },
+    {
+      "phrase": "from from ground",
+      "tag": "from_ground"
+    },
+    {
+      "phrase": "from ground",
+      "tag": "from_ground"
+    },
+    {
+      "phrase": "from ground angle",
+      "tag": "from_ground"
+    },
+    {
+      "phrase": "from from inside",
+      "tag": "from_inside"
+    },
+    {
+      "phrase": "from inside",
+      "tag": "from_inside"
+    },
+    {
+      "phrase": "from inside angle",
+      "tag": "from_inside"
+    },
+    {
+      "phrase": "from from outside",
+      "tag": "from_outside"
+    },
+    {
+      "phrase": "from outside",
+      "tag": "from_outside"
+    },
+    {
+      "phrase": "from outside angle",
+      "tag": "from_outside"
+    },
+    {
+      "phrase": "from from side",
+      "tag": "from_side"
+    },
+    {
+      "phrase": "from side",
+      "tag": "from_side"
+    },
+    {
+      "phrase": "from side angle",
+      "tag": "from_side"
+    },
+    {
+      "phrase": "from full body",
+      "tag": "full_body"
+    },
+    {
+      "phrase": "full body",
+      "tag": "full_body"
+    },
+    {
+      "phrase": "full body angle",
+      "tag": "full_body"
+    },
+    {
+      "phrase": "from head only",
+      "tag": "head_only"
+    },
+    {
+      "phrase": "head only",
+      "tag": "head_only"
+    },
+    {
+      "phrase": "head only angle",
+      "tag": "head_only"
+    },
+    {
+      "phrase": "from heads-up display",
+      "tag": "heads-up_display"
+    },
+    {
+      "phrase": "heads-up display",
+      "tag": "heads-up_display"
+    },
+    {
+      "phrase": "heads-up display angle",
+      "tag": "heads-up_display"
+    },
+    {
+      "phrase": "from headshot",
+      "tag": "headshot"
+    },
+    {
+      "phrase": "headshot",
+      "tag": "headshot"
+    },
+    {
+      "phrase": "headshot angle",
+      "tag": "headshot"
+    },
+    {
+      "phrase": "focus on hip",
+      "tag": "hip_focus"
+    },
+    {
+      "phrase": "focused on hip",
+      "tag": "hip_focus"
+    },
+    {
+      "phrase": "from hip focus",
+      "tag": "hip_focus"
+    },
+    {
+      "phrase": "hip focus",
+      "tag": "hip_focus"
+    },
+    {
+      "phrase": "hip focus angle",
+      "tag": "hip_focus"
+    },
+    {
+      "phrase": "from isometric",
+      "tag": "isometric"
+    },
+    {
+      "phrase": "isometric",
+      "tag": "isometric"
+    },
+    {
+      "phrase": "isometric angle",
+      "tag": "isometric"
+    },
+    {
+      "phrase": "from kabedon on viewer",
+      "tag": "kabedon_on_viewer"
+    },
+    {
+      "phrase": "kabedon on viewer",
+      "tag": "kabedon_on_viewer"
+    },
+    {
+      "phrase": "kabedon on viewer angle",
+      "tag": "kabedon_on_viewer"
+    },
+    {
+      "phrase": "from lap pov",
+      "tag": "lap_pov"
+    },
+    {
+      "phrase": "lap pov",
+      "tag": "lap_pov"
+    },
+    {
+      "phrase": "lap pov angle",
+      "tag": "lap_pov"
+    },
+    {
+      "phrase": "focus on leg",
+      "tag": "leg_focus"
+    },
+    {
+      "phrase": "focused on leg",
+      "tag": "leg_focus"
+    },
+    {
+      "phrase": "from leg focus",
+      "tag": "leg_focus"
+    },
+    {
+      "phrase": "leg focus",
+      "tag": "leg_focus"
+    },
+    {
+      "phrase": "leg focus angle",
+      "tag": "leg_focus"
+    },
+    {
+      "phrase": "from leg only",
+      "tag": "leg_only"
+    },
+    {
+      "phrase": "leg only",
+      "tag": "leg_only"
+    },
+    {
+      "phrase": "leg only angle",
+      "tag": "leg_only"
+    },
+    {
+      "phrase": "from letterboxed",
+      "tag": "letterboxed"
+    },
+    {
+      "phrase": "letterboxed",
+      "tag": "letterboxed"
+    },
+    {
+      "phrase": "letterboxed angle",
+      "tag": "letterboxed"
+    },
+    {
+      "phrase": "from looking afar",
+      "tag": "looking_afar"
+    },
+    {
+      "phrase": "looking afar",
+      "tag": "looking_afar"
+    },
+    {
+      "phrase": "looking afar angle",
+      "tag": "looking_afar"
+    },
+    {
+      "phrase": "looking at camera",
+      "tag": "looking_at_viewer"
+    },
+    {
+      "phrase": "looking at the viewer",
+      "tag": "looking_at_viewer"
+    },
+    {
+      "phrase": "looking at viewer",
+      "tag": "looking_at_viewer"
+    },
+    {
+      "phrase": "looking at viewer angle",
+      "tag": "looking_at_viewer"
+    },
+    {
+      "phrase": "staring at viewer",
+      "tag": "looking_at_viewer"
+    },
+    {
+      "phrase": "from looking past viewer",
+      "tag": "looking_past_viewer"
+    },
+    {
+      "phrase": "looking past viewer",
+      "tag": "looking_past_viewer"
+    },
+    {
+      "phrase": "looking past viewer angle",
+      "tag": "looking_past_viewer"
+    },
+    {
+      "phrase": "from looking through donut",
+      "tag": "looking_through_donut"
+    },
+    {
+      "phrase": "looking through donut",
+      "tag": "looking_through_donut"
+    },
+    {
+      "phrase": "looking through donut angle",
+      "tag": "looking_through_donut"
+    },
+    {
+      "phrase": "from looking through fence",
+      "tag": "looking_through_fence"
+    },
+    {
+      "phrase": "looking through fence",
+      "tag": "looking_through_fence"
+    },
+    {
+      "phrase": "looking through fence angle",
+      "tag": "looking_through_fence"
+    },
+    {
+      "phrase": "from looking through fingers",
+      "tag": "looking_through_fingers"
+    },
+    {
+      "phrase": "looking through fingers",
+      "tag": "looking_through_fingers"
+    },
+    {
+      "phrase": "looking through fingers angle",
+      "tag": "looking_through_fingers"
+    },
+    {
+      "phrase": "from looking through own legs",
+      "tag": "looking_through_own_legs"
+    },
+    {
+      "phrase": "looking through own legs",
+      "tag": "looking_through_own_legs"
+    },
+    {
+      "phrase": "looking through own legs angle",
+      "tag": "looking_through_own_legs"
+    },
+    {
+      "phrase": "from looking through scope",
+      "tag": "looking_through_scope"
+    },
+    {
+      "phrase": "looking through scope",
+      "tag": "looking_through_scope"
+    },
+    {
+      "phrase": "looking through scope angle",
+      "tag": "looking_through_scope"
+    },
+    {
+      "phrase": "from lower lip only",
+      "tag": "lower_lip_only"
+    },
+    {
+      "phrase": "lower lip only",
+      "tag": "lower_lip_only"
+    },
+    {
+      "phrase": "lower lip only angle",
+      "tag": "lower_lip_only"
+    },
+    {
+      "phrase": "from multiple views",
+      "tag": "multiple_views"
+    },
+    {
+      "phrase": "multiple views",
+      "tag": "multiple_views"
+    },
+    {
+      "phrase": "multiple views angle",
+      "tag": "multiple_views"
+    },
+    {
+      "phrase": "focus on other",
+      "tag": "other_focus"
+    },
+    {
+      "phrase": "focused on other",
+      "tag": "other_focus"
+    },
+    {
+      "phrase": "from other focus",
+      "tag": "other_focus"
+    },
+    {
+      "phrase": "other focus",
+      "tag": "other_focus"
+    },
+    {
+      "phrase": "other focus angle",
+      "tag": "other_focus"
+    },
+    {
+      "phrase": "from out of frame",
+      "tag": "out_of_frame"
+    },
+    {
+      "phrase": "out of frame",
+      "tag": "out_of_frame"
+    },
+    {
+      "phrase": "out of frame angle",
+      "tag": "out_of_frame"
+    },
+    {
+      "phrase": "from overexposure",
+      "tag": "overexposure"
+    },
+    {
+      "phrase": "overexposure",
+      "tag": "overexposure"
+    },
+    {
+      "phrase": "overexposure angle",
+      "tag": "overexposure"
+    },
+    {
+      "phrase": "from partially underwater shot",
+      "tag": "partially_underwater_shot"
+    },
+    {
+      "phrase": "partially underwater shot",
+      "tag": "partially_underwater_shot"
+    },
+    {
+      "phrase": "partially underwater shot angle",
+      "tag": "partially_underwater_shot"
+    },
+    {
+      "phrase": "focus on pectoral",
+      "tag": "pectoral_focus"
+    },
+    {
+      "phrase": "focused on pectoral",
+      "tag": "pectoral_focus"
+    },
+    {
+      "phrase": "from pectoral focus",
+      "tag": "pectoral_focus"
+    },
+    {
+      "phrase": "pectoral focus",
+      "tag": "pectoral_focus"
+    },
+    {
+      "phrase": "pectoral focus angle",
+      "tag": "pectoral_focus"
+    },
+    {
+      "phrase": "from pov",
+      "tag": "pov"
+    },
+    {
+      "phrase": "pov",
+      "tag": "pov"
+    },
+    {
+      "phrase": "pov angle",
+      "tag": "pov"
+    },
+    {
+      "phrase": "from pov across bed",
+      "tag": "pov_across_bed"
+    },
+    {
+      "phrase": "pov across bed",
+      "tag": "pov_across_bed"
+    },
+    {
+      "phrase": "pov across bed angle",
+      "tag": "pov_across_bed"
+    },
+    {
+      "phrase": "from pov across table",
+      "tag": "pov_across_table"
+    },
+    {
+      "phrase": "pov across table",
+      "tag": "pov_across_table"
+    },
+    {
+      "phrase": "pov across table angle",
+      "tag": "pov_across_table"
+    },
+    {
+      "phrase": "from pov crotch",
+      "tag": "pov_crotch"
+    },
+    {
+      "phrase": "pov crotch",
+      "tag": "pov_crotch"
+    },
+    {
+      "phrase": "pov crotch angle",
+      "tag": "pov_crotch"
+    },
+    {
+      "phrase": "from pov doorway",
+      "tag": "pov_doorway"
+    },
+    {
+      "phrase": "pov doorway",
+      "tag": "pov_doorway"
+    },
+    {
+      "phrase": "pov doorway angle",
+      "tag": "pov_doorway"
+    },
+    {
+      "phrase": "from pov hands",
+      "tag": "pov_hands"
+    },
+    {
+      "phrase": "pov hands",
+      "tag": "pov_hands"
+    },
+    {
+      "phrase": "pov hands angle",
+      "tag": "pov_hands"
+    },
+    {
+      "phrase": "from pov inside mouth",
+      "tag": "pov_inside_mouth"
+    },
+    {
+      "phrase": "pov inside mouth",
+      "tag": "pov_inside_mouth"
+    },
+    {
+      "phrase": "pov inside mouth angle",
+      "tag": "pov_inside_mouth"
+    },
+    {
+      "phrase": "from pov legs",
+      "tag": "pov_legs"
+    },
+    {
+      "phrase": "pov legs",
+      "tag": "pov_legs"
+    },
+    {
+      "phrase": "pov legs angle",
+      "tag": "pov_legs"
+    },
+    {
+      "phrase": "from pov peephole",
+      "tag": "pov_peephole"
+    },
+    {
+      "phrase": "pov peephole",
+      "tag": "pov_peephole"
+    },
+    {
+      "phrase": "pov peephole angle",
+      "tag": "pov_peephole"
+    },
+    {
+      "phrase": "from profile",
+      "tag": "profile"
+    },
+    {
+      "phrase": "profile",
+      "tag": "profile"
+    },
+    {
+      "phrase": "profile angle",
+      "tag": "profile"
+    },
+    {
+      "phrase": "from reaching towards viewer",
+      "tag": "reaching_towards_viewer"
+    },
+    {
+      "phrase": "reaching towards viewer",
+      "tag": "reaching_towards_viewer"
+    },
+    {
+      "phrase": "reaching towards viewer angle",
+      "tag": "reaching_towards_viewer"
+    },
+    {
+      "phrase": "from rotating view",
+      "tag": "rotating_view"
+    },
+    {
+      "phrase": "rotating view",
+      "tag": "rotating_view"
+    },
+    {
+      "phrase": "rotating view angle",
+      "tag": "rotating_view"
+    },
+    {
+      "phrase": "from screen zoom",
+      "tag": "screen_zoom"
+    },
+    {
+      "phrase": "screen zoom",
+      "tag": "screen_zoom"
+    },
+    {
+      "phrase": "screen zoom angle",
+      "tag": "screen_zoom"
+    },
+    {
+      "phrase": "from selfie",
+      "tag": "selfie"
+    },
+    {
+      "phrase": "selfie",
+      "tag": "selfie"
+    },
+    {
+      "phrase": "selfie angle",
+      "tag": "selfie"
+    },
+    {
+      "phrase": "focus on soft",
+      "tag": "soft_focus"
+    },
+    {
+      "phrase": "focused on soft",
+      "tag": "soft_focus"
+    },
+    {
+      "phrase": "from soft focus",
+      "tag": "soft_focus"
+    },
+    {
+      "phrase": "soft focus",
+      "tag": "soft_focus"
+    },
+    {
+      "phrase": "soft focus angle",
+      "tag": "soft_focus"
+    },
+    {
+      "phrase": "focus on stomach",
+      "tag": "stomach_focus"
+    },
+    {
+      "phrase": "focused on stomach",
+      "tag": "stomach_focus"
+    },
+    {
+      "phrase": "from stomach focus",
+      "tag": "stomach_focus"
+    },
+    {
+      "phrase": "stomach focus",
+      "tag": "stomach_focus"
+    },
+    {
+      "phrase": "stomach focus angle",
+      "tag": "stomach_focus"
+    },
+    {
+      "phrase": "from tachi-e",
+      "tag": "tachi-e"
+    },
+    {
+      "phrase": "tachi-e",
+      "tag": "tachi-e"
+    },
+    {
+      "phrase": "tachi-e angle",
+      "tag": "tachi-e"
+    },
+    {
+      "phrase": "from taker pov",
+      "tag": "taker_pov"
+    },
+    {
+      "phrase": "taker pov",
+      "tag": "taker_pov"
+    },
+    {
+      "phrase": "taker pov angle",
+      "tag": "taker_pov"
+    },
+    {
+      "phrase": "focus on thigh",
+      "tag": "thigh_focus"
+    },
+    {
+      "phrase": "focused on thigh",
+      "tag": "thigh_focus"
+    },
+    {
+      "phrase": "from thigh focus",
+      "tag": "thigh_focus"
+    },
+    {
+      "phrase": "thigh focus",
+      "tag": "thigh_focus"
+    },
+    {
+      "phrase": "thigh focus angle",
+      "tag": "thigh_focus"
+    },
+    {
+      "phrase": "from time lapse",
+      "tag": "time_lapse"
+    },
+    {
+      "phrase": "time lapse",
+      "tag": "time_lapse"
+    },
+    {
+      "phrase": "time lapse angle",
+      "tag": "time_lapse"
+    },
+    {
+      "phrase": "from torso only",
+      "tag": "torso_only"
+    },
+    {
+      "phrase": "torso only",
+      "tag": "torso_only"
+    },
+    {
+      "phrase": "torso only angle",
+      "tag": "torso_only"
+    },
+    {
+      "phrase": "from under shot",
+      "tag": "under_shot"
+    },
+    {
+      "phrase": "under shot",
+      "tag": "under_shot"
+    },
+    {
+      "phrase": "under shot angle",
+      "tag": "under_shot"
+    },
+    {
+      "phrase": "from upper body",
+      "tag": "upper_body"
+    },
+    {
+      "phrase": "upper body",
+      "tag": "upper_body"
+    },
+    {
+      "phrase": "upper body angle",
+      "tag": "upper_body"
+    },
+    {
+      "phrase": "from upskirt",
+      "tag": "upskirt"
+    },
+    {
+      "phrase": "upskirt",
+      "tag": "upskirt"
+    },
+    {
+      "phrase": "upskirt angle",
+      "tag": "upskirt"
+    },
+    {
+      "phrase": "focus on vehicle",
+      "tag": "vehicle_focus"
+    },
+    {
+      "phrase": "focused on vehicle",
+      "tag": "vehicle_focus"
+    },
+    {
+      "phrase": "from vehicle focus",
+      "tag": "vehicle_focus"
+    },
+    {
+      "phrase": "vehicle focus",
+      "tag": "vehicle_focus"
+    },
+    {
+      "phrase": "vehicle focus angle",
+      "tag": "vehicle_focus"
+    },
+    {
+      "phrase": "from very wide shot",
+      "tag": "very_wide_shot"
+    },
+    {
+      "phrase": "very wide shot",
+      "tag": "very_wide_shot"
+    },
+    {
+      "phrase": "very wide shot angle",
+      "tag": "very_wide_shot"
+    },
+    {
+      "phrase": "from view between legs",
+      "tag": "view_between_legs"
+    },
+    {
+      "phrase": "view between legs",
+      "tag": "view_between_legs"
+    },
+    {
+      "phrase": "view between legs angle",
+      "tag": "view_between_legs"
+    },
+    {
+      "phrase": "from viewer on leash",
+      "tag": "viewer_on_leash"
+    },
+    {
+      "phrase": "viewer on leash",
+      "tag": "viewer_on_leash"
+    },
+    {
+      "phrase": "viewer on leash angle",
+      "tag": "viewer_on_leash"
+    },
+    {
+      "phrase": "from viewfinder",
+      "tag": "viewfinder"
+    },
+    {
+      "phrase": "viewfinder",
+      "tag": "viewfinder"
+    },
+    {
+      "phrase": "viewfinder angle",
+      "tag": "viewfinder"
+    },
+    {
+      "phrase": "focus on weapon",
+      "tag": "weapon_focus"
+    },
+    {
+      "phrase": "focused on weapon",
+      "tag": "weapon_focus"
+    },
+    {
+      "phrase": "from weapon focus",
+      "tag": "weapon_focus"
+    },
+    {
+      "phrase": "weapon focus",
+      "tag": "weapon_focus"
+    },
+    {
+      "phrase": "weapon focus angle",
+      "tag": "weapon_focus"
+    },
+    {
+      "phrase": "from wide shot",
+      "tag": "wide_shot"
+    },
+    {
+      "phrase": "wide shot",
+      "tag": "wide_shot"
+    },
+    {
+      "phrase": "wide shot angle",
+      "tag": "wide_shot"
+    },
+    {
+      "phrase": "from zoom layer",
+      "tag": "zoom_layer"
+    },
+    {
+      "phrase": "zoom layer",
+      "tag": "zoom_layer"
+    },
+    {
+      "phrase": "zoom layer angle",
+      "tag": "zoom_layer"
+    },
+    {
+      "phrase": "from zooming in",
+      "tag": "zooming_in"
+    },
+    {
+      "phrase": "zooming in",
+      "tag": "zooming_in"
+    },
+    {
+      "phrase": "zooming in angle",
+      "tag": "zooming_in"
+    }
+  ]
+}

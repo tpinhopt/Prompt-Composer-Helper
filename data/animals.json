@@ -1,0 +1,3828 @@
+{
+  "items": [
+    {
+      "phrase": "alligator",
+      "tag": "alligator"
+    },
+    {
+      "phrase": "showing alligator",
+      "tag": "alligator"
+    },
+    {
+      "phrase": "with alligator",
+      "tag": "alligator"
+    },
+    {
+      "phrase": "alpaca",
+      "tag": "alpaca"
+    },
+    {
+      "phrase": "showing alpaca",
+      "tag": "alpaca"
+    },
+    {
+      "phrase": "with alpaca",
+      "tag": "alpaca"
+    },
+    {
+      "phrase": "angelfish",
+      "tag": "angelfish"
+    },
+    {
+      "phrase": "showing angelfish",
+      "tag": "angelfish"
+    },
+    {
+      "phrase": "with angelfish",
+      "tag": "angelfish"
+    },
+    {
+      "phrase": "anglerfish",
+      "tag": "anglerfish"
+    },
+    {
+      "phrase": "showing anglerfish",
+      "tag": "anglerfish"
+    },
+    {
+      "phrase": "with anglerfish",
+      "tag": "anglerfish"
+    },
+    {
+      "phrase": "angora rabbit",
+      "tag": "angora_rabbit"
+    },
+    {
+      "phrase": "angora rabbit detail",
+      "tag": "angora_rabbit"
+    },
+    {
+      "phrase": "with angora rabbit",
+      "tag": "angora_rabbit"
+    },
+    {
+      "phrase": "animal",
+      "tag": "animal"
+    },
+    {
+      "phrase": "showing animal",
+      "tag": "animal"
+    },
+    {
+      "phrase": "with animal",
+      "tag": "animal"
+    },
+    {
+      "phrase": "animal couple",
+      "tag": "animal_couple"
+    },
+    {
+      "phrase": "animal couple detail",
+      "tag": "animal_couple"
+    },
+    {
+      "phrase": "with animal couple",
+      "tag": "animal_couple"
+    },
+    {
+      "phrase": "animal hair",
+      "tag": "animal_hair"
+    },
+    {
+      "phrase": "showing animal hair",
+      "tag": "animal_hair"
+    },
+    {
+      "phrase": "with animal hair",
+      "tag": "animal_hair"
+    },
+    {
+      "phrase": "animal in clothes",
+      "tag": "animal_in_clothes"
+    },
+    {
+      "phrase": "animal in clothes detail",
+      "tag": "animal_in_clothes"
+    },
+    {
+      "phrase": "with animal in clothes",
+      "tag": "animal_in_clothes"
+    },
+    {
+      "phrase": "ant",
+      "tag": "ant"
+    },
+    {
+      "phrase": "showing ant",
+      "tag": "ant"
+    },
+    {
+      "phrase": "with ant",
+      "tag": "ant"
+    },
+    {
+      "phrase": "ape",
+      "tag": "ape"
+    },
+    {
+      "phrase": "showing ape",
+      "tag": "ape"
+    },
+    {
+      "phrase": "with ape",
+      "tag": "ape"
+    },
+    {
+      "phrase": "apple rabbit",
+      "tag": "apple_rabbit"
+    },
+    {
+      "phrase": "apple rabbit detail",
+      "tag": "apple_rabbit"
+    },
+    {
+      "phrase": "with apple rabbit",
+      "tag": "apple_rabbit"
+    },
+    {
+      "phrase": "aqua bird",
+      "tag": "aqua_bird"
+    },
+    {
+      "phrase": "showing aqua bird",
+      "tag": "aqua_bird"
+    },
+    {
+      "phrase": "with aqua bird",
+      "tag": "aqua_bird"
+    },
+    {
+      "phrase": "arctic fox",
+      "tag": "arctic_fox"
+    },
+    {
+      "phrase": "arctic fox detail",
+      "tag": "arctic_fox"
+    },
+    {
+      "phrase": "with arctic fox",
+      "tag": "arctic_fox"
+    },
+    {
+      "phrase": "armored animal",
+      "tag": "armored_animal"
+    },
+    {
+      "phrase": "armored animal detail",
+      "tag": "armored_animal"
+    },
+    {
+      "phrase": "with armored animal",
+      "tag": "armored_animal"
+    },
+    {
+      "phrase": "axolotl",
+      "tag": "axolotl"
+    },
+    {
+      "phrase": "showing axolotl",
+      "tag": "axolotl"
+    },
+    {
+      "phrase": "with axolotl",
+      "tag": "axolotl"
+    },
+    {
+      "phrase": "baby animal",
+      "tag": "baby_animal"
+    },
+    {
+      "phrase": "baby animal detail",
+      "tag": "baby_animal"
+    },
+    {
+      "phrase": "with baby animal",
+      "tag": "baby_animal"
+    },
+    {
+      "phrase": "bald eagle",
+      "tag": "bald_eagle"
+    },
+    {
+      "phrase": "bald eagle detail",
+      "tag": "bald_eagle"
+    },
+    {
+      "phrase": "with bald eagle",
+      "tag": "bald_eagle"
+    },
+    {
+      "phrase": "basin",
+      "tag": "basin"
+    },
+    {
+      "phrase": "showing basin",
+      "tag": "basin"
+    },
+    {
+      "phrase": "with basin",
+      "tag": "basin"
+    },
+    {
+      "phrase": "bat",
+      "tag": "bat_(animal)"
+    },
+    {
+      "phrase": "bat animal",
+      "tag": "bat_(animal)"
+    },
+    {
+      "phrase": "showing bat",
+      "tag": "bat_(animal)"
+    },
+    {
+      "phrase": "with bat",
+      "tag": "bat_(animal)"
+    },
+    {
+      "phrase": "bear",
+      "tag": "bear"
+    },
+    {
+      "phrase": "showing bear",
+      "tag": "bear"
+    },
+    {
+      "phrase": "with bear",
+      "tag": "bear"
+    },
+    {
+      "phrase": "bee",
+      "tag": "bee"
+    },
+    {
+      "phrase": "showing bee",
+      "tag": "bee"
+    },
+    {
+      "phrase": "with bee",
+      "tag": "bee"
+    },
+    {
+      "phrase": "beetle",
+      "tag": "beetle"
+    },
+    {
+      "phrase": "showing beetle",
+      "tag": "beetle"
+    },
+    {
+      "phrase": "with beetle",
+      "tag": "beetle"
+    },
+    {
+      "phrase": "bernese mountain dog",
+      "tag": "bernese_mountain_dog"
+    },
+    {
+      "phrase": "showing bernese mountain dog",
+      "tag": "bernese_mountain_dog"
+    },
+    {
+      "phrase": "with bernese mountain dog",
+      "tag": "bernese_mountain_dog"
+    },
+    {
+      "phrase": "bird",
+      "tag": "bird"
+    },
+    {
+      "phrase": "showing bird",
+      "tag": "bird"
+    },
+    {
+      "phrase": "with bird",
+      "tag": "bird"
+    },
+    {
+      "phrase": "bird on power lines",
+      "tag": "bird_on_power_lines"
+    },
+    {
+      "phrase": "bird on power lines detail",
+      "tag": "bird_on_power_lines"
+    },
+    {
+      "phrase": "with bird on power lines",
+      "tag": "bird_on_power_lines"
+    },
+    {
+      "phrase": "black bird",
+      "tag": "black_bird"
+    },
+    {
+      "phrase": "showing black bird",
+      "tag": "black_bird"
+    },
+    {
+      "phrase": "with black bird",
+      "tag": "black_bird"
+    },
+    {
+      "phrase": "black butterfly",
+      "tag": "black_butterfly"
+    },
+    {
+      "phrase": "black butterfly detail",
+      "tag": "black_butterfly"
+    },
+    {
+      "phrase": "with black butterfly",
+      "tag": "black_butterfly"
+    },
+    {
+      "phrase": "black cat",
+      "tag": "black_cat"
+    },
+    {
+      "phrase": "showing black cat",
+      "tag": "black_cat"
+    },
+    {
+      "phrase": "with black cat",
+      "tag": "black_cat"
+    },
+    {
+      "phrase": "black dog",
+      "tag": "black_dog"
+    },
+    {
+      "phrase": "showing black dog",
+      "tag": "black_dog"
+    },
+    {
+      "phrase": "with black dog",
+      "tag": "black_dog"
+    },
+    {
+      "phrase": "black horse",
+      "tag": "black_horse"
+    },
+    {
+      "phrase": "black horse detail",
+      "tag": "black_horse"
+    },
+    {
+      "phrase": "with black horse",
+      "tag": "black_horse"
+    },
+    {
+      "phrase": "black panther",
+      "tag": "black_panther"
+    },
+    {
+      "phrase": "black panther detail",
+      "tag": "black_panther"
+    },
+    {
+      "phrase": "with black panther",
+      "tag": "black_panther"
+    },
+    {
+      "phrase": "black rabbit",
+      "tag": "black_rabbit_(animal)"
+    },
+    {
+      "phrase": "black rabbit animal",
+      "tag": "black_rabbit_(animal)"
+    },
+    {
+      "phrase": "black rabbit detail",
+      "tag": "black_rabbit_(animal)"
+    },
+    {
+      "phrase": "with black rabbit",
+      "tag": "black_rabbit_(animal)"
+    },
+    {
+      "phrase": "black snake",
+      "tag": "black_snake"
+    },
+    {
+      "phrase": "black snake detail",
+      "tag": "black_snake"
+    },
+    {
+      "phrase": "with black snake",
+      "tag": "black_snake"
+    },
+    {
+      "phrase": "blue bird",
+      "tag": "blue_bird"
+    },
+    {
+      "phrase": "showing blue bird",
+      "tag": "blue_bird"
+    },
+    {
+      "phrase": "with blue bird",
+      "tag": "blue_bird"
+    },
+    {
+      "phrase": "blue butterfly",
+      "tag": "blue_butterfly"
+    },
+    {
+      "phrase": "blue butterfly detail",
+      "tag": "blue_butterfly"
+    },
+    {
+      "phrase": "with blue butterfly",
+      "tag": "blue_butterfly"
+    },
+    {
+      "phrase": "blue cat",
+      "tag": "blue_cat"
+    },
+    {
+      "phrase": "showing blue cat",
+      "tag": "blue_cat"
+    },
+    {
+      "phrase": "with blue cat",
+      "tag": "blue_cat"
+    },
+    {
+      "phrase": "blue whale",
+      "tag": "blue_whale"
+    },
+    {
+      "phrase": "blue whale detail",
+      "tag": "blue_whale"
+    },
+    {
+      "phrase": "with blue whale",
+      "tag": "blue_whale"
+    },
+    {
+      "phrase": "bluebird",
+      "tag": "bluebird"
+    },
+    {
+      "phrase": "showing bluebird",
+      "tag": "bluebird"
+    },
+    {
+      "phrase": "with bluebird",
+      "tag": "bluebird"
+    },
+    {
+      "phrase": "boar",
+      "tag": "boar"
+    },
+    {
+      "phrase": "showing boar",
+      "tag": "boar"
+    },
+    {
+      "phrase": "with boar",
+      "tag": "boar"
+    },
+    {
+      "phrase": "brown bird",
+      "tag": "brown_bird"
+    },
+    {
+      "phrase": "showing brown bird",
+      "tag": "brown_bird"
+    },
+    {
+      "phrase": "with brown bird",
+      "tag": "brown_bird"
+    },
+    {
+      "phrase": "brown cat",
+      "tag": "brown_cat"
+    },
+    {
+      "phrase": "showing brown cat",
+      "tag": "brown_cat"
+    },
+    {
+      "phrase": "with brown cat",
+      "tag": "brown_cat"
+    },
+    {
+      "phrase": "brown dog",
+      "tag": "brown_dog"
+    },
+    {
+      "phrase": "showing brown dog",
+      "tag": "brown_dog"
+    },
+    {
+      "phrase": "with brown dog",
+      "tag": "brown_dog"
+    },
+    {
+      "phrase": "brown rabbit",
+      "tag": "brown_rabbit"
+    },
+    {
+      "phrase": "brown rabbit detail",
+      "tag": "brown_rabbit"
+    },
+    {
+      "phrase": "with brown rabbit",
+      "tag": "brown_rabbit"
+    },
+    {
+      "phrase": "bug",
+      "tag": "bug"
+    },
+    {
+      "phrase": "showing bug",
+      "tag": "bug"
+    },
+    {
+      "phrase": "with bug",
+      "tag": "bug"
+    },
+    {
+      "phrase": "bull",
+      "tag": "bull"
+    },
+    {
+      "phrase": "showing bull",
+      "tag": "bull"
+    },
+    {
+      "phrase": "with bull",
+      "tag": "bull"
+    },
+    {
+      "phrase": "butterfly",
+      "tag": "butterfly"
+    },
+    {
+      "phrase": "showing butterfly",
+      "tag": "butterfly"
+    },
+    {
+      "phrase": "with butterfly",
+      "tag": "butterfly"
+    },
+    {
+      "phrase": "butterflyfish",
+      "tag": "butterflyfish"
+    },
+    {
+      "phrase": "showing butterflyfish",
+      "tag": "butterflyfish"
+    },
+    {
+      "phrase": "with butterflyfish",
+      "tag": "butterflyfish"
+    },
+    {
+      "phrase": "caliby cat",
+      "tag": "caliby_cat"
+    },
+    {
+      "phrase": "showing caliby cat",
+      "tag": "caliby_cat"
+    },
+    {
+      "phrase": "with caliby cat",
+      "tag": "caliby_cat"
+    },
+    {
+      "phrase": "calico cat",
+      "tag": "calico_cat"
+    },
+    {
+      "phrase": "showing calico cat",
+      "tag": "calico_cat"
+    },
+    {
+      "phrase": "with calico cat",
+      "tag": "calico_cat"
+    },
+    {
+      "phrase": "camel",
+      "tag": "camel"
+    },
+    {
+      "phrase": "showing camel",
+      "tag": "camel"
+    },
+    {
+      "phrase": "with camel",
+      "tag": "camel"
+    },
+    {
+      "phrase": "capybara",
+      "tag": "capybara"
+    },
+    {
+      "phrase": "showing capybara",
+      "tag": "capybara"
+    },
+    {
+      "phrase": "with capybara",
+      "tag": "capybara"
+    },
+    {
+      "phrase": "carp",
+      "tag": "carp"
+    },
+    {
+      "phrase": "showing carp",
+      "tag": "carp"
+    },
+    {
+      "phrase": "with carp",
+      "tag": "carp"
+    },
+    {
+      "phrase": "cat",
+      "tag": "cat"
+    },
+    {
+      "phrase": "showing cat",
+      "tag": "cat"
+    },
+    {
+      "phrase": "with cat",
+      "tag": "cat"
+    },
+    {
+      "phrase": "cat stretch",
+      "tag": "cat_stretch"
+    },
+    {
+      "phrase": "cat stretch detail",
+      "tag": "cat_stretch"
+    },
+    {
+      "phrase": "with cat stretch",
+      "tag": "cat_stretch"
+    },
+    {
+      "phrase": "caterpillar",
+      "tag": "caterpillar"
+    },
+    {
+      "phrase": "showing caterpillar",
+      "tag": "caterpillar"
+    },
+    {
+      "phrase": "with caterpillar",
+      "tag": "caterpillar"
+    },
+    {
+      "phrase": "catfish",
+      "tag": "catfish"
+    },
+    {
+      "phrase": "showing catfish",
+      "tag": "catfish"
+    },
+    {
+      "phrase": "with catfish",
+      "tag": "catfish"
+    },
+    {
+      "phrase": "centipede",
+      "tag": "centipede"
+    },
+    {
+      "phrase": "showing centipede",
+      "tag": "centipede"
+    },
+    {
+      "phrase": "with centipede",
+      "tag": "centipede"
+    },
+    {
+      "phrase": "chameleon",
+      "tag": "chameleon"
+    },
+    {
+      "phrase": "showing chameleon",
+      "tag": "chameleon"
+    },
+    {
+      "phrase": "with chameleon",
+      "tag": "chameleon"
+    },
+    {
+      "phrase": "chick",
+      "tag": "chick"
+    },
+    {
+      "phrase": "showing chick",
+      "tag": "chick"
+    },
+    {
+      "phrase": "with chick",
+      "tag": "chick"
+    },
+    {
+      "phrase": "chicken",
+      "tag": "chicken"
+    },
+    {
+      "phrase": "showing chicken",
+      "tag": "chicken"
+    },
+    {
+      "phrase": "with chicken",
+      "tag": "chicken"
+    },
+    {
+      "phrase": "chicken",
+      "tag": "chicken_(food)"
+    },
+    {
+      "phrase": "chicken food",
+      "tag": "chicken_(food)"
+    },
+    {
+      "phrase": "showing chicken",
+      "tag": "chicken_(food)"
+    },
+    {
+      "phrase": "with chicken",
+      "tag": "chicken_(food)"
+    },
+    {
+      "phrase": "chihuahua",
+      "tag": "chihuahua"
+    },
+    {
+      "phrase": "showing chihuahua",
+      "tag": "chihuahua"
+    },
+    {
+      "phrase": "with chihuahua",
+      "tag": "chihuahua"
+    },
+    {
+      "phrase": "chili dog",
+      "tag": "chili_dog"
+    },
+    {
+      "phrase": "showing chili dog",
+      "tag": "chili_dog"
+    },
+    {
+      "phrase": "with chili dog",
+      "tag": "chili_dog"
+    },
+    {
+      "phrase": "chinchilla",
+      "tag": "chinchilla_(animal)"
+    },
+    {
+      "phrase": "chinchilla animal",
+      "tag": "chinchilla_(animal)"
+    },
+    {
+      "phrase": "showing chinchilla",
+      "tag": "chinchilla_(animal)"
+    },
+    {
+      "phrase": "with chinchilla",
+      "tag": "chinchilla_(animal)"
+    },
+    {
+      "phrase": "chipmunk",
+      "tag": "chipmunk"
+    },
+    {
+      "phrase": "showing chipmunk",
+      "tag": "chipmunk"
+    },
+    {
+      "phrase": "with chipmunk",
+      "tag": "chipmunk"
+    },
+    {
+      "phrase": "cicada",
+      "tag": "cicada"
+    },
+    {
+      "phrase": "showing cicada",
+      "tag": "cicada"
+    },
+    {
+      "phrase": "with cicada",
+      "tag": "cicada"
+    },
+    {
+      "phrase": "clam",
+      "tag": "clam"
+    },
+    {
+      "phrase": "showing clam",
+      "tag": "clam"
+    },
+    {
+      "phrase": "with clam",
+      "tag": "clam"
+    },
+    {
+      "phrase": "clothed animal",
+      "tag": "clothed_animal"
+    },
+    {
+      "phrase": "clothed animal detail",
+      "tag": "clothed_animal"
+    },
+    {
+      "phrase": "with clothed animal",
+      "tag": "clothed_animal"
+    },
+    {
+      "phrase": "clownfish",
+      "tag": "clownfish"
+    },
+    {
+      "phrase": "showing clownfish",
+      "tag": "clownfish"
+    },
+    {
+      "phrase": "with clownfish",
+      "tag": "clownfish"
+    },
+    {
+      "phrase": "cobra",
+      "tag": "cobra_(animal)"
+    },
+    {
+      "phrase": "cobra animal",
+      "tag": "cobra_(animal)"
+    },
+    {
+      "phrase": "showing cobra",
+      "tag": "cobra_(animal)"
+    },
+    {
+      "phrase": "with cobra",
+      "tag": "cobra_(animal)"
+    },
+    {
+      "phrase": "cockatiel",
+      "tag": "cockatiel"
+    },
+    {
+      "phrase": "showing cockatiel",
+      "tag": "cockatiel"
+    },
+    {
+      "phrase": "with cockatiel",
+      "tag": "cockatiel"
+    },
+    {
+      "phrase": "cockroach",
+      "tag": "cockroach"
+    },
+    {
+      "phrase": "showing cockroach",
+      "tag": "cockroach"
+    },
+    {
+      "phrase": "with cockroach",
+      "tag": "cockroach"
+    },
+    {
+      "phrase": "cow",
+      "tag": "cow"
+    },
+    {
+      "phrase": "showing cow",
+      "tag": "cow"
+    },
+    {
+      "phrase": "with cow",
+      "tag": "cow"
+    },
+    {
+      "phrase": "crab",
+      "tag": "crab"
+    },
+    {
+      "phrase": "showing crab",
+      "tag": "crab"
+    },
+    {
+      "phrase": "with crab",
+      "tag": "crab"
+    },
+    {
+      "phrase": "crane",
+      "tag": "crane_(animal)"
+    },
+    {
+      "phrase": "crane animal",
+      "tag": "crane_(animal)"
+    },
+    {
+      "phrase": "showing crane",
+      "tag": "crane_(animal)"
+    },
+    {
+      "phrase": "with crane",
+      "tag": "crane_(animal)"
+    },
+    {
+      "phrase": "crest worm",
+      "tag": "crest_worm"
+    },
+    {
+      "phrase": "crest worm detail",
+      "tag": "crest_worm"
+    },
+    {
+      "phrase": "with crest worm",
+      "tag": "crest_worm"
+    },
+    {
+      "phrase": "crocodile",
+      "tag": "crocodile"
+    },
+    {
+      "phrase": "showing crocodile",
+      "tag": "crocodile"
+    },
+    {
+      "phrase": "with crocodile",
+      "tag": "crocodile"
+    },
+    {
+      "phrase": "crow",
+      "tag": "crow"
+    },
+    {
+      "phrase": "showing crow",
+      "tag": "crow"
+    },
+    {
+      "phrase": "with crow",
+      "tag": "crow"
+    },
+    {
+      "phrase": "crustacean",
+      "tag": "crustacean"
+    },
+    {
+      "phrase": "showing crustacean",
+      "tag": "crustacean"
+    },
+    {
+      "phrase": "with crustacean",
+      "tag": "crustacean"
+    },
+    {
+      "phrase": "dead animal",
+      "tag": "dead_animal"
+    },
+    {
+      "phrase": "dead animal detail",
+      "tag": "dead_animal"
+    },
+    {
+      "phrase": "with dead animal",
+      "tag": "dead_animal"
+    },
+    {
+      "phrase": "deer",
+      "tag": "deer"
+    },
+    {
+      "phrase": "showing deer",
+      "tag": "deer"
+    },
+    {
+      "phrase": "with deer",
+      "tag": "deer"
+    },
+    {
+      "phrase": "dinosaur",
+      "tag": "dinosaur"
+    },
+    {
+      "phrase": "showing dinosaur",
+      "tag": "dinosaur"
+    },
+    {
+      "phrase": "with dinosaur",
+      "tag": "dinosaur"
+    },
+    {
+      "phrase": "dobermann",
+      "tag": "dobermann"
+    },
+    {
+      "phrase": "showing dobermann",
+      "tag": "dobermann"
+    },
+    {
+      "phrase": "with dobermann",
+      "tag": "dobermann"
+    },
+    {
+      "phrase": "dog",
+      "tag": "dog"
+    },
+    {
+      "phrase": "showing dog",
+      "tag": "dog"
+    },
+    {
+      "phrase": "with dog",
+      "tag": "dog"
+    },
+    {
+      "phrase": "dolphin",
+      "tag": "dolphin"
+    },
+    {
+      "phrase": "showing dolphin",
+      "tag": "dolphin"
+    },
+    {
+      "phrase": "with dolphin",
+      "tag": "dolphin"
+    },
+    {
+      "phrase": "donkey",
+      "tag": "donkey"
+    },
+    {
+      "phrase": "showing donkey",
+      "tag": "donkey"
+    },
+    {
+      "phrase": "with donkey",
+      "tag": "donkey"
+    },
+    {
+      "phrase": "dove",
+      "tag": "dove"
+    },
+    {
+      "phrase": "showing dove",
+      "tag": "dove"
+    },
+    {
+      "phrase": "with dove",
+      "tag": "dove"
+    },
+    {
+      "phrase": "downward dog",
+      "tag": "downward_dog"
+    },
+    {
+      "phrase": "showing downward dog",
+      "tag": "downward_dog"
+    },
+    {
+      "phrase": "with downward dog",
+      "tag": "downward_dog"
+    },
+    {
+      "phrase": "dragonfly",
+      "tag": "dragonfly"
+    },
+    {
+      "phrase": "showing dragonfly",
+      "tag": "dragonfly"
+    },
+    {
+      "phrase": "with dragonfly",
+      "tag": "dragonfly"
+    },
+    {
+      "phrase": "duck",
+      "tag": "duck"
+    },
+    {
+      "phrase": "showing duck",
+      "tag": "duck"
+    },
+    {
+      "phrase": "with duck",
+      "tag": "duck"
+    },
+    {
+      "phrase": "duckling",
+      "tag": "duckling"
+    },
+    {
+      "phrase": "showing duckling",
+      "tag": "duckling"
+    },
+    {
+      "phrase": "with duckling",
+      "tag": "duckling"
+    },
+    {
+      "phrase": "eagle",
+      "tag": "eagle"
+    },
+    {
+      "phrase": "showing eagle",
+      "tag": "eagle"
+    },
+    {
+      "phrase": "with eagle",
+      "tag": "eagle"
+    },
+    {
+      "phrase": "eel",
+      "tag": "eel"
+    },
+    {
+      "phrase": "showing eel",
+      "tag": "eel"
+    },
+    {
+      "phrase": "with eel",
+      "tag": "eel"
+    },
+    {
+      "phrase": "elephant",
+      "tag": "elephant"
+    },
+    {
+      "phrase": "showing elephant",
+      "tag": "elephant"
+    },
+    {
+      "phrase": "with elephant",
+      "tag": "elephant"
+    },
+    {
+      "phrase": "emperor penguin",
+      "tag": "emperor_penguin"
+    },
+    {
+      "phrase": "emperor penguin detail",
+      "tag": "emperor_penguin"
+    },
+    {
+      "phrase": "with emperor penguin",
+      "tag": "emperor_penguin"
+    },
+    {
+      "phrase": "ermine",
+      "tag": "ermine"
+    },
+    {
+      "phrase": "showing ermine",
+      "tag": "ermine"
+    },
+    {
+      "phrase": "with ermine",
+      "tag": "ermine"
+    },
+    {
+      "phrase": "falcon",
+      "tag": "falcon"
+    },
+    {
+      "phrase": "showing falcon",
+      "tag": "falcon"
+    },
+    {
+      "phrase": "with falcon",
+      "tag": "falcon"
+    },
+    {
+      "phrase": "fennec fox",
+      "tag": "fennec_fox"
+    },
+    {
+      "phrase": "fennec fox detail",
+      "tag": "fennec_fox"
+    },
+    {
+      "phrase": "with fennec fox",
+      "tag": "fennec_fox"
+    },
+    {
+      "phrase": "ferret",
+      "tag": "ferret"
+    },
+    {
+      "phrase": "showing ferret",
+      "tag": "ferret"
+    },
+    {
+      "phrase": "with ferret",
+      "tag": "ferret"
+    },
+    {
+      "phrase": "finch",
+      "tag": "finch"
+    },
+    {
+      "phrase": "showing finch",
+      "tag": "finch"
+    },
+    {
+      "phrase": "with finch",
+      "tag": "finch"
+    },
+    {
+      "phrase": "fireflies",
+      "tag": "fireflies"
+    },
+    {
+      "phrase": "showing fireflies",
+      "tag": "fireflies"
+    },
+    {
+      "phrase": "with fireflies",
+      "tag": "fireflies"
+    },
+    {
+      "phrase": "firefly",
+      "tag": "firefly"
+    },
+    {
+      "phrase": "showing firefly",
+      "tag": "firefly"
+    },
+    {
+      "phrase": "with firefly",
+      "tag": "firefly"
+    },
+    {
+      "phrase": "fish",
+      "tag": "fish"
+    },
+    {
+      "phrase": "showing fish",
+      "tag": "fish"
+    },
+    {
+      "phrase": "with fish",
+      "tag": "fish"
+    },
+    {
+      "phrase": "flamingo",
+      "tag": "flamingo"
+    },
+    {
+      "phrase": "showing flamingo",
+      "tag": "flamingo"
+    },
+    {
+      "phrase": "with flamingo",
+      "tag": "flamingo"
+    },
+    {
+      "phrase": "flock",
+      "tag": "flock"
+    },
+    {
+      "phrase": "showing flock",
+      "tag": "flock"
+    },
+    {
+      "phrase": "with flock",
+      "tag": "flock"
+    },
+    {
+      "phrase": "fly",
+      "tag": "fly"
+    },
+    {
+      "phrase": "showing fly",
+      "tag": "fly"
+    },
+    {
+      "phrase": "with fly",
+      "tag": "fly"
+    },
+    {
+      "phrase": "flying animal",
+      "tag": "flying_animal"
+    },
+    {
+      "phrase": "flying animal detail",
+      "tag": "flying_animal"
+    },
+    {
+      "phrase": "with flying animal",
+      "tag": "flying_animal"
+    },
+    {
+      "phrase": "flying fish",
+      "tag": "flying_fish"
+    },
+    {
+      "phrase": "flying fish detail",
+      "tag": "flying_fish"
+    },
+    {
+      "phrase": "with flying fish",
+      "tag": "flying_fish"
+    },
+    {
+      "phrase": "flying whale",
+      "tag": "flying_whale"
+    },
+    {
+      "phrase": "flying whale detail",
+      "tag": "flying_whale"
+    },
+    {
+      "phrase": "with flying whale",
+      "tag": "flying_whale"
+    },
+    {
+      "phrase": "fox",
+      "tag": "fox"
+    },
+    {
+      "phrase": "showing fox",
+      "tag": "fox"
+    },
+    {
+      "phrase": "with fox",
+      "tag": "fox"
+    },
+    {
+      "phrase": "fox cub",
+      "tag": "fox_cub"
+    },
+    {
+      "phrase": "fox cub detail",
+      "tag": "fox_cub"
+    },
+    {
+      "phrase": "with fox cub",
+      "tag": "fox_cub"
+    },
+    {
+      "phrase": "frog",
+      "tag": "frog"
+    },
+    {
+      "phrase": "showing frog",
+      "tag": "frog"
+    },
+    {
+      "phrase": "with frog",
+      "tag": "frog"
+    },
+    {
+      "phrase": "frozen frog",
+      "tag": "frozen_frog"
+    },
+    {
+      "phrase": "frozen frog detail",
+      "tag": "frozen_frog"
+    },
+    {
+      "phrase": "with frozen frog",
+      "tag": "frozen_frog"
+    },
+    {
+      "phrase": "gecko",
+      "tag": "gecko"
+    },
+    {
+      "phrase": "showing gecko",
+      "tag": "gecko"
+    },
+    {
+      "phrase": "with gecko",
+      "tag": "gecko"
+    },
+    {
+      "phrase": "german shepherd",
+      "tag": "german_shepherd"
+    },
+    {
+      "phrase": "german shepherd detail",
+      "tag": "german_shepherd"
+    },
+    {
+      "phrase": "with german shepherd",
+      "tag": "german_shepherd"
+    },
+    {
+      "phrase": "giant cat",
+      "tag": "giant_cat"
+    },
+    {
+      "phrase": "showing giant cat",
+      "tag": "giant_cat"
+    },
+    {
+      "phrase": "with giant cat",
+      "tag": "giant_cat"
+    },
+    {
+      "phrase": "giant snake",
+      "tag": "giant_snake"
+    },
+    {
+      "phrase": "giant snake detail",
+      "tag": "giant_snake"
+    },
+    {
+      "phrase": "with giant snake",
+      "tag": "giant_snake"
+    },
+    {
+      "phrase": "giraffe",
+      "tag": "giraffe"
+    },
+    {
+      "phrase": "showing giraffe",
+      "tag": "giraffe"
+    },
+    {
+      "phrase": "with giraffe",
+      "tag": "giraffe"
+    },
+    {
+      "phrase": "glowing animal",
+      "tag": "glowing_animal"
+    },
+    {
+      "phrase": "glowing animal detail",
+      "tag": "glowing_animal"
+    },
+    {
+      "phrase": "with glowing animal",
+      "tag": "glowing_animal"
+    },
+    {
+      "phrase": "glowing bird",
+      "tag": "glowing_bird"
+    },
+    {
+      "phrase": "showing glowing bird",
+      "tag": "glowing_bird"
+    },
+    {
+      "phrase": "with glowing bird",
+      "tag": "glowing_bird"
+    },
+    {
+      "phrase": "glowing butterfly",
+      "tag": "glowing_butterfly"
+    },
+    {
+      "phrase": "glowing butterfly detail",
+      "tag": "glowing_butterfly"
+    },
+    {
+      "phrase": "with glowing butterfly",
+      "tag": "glowing_butterfly"
+    },
+    {
+      "phrase": "glowing fish",
+      "tag": "glowing_fish"
+    },
+    {
+      "phrase": "glowing fish detail",
+      "tag": "glowing_fish"
+    },
+    {
+      "phrase": "with glowing fish",
+      "tag": "glowing_fish"
+    },
+    {
+      "phrase": "goat",
+      "tag": "goat"
+    },
+    {
+      "phrase": "showing goat",
+      "tag": "goat"
+    },
+    {
+      "phrase": "with goat",
+      "tag": "goat"
+    },
+    {
+      "phrase": "golden retriever",
+      "tag": "golden_retriever"
+    },
+    {
+      "phrase": "golden retriever detail",
+      "tag": "golden_retriever"
+    },
+    {
+      "phrase": "with golden retriever",
+      "tag": "golden_retriever"
+    },
+    {
+      "phrase": "goldfish",
+      "tag": "goldfish"
+    },
+    {
+      "phrase": "showing goldfish",
+      "tag": "goldfish"
+    },
+    {
+      "phrase": "with goldfish",
+      "tag": "goldfish"
+    },
+    {
+      "phrase": "goose",
+      "tag": "goose"
+    },
+    {
+      "phrase": "showing goose",
+      "tag": "goose"
+    },
+    {
+      "phrase": "with goose",
+      "tag": "goose"
+    },
+    {
+      "phrase": "gorilla",
+      "tag": "gorilla"
+    },
+    {
+      "phrase": "showing gorilla",
+      "tag": "gorilla"
+    },
+    {
+      "phrase": "with gorilla",
+      "tag": "gorilla"
+    },
+    {
+      "phrase": "grasshopper",
+      "tag": "grasshopper"
+    },
+    {
+      "phrase": "showing grasshopper",
+      "tag": "grasshopper"
+    },
+    {
+      "phrase": "with grasshopper",
+      "tag": "grasshopper"
+    },
+    {
+      "phrase": "great pyrenees",
+      "tag": "great_pyrenees"
+    },
+    {
+      "phrase": "great pyrenees detail",
+      "tag": "great_pyrenees"
+    },
+    {
+      "phrase": "with great pyrenees",
+      "tag": "great_pyrenees"
+    },
+    {
+      "phrase": "green bird",
+      "tag": "green_bird"
+    },
+    {
+      "phrase": "showing green bird",
+      "tag": "green_bird"
+    },
+    {
+      "phrase": "with green bird",
+      "tag": "green_bird"
+    },
+    {
+      "phrase": "green butterfly",
+      "tag": "green_butterfly"
+    },
+    {
+      "phrase": "green butterfly detail",
+      "tag": "green_butterfly"
+    },
+    {
+      "phrase": "with green butterfly",
+      "tag": "green_butterfly"
+    },
+    {
+      "phrase": "green cat",
+      "tag": "green_cat"
+    },
+    {
+      "phrase": "showing green cat",
+      "tag": "green_cat"
+    },
+    {
+      "phrase": "with green cat",
+      "tag": "green_cat"
+    },
+    {
+      "phrase": "grey bird",
+      "tag": "grey_bird"
+    },
+    {
+      "phrase": "showing grey bird",
+      "tag": "grey_bird"
+    },
+    {
+      "phrase": "with grey bird",
+      "tag": "grey_bird"
+    },
+    {
+      "phrase": "grey cat",
+      "tag": "grey_cat"
+    },
+    {
+      "phrase": "showing grey cat",
+      "tag": "grey_cat"
+    },
+    {
+      "phrase": "with grey cat",
+      "tag": "grey_cat"
+    },
+    {
+      "phrase": "grey wolf",
+      "tag": "grey_wolf"
+    },
+    {
+      "phrase": "grey wolf detail",
+      "tag": "grey_wolf"
+    },
+    {
+      "phrase": "with grey wolf",
+      "tag": "grey_wolf"
+    },
+    {
+      "phrase": "guinea pig",
+      "tag": "guinea_pig"
+    },
+    {
+      "phrase": "guinea pig detail",
+      "tag": "guinea_pig"
+    },
+    {
+      "phrase": "with guinea pig",
+      "tag": "guinea_pig"
+    },
+    {
+      "phrase": "hamster",
+      "tag": "hamster"
+    },
+    {
+      "phrase": "showing hamster",
+      "tag": "hamster"
+    },
+    {
+      "phrase": "with hamster",
+      "tag": "hamster"
+    },
+    {
+      "phrase": "hawk",
+      "tag": "hawk"
+    },
+    {
+      "phrase": "showing hawk",
+      "tag": "hawk"
+    },
+    {
+      "phrase": "with hawk",
+      "tag": "hawk"
+    },
+    {
+      "phrase": "hedgehog",
+      "tag": "hedgehog"
+    },
+    {
+      "phrase": "showing hedgehog",
+      "tag": "hedgehog"
+    },
+    {
+      "phrase": "with hedgehog",
+      "tag": "hedgehog"
+    },
+    {
+      "phrase": "hermit crab",
+      "tag": "hermit_crab"
+    },
+    {
+      "phrase": "hermit crab detail",
+      "tag": "hermit_crab"
+    },
+    {
+      "phrase": "with hermit crab",
+      "tag": "hermit_crab"
+    },
+    {
+      "phrase": "hippopotamus",
+      "tag": "hippopotamus"
+    },
+    {
+      "phrase": "showing hippopotamus",
+      "tag": "hippopotamus"
+    },
+    {
+      "phrase": "with hippopotamus",
+      "tag": "hippopotamus"
+    },
+    {
+      "phrase": "horse",
+      "tag": "horse"
+    },
+    {
+      "phrase": "showing horse",
+      "tag": "horse"
+    },
+    {
+      "phrase": "with horse",
+      "tag": "horse"
+    },
+    {
+      "phrase": "humpback whale",
+      "tag": "humpback_whale"
+    },
+    {
+      "phrase": "humpback whale detail",
+      "tag": "humpback_whale"
+    },
+    {
+      "phrase": "with humpback whale",
+      "tag": "humpback_whale"
+    },
+    {
+      "phrase": "husky",
+      "tag": "husky"
+    },
+    {
+      "phrase": "showing husky",
+      "tag": "husky"
+    },
+    {
+      "phrase": "with husky",
+      "tag": "husky"
+    },
+    {
+      "phrase": "inappropriate animal",
+      "tag": "inappropriate_animal"
+    },
+    {
+      "phrase": "inappropriate animal detail",
+      "tag": "inappropriate_animal"
+    },
+    {
+      "phrase": "with inappropriate animal",
+      "tag": "inappropriate_animal"
+    },
+    {
+      "phrase": "inset",
+      "tag": "inset"
+    },
+    {
+      "phrase": "showing inset",
+      "tag": "inset"
+    },
+    {
+      "phrase": "with inset",
+      "tag": "inset"
+    },
+    {
+      "phrase": "isopod",
+      "tag": "isopod"
+    },
+    {
+      "phrase": "showing isopod",
+      "tag": "isopod"
+    },
+    {
+      "phrase": "with isopod",
+      "tag": "isopod"
+    },
+    {
+      "phrase": "jellyfish",
+      "tag": "jellyfish"
+    },
+    {
+      "phrase": "showing jellyfish",
+      "tag": "jellyfish"
+    },
+    {
+      "phrase": "with jellyfish",
+      "tag": "jellyfish"
+    },
+    {
+      "phrase": "kitten",
+      "tag": "kitten"
+    },
+    {
+      "phrase": "showing kitten",
+      "tag": "kitten"
+    },
+    {
+      "phrase": "with kitten",
+      "tag": "kitten"
+    },
+    {
+      "phrase": "koala",
+      "tag": "koala"
+    },
+    {
+      "phrase": "showing koala",
+      "tag": "koala"
+    },
+    {
+      "phrase": "with koala",
+      "tag": "koala"
+    },
+    {
+      "phrase": "koi",
+      "tag": "koi"
+    },
+    {
+      "phrase": "showing koi",
+      "tag": "koi"
+    },
+    {
+      "phrase": "with koi",
+      "tag": "koi"
+    },
+    {
+      "phrase": "komodo dragon",
+      "tag": "komodo_dragon"
+    },
+    {
+      "phrase": "showing komodo dragon",
+      "tag": "komodo_dragon"
+    },
+    {
+      "phrase": "with komodo dragon",
+      "tag": "komodo_dragon"
+    },
+    {
+      "phrase": "ladybug",
+      "tag": "ladybug"
+    },
+    {
+      "phrase": "showing ladybug",
+      "tag": "ladybug"
+    },
+    {
+      "phrase": "with ladybug",
+      "tag": "ladybug"
+    },
+    {
+      "phrase": "lamb",
+      "tag": "lamb"
+    },
+    {
+      "phrase": "showing lamb",
+      "tag": "lamb"
+    },
+    {
+      "phrase": "with lamb",
+      "tag": "lamb"
+    },
+    {
+      "phrase": "leopard",
+      "tag": "leopard"
+    },
+    {
+      "phrase": "showing leopard",
+      "tag": "leopard"
+    },
+    {
+      "phrase": "with leopard",
+      "tag": "leopard"
+    },
+    {
+      "phrase": "lion",
+      "tag": "lion"
+    },
+    {
+      "phrase": "showing lion",
+      "tag": "lion"
+    },
+    {
+      "phrase": "with lion",
+      "tag": "lion"
+    },
+    {
+      "phrase": "lizard",
+      "tag": "lizard"
+    },
+    {
+      "phrase": "showing lizard",
+      "tag": "lizard"
+    },
+    {
+      "phrase": "with lizard",
+      "tag": "lizard"
+    },
+    {
+      "phrase": "lobster",
+      "tag": "lobster"
+    },
+    {
+      "phrase": "showing lobster",
+      "tag": "lobster"
+    },
+    {
+      "phrase": "with lobster",
+      "tag": "lobster"
+    },
+    {
+      "phrase": "long-tailed tit",
+      "tag": "long-tailed_tit"
+    },
+    {
+      "phrase": "long-tailed tit detail",
+      "tag": "long-tailed_tit"
+    },
+    {
+      "phrase": "with long-tailed tit",
+      "tag": "long-tailed_tit"
+    },
+    {
+      "phrase": "lop rabbit",
+      "tag": "lop_rabbit"
+    },
+    {
+      "phrase": "lop rabbit detail",
+      "tag": "lop_rabbit"
+    },
+    {
+      "phrase": "with lop rabbit",
+      "tag": "lop_rabbit"
+    },
+    {
+      "phrase": "macaw",
+      "tag": "macaw"
+    },
+    {
+      "phrase": "showing macaw",
+      "tag": "macaw"
+    },
+    {
+      "phrase": "with macaw",
+      "tag": "macaw"
+    },
+    {
+      "phrase": "manta ray",
+      "tag": "manta_ray"
+    },
+    {
+      "phrase": "manta ray detail",
+      "tag": "manta_ray"
+    },
+    {
+      "phrase": "with manta ray",
+      "tag": "manta_ray"
+    },
+    {
+      "phrase": "mole",
+      "tag": "mole_(animal)"
+    },
+    {
+      "phrase": "mole animal",
+      "tag": "mole_(animal)"
+    },
+    {
+      "phrase": "showing mole",
+      "tag": "mole_(animal)"
+    },
+    {
+      "phrase": "with mole",
+      "tag": "mole_(animal)"
+    },
+    {
+      "phrase": "monkey",
+      "tag": "monkey"
+    },
+    {
+      "phrase": "showing monkey",
+      "tag": "monkey"
+    },
+    {
+      "phrase": "with monkey",
+      "tag": "monkey"
+    },
+    {
+      "phrase": "mosquito",
+      "tag": "mosquito"
+    },
+    {
+      "phrase": "showing mosquito",
+      "tag": "mosquito"
+    },
+    {
+      "phrase": "with mosquito",
+      "tag": "mosquito"
+    },
+    {
+      "phrase": "moth",
+      "tag": "moth"
+    },
+    {
+      "phrase": "showing moth",
+      "tag": "moth"
+    },
+    {
+      "phrase": "with moth",
+      "tag": "moth"
+    },
+    {
+      "phrase": "mouse",
+      "tag": "mouse_(animal)"
+    },
+    {
+      "phrase": "mouse animal",
+      "tag": "mouse_(animal)"
+    },
+    {
+      "phrase": "showing mouse",
+      "tag": "mouse_(animal)"
+    },
+    {
+      "phrase": "with mouse",
+      "tag": "mouse_(animal)"
+    },
+    {
+      "phrase": "multicolored cat",
+      "tag": "multicolored_cat"
+    },
+    {
+      "phrase": "showing multicolored cat",
+      "tag": "multicolored_cat"
+    },
+    {
+      "phrase": "with multicolored cat",
+      "tag": "multicolored_cat"
+    },
+    {
+      "phrase": "multiple cats",
+      "tag": "multiple_cats"
+    },
+    {
+      "phrase": "multiple cats detail",
+      "tag": "multiple_cats"
+    },
+    {
+      "phrase": "with multiple cats",
+      "tag": "multiple_cats"
+    },
+    {
+      "phrase": "multiple dogs",
+      "tag": "multiple_dogs"
+    },
+    {
+      "phrase": "multiple dogs detail",
+      "tag": "multiple_dogs"
+    },
+    {
+      "phrase": "with multiple dogs",
+      "tag": "multiple_dogs"
+    },
+    {
+      "phrase": "nautilus",
+      "tag": "nautilus_(animal)"
+    },
+    {
+      "phrase": "nautilus animal",
+      "tag": "nautilus_(animal)"
+    },
+    {
+      "phrase": "showing nautilus",
+      "tag": "nautilus_(animal)"
+    },
+    {
+      "phrase": "with nautilus",
+      "tag": "nautilus_(animal)"
+    },
+    {
+      "phrase": "neon tetra",
+      "tag": "neon_tetra"
+    },
+    {
+      "phrase": "neon tetra detail",
+      "tag": "neon_tetra"
+    },
+    {
+      "phrase": "with neon tetra",
+      "tag": "neon_tetra"
+    },
+    {
+      "phrase": "oarfish",
+      "tag": "oarfish"
+    },
+    {
+      "phrase": "showing oarfish",
+      "tag": "oarfish"
+    },
+    {
+      "phrase": "with oarfish",
+      "tag": "oarfish"
+    },
+    {
+      "phrase": "ocean sunfish",
+      "tag": "ocean_sunfish"
+    },
+    {
+      "phrase": "ocean sunfish detail",
+      "tag": "ocean_sunfish"
+    },
+    {
+      "phrase": "with ocean sunfish",
+      "tag": "ocean_sunfish"
+    },
+    {
+      "phrase": "octopus",
+      "tag": "octopus"
+    },
+    {
+      "phrase": "showing octopus",
+      "tag": "octopus"
+    },
+    {
+      "phrase": "with octopus",
+      "tag": "octopus"
+    },
+    {
+      "phrase": "orange bird",
+      "tag": "orange_bird"
+    },
+    {
+      "phrase": "showing orange bird",
+      "tag": "orange_bird"
+    },
+    {
+      "phrase": "with orange bird",
+      "tag": "orange_bird"
+    },
+    {
+      "phrase": "orange butterfly",
+      "tag": "orange_butterfly"
+    },
+    {
+      "phrase": "orange butterfly detail",
+      "tag": "orange_butterfly"
+    },
+    {
+      "phrase": "with orange butterfly",
+      "tag": "orange_butterfly"
+    },
+    {
+      "phrase": "orange cat",
+      "tag": "orange_cat"
+    },
+    {
+      "phrase": "showing orange cat",
+      "tag": "orange_cat"
+    },
+    {
+      "phrase": "with orange cat",
+      "tag": "orange_cat"
+    },
+    {
+      "phrase": "orca",
+      "tag": "orca"
+    },
+    {
+      "phrase": "showing orca",
+      "tag": "orca"
+    },
+    {
+      "phrase": "with orca",
+      "tag": "orca"
+    },
+    {
+      "phrase": "ostrich",
+      "tag": "ostrich"
+    },
+    {
+      "phrase": "showing ostrich",
+      "tag": "ostrich"
+    },
+    {
+      "phrase": "with ostrich",
+      "tag": "ostrich"
+    },
+    {
+      "phrase": "otter",
+      "tag": "otter"
+    },
+    {
+      "phrase": "showing otter",
+      "tag": "otter"
+    },
+    {
+      "phrase": "with otter",
+      "tag": "otter"
+    },
+    {
+      "phrase": "oversized animal",
+      "tag": "oversized_animal"
+    },
+    {
+      "phrase": "oversized animal detail",
+      "tag": "oversized_animal"
+    },
+    {
+      "phrase": "with oversized animal",
+      "tag": "oversized_animal"
+    },
+    {
+      "phrase": "oversized bug",
+      "tag": "oversized_bug"
+    },
+    {
+      "phrase": "oversized bug detail",
+      "tag": "oversized_bug"
+    },
+    {
+      "phrase": "with oversized bug",
+      "tag": "oversized_bug"
+    },
+    {
+      "phrase": "owl",
+      "tag": "owl"
+    },
+    {
+      "phrase": "showing owl",
+      "tag": "owl"
+    },
+    {
+      "phrase": "with owl",
+      "tag": "owl"
+    },
+    {
+      "phrase": "oyster",
+      "tag": "oyster"
+    },
+    {
+      "phrase": "showing oyster",
+      "tag": "oyster"
+    },
+    {
+      "phrase": "with oyster",
+      "tag": "oyster"
+    },
+    {
+      "phrase": "pack animal",
+      "tag": "pack_animal"
+    },
+    {
+      "phrase": "pack animal detail",
+      "tag": "pack_animal"
+    },
+    {
+      "phrase": "with pack animal",
+      "tag": "pack_animal"
+    },
+    {
+      "phrase": "pallas's cat",
+      "tag": "pallas's_cat"
+    },
+    {
+      "phrase": "showing pallas's cat",
+      "tag": "pallas's_cat"
+    },
+    {
+      "phrase": "with pallas's cat",
+      "tag": "pallas's_cat"
+    },
+    {
+      "phrase": "panda",
+      "tag": "panda"
+    },
+    {
+      "phrase": "showing panda",
+      "tag": "panda"
+    },
+    {
+      "phrase": "with panda",
+      "tag": "panda"
+    },
+    {
+      "phrase": "parakeet",
+      "tag": "parakeet"
+    },
+    {
+      "phrase": "showing parakeet",
+      "tag": "parakeet"
+    },
+    {
+      "phrase": "with parakeet",
+      "tag": "parakeet"
+    },
+    {
+      "phrase": "parrot",
+      "tag": "parrot"
+    },
+    {
+      "phrase": "showing parrot",
+      "tag": "parrot"
+    },
+    {
+      "phrase": "with parrot",
+      "tag": "parrot"
+    },
+    {
+      "phrase": "peacock",
+      "tag": "peacock"
+    },
+    {
+      "phrase": "showing peacock",
+      "tag": "peacock"
+    },
+    {
+      "phrase": "with peacock",
+      "tag": "peacock"
+    },
+    {
+      "phrase": "penguin",
+      "tag": "penguin"
+    },
+    {
+      "phrase": "showing penguin",
+      "tag": "penguin"
+    },
+    {
+      "phrase": "with penguin",
+      "tag": "penguin"
+    },
+    {
+      "phrase": "penguin chick",
+      "tag": "penguin_chick"
+    },
+    {
+      "phrase": "penguin chick detail",
+      "tag": "penguin_chick"
+    },
+    {
+      "phrase": "with penguin chick",
+      "tag": "penguin_chick"
+    },
+    {
+      "phrase": "pet",
+      "tag": "pet"
+    },
+    {
+      "phrase": "showing pet",
+      "tag": "pet"
+    },
+    {
+      "phrase": "with pet",
+      "tag": "pet"
+    },
+    {
+      "phrase": "pig",
+      "tag": "pig"
+    },
+    {
+      "phrase": "showing pig",
+      "tag": "pig"
+    },
+    {
+      "phrase": "with pig",
+      "tag": "pig"
+    },
+    {
+      "phrase": "pigeon",
+      "tag": "pigeon"
+    },
+    {
+      "phrase": "showing pigeon",
+      "tag": "pigeon"
+    },
+    {
+      "phrase": "with pigeon",
+      "tag": "pigeon"
+    },
+    {
+      "phrase": "piglet",
+      "tag": "piglet"
+    },
+    {
+      "phrase": "showing piglet",
+      "tag": "piglet"
+    },
+    {
+      "phrase": "with piglet",
+      "tag": "piglet"
+    },
+    {
+      "phrase": "pillbug",
+      "tag": "pillbug"
+    },
+    {
+      "phrase": "showing pillbug",
+      "tag": "pillbug"
+    },
+    {
+      "phrase": "with pillbug",
+      "tag": "pillbug"
+    },
+    {
+      "phrase": "pink bird",
+      "tag": "pink_bird"
+    },
+    {
+      "phrase": "showing pink bird",
+      "tag": "pink_bird"
+    },
+    {
+      "phrase": "with pink bird",
+      "tag": "pink_bird"
+    },
+    {
+      "phrase": "pink butterfly",
+      "tag": "pink_butterfly"
+    },
+    {
+      "phrase": "pink butterfly detail",
+      "tag": "pink_butterfly"
+    },
+    {
+      "phrase": "with pink butterfly",
+      "tag": "pink_butterfly"
+    },
+    {
+      "phrase": "pink cat",
+      "tag": "pink_cat"
+    },
+    {
+      "phrase": "showing pink cat",
+      "tag": "pink_cat"
+    },
+    {
+      "phrase": "with pink cat",
+      "tag": "pink_cat"
+    },
+    {
+      "phrase": "polar bear",
+      "tag": "polar_bear"
+    },
+    {
+      "phrase": "polar bear detail",
+      "tag": "polar_bear"
+    },
+    {
+      "phrase": "with polar bear",
+      "tag": "polar_bear"
+    },
+    {
+      "phrase": "pomeranian",
+      "tag": "pomeranian_(dog)"
+    },
+    {
+      "phrase": "pomeranian dog",
+      "tag": "pomeranian_(dog)"
+    },
+    {
+      "phrase": "showing pomeranian",
+      "tag": "pomeranian_(dog)"
+    },
+    {
+      "phrase": "with pomeranian",
+      "tag": "pomeranian_(dog)"
+    },
+    {
+      "phrase": "pony",
+      "tag": "pony_(animal)"
+    },
+    {
+      "phrase": "pony animal",
+      "tag": "pony_(animal)"
+    },
+    {
+      "phrase": "showing pony",
+      "tag": "pony_(animal)"
+    },
+    {
+      "phrase": "with pony",
+      "tag": "pony_(animal)"
+    },
+    {
+      "phrase": "prairie dog",
+      "tag": "prairie_dog"
+    },
+    {
+      "phrase": "showing prairie dog",
+      "tag": "prairie_dog"
+    },
+    {
+      "phrase": "with prairie dog",
+      "tag": "prairie_dog"
+    },
+    {
+      "phrase": "praying mantis",
+      "tag": "praying_mantis"
+    },
+    {
+      "phrase": "praying mantis detail",
+      "tag": "praying_mantis"
+    },
+    {
+      "phrase": "with praying mantis",
+      "tag": "praying_mantis"
+    },
+    {
+      "phrase": "pterosaur",
+      "tag": "pterosaur"
+    },
+    {
+      "phrase": "showing pterosaur",
+      "tag": "pterosaur"
+    },
+    {
+      "phrase": "with pterosaur",
+      "tag": "pterosaur"
+    },
+    {
+      "phrase": "puffer fish",
+      "tag": "puffer_fish"
+    },
+    {
+      "phrase": "puffer fish detail",
+      "tag": "puffer_fish"
+    },
+    {
+      "phrase": "with puffer fish",
+      "tag": "puffer_fish"
+    },
+    {
+      "phrase": "pug",
+      "tag": "pug"
+    },
+    {
+      "phrase": "showing pug",
+      "tag": "pug"
+    },
+    {
+      "phrase": "with pug",
+      "tag": "pug"
+    },
+    {
+      "phrase": "puppy",
+      "tag": "puppy"
+    },
+    {
+      "phrase": "showing puppy",
+      "tag": "puppy"
+    },
+    {
+      "phrase": "with puppy",
+      "tag": "puppy"
+    },
+    {
+      "phrase": "purple butterfly",
+      "tag": "purple_butterfly"
+    },
+    {
+      "phrase": "purple butterfly detail",
+      "tag": "purple_butterfly"
+    },
+    {
+      "phrase": "with purple butterfly",
+      "tag": "purple_butterfly"
+    },
+    {
+      "phrase": "purple cat",
+      "tag": "purple_cat"
+    },
+    {
+      "phrase": "showing purple cat",
+      "tag": "purple_cat"
+    },
+    {
+      "phrase": "with purple cat",
+      "tag": "purple_cat"
+    },
+    {
+      "phrase": "rabbit",
+      "tag": "rabbit"
+    },
+    {
+      "phrase": "showing rabbit",
+      "tag": "rabbit"
+    },
+    {
+      "phrase": "with rabbit",
+      "tag": "rabbit"
+    },
+    {
+      "phrase": "raccoon",
+      "tag": "raccoon"
+    },
+    {
+      "phrase": "showing raccoon",
+      "tag": "raccoon"
+    },
+    {
+      "phrase": "with raccoon",
+      "tag": "raccoon"
+    },
+    {
+      "phrase": "red-crowned crane",
+      "tag": "red-crowned_crane"
+    },
+    {
+      "phrase": "red-crowned crane detail",
+      "tag": "red-crowned_crane"
+    },
+    {
+      "phrase": "with red-crowned crane",
+      "tag": "red-crowned_crane"
+    },
+    {
+      "phrase": "red bird",
+      "tag": "red_bird"
+    },
+    {
+      "phrase": "showing red bird",
+      "tag": "red_bird"
+    },
+    {
+      "phrase": "with red bird",
+      "tag": "red_bird"
+    },
+    {
+      "phrase": "red butterfly",
+      "tag": "red_butterfly"
+    },
+    {
+      "phrase": "red butterfly detail",
+      "tag": "red_butterfly"
+    },
+    {
+      "phrase": "with red butterfly",
+      "tag": "red_butterfly"
+    },
+    {
+      "phrase": "red cat",
+      "tag": "red_cat"
+    },
+    {
+      "phrase": "showing red cat",
+      "tag": "red_cat"
+    },
+    {
+      "phrase": "with red cat",
+      "tag": "red_cat"
+    },
+    {
+      "phrase": "red panda",
+      "tag": "red_panda"
+    },
+    {
+      "phrase": "red panda detail",
+      "tag": "red_panda"
+    },
+    {
+      "phrase": "with red panda",
+      "tag": "red_panda"
+    },
+    {
+      "phrase": "red snake",
+      "tag": "red_snake"
+    },
+    {
+      "phrase": "red snake detail",
+      "tag": "red_snake"
+    },
+    {
+      "phrase": "with red snake",
+      "tag": "red_snake"
+    },
+    {
+      "phrase": "reindeer",
+      "tag": "reindeer"
+    },
+    {
+      "phrase": "showing reindeer",
+      "tag": "reindeer"
+    },
+    {
+      "phrase": "with reindeer",
+      "tag": "reindeer"
+    },
+    {
+      "phrase": "rhinoceros beetle",
+      "tag": "rhinoceros_beetle"
+    },
+    {
+      "phrase": "rhinoceros beetle detail",
+      "tag": "rhinoceros_beetle"
+    },
+    {
+      "phrase": "with rhinoceros beetle",
+      "tag": "rhinoceros_beetle"
+    },
+    {
+      "phrase": "rooster",
+      "tag": "rooster"
+    },
+    {
+      "phrase": "showing rooster",
+      "tag": "rooster"
+    },
+    {
+      "phrase": "with rooster",
+      "tag": "rooster"
+    },
+    {
+      "phrase": "salamander",
+      "tag": "salamander"
+    },
+    {
+      "phrase": "showing salamander",
+      "tag": "salamander"
+    },
+    {
+      "phrase": "with salamander",
+      "tag": "salamander"
+    },
+    {
+      "phrase": "salmon",
+      "tag": "salmon"
+    },
+    {
+      "phrase": "showing salmon",
+      "tag": "salmon"
+    },
+    {
+      "phrase": "with salmon",
+      "tag": "salmon"
+    },
+    {
+      "phrase": "samoyed",
+      "tag": "samoyed_(dog)"
+    },
+    {
+      "phrase": "samoyed dog",
+      "tag": "samoyed_(dog)"
+    },
+    {
+      "phrase": "showing samoyed",
+      "tag": "samoyed_(dog)"
+    },
+    {
+      "phrase": "with samoyed",
+      "tag": "samoyed_(dog)"
+    },
+    {
+      "phrase": "scallop",
+      "tag": "scallop"
+    },
+    {
+      "phrase": "showing scallop",
+      "tag": "scallop"
+    },
+    {
+      "phrase": "with scallop",
+      "tag": "scallop"
+    },
+    {
+      "phrase": "scorpion",
+      "tag": "scorpion"
+    },
+    {
+      "phrase": "showing scorpion",
+      "tag": "scorpion"
+    },
+    {
+      "phrase": "with scorpion",
+      "tag": "scorpion"
+    },
+    {
+      "phrase": "sea slug",
+      "tag": "sea_slug"
+    },
+    {
+      "phrase": "sea slug detail",
+      "tag": "sea_slug"
+    },
+    {
+      "phrase": "with sea slug",
+      "tag": "sea_slug"
+    },
+    {
+      "phrase": "sea turtle",
+      "tag": "sea_turtle"
+    },
+    {
+      "phrase": "sea turtle detail",
+      "tag": "sea_turtle"
+    },
+    {
+      "phrase": "with sea turtle",
+      "tag": "sea_turtle"
+    },
+    {
+      "phrase": "sea urchin",
+      "tag": "sea_urchin"
+    },
+    {
+      "phrase": "sea urchin detail",
+      "tag": "sea_urchin"
+    },
+    {
+      "phrase": "with sea urchin",
+      "tag": "sea_urchin"
+    },
+    {
+      "phrase": "seabird",
+      "tag": "seabird"
+    },
+    {
+      "phrase": "showing seabird",
+      "tag": "seabird"
+    },
+    {
+      "phrase": "with seabird",
+      "tag": "seabird"
+    },
+    {
+      "phrase": "seagull",
+      "tag": "seagull"
+    },
+    {
+      "phrase": "showing seagull",
+      "tag": "seagull"
+    },
+    {
+      "phrase": "with seagull",
+      "tag": "seagull"
+    },
+    {
+      "phrase": "seahorse",
+      "tag": "seahorse"
+    },
+    {
+      "phrase": "showing seahorse",
+      "tag": "seahorse"
+    },
+    {
+      "phrase": "with seahorse",
+      "tag": "seahorse"
+    },
+    {
+      "phrase": "seal",
+      "tag": "seal_(animal)"
+    },
+    {
+      "phrase": "seal animal",
+      "tag": "seal_(animal)"
+    },
+    {
+      "phrase": "showing seal",
+      "tag": "seal_(animal)"
+    },
+    {
+      "phrase": "with seal",
+      "tag": "seal_(animal)"
+    },
+    {
+      "phrase": "serval",
+      "tag": "serval"
+    },
+    {
+      "phrase": "showing serval",
+      "tag": "serval"
+    },
+    {
+      "phrase": "with serval",
+      "tag": "serval"
+    },
+    {
+      "phrase": "shark",
+      "tag": "shark"
+    },
+    {
+      "phrase": "showing shark",
+      "tag": "shark"
+    },
+    {
+      "phrase": "with shark",
+      "tag": "shark"
+    },
+    {
+      "phrase": "sheep",
+      "tag": "sheep"
+    },
+    {
+      "phrase": "showing sheep",
+      "tag": "sheep"
+    },
+    {
+      "phrase": "with sheep",
+      "tag": "sheep"
+    },
+    {
+      "phrase": "shiba inu",
+      "tag": "shiba_inu"
+    },
+    {
+      "phrase": "shiba inu detail",
+      "tag": "shiba_inu"
+    },
+    {
+      "phrase": "with shiba inu",
+      "tag": "shiba_inu"
+    },
+    {
+      "phrase": "shinjuku cat",
+      "tag": "shinjuku_cat"
+    },
+    {
+      "phrase": "showing shinjuku cat",
+      "tag": "shinjuku_cat"
+    },
+    {
+      "phrase": "with shinjuku cat",
+      "tag": "shinjuku_cat"
+    },
+    {
+      "phrase": "shoebill",
+      "tag": "shoebill"
+    },
+    {
+      "phrase": "showing shoebill",
+      "tag": "shoebill"
+    },
+    {
+      "phrase": "with shoebill",
+      "tag": "shoebill"
+    },
+    {
+      "phrase": "showing shrimp",
+      "tag": "shrimp"
+    },
+    {
+      "phrase": "shrimp",
+      "tag": "shrimp"
+    },
+    {
+      "phrase": "with shrimp",
+      "tag": "shrimp"
+    },
+    {
+      "phrase": "showing siamese cat",
+      "tag": "siamese_cat"
+    },
+    {
+      "phrase": "siamese cat",
+      "tag": "siamese_cat"
+    },
+    {
+      "phrase": "with siamese cat",
+      "tag": "siamese_cat"
+    },
+    {
+      "phrase": "showing simple bird",
+      "tag": "simple_bird"
+    },
+    {
+      "phrase": "simple bird",
+      "tag": "simple_bird"
+    },
+    {
+      "phrase": "with simple bird",
+      "tag": "simple_bird"
+    },
+    {
+      "phrase": "sleeping animal",
+      "tag": "sleeping_animal"
+    },
+    {
+      "phrase": "sleeping animal detail",
+      "tag": "sleeping_animal"
+    },
+    {
+      "phrase": "with sleeping animal",
+      "tag": "sleeping_animal"
+    },
+    {
+      "phrase": "showing slug",
+      "tag": "slug"
+    },
+    {
+      "phrase": "slug",
+      "tag": "slug"
+    },
+    {
+      "phrase": "with slug",
+      "tag": "slug"
+    },
+    {
+      "phrase": "showing snail",
+      "tag": "snail"
+    },
+    {
+      "phrase": "snail",
+      "tag": "snail"
+    },
+    {
+      "phrase": "with snail",
+      "tag": "snail"
+    },
+    {
+      "phrase": "showing snake",
+      "tag": "snake"
+    },
+    {
+      "phrase": "snake",
+      "tag": "snake"
+    },
+    {
+      "phrase": "with snake",
+      "tag": "snake"
+    },
+    {
+      "phrase": "snow animal",
+      "tag": "snow_animal"
+    },
+    {
+      "phrase": "snow animal detail",
+      "tag": "snow_animal"
+    },
+    {
+      "phrase": "with snow animal",
+      "tag": "snow_animal"
+    },
+    {
+      "phrase": "snow leopard",
+      "tag": "snow_leopard"
+    },
+    {
+      "phrase": "snow leopard detail",
+      "tag": "snow_leopard"
+    },
+    {
+      "phrase": "with snow leopard",
+      "tag": "snow_leopard"
+    },
+    {
+      "phrase": "snow rabbit",
+      "tag": "snow_rabbit"
+    },
+    {
+      "phrase": "snow rabbit detail",
+      "tag": "snow_rabbit"
+    },
+    {
+      "phrase": "with snow rabbit",
+      "tag": "snow_rabbit"
+    },
+    {
+      "phrase": "showing sparrow",
+      "tag": "sparrow"
+    },
+    {
+      "phrase": "sparrow",
+      "tag": "sparrow"
+    },
+    {
+      "phrase": "with sparrow",
+      "tag": "sparrow"
+    },
+    {
+      "phrase": "showing spider",
+      "tag": "spider"
+    },
+    {
+      "phrase": "spider",
+      "tag": "spider"
+    },
+    {
+      "phrase": "with spider",
+      "tag": "spider"
+    },
+    {
+      "phrase": "spoken animal",
+      "tag": "spoken_animal"
+    },
+    {
+      "phrase": "spoken animal detail",
+      "tag": "spoken_animal"
+    },
+    {
+      "phrase": "with spoken animal",
+      "tag": "spoken_animal"
+    },
+    {
+      "phrase": "showing squid",
+      "tag": "squid"
+    },
+    {
+      "phrase": "squid",
+      "tag": "squid"
+    },
+    {
+      "phrase": "with squid",
+      "tag": "squid"
+    },
+    {
+      "phrase": "showing squirrel",
+      "tag": "squirrel"
+    },
+    {
+      "phrase": "squirrel",
+      "tag": "squirrel"
+    },
+    {
+      "phrase": "with squirrel",
+      "tag": "squirrel"
+    },
+    {
+      "phrase": "stag beetle",
+      "tag": "stag_beetle"
+    },
+    {
+      "phrase": "stag beetle detail",
+      "tag": "stag_beetle"
+    },
+    {
+      "phrase": "with stag beetle",
+      "tag": "stag_beetle"
+    },
+    {
+      "phrase": "showing starfish",
+      "tag": "starfish"
+    },
+    {
+      "phrase": "starfish",
+      "tag": "starfish"
+    },
+    {
+      "phrase": "with starfish",
+      "tag": "starfish"
+    },
+    {
+      "phrase": "showing stingray",
+      "tag": "stingray"
+    },
+    {
+      "phrase": "stingray",
+      "tag": "stingray"
+    },
+    {
+      "phrase": "with stingray",
+      "tag": "stingray"
+    },
+    {
+      "phrase": "showing surgeonfish",
+      "tag": "surgeonfish"
+    },
+    {
+      "phrase": "surgeonfish",
+      "tag": "surgeonfish"
+    },
+    {
+      "phrase": "with surgeonfish",
+      "tag": "surgeonfish"
+    },
+    {
+      "phrase": "showing swallow",
+      "tag": "swallow_(bird)"
+    },
+    {
+      "phrase": "swallow",
+      "tag": "swallow_(bird)"
+    },
+    {
+      "phrase": "swallow bird",
+      "tag": "swallow_(bird)"
+    },
+    {
+      "phrase": "with swallow",
+      "tag": "swallow_(bird)"
+    },
+    {
+      "phrase": "showing swan",
+      "tag": "swan"
+    },
+    {
+      "phrase": "swan",
+      "tag": "swan"
+    },
+    {
+      "phrase": "with swan",
+      "tag": "swan"
+    },
+    {
+      "phrase": "showing sweets bird",
+      "tag": "sweets_bird"
+    },
+    {
+      "phrase": "sweets bird",
+      "tag": "sweets_bird"
+    },
+    {
+      "phrase": "with sweets bird",
+      "tag": "sweets_bird"
+    },
+    {
+      "phrase": "showing swordfish",
+      "tag": "swordfish"
+    },
+    {
+      "phrase": "swordfish",
+      "tag": "swordfish"
+    },
+    {
+      "phrase": "with swordfish",
+      "tag": "swordfish"
+    },
+    {
+      "phrase": "showing tabby cat",
+      "tag": "tabby_cat"
+    },
+    {
+      "phrase": "tabby cat",
+      "tag": "tabby_cat"
+    },
+    {
+      "phrase": "with tabby cat",
+      "tag": "tabby_cat"
+    },
+    {
+      "phrase": "showing tadpole",
+      "tag": "tadpole"
+    },
+    {
+      "phrase": "tadpole",
+      "tag": "tadpole"
+    },
+    {
+      "phrase": "with tadpole",
+      "tag": "tadpole"
+    },
+    {
+      "phrase": "showing tanuki",
+      "tag": "tanuki"
+    },
+    {
+      "phrase": "tanuki",
+      "tag": "tanuki"
+    },
+    {
+      "phrase": "with tanuki",
+      "tag": "tanuki"
+    },
+    {
+      "phrase": "showing tapir",
+      "tag": "tapir"
+    },
+    {
+      "phrase": "tapir",
+      "tag": "tapir"
+    },
+    {
+      "phrase": "with tapir",
+      "tag": "tapir"
+    },
+    {
+      "phrase": "tibetan sand fox",
+      "tag": "tibetan_sand_fox"
+    },
+    {
+      "phrase": "tibetan sand fox detail",
+      "tag": "tibetan_sand_fox"
+    },
+    {
+      "phrase": "with tibetan sand fox",
+      "tag": "tibetan_sand_fox"
+    },
+    {
+      "phrase": "showing tiger",
+      "tag": "tiger"
+    },
+    {
+      "phrase": "tiger",
+      "tag": "tiger"
+    },
+    {
+      "phrase": "with tiger",
+      "tag": "tiger"
+    },
+    {
+      "phrase": "tiger cub",
+      "tag": "tiger_cub"
+    },
+    {
+      "phrase": "tiger cub detail",
+      "tag": "tiger_cub"
+    },
+    {
+      "phrase": "with tiger cub",
+      "tag": "tiger_cub"
+    },
+    {
+      "phrase": "showing tit",
+      "tag": "tit_(bird)"
+    },
+    {
+      "phrase": "tit",
+      "tag": "tit_(bird)"
+    },
+    {
+      "phrase": "tit bird",
+      "tag": "tit_(bird)"
+    },
+    {
+      "phrase": "with tit",
+      "tag": "tit_(bird)"
+    },
+    {
+      "phrase": "showing toad",
+      "tag": "toad_(animal)"
+    },
+    {
+      "phrase": "toad",
+      "tag": "toad_(animal)"
+    },
+    {
+      "phrase": "toad animal",
+      "tag": "toad_(animal)"
+    },
+    {
+      "phrase": "with toad",
+      "tag": "toad_(animal)"
+    },
+    {
+      "phrase": "too many birds",
+      "tag": "too_many_birds"
+    },
+    {
+      "phrase": "too many birds detail",
+      "tag": "too_many_birds"
+    },
+    {
+      "phrase": "with too many birds",
+      "tag": "too_many_birds"
+    },
+    {
+      "phrase": "too many butterflies",
+      "tag": "too_many_butterflies"
+    },
+    {
+      "phrase": "too many butterflies detail",
+      "tag": "too_many_butterflies"
+    },
+    {
+      "phrase": "with too many butterflies",
+      "tag": "too_many_butterflies"
+    },
+    {
+      "phrase": "too many rabbits",
+      "tag": "too_many_rabbits"
+    },
+    {
+      "phrase": "too many rabbits detail",
+      "tag": "too_many_rabbits"
+    },
+    {
+      "phrase": "with too many rabbits",
+      "tag": "too_many_rabbits"
+    },
+    {
+      "phrase": "showing tortico cat",
+      "tag": "tortico_cat"
+    },
+    {
+      "phrase": "tortico cat",
+      "tag": "tortico_cat"
+    },
+    {
+      "phrase": "with tortico cat",
+      "tag": "tortico_cat"
+    },
+    {
+      "phrase": "showing tortoise",
+      "tag": "tortoise"
+    },
+    {
+      "phrase": "tortoise",
+      "tag": "tortoise"
+    },
+    {
+      "phrase": "with tortoise",
+      "tag": "tortoise"
+    },
+    {
+      "phrase": "showing toucan",
+      "tag": "toucan"
+    },
+    {
+      "phrase": "toucan",
+      "tag": "toucan"
+    },
+    {
+      "phrase": "with toucan",
+      "tag": "toucan"
+    },
+    {
+      "phrase": "transparent animal",
+      "tag": "transparent_animal"
+    },
+    {
+      "phrase": "transparent animal detail",
+      "tag": "transparent_animal"
+    },
+    {
+      "phrase": "with transparent animal",
+      "tag": "transparent_animal"
+    },
+    {
+      "phrase": "showing triceratops",
+      "tag": "triceratops"
+    },
+    {
+      "phrase": "triceratops",
+      "tag": "triceratops"
+    },
+    {
+      "phrase": "with triceratops",
+      "tag": "triceratops"
+    },
+    {
+      "phrase": "tropical fish",
+      "tag": "tropical_fish"
+    },
+    {
+      "phrase": "tropical fish detail",
+      "tag": "tropical_fish"
+    },
+    {
+      "phrase": "with tropical fish",
+      "tag": "tropical_fish"
+    },
+    {
+      "phrase": "showing turtle",
+      "tag": "turtle"
+    },
+    {
+      "phrase": "turtle",
+      "tag": "turtle"
+    },
+    {
+      "phrase": "with turtle",
+      "tag": "turtle"
+    },
+    {
+      "phrase": "showing tuxedo cat",
+      "tag": "tuxedo_cat"
+    },
+    {
+      "phrase": "tuxedo cat",
+      "tag": "tuxedo_cat"
+    },
+    {
+      "phrase": "with tuxedo cat",
+      "tag": "tuxedo_cat"
+    },
+    {
+      "phrase": "tyrannosaurus rex",
+      "tag": "tyrannosaurus_rex"
+    },
+    {
+      "phrase": "tyrannosaurus rex detail",
+      "tag": "tyrannosaurus_rex"
+    },
+    {
+      "phrase": "with tyrannosaurus rex",
+      "tag": "tyrannosaurus_rex"
+    },
+    {
+      "phrase": "undersized animal",
+      "tag": "undersized_animal"
+    },
+    {
+      "phrase": "undersized animal detail",
+      "tag": "undersized_animal"
+    },
+    {
+      "phrase": "with undersized animal",
+      "tag": "undersized_animal"
+    },
+    {
+      "phrase": "showing upward dog",
+      "tag": "upward_dog"
+    },
+    {
+      "phrase": "upward dog",
+      "tag": "upward_dog"
+    },
+    {
+      "phrase": "with upward dog",
+      "tag": "upward_dog"
+    },
+    {
+      "phrase": "showing wasp",
+      "tag": "wasp"
+    },
+    {
+      "phrase": "wasp",
+      "tag": "wasp"
+    },
+    {
+      "phrase": "with wasp",
+      "tag": "wasp"
+    },
+    {
+      "phrase": "water buffalo",
+      "tag": "water_buffalo"
+    },
+    {
+      "phrase": "water buffalo detail",
+      "tag": "water_buffalo"
+    },
+    {
+      "phrase": "with water buffalo",
+      "tag": "water_buffalo"
+    },
+    {
+      "phrase": "showing weasel",
+      "tag": "weasel"
+    },
+    {
+      "phrase": "weasel",
+      "tag": "weasel"
+    },
+    {
+      "phrase": "with weasel",
+      "tag": "weasel"
+    },
+    {
+      "phrase": "welsh corgi",
+      "tag": "welsh_corgi"
+    },
+    {
+      "phrase": "welsh corgi detail",
+      "tag": "welsh_corgi"
+    },
+    {
+      "phrase": "with welsh corgi",
+      "tag": "welsh_corgi"
+    },
+    {
+      "phrase": "showing whale",
+      "tag": "whale"
+    },
+    {
+      "phrase": "whale",
+      "tag": "whale"
+    },
+    {
+      "phrase": "with whale",
+      "tag": "whale"
+    },
+    {
+      "phrase": "whale shark",
+      "tag": "whale_shark"
+    },
+    {
+      "phrase": "whale shark detail",
+      "tag": "whale_shark"
+    },
+    {
+      "phrase": "with whale shark",
+      "tag": "whale_shark"
+    },
+    {
+      "phrase": "showing white bird",
+      "tag": "white_bird"
+    },
+    {
+      "phrase": "white bird",
+      "tag": "white_bird"
+    },
+    {
+      "phrase": "with white bird",
+      "tag": "white_bird"
+    },
+    {
+      "phrase": "white butterfly",
+      "tag": "white_butterfly"
+    },
+    {
+      "phrase": "white butterfly detail",
+      "tag": "white_butterfly"
+    },
+    {
+      "phrase": "with white butterfly",
+      "tag": "white_butterfly"
+    },
+    {
+      "phrase": "showing white cat",
+      "tag": "white_cat"
+    },
+    {
+      "phrase": "white cat",
+      "tag": "white_cat"
+    },
+    {
+      "phrase": "with white cat",
+      "tag": "white_cat"
+    },
+    {
+      "phrase": "showing white dog",
+      "tag": "white_dog"
+    },
+    {
+      "phrase": "white dog",
+      "tag": "white_dog"
+    },
+    {
+      "phrase": "with white dog",
+      "tag": "white_dog"
+    },
+    {
+      "phrase": "white horse",
+      "tag": "white_horse"
+    },
+    {
+      "phrase": "white horse detail",
+      "tag": "white_horse"
+    },
+    {
+      "phrase": "with white horse",
+      "tag": "white_horse"
+    },
+    {
+      "phrase": "white rabbit",
+      "tag": "white_rabbit_(animal)"
+    },
+    {
+      "phrase": "white rabbit animal",
+      "tag": "white_rabbit_(animal)"
+    },
+    {
+      "phrase": "white rabbit detail",
+      "tag": "white_rabbit_(animal)"
+    },
+    {
+      "phrase": "with white rabbit",
+      "tag": "white_rabbit_(animal)"
+    },
+    {
+      "phrase": "white snake",
+      "tag": "white_snake"
+    },
+    {
+      "phrase": "white snake detail",
+      "tag": "white_snake"
+    },
+    {
+      "phrase": "with white snake",
+      "tag": "white_snake"
+    },
+    {
+      "phrase": "white tiger",
+      "tag": "white_tiger"
+    },
+    {
+      "phrase": "white tiger detail",
+      "tag": "white_tiger"
+    },
+    {
+      "phrase": "with white tiger",
+      "tag": "white_tiger"
+    },
+    {
+      "phrase": "white wolf",
+      "tag": "white_wolf"
+    },
+    {
+      "phrase": "white wolf detail",
+      "tag": "white_wolf"
+    },
+    {
+      "phrase": "with white wolf",
+      "tag": "white_wolf"
+    },
+    {
+      "phrase": "winged animal",
+      "tag": "winged_animal"
+    },
+    {
+      "phrase": "winged animal detail",
+      "tag": "winged_animal"
+    },
+    {
+      "phrase": "with winged animal",
+      "tag": "winged_animal"
+    },
+    {
+      "phrase": "showing winged cat",
+      "tag": "winged_cat"
+    },
+    {
+      "phrase": "winged cat",
+      "tag": "winged_cat"
+    },
+    {
+      "phrase": "with winged cat",
+      "tag": "winged_cat"
+    },
+    {
+      "phrase": "showing wolf",
+      "tag": "wolf"
+    },
+    {
+      "phrase": "with wolf",
+      "tag": "wolf"
+    },
+    {
+      "phrase": "wolf",
+      "tag": "wolf"
+    },
+    {
+      "phrase": "with wolf cub",
+      "tag": "wolf_cub"
+    },
+    {
+      "phrase": "wolf cub",
+      "tag": "wolf_cub"
+    },
+    {
+      "phrase": "wolf cub detail",
+      "tag": "wolf_cub"
+    },
+    {
+      "phrase": "showing worm",
+      "tag": "worm"
+    },
+    {
+      "phrase": "with worm",
+      "tag": "worm"
+    },
+    {
+      "phrase": "worm",
+      "tag": "worm"
+    },
+    {
+      "phrase": "showing yellow bird",
+      "tag": "yellow_bird"
+    },
+    {
+      "phrase": "with yellow bird",
+      "tag": "yellow_bird"
+    },
+    {
+      "phrase": "yellow bird",
+      "tag": "yellow_bird"
+    },
+    {
+      "phrase": "with yellow butterfly",
+      "tag": "yellow_butterfly"
+    },
+    {
+      "phrase": "yellow butterfly",
+      "tag": "yellow_butterfly"
+    },
+    {
+      "phrase": "yellow butterfly detail",
+      "tag": "yellow_butterfly"
+    },
+    {
+      "phrase": "showing yellow cat",
+      "tag": "yellow_cat"
+    },
+    {
+      "phrase": "with yellow cat",
+      "tag": "yellow_cat"
+    },
+    {
+      "phrase": "yellow cat",
+      "tag": "yellow_cat"
+    },
+    {
+      "phrase": "showing yellow dog",
+      "tag": "yellow_dog"
+    },
+    {
+      "phrase": "with yellow dog",
+      "tag": "yellow_dog"
+    },
+    {
+      "phrase": "yellow dog",
+      "tag": "yellow_dog"
+    },
+    {
+      "phrase": "showing zebra",
+      "tag": "zebra"
+    },
+    {
+      "phrase": "with zebra",
+      "tag": "zebra"
+    },
+    {
+      "phrase": "zebra",
+      "tag": "zebra"
+    }
+  ]
+}

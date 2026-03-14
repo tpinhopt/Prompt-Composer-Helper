@@ -1,0 +1,7308 @@
+{
+  "items": [
+    {
+      "phrase": "apple",
+      "tag": "Apple"
+    },
+    {
+      "phrase": "showing apple",
+      "tag": "Apple"
+    },
+    {
+      "phrase": "with apple",
+      "tag": "Apple"
+    },
+    {
+      "phrase": "athletic",
+      "tag": "Athletic"
+    },
+    {
+      "phrase": "showing athletic",
+      "tag": "Athletic"
+    },
+    {
+      "phrase": "with athletic",
+      "tag": "Athletic"
+    },
+    {
+      "phrase": "banana",
+      "tag": "Banana"
+    },
+    {
+      "phrase": "showing banana",
+      "tag": "Banana"
+    },
+    {
+      "phrase": "with banana",
+      "tag": "Banana"
+    },
+    {
+      "phrase": "bell",
+      "tag": "Bell"
+    },
+    {
+      "phrase": "showing bell",
+      "tag": "Bell"
+    },
+    {
+      "phrase": "with bell",
+      "tag": "Bell"
+    },
+    {
+      "phrase": "broad shouldered",
+      "tag": "Broad_Shouldered"
+    },
+    {
+      "phrase": "broad shouldered detail",
+      "tag": "Broad_Shouldered"
+    },
+    {
+      "phrase": "with broad shouldered",
+      "tag": "Broad_Shouldered"
+    },
+    {
+      "phrase": "busty",
+      "tag": "Busty"
+    },
+    {
+      "phrase": "showing busty",
+      "tag": "Busty"
+    },
+    {
+      "phrase": "with busty",
+      "tag": "Busty"
+    },
+    {
+      "phrase": "curvy",
+      "tag": "Curvy"
+    },
+    {
+      "phrase": "showing curvy",
+      "tag": "Curvy"
+    },
+    {
+      "phrase": "with curvy",
+      "tag": "Curvy"
+    },
+    {
+      "phrase": "diamond",
+      "tag": "Diamond"
+    },
+    {
+      "phrase": "showing diamond",
+      "tag": "Diamond"
+    },
+    {
+      "phrase": "with diamond",
+      "tag": "Diamond"
+    },
+    {
+      "phrase": "ectomorph",
+      "tag": "Ectomorph"
+    },
+    {
+      "phrase": "showing ectomorph",
+      "tag": "Ectomorph"
+    },
+    {
+      "phrase": "with ectomorph",
+      "tag": "Ectomorph"
+    },
+    {
+      "phrase": "endomorph",
+      "tag": "Endomorph"
+    },
+    {
+      "phrase": "showing endomorph",
+      "tag": "Endomorph"
+    },
+    {
+      "phrase": "with endomorph",
+      "tag": "Endomorph"
+    },
+    {
+      "phrase": "figure eight",
+      "tag": "Figure_Eight"
+    },
+    {
+      "phrase": "figure eight detail",
+      "tag": "Figure_Eight"
+    },
+    {
+      "phrase": "with figure eight",
+      "tag": "Figure_Eight"
+    },
+    {
+      "phrase": "heart shaped",
+      "tag": "Heart_Shaped"
+    },
+    {
+      "phrase": "heart shaped detail",
+      "tag": "Heart_Shaped"
+    },
+    {
+      "phrase": "with heart shaped",
+      "tag": "Heart_Shaped"
+    },
+    {
+      "phrase": "hourglass",
+      "tag": "Hourglass"
+    },
+    {
+      "phrase": "showing hourglass",
+      "tag": "Hourglass"
+    },
+    {
+      "phrase": "with hourglass",
+      "tag": "Hourglass"
+    },
+    {
+      "phrase": "inverted triangle",
+      "tag": "Inverted_Triangle"
+    },
+    {
+      "phrase": "inverted triangle detail",
+      "tag": "Inverted_Triangle"
+    },
+    {
+      "phrase": "with inverted triangle",
+      "tag": "Inverted_Triangle"
+    },
+    {
+      "phrase": "lean",
+      "tag": "Lean"
+    },
+    {
+      "phrase": "showing lean",
+      "tag": "Lean"
+    },
+    {
+      "phrase": "with lean",
+      "tag": "Lean"
+    },
+    {
+      "phrase": "long legged",
+      "tag": "Long_Legged"
+    },
+    {
+      "phrase": "long legged detail",
+      "tag": "Long_Legged"
+    },
+    {
+      "phrase": "with long legged",
+      "tag": "Long_Legged"
+    },
+    {
+      "phrase": "mesomorph",
+      "tag": "Mesomorph"
+    },
+    {
+      "phrase": "showing mesomorph",
+      "tag": "Mesomorph"
+    },
+    {
+      "phrase": "with mesomorph",
+      "tag": "Mesomorph"
+    },
+    {
+      "phrase": "narrow waisted",
+      "tag": "Narrow_Waisted"
+    },
+    {
+      "phrase": "narrow waisted detail",
+      "tag": "Narrow_Waisted"
+    },
+    {
+      "phrase": "with narrow waisted",
+      "tag": "Narrow_Waisted"
+    },
+    {
+      "phrase": "oval",
+      "tag": "Oval"
+    },
+    {
+      "phrase": "showing oval",
+      "tag": "Oval"
+    },
+    {
+      "phrase": "with oval",
+      "tag": "Oval"
+    },
+    {
+      "phrase": "pear",
+      "tag": "Pear"
+    },
+    {
+      "phrase": "showing pear",
+      "tag": "Pear"
+    },
+    {
+      "phrase": "with pear",
+      "tag": "Pear"
+    },
+    {
+      "phrase": "petite",
+      "tag": "Petite"
+    },
+    {
+      "phrase": "showing petite",
+      "tag": "Petite"
+    },
+    {
+      "phrase": "with petite",
+      "tag": "Petite"
+    },
+    {
+      "phrase": "plus size",
+      "tag": "Plus_Size"
+    },
+    {
+      "phrase": "plus size detail",
+      "tag": "Plus_Size"
+    },
+    {
+      "phrase": "with plus size",
+      "tag": "Plus_Size"
+    },
+    {
+      "phrase": "rectangle",
+      "tag": "Rectangle"
+    },
+    {
+      "phrase": "showing rectangle",
+      "tag": "Rectangle"
+    },
+    {
+      "phrase": "with rectangle",
+      "tag": "Rectangle"
+    },
+    {
+      "phrase": "rectangle with curves",
+      "tag": "Rectangle_with_Curves"
+    },
+    {
+      "phrase": "rectangle with curves detail",
+      "tag": "Rectangle_with_Curves"
+    },
+    {
+      "phrase": "with rectangle with curves",
+      "tag": "Rectangle_with_Curves"
+    },
+    {
+      "phrase": "relaxed rectangle",
+      "tag": "Relaxed_Rectangle"
+    },
+    {
+      "phrase": "relaxed rectangle detail",
+      "tag": "Relaxed_Rectangle"
+    },
+    {
+      "phrase": "with relaxed rectangle",
+      "tag": "Relaxed_Rectangle"
+    },
+    {
+      "phrase": "ruler",
+      "tag": "Ruler"
+    },
+    {
+      "phrase": "showing ruler",
+      "tag": "Ruler"
+    },
+    {
+      "phrase": "with ruler",
+      "tag": "Ruler"
+    },
+    {
+      "phrase": "short legged",
+      "tag": "Short_Legged"
+    },
+    {
+      "phrase": "short legged detail",
+      "tag": "Short_Legged"
+    },
+    {
+      "phrase": "with short legged",
+      "tag": "Short_Legged"
+    },
+    {
+      "phrase": "showing slender",
+      "tag": "Slender"
+    },
+    {
+      "phrase": "slender",
+      "tag": "Slender"
+    },
+    {
+      "phrase": "with slender",
+      "tag": "Slender"
+    },
+    {
+      "phrase": "soft rectangle",
+      "tag": "Soft_Rectangle"
+    },
+    {
+      "phrase": "soft rectangle detail",
+      "tag": "Soft_Rectangle"
+    },
+    {
+      "phrase": "with soft rectangle",
+      "tag": "Soft_Rectangle"
+    },
+    {
+      "phrase": "showing strawberry",
+      "tag": "Strawberry"
+    },
+    {
+      "phrase": "strawberry",
+      "tag": "Strawberry"
+    },
+    {
+      "phrase": "with strawberry",
+      "tag": "Strawberry"
+    },
+    {
+      "phrase": "tall and skinny",
+      "tag": "Tall_and_Skinny"
+    },
+    {
+      "phrase": "tall and skinny detail",
+      "tag": "Tall_and_Skinny"
+    },
+    {
+      "phrase": "with tall and skinny",
+      "tag": "Tall_and_Skinny"
+    },
+    {
+      "phrase": "showing toned",
+      "tag": "Toned"
+    },
+    {
+      "phrase": "toned",
+      "tag": "Toned"
+    },
+    {
+      "phrase": "with toned",
+      "tag": "Toned"
+    },
+    {
+      "phrase": "showing trapezoid",
+      "tag": "Trapezoid"
+    },
+    {
+      "phrase": "trapezoid",
+      "tag": "Trapezoid"
+    },
+    {
+      "phrase": "with trapezoid",
+      "tag": "Trapezoid"
+    },
+    {
+      "phrase": "showing triangle",
+      "tag": "Triangle"
+    },
+    {
+      "phrase": "triangle",
+      "tag": "Triangle"
+    },
+    {
+      "phrase": "with triangle",
+      "tag": "Triangle"
+    },
+    {
+      "phrase": "showing voluptuous",
+      "tag": "Voluptuous"
+    },
+    {
+      "phrase": "voluptuous",
+      "tag": "Voluptuous"
+    },
+    {
+      "phrase": "with voluptuous",
+      "tag": "Voluptuous"
+    },
+    {
+      "phrase": "wide hipped",
+      "tag": "Wide_Hipped"
+    },
+    {
+      "phrase": "wide hipped detail",
+      "tag": "Wide_Hipped"
+    },
+    {
+      "phrase": "with wide hipped",
+      "tag": "Wide_Hipped"
+    },
+    {
+      "phrase": "accessory tan",
+      "tag": "accessory_tan"
+    },
+    {
+      "phrase": "accessory tan detail",
+      "tag": "accessory_tan"
+    },
+    {
+      "phrase": "with accessory tan",
+      "tag": "accessory_tan"
+    },
+    {
+      "phrase": "age conscious",
+      "tag": "age_conscious"
+    },
+    {
+      "phrase": "age conscious detail",
+      "tag": "age_conscious"
+    },
+    {
+      "phrase": "with age conscious",
+      "tag": "age_conscious"
+    },
+    {
+      "phrase": "age difference",
+      "tag": "age_difference"
+    },
+    {
+      "phrase": "age difference detail",
+      "tag": "age_difference"
+    },
+    {
+      "phrase": "with age difference",
+      "tag": "age_difference"
+    },
+    {
+      "phrase": "aged down",
+      "tag": "aged_down"
+    },
+    {
+      "phrase": "aged down detail",
+      "tag": "aged_down"
+    },
+    {
+      "phrase": "with aged down",
+      "tag": "aged_down"
+    },
+    {
+      "phrase": "aged up",
+      "tag": "aged_up"
+    },
+    {
+      "phrase": "aged up detail",
+      "tag": "aged_up"
+    },
+    {
+      "phrase": "with aged up",
+      "tag": "aged_up"
+    },
+    {
+      "phrase": "albino",
+      "tag": "albino"
+    },
+    {
+      "phrase": "showing albino",
+      "tag": "albino"
+    },
+    {
+      "phrase": "with albino",
+      "tag": "albino"
+    },
+    {
+      "phrase": "alpaca girl",
+      "tag": "alpaca_girl"
+    },
+    {
+      "phrase": "alpaca girl detail",
+      "tag": "alpaca_girl"
+    },
+    {
+      "phrase": "with alpaca girl",
+      "tag": "alpaca_girl"
+    },
+    {
+      "phrase": "alternate body size",
+      "tag": "alternate_body_size"
+    },
+    {
+      "phrase": "alternate body size detail",
+      "tag": "alternate_body_size"
+    },
+    {
+      "phrase": "with alternate body size",
+      "tag": "alternate_body_size"
+    },
+    {
+      "phrase": "alternate height",
+      "tag": "alternate_height"
+    },
+    {
+      "phrase": "alternate height detail",
+      "tag": "alternate_height"
+    },
+    {
+      "phrase": "with alternate height",
+      "tag": "alternate_height"
+    },
+    {
+      "phrase": "alternate muscle size",
+      "tag": "alternate_muscle_size"
+    },
+    {
+      "phrase": "alternate muscle size detail",
+      "tag": "alternate_muscle_size"
+    },
+    {
+      "phrase": "with alternate muscle size",
+      "tag": "alternate_muscle_size"
+    },
+    {
+      "phrase": "alternate shiny pokemon",
+      "tag": "alternate_shiny_pokemon"
+    },
+    {
+      "phrase": "alternate shiny pokemon detail",
+      "tag": "alternate_shiny_pokemon"
+    },
+    {
+      "phrase": "with alternate shiny pokemon",
+      "tag": "alternate_shiny_pokemon"
+    },
+    {
+      "phrase": "alternate size",
+      "tag": "alternate_size"
+    },
+    {
+      "phrase": "alternate size detail",
+      "tag": "alternate_size"
+    },
+    {
+      "phrase": "with alternate size",
+      "tag": "alternate_size"
+    },
+    {
+      "phrase": "amazon warrior",
+      "tag": "amazon_warrior"
+    },
+    {
+      "phrase": "amazon warrior detail",
+      "tag": "amazon_warrior"
+    },
+    {
+      "phrase": "with amazon warrior",
+      "tag": "amazon_warrior"
+    },
+    {
+      "phrase": "ambiguous gender",
+      "tag": "ambiguous_gender"
+    },
+    {
+      "phrase": "ambiguous gender detail",
+      "tag": "ambiguous_gender"
+    },
+    {
+      "phrase": "with ambiguous gender",
+      "tag": "ambiguous_gender"
+    },
+    {
+      "phrase": "amputee",
+      "tag": "amputee"
+    },
+    {
+      "phrase": "showing amputee",
+      "tag": "amputee"
+    },
+    {
+      "phrase": "with amputee",
+      "tag": "amputee"
+    },
+    {
+      "phrase": "androgynous",
+      "tag": "androgynous"
+    },
+    {
+      "phrase": "showing androgynous",
+      "tag": "androgynous"
+    },
+    {
+      "phrase": "with androgynous",
+      "tag": "androgynous"
+    },
+    {
+      "phrase": "anglerfish boy",
+      "tag": "anglerfish_boy"
+    },
+    {
+      "phrase": "anglerfish boy detail",
+      "tag": "anglerfish_boy"
+    },
+    {
+      "phrase": "with anglerfish boy",
+      "tag": "anglerfish_boy"
+    },
+    {
+      "phrase": "anglerfish girl",
+      "tag": "anglerfish_girl"
+    },
+    {
+      "phrase": "anglerfish girl detail",
+      "tag": "anglerfish_girl"
+    },
+    {
+      "phrase": "with anglerfish girl",
+      "tag": "anglerfish_girl"
+    },
+    {
+      "phrase": "animalization",
+      "tag": "animalization"
+    },
+    {
+      "phrase": "showing animalization",
+      "tag": "animalization"
+    },
+    {
+      "phrase": "with animalization",
+      "tag": "animalization"
+    },
+    {
+      "phrase": "animification",
+      "tag": "animification"
+    },
+    {
+      "phrase": "showing animification",
+      "tag": "animification"
+    },
+    {
+      "phrase": "with animification",
+      "tag": "animification"
+    },
+    {
+      "phrase": "ant girl",
+      "tag": "ant_girl"
+    },
+    {
+      "phrase": "ant girl detail",
+      "tag": "ant_girl"
+    },
+    {
+      "phrase": "with ant girl",
+      "tag": "ant_girl"
+    },
+    {
+      "phrase": "arachne boy",
+      "tag": "arachne_boy"
+    },
+    {
+      "phrase": "arachne boy detail",
+      "tag": "arachne_boy"
+    },
+    {
+      "phrase": "with arachne boy",
+      "tag": "arachne_boy"
+    },
+    {
+      "phrase": "armless amputee",
+      "tag": "armless_amputee"
+    },
+    {
+      "phrase": "armless amputee detail",
+      "tag": "armless_amputee"
+    },
+    {
+      "phrase": "with armless amputee",
+      "tag": "armless_amputee"
+    },
+    {
+      "phrase": "armored trooper",
+      "tag": "armored_trooper"
+    },
+    {
+      "phrase": "armored trooper detail",
+      "tag": "armored_trooper"
+    },
+    {
+      "phrase": "with armored trooper",
+      "tag": "armored_trooper"
+    },
+    {
+      "phrase": "arthropod boy",
+      "tag": "arthropod_boy"
+    },
+    {
+      "phrase": "arthropod boy detail",
+      "tag": "arthropod_boy"
+    },
+    {
+      "phrase": "with arthropod boy",
+      "tag": "arthropod_boy"
+    },
+    {
+      "phrase": "arthropod girl",
+      "tag": "arthropod_girl"
+    },
+    {
+      "phrase": "arthropod girl detail",
+      "tag": "arthropod_girl"
+    },
+    {
+      "phrase": "with arthropod girl",
+      "tag": "arthropod_girl"
+    },
+    {
+      "phrase": "asian",
+      "tag": "asian"
+    },
+    {
+      "phrase": "showing asian",
+      "tag": "asian"
+    },
+    {
+      "phrase": "with asian",
+      "tag": "asian"
+    },
+    {
+      "phrase": "assertive female",
+      "tag": "assertive_female"
+    },
+    {
+      "phrase": "assertive female detail",
+      "tag": "assertive_female"
+    },
+    {
+      "phrase": "with assertive female",
+      "tag": "assertive_female"
+    },
+    {
+      "phrase": "astronaut",
+      "tag": "astronaut"
+    },
+    {
+      "phrase": "showing astronaut",
+      "tag": "astronaut"
+    },
+    {
+      "phrase": "with astronaut",
+      "tag": "astronaut"
+    },
+    {
+      "phrase": "axolotl girl",
+      "tag": "axolotl_girl"
+    },
+    {
+      "phrase": "axolotl girl detail",
+      "tag": "axolotl_girl"
+    },
+    {
+      "phrase": "with axolotl girl",
+      "tag": "axolotl_girl"
+    },
+    {
+      "phrase": "back pain",
+      "tag": "back_pain"
+    },
+    {
+      "phrase": "back pain detail",
+      "tag": "back_pain"
+    },
+    {
+      "phrase": "with back pain",
+      "tag": "back_pain"
+    },
+    {
+      "phrase": "bad neck",
+      "tag": "bad_neck"
+    },
+    {
+      "phrase": "bad neck detail",
+      "tag": "bad_neck"
+    },
+    {
+      "phrase": "with bad neck",
+      "tag": "bad_neck"
+    },
+    {
+      "phrase": "badger boy",
+      "tag": "badger_boy"
+    },
+    {
+      "phrase": "badger boy detail",
+      "tag": "badger_boy"
+    },
+    {
+      "phrase": "with badger boy",
+      "tag": "badger_boy"
+    },
+    {
+      "phrase": "badger girl",
+      "tag": "badger_girl"
+    },
+    {
+      "phrase": "badger girl detail",
+      "tag": "badger_girl"
+    },
+    {
+      "phrase": "with badger girl",
+      "tag": "badger_girl"
+    },
+    {
+      "phrase": "bald female",
+      "tag": "bald_female"
+    },
+    {
+      "phrase": "bald female detail",
+      "tag": "bald_female"
+    },
+    {
+      "phrase": "with bald female",
+      "tag": "bald_female"
+    },
+    {
+      "phrase": "ballerina",
+      "tag": "ballerina"
+    },
+    {
+      "phrase": "showing ballerina",
+      "tag": "ballerina"
+    },
+    {
+      "phrase": "with ballerina",
+      "tag": "ballerina"
+    },
+    {
+      "phrase": "banchou",
+      "tag": "banchou"
+    },
+    {
+      "phrase": "showing banchou",
+      "tag": "banchou"
+    },
+    {
+      "phrase": "with banchou",
+      "tag": "banchou"
+    },
+    {
+      "phrase": "barbarian",
+      "tag": "barbarian"
+    },
+    {
+      "phrase": "showing barbarian",
+      "tag": "barbarian"
+    },
+    {
+      "phrase": "with barbarian",
+      "tag": "barbarian"
+    },
+    {
+      "phrase": "bard",
+      "tag": "bard"
+    },
+    {
+      "phrase": "showing bard",
+      "tag": "bard"
+    },
+    {
+      "phrase": "with bard",
+      "tag": "bard"
+    },
+    {
+      "phrase": "barefoot",
+      "tag": "barefoot"
+    },
+    {
+      "phrase": "showing barefoot",
+      "tag": "barefoot"
+    },
+    {
+      "phrase": "with barefoot",
+      "tag": "barefoot"
+    },
+    {
+      "phrase": "barista",
+      "tag": "barista"
+    },
+    {
+      "phrase": "showing barista",
+      "tag": "barista"
+    },
+    {
+      "phrase": "with barista",
+      "tag": "barista"
+    },
+    {
+      "phrase": "barmaid",
+      "tag": "barmaid"
+    },
+    {
+      "phrase": "showing barmaid",
+      "tag": "barmaid"
+    },
+    {
+      "phrase": "with barmaid",
+      "tag": "barmaid"
+    },
+    {
+      "phrase": "bartender",
+      "tag": "bartender"
+    },
+    {
+      "phrase": "showing bartender",
+      "tag": "bartender"
+    },
+    {
+      "phrase": "with bartender",
+      "tag": "bartender"
+    },
+    {
+      "phrase": "bat boy",
+      "tag": "bat_boy"
+    },
+    {
+      "phrase": "bat boy detail",
+      "tag": "bat_boy"
+    },
+    {
+      "phrase": "with bat boy",
+      "tag": "bat_boy"
+    },
+    {
+      "phrase": "bat girl",
+      "tag": "bat_girl"
+    },
+    {
+      "phrase": "bat girl detail",
+      "tag": "bat_girl"
+    },
+    {
+      "phrase": "with bat girl",
+      "tag": "bat_girl"
+    },
+    {
+      "phrase": "batter",
+      "tag": "batter"
+    },
+    {
+      "phrase": "showing batter",
+      "tag": "batter"
+    },
+    {
+      "phrase": "with batter",
+      "tag": "batter"
+    },
+    {
+      "phrase": "battle scarred",
+      "tag": "battle_scarred"
+    },
+    {
+      "phrase": "battle scarred detail",
+      "tag": "battle_scarred"
+    },
+    {
+      "phrase": "with battle scarred",
+      "tag": "battle_scarred"
+    },
+    {
+      "phrase": "bear boy",
+      "tag": "bear_boy"
+    },
+    {
+      "phrase": "bear boy detail",
+      "tag": "bear_boy"
+    },
+    {
+      "phrase": "with bear boy",
+      "tag": "bear_boy"
+    },
+    {
+      "phrase": "bear girl",
+      "tag": "bear_girl"
+    },
+    {
+      "phrase": "bear girl detail",
+      "tag": "bear_girl"
+    },
+    {
+      "phrase": "with bear girl",
+      "tag": "bear_girl"
+    },
+    {
+      "phrase": "bearded girl",
+      "tag": "bearded_girl"
+    },
+    {
+      "phrase": "bearded girl detail",
+      "tag": "bearded_girl"
+    },
+    {
+      "phrase": "with bearded girl",
+      "tag": "bearded_girl"
+    },
+    {
+      "phrase": "bee boy",
+      "tag": "bee_boy"
+    },
+    {
+      "phrase": "bee boy detail",
+      "tag": "bee_boy"
+    },
+    {
+      "phrase": "with bee boy",
+      "tag": "bee_boy"
+    },
+    {
+      "phrase": "bee girl",
+      "tag": "bee_girl"
+    },
+    {
+      "phrase": "bee girl detail",
+      "tag": "bee_girl"
+    },
+    {
+      "phrase": "with bee girl",
+      "tag": "bee_girl"
+    },
+    {
+      "phrase": "beetle boy",
+      "tag": "beetle_boy"
+    },
+    {
+      "phrase": "beetle boy detail",
+      "tag": "beetle_boy"
+    },
+    {
+      "phrase": "with beetle boy",
+      "tag": "beetle_boy"
+    },
+    {
+      "phrase": "beetle girl",
+      "tag": "beetle_girl"
+    },
+    {
+      "phrase": "beetle girl detail",
+      "tag": "beetle_girl"
+    },
+    {
+      "phrase": "with beetle girl",
+      "tag": "beetle_girl"
+    },
+    {
+      "phrase": "bird boy",
+      "tag": "bird_boy"
+    },
+    {
+      "phrase": "bird boy detail",
+      "tag": "bird_boy"
+    },
+    {
+      "phrase": "with bird boy",
+      "tag": "bird_boy"
+    },
+    {
+      "phrase": "bird girl",
+      "tag": "bird_girl"
+    },
+    {
+      "phrase": "bird girl detail",
+      "tag": "bird_girl"
+    },
+    {
+      "phrase": "with bird girl",
+      "tag": "bird_girl"
+    },
+    {
+      "phrase": "bisexual female",
+      "tag": "bisexual_female"
+    },
+    {
+      "phrase": "bisexual female detail",
+      "tag": "bisexual_female"
+    },
+    {
+      "phrase": "with bisexual female",
+      "tag": "bisexual_female"
+    },
+    {
+      "phrase": "bisexual male",
+      "tag": "bisexual_male"
+    },
+    {
+      "phrase": "bisexual male detail",
+      "tag": "bisexual_male"
+    },
+    {
+      "phrase": "with bisexual male",
+      "tag": "bisexual_male"
+    },
+    {
+      "phrase": "bishounen",
+      "tag": "bishounen"
+    },
+    {
+      "phrase": "showing bishounen",
+      "tag": "bishounen"
+    },
+    {
+      "phrase": "with bishounen",
+      "tag": "bishounen"
+    },
+    {
+      "phrase": "bite mark on chest",
+      "tag": "bite_mark_on_chest"
+    },
+    {
+      "phrase": "bite mark on chest detail",
+      "tag": "bite_mark_on_chest"
+    },
+    {
+      "phrase": "with bite mark on chest",
+      "tag": "bite_mark_on_chest"
+    },
+    {
+      "phrase": "blacksmith",
+      "tag": "blacksmith"
+    },
+    {
+      "phrase": "showing blacksmith",
+      "tag": "blacksmith"
+    },
+    {
+      "phrase": "with blacksmith",
+      "tag": "blacksmith"
+    },
+    {
+      "phrase": "blind",
+      "tag": "blind"
+    },
+    {
+      "phrase": "showing blind",
+      "tag": "blind"
+    },
+    {
+      "phrase": "with blind",
+      "tag": "blind"
+    },
+    {
+      "phrase": "bloated",
+      "tag": "bloated"
+    },
+    {
+      "phrase": "showing bloated",
+      "tag": "bloated"
+    },
+    {
+      "phrase": "with bloated",
+      "tag": "bloated"
+    },
+    {
+      "phrase": "bloomers",
+      "tag": "bloomers"
+    },
+    {
+      "phrase": "showing bloomers",
+      "tag": "bloomers"
+    },
+    {
+      "phrase": "with bloomers",
+      "tag": "bloomers"
+    },
+    {
+      "phrase": "boar boy",
+      "tag": "boar_boy"
+    },
+    {
+      "phrase": "boar boy detail",
+      "tag": "boar_boy"
+    },
+    {
+      "phrase": "with boar boy",
+      "tag": "boar_boy"
+    },
+    {
+      "phrase": "bodyguard",
+      "tag": "bodyguard"
+    },
+    {
+      "phrase": "showing bodyguard",
+      "tag": "bodyguard"
+    },
+    {
+      "phrase": "with bodyguard",
+      "tag": "bodyguard"
+    },
+    {
+      "phrase": "breast conscious",
+      "tag": "breast_conscious"
+    },
+    {
+      "phrase": "breast conscious detail",
+      "tag": "breast_conscious"
+    },
+    {
+      "phrase": "with breast conscious",
+      "tag": "breast_conscious"
+    },
+    {
+      "phrase": "breast envy",
+      "tag": "breast_envy"
+    },
+    {
+      "phrase": "breast envy detail",
+      "tag": "breast_envy"
+    },
+    {
+      "phrase": "with breast envy",
+      "tag": "breast_envy"
+    },
+    {
+      "phrase": "bride",
+      "tag": "bride"
+    },
+    {
+      "phrase": "showing bride",
+      "tag": "bride"
+    },
+    {
+      "phrase": "with bride",
+      "tag": "bride"
+    },
+    {
+      "phrase": "brother and sister",
+      "tag": "brother_and_sister"
+    },
+    {
+      "phrase": "brother and sister detail",
+      "tag": "brother_and_sister"
+    },
+    {
+      "phrase": "with brother and sister",
+      "tag": "brother_and_sister"
+    },
+    {
+      "phrase": "brothers",
+      "tag": "brothers"
+    },
+    {
+      "phrase": "showing brothers",
+      "tag": "brothers"
+    },
+    {
+      "phrase": "with brothers",
+      "tag": "brothers"
+    },
+    {
+      "phrase": "bruise on chest",
+      "tag": "bruise_on_chest"
+    },
+    {
+      "phrase": "bruise on chest detail",
+      "tag": "bruise_on_chest"
+    },
+    {
+      "phrase": "with bruise on chest",
+      "tag": "bruise_on_chest"
+    },
+    {
+      "phrase": "buddhist nun",
+      "tag": "buddhist_nun"
+    },
+    {
+      "phrase": "buddhist nun detail",
+      "tag": "buddhist_nun"
+    },
+    {
+      "phrase": "with buddhist nun",
+      "tag": "buddhist_nun"
+    },
+    {
+      "phrase": "butler",
+      "tag": "butler"
+    },
+    {
+      "phrase": "showing butler",
+      "tag": "butler"
+    },
+    {
+      "phrase": "with butler",
+      "tag": "butler"
+    },
+    {
+      "phrase": "butterfly girl",
+      "tag": "butterfly_girl"
+    },
+    {
+      "phrase": "butterfly girl detail",
+      "tag": "butterfly_girl"
+    },
+    {
+      "phrase": "with butterfly girl",
+      "tag": "butterfly_girl"
+    },
+    {
+      "phrase": "cactus girl",
+      "tag": "cactus_girl"
+    },
+    {
+      "phrase": "cactus girl detail",
+      "tag": "cactus_girl"
+    },
+    {
+      "phrase": "with cactus girl",
+      "tag": "cactus_girl"
+    },
+    {
+      "phrase": "camel girl",
+      "tag": "camel_girl"
+    },
+    {
+      "phrase": "camel girl detail",
+      "tag": "camel_girl"
+    },
+    {
+      "phrase": "with camel girl",
+      "tag": "camel_girl"
+    },
+    {
+      "phrase": "capybara girl",
+      "tag": "capybara_girl"
+    },
+    {
+      "phrase": "capybara girl detail",
+      "tag": "capybara_girl"
+    },
+    {
+      "phrase": "with capybara girl",
+      "tag": "capybara_girl"
+    },
+    {
+      "phrase": "carhop",
+      "tag": "carhop"
+    },
+    {
+      "phrase": "showing carhop",
+      "tag": "carhop"
+    },
+    {
+      "phrase": "with carhop",
+      "tag": "carhop"
+    },
+    {
+      "phrase": "carpenter",
+      "tag": "carpenter"
+    },
+    {
+      "phrase": "showing carpenter",
+      "tag": "carpenter"
+    },
+    {
+      "phrase": "with carpenter",
+      "tag": "carpenter"
+    },
+    {
+      "phrase": "cashier",
+      "tag": "cashier"
+    },
+    {
+      "phrase": "showing cashier",
+      "tag": "cashier"
+    },
+    {
+      "phrase": "with cashier",
+      "tag": "cashier"
+    },
+    {
+      "phrase": "casual",
+      "tag": "casual"
+    },
+    {
+      "phrase": "showing casual",
+      "tag": "casual"
+    },
+    {
+      "phrase": "with casual",
+      "tag": "casual"
+    },
+    {
+      "phrase": "cat boy",
+      "tag": "cat_boy"
+    },
+    {
+      "phrase": "cat boy detail",
+      "tag": "cat_boy"
+    },
+    {
+      "phrase": "with cat boy",
+      "tag": "cat_boy"
+    },
+    {
+      "phrase": "cat girl",
+      "tag": "cat_girl"
+    },
+    {
+      "phrase": "cat girl detail",
+      "tag": "cat_girl"
+    },
+    {
+      "phrase": "with cat girl",
+      "tag": "cat_girl"
+    },
+    {
+      "phrase": "catcher",
+      "tag": "catcher_(baseball)"
+    },
+    {
+      "phrase": "catcher baseball",
+      "tag": "catcher_(baseball)"
+    },
+    {
+      "phrase": "showing catcher",
+      "tag": "catcher_(baseball)"
+    },
+    {
+      "phrase": "with catcher",
+      "tag": "catcher_(baseball)"
+    },
+    {
+      "phrase": "caterpillar girl",
+      "tag": "caterpillar_girl"
+    },
+    {
+      "phrase": "caterpillar girl detail",
+      "tag": "caterpillar_girl"
+    },
+    {
+      "phrase": "with caterpillar girl",
+      "tag": "caterpillar_girl"
+    },
+    {
+      "phrase": "caveman",
+      "tag": "caveman"
+    },
+    {
+      "phrase": "showing caveman",
+      "tag": "caveman"
+    },
+    {
+      "phrase": "with caveman",
+      "tag": "caveman"
+    },
+    {
+      "phrase": "centipede boy",
+      "tag": "centipede_boy"
+    },
+    {
+      "phrase": "centipede boy detail",
+      "tag": "centipede_boy"
+    },
+    {
+      "phrase": "with centipede boy",
+      "tag": "centipede_boy"
+    },
+    {
+      "phrase": "centipede girl",
+      "tag": "centipede_girl"
+    },
+    {
+      "phrase": "centipede girl detail",
+      "tag": "centipede_girl"
+    },
+    {
+      "phrase": "with centipede girl",
+      "tag": "centipede_girl"
+    },
+    {
+      "phrase": "chameleon boy",
+      "tag": "chameleon_boy"
+    },
+    {
+      "phrase": "chameleon boy detail",
+      "tag": "chameleon_boy"
+    },
+    {
+      "phrase": "with chameleon boy",
+      "tag": "chameleon_boy"
+    },
+    {
+      "phrase": "chameleon girl",
+      "tag": "chameleon_girl"
+    },
+    {
+      "phrase": "chameleon girl detail",
+      "tag": "chameleon_girl"
+    },
+    {
+      "phrase": "with chameleon girl",
+      "tag": "chameleon_girl"
+    },
+    {
+      "phrase": "cheerleader",
+      "tag": "cheerleader"
+    },
+    {
+      "phrase": "showing cheerleader",
+      "tag": "cheerleader"
+    },
+    {
+      "phrase": "with cheerleader",
+      "tag": "cheerleader"
+    },
+    {
+      "phrase": "cheetah boy",
+      "tag": "cheetah_boy"
+    },
+    {
+      "phrase": "cheetah boy detail",
+      "tag": "cheetah_boy"
+    },
+    {
+      "phrase": "with cheetah boy",
+      "tag": "cheetah_boy"
+    },
+    {
+      "phrase": "cheetah girl",
+      "tag": "cheetah_girl"
+    },
+    {
+      "phrase": "cheetah girl detail",
+      "tag": "cheetah_girl"
+    },
+    {
+      "phrase": "with cheetah girl",
+      "tag": "cheetah_girl"
+    },
+    {
+      "phrase": "chef",
+      "tag": "chef"
+    },
+    {
+      "phrase": "showing chef",
+      "tag": "chef"
+    },
+    {
+      "phrase": "with chef",
+      "tag": "chef"
+    },
+    {
+      "phrase": "cherry girls",
+      "tag": "cherry_girls"
+    },
+    {
+      "phrase": "cherry girls detail",
+      "tag": "cherry_girls"
+    },
+    {
+      "phrase": "with cherry girls",
+      "tag": "cherry_girls"
+    },
+    {
+      "phrase": "chicken boy",
+      "tag": "chicken_boy"
+    },
+    {
+      "phrase": "chicken boy detail",
+      "tag": "chicken_boy"
+    },
+    {
+      "phrase": "with chicken boy",
+      "tag": "chicken_boy"
+    },
+    {
+      "phrase": "chicken girl",
+      "tag": "chicken_girl"
+    },
+    {
+      "phrase": "chicken girl detail",
+      "tag": "chicken_girl"
+    },
+    {
+      "phrase": "with chicken girl",
+      "tag": "chicken_girl"
+    },
+    {
+      "phrase": "child",
+      "tag": "child"
+    },
+    {
+      "phrase": "showing child",
+      "tag": "child"
+    },
+    {
+      "phrase": "with child",
+      "tag": "child"
+    },
+    {
+      "phrase": "chinchilla girl",
+      "tag": "chinchilla_girl"
+    },
+    {
+      "phrase": "chinchilla girl detail",
+      "tag": "chinchilla_girl"
+    },
+    {
+      "phrase": "with chinchilla girl",
+      "tag": "chinchilla_girl"
+    },
+    {
+      "phrase": "chipmunk girl",
+      "tag": "chipmunk_girl"
+    },
+    {
+      "phrase": "chipmunk girl detail",
+      "tag": "chipmunk_girl"
+    },
+    {
+      "phrase": "with chipmunk girl",
+      "tag": "chipmunk_girl"
+    },
+    {
+      "phrase": "choco girl",
+      "tag": "choco_girl"
+    },
+    {
+      "phrase": "choco girl detail",
+      "tag": "choco_girl"
+    },
+    {
+      "phrase": "with choco girl",
+      "tag": "choco_girl"
+    },
+    {
+      "phrase": "chuunibyou",
+      "tag": "chuunibyou"
+    },
+    {
+      "phrase": "showing chuunibyou",
+      "tag": "chuunibyou"
+    },
+    {
+      "phrase": "with chuunibyou",
+      "tag": "chuunibyou"
+    },
+    {
+      "phrase": "clone",
+      "tag": "clone"
+    },
+    {
+      "phrase": "showing clone",
+      "tag": "clone"
+    },
+    {
+      "phrase": "with clone",
+      "tag": "clone"
+    },
+    {
+      "phrase": "clown",
+      "tag": "clown"
+    },
+    {
+      "phrase": "showing clown",
+      "tag": "clown"
+    },
+    {
+      "phrase": "with clown",
+      "tag": "clown"
+    },
+    {
+      "phrase": "clumsy",
+      "tag": "clumsy"
+    },
+    {
+      "phrase": "showing clumsy",
+      "tag": "clumsy"
+    },
+    {
+      "phrase": "with clumsy",
+      "tag": "clumsy"
+    },
+    {
+      "phrase": "coach",
+      "tag": "coach"
+    },
+    {
+      "phrase": "showing coach",
+      "tag": "coach"
+    },
+    {
+      "phrase": "with coach",
+      "tag": "coach"
+    },
+    {
+      "phrase": "cockroach girl",
+      "tag": "cockroach_girl"
+    },
+    {
+      "phrase": "cockroach girl detail",
+      "tag": "cockroach_girl"
+    },
+    {
+      "phrase": "with cockroach girl",
+      "tag": "cockroach_girl"
+    },
+    {
+      "phrase": "conductor",
+      "tag": "conductor"
+    },
+    {
+      "phrase": "showing conductor",
+      "tag": "conductor"
+    },
+    {
+      "phrase": "with conductor",
+      "tag": "conductor"
+    },
+    {
+      "phrase": "conjoined",
+      "tag": "conjoined"
+    },
+    {
+      "phrase": "showing conjoined",
+      "tag": "conjoined"
+    },
+    {
+      "phrase": "with conjoined",
+      "tag": "conjoined"
+    },
+    {
+      "phrase": "contemporary",
+      "tag": "contemporary"
+    },
+    {
+      "phrase": "showing contemporary",
+      "tag": "contemporary"
+    },
+    {
+      "phrase": "with contemporary",
+      "tag": "contemporary"
+    },
+    {
+      "phrase": "cow boy",
+      "tag": "cow_boy"
+    },
+    {
+      "phrase": "cow boy detail",
+      "tag": "cow_boy"
+    },
+    {
+      "phrase": "with cow boy",
+      "tag": "cow_boy"
+    },
+    {
+      "phrase": "cow girl",
+      "tag": "cow_girl"
+    },
+    {
+      "phrase": "cow girl detail",
+      "tag": "cow_girl"
+    },
+    {
+      "phrase": "with cow girl",
+      "tag": "cow_girl"
+    },
+    {
+      "phrase": "cowboy",
+      "tag": "cowboy"
+    },
+    {
+      "phrase": "showing cowboy",
+      "tag": "cowboy"
+    },
+    {
+      "phrase": "with cowboy",
+      "tag": "cowboy"
+    },
+    {
+      "phrase": "cowgirl",
+      "tag": "cowgirl_(western)"
+    },
+    {
+      "phrase": "cowgirl western",
+      "tag": "cowgirl_(western)"
+    },
+    {
+      "phrase": "showing cowgirl",
+      "tag": "cowgirl_(western)"
+    },
+    {
+      "phrase": "with cowgirl",
+      "tag": "cowgirl_(western)"
+    },
+    {
+      "phrase": "coyote boy",
+      "tag": "coyote_boy"
+    },
+    {
+      "phrase": "coyote boy detail",
+      "tag": "coyote_boy"
+    },
+    {
+      "phrase": "with coyote boy",
+      "tag": "coyote_boy"
+    },
+    {
+      "phrase": "crab girl",
+      "tag": "crab_girl"
+    },
+    {
+      "phrase": "crab girl detail",
+      "tag": "crab_girl"
+    },
+    {
+      "phrase": "with crab girl",
+      "tag": "crab_girl"
+    },
+    {
+      "phrase": "crocodile boy",
+      "tag": "crocodile_boy"
+    },
+    {
+      "phrase": "crocodile boy detail",
+      "tag": "crocodile_boy"
+    },
+    {
+      "phrase": "with crocodile boy",
+      "tag": "crocodile_boy"
+    },
+    {
+      "phrase": "crocodile girl",
+      "tag": "crocodile_girl"
+    },
+    {
+      "phrase": "crocodile girl detail",
+      "tag": "crocodile_girl"
+    },
+    {
+      "phrase": "with crocodile girl",
+      "tag": "crocodile_girl"
+    },
+    {
+      "phrase": "croupier",
+      "tag": "croupier"
+    },
+    {
+      "phrase": "showing croupier",
+      "tag": "croupier"
+    },
+    {
+      "phrase": "with croupier",
+      "tag": "croupier"
+    },
+    {
+      "phrase": "curvy",
+      "tag": "curvy"
+    },
+    {
+      "phrase": "showing curvy",
+      "tag": "curvy"
+    },
+    {
+      "phrase": "with curvy",
+      "tag": "curvy"
+    },
+    {
+      "phrase": "dancer",
+      "tag": "dancer"
+    },
+    {
+      "phrase": "showing dancer",
+      "tag": "dancer"
+    },
+    {
+      "phrase": "with dancer",
+      "tag": "dancer"
+    },
+    {
+      "phrase": "dancer",
+      "tag": "dancer_(fire_emblem:_three_houses)"
+    },
+    {
+      "phrase": "dancer fire emblem: three houses",
+      "tag": "dancer_(fire_emblem:_three_houses)"
+    },
+    {
+      "phrase": "showing dancer",
+      "tag": "dancer_(fire_emblem:_three_houses)"
+    },
+    {
+      "phrase": "with dancer",
+      "tag": "dancer_(fire_emblem:_three_houses)"
+    },
+    {
+      "phrase": "dark-skinned female",
+      "tag": "dark-skinned_female"
+    },
+    {
+      "phrase": "dark-skinned female detail",
+      "tag": "dark-skinned_female"
+    },
+    {
+      "phrase": "with dark-skinned female",
+      "tag": "dark-skinned_female"
+    },
+    {
+      "phrase": "dark-skinned male",
+      "tag": "dark-skinned_male"
+    },
+    {
+      "phrase": "dark-skinned male detail",
+      "tag": "dark-skinned_male"
+    },
+    {
+      "phrase": "with dark-skinned male",
+      "tag": "dark-skinned_male"
+    },
+    {
+      "phrase": "dark bride",
+      "tag": "dark_bride"
+    },
+    {
+      "phrase": "dark bride detail",
+      "tag": "dark_bride"
+    },
+    {
+      "phrase": "with dark bride",
+      "tag": "dark_bride"
+    },
+    {
+      "phrase": "dark elf",
+      "tag": "dark_elf"
+    },
+    {
+      "phrase": "showing dark elf",
+      "tag": "dark_elf"
+    },
+    {
+      "phrase": "with dark elf",
+      "tag": "dark_elf"
+    },
+    {
+      "phrase": "dark skin",
+      "tag": "dark_skin"
+    },
+    {
+      "phrase": "dark skin detail",
+      "tag": "dark_skin"
+    },
+    {
+      "phrase": "with dark skin",
+      "tag": "dark_skin"
+    },
+    {
+      "phrase": "deer boy",
+      "tag": "deer_boy"
+    },
+    {
+      "phrase": "deer boy detail",
+      "tag": "deer_boy"
+    },
+    {
+      "phrase": "with deer boy",
+      "tag": "deer_boy"
+    },
+    {
+      "phrase": "deer girl",
+      "tag": "deer_girl"
+    },
+    {
+      "phrase": "deer girl detail",
+      "tag": "deer_girl"
+    },
+    {
+      "phrase": "with deer girl",
+      "tag": "deer_girl"
+    },
+    {
+      "phrase": "delinquent",
+      "tag": "delinquent"
+    },
+    {
+      "phrase": "showing delinquent",
+      "tag": "delinquent"
+    },
+    {
+      "phrase": "with delinquent",
+      "tag": "delinquent"
+    },
+    {
+      "phrase": "demon boy",
+      "tag": "demon_boy"
+    },
+    {
+      "phrase": "demon boy detail",
+      "tag": "demon_boy"
+    },
+    {
+      "phrase": "with demon boy",
+      "tag": "demon_boy"
+    },
+    {
+      "phrase": "demon girl",
+      "tag": "demon_girl"
+    },
+    {
+      "phrase": "demon girl detail",
+      "tag": "demon_girl"
+    },
+    {
+      "phrase": "with demon girl",
+      "tag": "demon_girl"
+    },
+    {
+      "phrase": "detective",
+      "tag": "detective"
+    },
+    {
+      "phrase": "showing detective",
+      "tag": "detective"
+    },
+    {
+      "phrase": "with detective",
+      "tag": "detective"
+    },
+    {
+      "phrase": "digitigrade",
+      "tag": "digitigrade"
+    },
+    {
+      "phrase": "showing digitigrade",
+      "tag": "digitigrade"
+    },
+    {
+      "phrase": "with digitigrade",
+      "tag": "digitigrade"
+    },
+    {
+      "phrase": "dinosaur boy",
+      "tag": "dinosaur_boy"
+    },
+    {
+      "phrase": "dinosaur boy detail",
+      "tag": "dinosaur_boy"
+    },
+    {
+      "phrase": "with dinosaur boy",
+      "tag": "dinosaur_boy"
+    },
+    {
+      "phrase": "dinosaur girl",
+      "tag": "dinosaur_girl"
+    },
+    {
+      "phrase": "dinosaur girl detail",
+      "tag": "dinosaur_girl"
+    },
+    {
+      "phrase": "with dinosaur girl",
+      "tag": "dinosaur_girl"
+    },
+    {
+      "phrase": "dirty",
+      "tag": "dirty"
+    },
+    {
+      "phrase": "showing dirty",
+      "tag": "dirty"
+    },
+    {
+      "phrase": "with dirty",
+      "tag": "dirty"
+    },
+    {
+      "phrase": "disheveled",
+      "tag": "disheveled"
+    },
+    {
+      "phrase": "showing disheveled",
+      "tag": "disheveled"
+    },
+    {
+      "phrase": "with disheveled",
+      "tag": "disheveled"
+    },
+    {
+      "phrase": "divine entity",
+      "tag": "divine_entity"
+    },
+    {
+      "phrase": "divine entity detail",
+      "tag": "divine_entity"
+    },
+    {
+      "phrase": "with divine entity",
+      "tag": "divine_entity"
+    },
+    {
+      "phrase": "dj",
+      "tag": "dj"
+    },
+    {
+      "phrase": "showing dj",
+      "tag": "dj"
+    },
+    {
+      "phrase": "with dj",
+      "tag": "dj"
+    },
+    {
+      "phrase": "doctor",
+      "tag": "doctor"
+    },
+    {
+      "phrase": "showing doctor",
+      "tag": "doctor"
+    },
+    {
+      "phrase": "with doctor",
+      "tag": "doctor"
+    },
+    {
+      "phrase": "dog boy",
+      "tag": "dog_boy"
+    },
+    {
+      "phrase": "dog boy detail",
+      "tag": "dog_boy"
+    },
+    {
+      "phrase": "with dog boy",
+      "tag": "dog_boy"
+    },
+    {
+      "phrase": "dog girl",
+      "tag": "dog_girl"
+    },
+    {
+      "phrase": "dog girl detail",
+      "tag": "dog_girl"
+    },
+    {
+      "phrase": "with dog girl",
+      "tag": "dog_girl"
+    },
+    {
+      "phrase": "dolphin girl",
+      "tag": "dolphin_girl"
+    },
+    {
+      "phrase": "dolphin girl detail",
+      "tag": "dolphin_girl"
+    },
+    {
+      "phrase": "with dolphin girl",
+      "tag": "dolphin_girl"
+    },
+    {
+      "phrase": "dominatrix",
+      "tag": "dominatrix"
+    },
+    {
+      "phrase": "showing dominatrix",
+      "tag": "dominatrix"
+    },
+    {
+      "phrase": "with dominatrix",
+      "tag": "dominatrix"
+    },
+    {
+      "phrase": "donkey girl",
+      "tag": "donkey_girl"
+    },
+    {
+      "phrase": "donkey girl detail",
+      "tag": "donkey_girl"
+    },
+    {
+      "phrase": "with donkey girl",
+      "tag": "donkey_girl"
+    },
+    {
+      "phrase": "dragon boy",
+      "tag": "dragon_boy"
+    },
+    {
+      "phrase": "dragon boy detail",
+      "tag": "dragon_boy"
+    },
+    {
+      "phrase": "with dragon boy",
+      "tag": "dragon_boy"
+    },
+    {
+      "phrase": "dragon girl",
+      "tag": "dragon_girl"
+    },
+    {
+      "phrase": "dragon girl detail",
+      "tag": "dragon_girl"
+    },
+    {
+      "phrase": "with dragon girl",
+      "tag": "dragon_girl"
+    },
+    {
+      "phrase": "drunk",
+      "tag": "drunk"
+    },
+    {
+      "phrase": "showing drunk",
+      "tag": "drunk"
+    },
+    {
+      "phrase": "with drunk",
+      "tag": "drunk"
+    },
+    {
+      "phrase": "dual persona",
+      "tag": "dual_persona"
+    },
+    {
+      "phrase": "dual persona detail",
+      "tag": "dual_persona"
+    },
+    {
+      "phrase": "with dual persona",
+      "tag": "dual_persona"
+    },
+    {
+      "phrase": "duck boy",
+      "tag": "duck_boy"
+    },
+    {
+      "phrase": "duck boy detail",
+      "tag": "duck_boy"
+    },
+    {
+      "phrase": "with duck boy",
+      "tag": "duck_boy"
+    },
+    {
+      "phrase": "duck girl",
+      "tag": "duck_girl"
+    },
+    {
+      "phrase": "duck girl detail",
+      "tag": "duck_girl"
+    },
+    {
+      "phrase": "with duck girl",
+      "tag": "duck_girl"
+    },
+    {
+      "phrase": "eel boy",
+      "tag": "eel_boy"
+    },
+    {
+      "phrase": "eel boy detail",
+      "tag": "eel_boy"
+    },
+    {
+      "phrase": "with eel boy",
+      "tag": "eel_boy"
+    },
+    {
+      "phrase": "eel girl",
+      "tag": "eel_girl"
+    },
+    {
+      "phrase": "eel girl detail",
+      "tag": "eel_girl"
+    },
+    {
+      "phrase": "with eel girl",
+      "tag": "eel_girl"
+    },
+    {
+      "phrase": "elephant boy",
+      "tag": "elephant_boy"
+    },
+    {
+      "phrase": "elephant boy detail",
+      "tag": "elephant_boy"
+    },
+    {
+      "phrase": "with elephant boy",
+      "tag": "elephant_boy"
+    },
+    {
+      "phrase": "elephant girl",
+      "tag": "elephant_girl"
+    },
+    {
+      "phrase": "elephant girl detail",
+      "tag": "elephant_girl"
+    },
+    {
+      "phrase": "with elephant girl",
+      "tag": "elephant_girl"
+    },
+    {
+      "phrase": "emaciated",
+      "tag": "emaciated"
+    },
+    {
+      "phrase": "showing emaciated",
+      "tag": "emaciated"
+    },
+    {
+      "phrase": "with emaciated",
+      "tag": "emaciated"
+    },
+    {
+      "phrase": "enmaided",
+      "tag": "enmaided"
+    },
+    {
+      "phrase": "showing enmaided",
+      "tag": "enmaided"
+    },
+    {
+      "phrase": "with enmaided",
+      "tag": "enmaided"
+    },
+    {
+      "phrase": "fabulous",
+      "tag": "fabulous"
+    },
+    {
+      "phrase": "showing fabulous",
+      "tag": "fabulous"
+    },
+    {
+      "phrase": "with fabulous",
+      "tag": "fabulous"
+    },
+    {
+      "phrase": "faceless female",
+      "tag": "faceless_female"
+    },
+    {
+      "phrase": "faceless female detail",
+      "tag": "faceless_female"
+    },
+    {
+      "phrase": "with faceless female",
+      "tag": "faceless_female"
+    },
+    {
+      "phrase": "faceless male",
+      "tag": "faceless_male"
+    },
+    {
+      "phrase": "faceless male detail",
+      "tag": "faceless_male"
+    },
+    {
+      "phrase": "with faceless male",
+      "tag": "faceless_male"
+    },
+    {
+      "phrase": "fantasy",
+      "tag": "fantasy"
+    },
+    {
+      "phrase": "showing fantasy",
+      "tag": "fantasy"
+    },
+    {
+      "phrase": "with fantasy",
+      "tag": "fantasy"
+    },
+    {
+      "phrase": "farmer",
+      "tag": "farmer"
+    },
+    {
+      "phrase": "showing farmer",
+      "tag": "farmer"
+    },
+    {
+      "phrase": "with farmer",
+      "tag": "farmer"
+    },
+    {
+      "phrase": "farmer's tan",
+      "tag": "farmer's_tan"
+    },
+    {
+      "phrase": "farmer's tan detail",
+      "tag": "farmer's_tan"
+    },
+    {
+      "phrase": "with farmer's tan",
+      "tag": "farmer's_tan"
+    },
+    {
+      "phrase": "fat",
+      "tag": "fat"
+    },
+    {
+      "phrase": "showing fat",
+      "tag": "fat"
+    },
+    {
+      "phrase": "with fat",
+      "tag": "fat"
+    },
+    {
+      "phrase": "fat man",
+      "tag": "fat_man"
+    },
+    {
+      "phrase": "fat man detail",
+      "tag": "fat_man"
+    },
+    {
+      "phrase": "with fat man",
+      "tag": "fat_man"
+    },
+    {
+      "phrase": "fatherly",
+      "tag": "fatherly"
+    },
+    {
+      "phrase": "showing fatherly",
+      "tag": "fatherly"
+    },
+    {
+      "phrase": "with fatherly",
+      "tag": "fatherly"
+    },
+    {
+      "phrase": "female butler",
+      "tag": "female_butler"
+    },
+    {
+      "phrase": "female butler detail",
+      "tag": "female_butler"
+    },
+    {
+      "phrase": "with female butler",
+      "tag": "female_butler"
+    },
+    {
+      "phrase": "female pervert",
+      "tag": "female_pervert"
+    },
+    {
+      "phrase": "female pervert detail",
+      "tag": "female_pervert"
+    },
+    {
+      "phrase": "with female pervert",
+      "tag": "female_pervert"
+    },
+    {
+      "phrase": "feral instincts",
+      "tag": "feral_instincts"
+    },
+    {
+      "phrase": "feral instincts detail",
+      "tag": "feral_instincts"
+    },
+    {
+      "phrase": "with feral instincts",
+      "tag": "feral_instincts"
+    },
+    {
+      "phrase": "ferret girl",
+      "tag": "ferret_girl"
+    },
+    {
+      "phrase": "ferret girl detail",
+      "tag": "ferret_girl"
+    },
+    {
+      "phrase": "with ferret girl",
+      "tag": "ferret_girl"
+    },
+    {
+      "phrase": "fever",
+      "tag": "fever"
+    },
+    {
+      "phrase": "showing fever",
+      "tag": "fever"
+    },
+    {
+      "phrase": "with fever",
+      "tag": "fever"
+    },
+    {
+      "phrase": "fewer digits",
+      "tag": "fewer_digits"
+    },
+    {
+      "phrase": "fewer digits detail",
+      "tag": "fewer_digits"
+    },
+    {
+      "phrase": "with fewer digits",
+      "tag": "fewer_digits"
+    },
+    {
+      "phrase": "firefighter",
+      "tag": "firefighter"
+    },
+    {
+      "phrase": "showing firefighter",
+      "tag": "firefighter"
+    },
+    {
+      "phrase": "with firefighter",
+      "tag": "firefighter"
+    },
+    {
+      "phrase": "fish boy",
+      "tag": "fish_boy"
+    },
+    {
+      "phrase": "fish boy detail",
+      "tag": "fish_boy"
+    },
+    {
+      "phrase": "with fish boy",
+      "tag": "fish_boy"
+    },
+    {
+      "phrase": "fish girl",
+      "tag": "fish_girl"
+    },
+    {
+      "phrase": "fish girl detail",
+      "tag": "fish_girl"
+    },
+    {
+      "phrase": "with fish girl",
+      "tag": "fish_girl"
+    },
+    {
+      "phrase": "flapper girl",
+      "tag": "flapper_girl"
+    },
+    {
+      "phrase": "flapper girl detail",
+      "tag": "flapper_girl"
+    },
+    {
+      "phrase": "with flapper girl",
+      "tag": "flapper_girl"
+    },
+    {
+      "phrase": "flat color",
+      "tag": "flat_color"
+    },
+    {
+      "phrase": "flat color detail",
+      "tag": "flat_color"
+    },
+    {
+      "phrase": "with flat color",
+      "tag": "flat_color"
+    },
+    {
+      "phrase": "flexible",
+      "tag": "flexible"
+    },
+    {
+      "phrase": "showing flexible",
+      "tag": "flexible"
+    },
+    {
+      "phrase": "with flexible",
+      "tag": "flexible"
+    },
+    {
+      "phrase": "flight attendant",
+      "tag": "flight_attendant"
+    },
+    {
+      "phrase": "flight attendant detail",
+      "tag": "flight_attendant"
+    },
+    {
+      "phrase": "with flight attendant",
+      "tag": "flight_attendant"
+    },
+    {
+      "phrase": "florist",
+      "tag": "florist"
+    },
+    {
+      "phrase": "showing florist",
+      "tag": "florist"
+    },
+    {
+      "phrase": "with florist",
+      "tag": "florist"
+    },
+    {
+      "phrase": "fluff",
+      "tag": "fluff"
+    },
+    {
+      "phrase": "showing fluff",
+      "tag": "fluff"
+    },
+    {
+      "phrase": "with fluff",
+      "tag": "fluff"
+    },
+    {
+      "phrase": "fluffy",
+      "tag": "fluffy"
+    },
+    {
+      "phrase": "showing fluffy",
+      "tag": "fluffy"
+    },
+    {
+      "phrase": "with fluffy",
+      "tag": "fluffy"
+    },
+    {
+      "phrase": "fox boy",
+      "tag": "fox_boy"
+    },
+    {
+      "phrase": "fox boy detail",
+      "tag": "fox_boy"
+    },
+    {
+      "phrase": "with fox boy",
+      "tag": "fox_boy"
+    },
+    {
+      "phrase": "fox girl",
+      "tag": "fox_girl"
+    },
+    {
+      "phrase": "fox girl detail",
+      "tag": "fox_girl"
+    },
+    {
+      "phrase": "with fox girl",
+      "tag": "fox_girl"
+    },
+    {
+      "phrase": "freckles",
+      "tag": "freckles"
+    },
+    {
+      "phrase": "showing freckles",
+      "tag": "freckles"
+    },
+    {
+      "phrase": "with freckles",
+      "tag": "freckles"
+    },
+    {
+      "phrase": "french girly",
+      "tag": "french_girly"
+    },
+    {
+      "phrase": "french girly detail",
+      "tag": "french_girly"
+    },
+    {
+      "phrase": "with french girly",
+      "tag": "french_girly"
+    },
+    {
+      "phrase": "frog boy",
+      "tag": "frog_boy"
+    },
+    {
+      "phrase": "frog boy detail",
+      "tag": "frog_boy"
+    },
+    {
+      "phrase": "with frog boy",
+      "tag": "frog_boy"
+    },
+    {
+      "phrase": "frog girl",
+      "tag": "frog_girl"
+    },
+    {
+      "phrase": "frog girl detail",
+      "tag": "frog_girl"
+    },
+    {
+      "phrase": "with frog girl",
+      "tag": "frog_girl"
+    },
+    {
+      "phrase": "fujoshi",
+      "tag": "fujoshi"
+    },
+    {
+      "phrase": "showing fujoshi",
+      "tag": "fujoshi"
+    },
+    {
+      "phrase": "with fujoshi",
+      "tag": "fujoshi"
+    },
+    {
+      "phrase": "gangster",
+      "tag": "gangster"
+    },
+    {
+      "phrase": "showing gangster",
+      "tag": "gangster"
+    },
+    {
+      "phrase": "with gangster",
+      "tag": "gangster"
+    },
+    {
+      "phrase": "geisha",
+      "tag": "geisha"
+    },
+    {
+      "phrase": "showing geisha",
+      "tag": "geisha"
+    },
+    {
+      "phrase": "with geisha",
+      "tag": "geisha"
+    },
+    {
+      "phrase": "genderswap",
+      "tag": "genderswap_(ftm)"
+    },
+    {
+      "phrase": "genderswap ftm",
+      "tag": "genderswap_(ftm)"
+    },
+    {
+      "phrase": "showing genderswap",
+      "tag": "genderswap_(ftm)"
+    },
+    {
+      "phrase": "with genderswap",
+      "tag": "genderswap_(ftm)"
+    },
+    {
+      "phrase": "genderswap",
+      "tag": "genderswap_(mtf)"
+    },
+    {
+      "phrase": "genderswap mtf",
+      "tag": "genderswap_(mtf)"
+    },
+    {
+      "phrase": "showing genderswap",
+      "tag": "genderswap_(mtf)"
+    },
+    {
+      "phrase": "with genderswap",
+      "tag": "genderswap_(mtf)"
+    },
+    {
+      "phrase": "ghost girl",
+      "tag": "ghost_girl"
+    },
+    {
+      "phrase": "ghost girl detail",
+      "tag": "ghost_girl"
+    },
+    {
+      "phrase": "with ghost girl",
+      "tag": "ghost_girl"
+    },
+    {
+      "phrase": "giant",
+      "tag": "giant"
+    },
+    {
+      "phrase": "showing giant",
+      "tag": "giant"
+    },
+    {
+      "phrase": "with giant",
+      "tag": "giant"
+    },
+    {
+      "phrase": "giant male",
+      "tag": "giant_male"
+    },
+    {
+      "phrase": "giant male detail",
+      "tag": "giant_male"
+    },
+    {
+      "phrase": "with giant male",
+      "tag": "giant_male"
+    },
+    {
+      "phrase": "giantess",
+      "tag": "giantess"
+    },
+    {
+      "phrase": "showing giantess",
+      "tag": "giantess"
+    },
+    {
+      "phrase": "with giantess",
+      "tag": "giantess"
+    },
+    {
+      "phrase": "giraffe girl",
+      "tag": "giraffe_girl"
+    },
+    {
+      "phrase": "giraffe girl detail",
+      "tag": "giraffe_girl"
+    },
+    {
+      "phrase": "with giraffe girl",
+      "tag": "giraffe_girl"
+    },
+    {
+      "phrase": "girl scout",
+      "tag": "girl_scout"
+    },
+    {
+      "phrase": "girl scout detail",
+      "tag": "girl_scout"
+    },
+    {
+      "phrase": "with girl scout",
+      "tag": "girl_scout"
+    },
+    {
+      "phrase": "girly boy",
+      "tag": "girly_boy"
+    },
+    {
+      "phrase": "girly boy detail",
+      "tag": "girly_boy"
+    },
+    {
+      "phrase": "with girly boy",
+      "tag": "girly_boy"
+    },
+    {
+      "phrase": "gladiator",
+      "tag": "gladiator"
+    },
+    {
+      "phrase": "showing gladiator",
+      "tag": "gladiator"
+    },
+    {
+      "phrase": "with gladiator",
+      "tag": "gladiator"
+    },
+    {
+      "phrase": "glutton",
+      "tag": "glutton"
+    },
+    {
+      "phrase": "showing glutton",
+      "tag": "glutton"
+    },
+    {
+      "phrase": "with glutton",
+      "tag": "glutton"
+    },
+    {
+      "phrase": "goalkeeper",
+      "tag": "goalkeeper"
+    },
+    {
+      "phrase": "showing goalkeeper",
+      "tag": "goalkeeper"
+    },
+    {
+      "phrase": "with goalkeeper",
+      "tag": "goalkeeper"
+    },
+    {
+      "phrase": "goat boy",
+      "tag": "goat_boy"
+    },
+    {
+      "phrase": "goat boy detail",
+      "tag": "goat_boy"
+    },
+    {
+      "phrase": "with goat boy",
+      "tag": "goat_boy"
+    },
+    {
+      "phrase": "goat girl",
+      "tag": "goat_girl"
+    },
+    {
+      "phrase": "goat girl detail",
+      "tag": "goat_girl"
+    },
+    {
+      "phrase": "with goat girl",
+      "tag": "goat_girl"
+    },
+    {
+      "phrase": "gold saint",
+      "tag": "gold_saint"
+    },
+    {
+      "phrase": "gold saint detail",
+      "tag": "gold_saint"
+    },
+    {
+      "phrase": "with gold saint",
+      "tag": "gold_saint"
+    },
+    {
+      "phrase": "gorilla boy",
+      "tag": "gorilla_boy"
+    },
+    {
+      "phrase": "gorilla boy detail",
+      "tag": "gorilla_boy"
+    },
+    {
+      "phrase": "with gorilla boy",
+      "tag": "gorilla_boy"
+    },
+    {
+      "phrase": "gothic lolita",
+      "tag": "gothic_lolita"
+    },
+    {
+      "phrase": "gothic lolita detail",
+      "tag": "gothic_lolita"
+    },
+    {
+      "phrase": "with gothic lolita",
+      "tag": "gothic_lolita"
+    },
+    {
+      "phrase": "groom",
+      "tag": "groom"
+    },
+    {
+      "phrase": "showing groom",
+      "tag": "groom"
+    },
+    {
+      "phrase": "with groom",
+      "tag": "groom"
+    },
+    {
+      "phrase": "guide",
+      "tag": "guide"
+    },
+    {
+      "phrase": "showing guide",
+      "tag": "guide"
+    },
+    {
+      "phrase": "with guide",
+      "tag": "guide"
+    },
+    {
+      "phrase": "gyaru",
+      "tag": "gyaru"
+    },
+    {
+      "phrase": "showing gyaru",
+      "tag": "gyaru"
+    },
+    {
+      "phrase": "with gyaru",
+      "tag": "gyaru"
+    },
+    {
+      "phrase": "gym teacher",
+      "tag": "gym_teacher"
+    },
+    {
+      "phrase": "gym teacher detail",
+      "tag": "gym_teacher"
+    },
+    {
+      "phrase": "with gym teacher",
+      "tag": "gym_teacher"
+    },
+    {
+      "phrase": "hairy",
+      "tag": "hairy"
+    },
+    {
+      "phrase": "showing hairy",
+      "tag": "hairy"
+    },
+    {
+      "phrase": "with hairy",
+      "tag": "hairy"
+    },
+    {
+      "phrase": "hamster boy",
+      "tag": "hamster_boy"
+    },
+    {
+      "phrase": "hamster boy detail",
+      "tag": "hamster_boy"
+    },
+    {
+      "phrase": "with hamster boy",
+      "tag": "hamster_boy"
+    },
+    {
+      "phrase": "hamster girl",
+      "tag": "hamster_girl"
+    },
+    {
+      "phrase": "hamster girl detail",
+      "tag": "hamster_girl"
+    },
+    {
+      "phrase": "with hamster girl",
+      "tag": "hamster_girl"
+    },
+    {
+      "phrase": "harlequin",
+      "tag": "harlequin"
+    },
+    {
+      "phrase": "showing harlequin",
+      "tag": "harlequin"
+    },
+    {
+      "phrase": "with harlequin",
+      "tag": "harlequin"
+    },
+    {
+      "phrase": "harpy boy",
+      "tag": "harpy_boy"
+    },
+    {
+      "phrase": "harpy boy detail",
+      "tag": "harpy_boy"
+    },
+    {
+      "phrase": "with harpy boy",
+      "tag": "harpy_boy"
+    },
+    {
+      "phrase": "heart tan",
+      "tag": "heart_tan"
+    },
+    {
+      "phrase": "heart tan detail",
+      "tag": "heart_tan"
+    },
+    {
+      "phrase": "with heart tan",
+      "tag": "heart_tan"
+    },
+    {
+      "phrase": "heavy",
+      "tag": "heavy"
+    },
+    {
+      "phrase": "showing heavy",
+      "tag": "heavy"
+    },
+    {
+      "phrase": "with heavy",
+      "tag": "heavy"
+    },
+    {
+      "phrase": "hedgehog boy",
+      "tag": "hedgehog_boy"
+    },
+    {
+      "phrase": "hedgehog boy detail",
+      "tag": "hedgehog_boy"
+    },
+    {
+      "phrase": "with hedgehog boy",
+      "tag": "hedgehog_boy"
+    },
+    {
+      "phrase": "hedgehog girl",
+      "tag": "hedgehog_girl"
+    },
+    {
+      "phrase": "hedgehog girl detail",
+      "tag": "hedgehog_girl"
+    },
+    {
+      "phrase": "with hedgehog girl",
+      "tag": "hedgehog_girl"
+    },
+    {
+      "phrase": "height",
+      "tag": "height"
+    },
+    {
+      "phrase": "showing height",
+      "tag": "height"
+    },
+    {
+      "phrase": "with height",
+      "tag": "height"
+    },
+    {
+      "phrase": "height conscious",
+      "tag": "height_conscious"
+    },
+    {
+      "phrase": "height conscious detail",
+      "tag": "height_conscious"
+    },
+    {
+      "phrase": "with height conscious",
+      "tag": "height_conscious"
+    },
+    {
+      "phrase": "hetero",
+      "tag": "hetero"
+    },
+    {
+      "phrase": "showing hetero",
+      "tag": "hetero"
+    },
+    {
+      "phrase": "with hetero",
+      "tag": "hetero"
+    },
+    {
+      "phrase": "himejoshi",
+      "tag": "himejoshi"
+    },
+    {
+      "phrase": "showing himejoshi",
+      "tag": "himejoshi"
+    },
+    {
+      "phrase": "with himejoshi",
+      "tag": "himejoshi"
+    },
+    {
+      "phrase": "hoe",
+      "tag": "hoe"
+    },
+    {
+      "phrase": "showing hoe",
+      "tag": "hoe"
+    },
+    {
+      "phrase": "with hoe",
+      "tag": "hoe"
+    },
+    {
+      "phrase": "horse boy",
+      "tag": "horse_boy"
+    },
+    {
+      "phrase": "horse boy detail",
+      "tag": "horse_boy"
+    },
+    {
+      "phrase": "with horse boy",
+      "tag": "horse_boy"
+    },
+    {
+      "phrase": "horse girl",
+      "tag": "horse_girl"
+    },
+    {
+      "phrase": "horse girl detail",
+      "tag": "horse_girl"
+    },
+    {
+      "phrase": "with horse girl",
+      "tag": "horse_girl"
+    },
+    {
+      "phrase": "hostess",
+      "tag": "hostess"
+    },
+    {
+      "phrase": "showing hostess",
+      "tag": "hostess"
+    },
+    {
+      "phrase": "with hostess",
+      "tag": "hostess"
+    },
+    {
+      "phrase": "housewife",
+      "tag": "housewife"
+    },
+    {
+      "phrase": "showing housewife",
+      "tag": "housewife"
+    },
+    {
+      "phrase": "with housewife",
+      "tag": "housewife"
+    },
+    {
+      "phrase": "humanization",
+      "tag": "humanization"
+    },
+    {
+      "phrase": "showing humanization",
+      "tag": "humanization"
+    },
+    {
+      "phrase": "with humanization",
+      "tag": "humanization"
+    },
+    {
+      "phrase": "humanoid robot",
+      "tag": "humanoid_robot"
+    },
+    {
+      "phrase": "showing humanoid robot",
+      "tag": "humanoid_robot"
+    },
+    {
+      "phrase": "with humanoid robot",
+      "tag": "humanoid_robot"
+    },
+    {
+      "phrase": "hyena boy",
+      "tag": "hyena_boy"
+    },
+    {
+      "phrase": "hyena boy detail",
+      "tag": "hyena_boy"
+    },
+    {
+      "phrase": "with hyena boy",
+      "tag": "hyena_boy"
+    },
+    {
+      "phrase": "hyena girl",
+      "tag": "hyena_girl"
+    },
+    {
+      "phrase": "hyena girl detail",
+      "tag": "hyena_girl"
+    },
+    {
+      "phrase": "with hyena girl",
+      "tag": "hyena_girl"
+    },
+    {
+      "phrase": "idol",
+      "tag": "idol"
+    },
+    {
+      "phrase": "showing idol",
+      "tag": "idol"
+    },
+    {
+      "phrase": "with idol",
+      "tag": "idol"
+    },
+    {
+      "phrase": "implied hetero",
+      "tag": "implied_hetero"
+    },
+    {
+      "phrase": "implied hetero detail",
+      "tag": "implied_hetero"
+    },
+    {
+      "phrase": "with implied hetero",
+      "tag": "implied_hetero"
+    },
+    {
+      "phrase": "indian",
+      "tag": "indian"
+    },
+    {
+      "phrase": "showing indian",
+      "tag": "indian"
+    },
+    {
+      "phrase": "with indian",
+      "tag": "indian"
+    },
+    {
+      "phrase": "invisible",
+      "tag": "invisible"
+    },
+    {
+      "phrase": "showing invisible",
+      "tag": "invisible"
+    },
+    {
+      "phrase": "with invisible",
+      "tag": "invisible"
+    },
+    {
+      "phrase": "invisible man",
+      "tag": "invisible_man"
+    },
+    {
+      "phrase": "invisible man detail",
+      "tag": "invisible_man"
+    },
+    {
+      "phrase": "with invisible man",
+      "tag": "invisible_man"
+    },
+    {
+      "phrase": "jackal boy",
+      "tag": "jackal_boy"
+    },
+    {
+      "phrase": "jackal boy detail",
+      "tag": "jackal_boy"
+    },
+    {
+      "phrase": "with jackal boy",
+      "tag": "jackal_boy"
+    },
+    {
+      "phrase": "jackal girl",
+      "tag": "jackal_girl"
+    },
+    {
+      "phrase": "jackal girl detail",
+      "tag": "jackal_girl"
+    },
+    {
+      "phrase": "with jackal girl",
+      "tag": "jackal_girl"
+    },
+    {
+      "phrase": "jackalope girl",
+      "tag": "jackalope_girl"
+    },
+    {
+      "phrase": "jackalope girl detail",
+      "tag": "jackalope_girl"
+    },
+    {
+      "phrase": "with jackalope girl",
+      "tag": "jackalope_girl"
+    },
+    {
+      "phrase": "jaguar boy",
+      "tag": "jaguar_boy"
+    },
+    {
+      "phrase": "jaguar boy detail",
+      "tag": "jaguar_boy"
+    },
+    {
+      "phrase": "with jaguar boy",
+      "tag": "jaguar_boy"
+    },
+    {
+      "phrase": "jaguar girl",
+      "tag": "jaguar_girl"
+    },
+    {
+      "phrase": "jaguar girl detail",
+      "tag": "jaguar_girl"
+    },
+    {
+      "phrase": "with jaguar girl",
+      "tag": "jaguar_girl"
+    },
+    {
+      "phrase": "jedi",
+      "tag": "jedi"
+    },
+    {
+      "phrase": "showing jedi",
+      "tag": "jedi"
+    },
+    {
+      "phrase": "with jedi",
+      "tag": "jedi"
+    },
+    {
+      "phrase": "jellyfish girl",
+      "tag": "jellyfish_girl"
+    },
+    {
+      "phrase": "jellyfish girl detail",
+      "tag": "jellyfish_girl"
+    },
+    {
+      "phrase": "with jellyfish girl",
+      "tag": "jellyfish_girl"
+    },
+    {
+      "phrase": "jersey maid",
+      "tag": "jersey_maid"
+    },
+    {
+      "phrase": "jersey maid detail",
+      "tag": "jersey_maid"
+    },
+    {
+      "phrase": "with jersey maid",
+      "tag": "jersey_maid"
+    },
+    {
+      "phrase": "jester",
+      "tag": "jester"
+    },
+    {
+      "phrase": "showing jester",
+      "tag": "jester"
+    },
+    {
+      "phrase": "with jester",
+      "tag": "jester"
+    },
+    {
+      "phrase": "jimiko",
+      "tag": "jimiko"
+    },
+    {
+      "phrase": "showing jimiko",
+      "tag": "jimiko"
+    },
+    {
+      "phrase": "with jimiko",
+      "tag": "jimiko"
+    },
+    {
+      "phrase": "jockey",
+      "tag": "jockey"
+    },
+    {
+      "phrase": "showing jockey",
+      "tag": "jockey"
+    },
+    {
+      "phrase": "with jockey",
+      "tag": "jockey"
+    },
+    {
+      "phrase": "judge",
+      "tag": "judge"
+    },
+    {
+      "phrase": "showing judge",
+      "tag": "judge"
+    },
+    {
+      "phrase": "with judge",
+      "tag": "judge"
+    },
+    {
+      "phrase": "kangaroo girl",
+      "tag": "kangaroo_girl"
+    },
+    {
+      "phrase": "kangaroo girl detail",
+      "tag": "kangaroo_girl"
+    },
+    {
+      "phrase": "with kangaroo girl",
+      "tag": "kangaroo_girl"
+    },
+    {
+      "phrase": "kemonomimi mode",
+      "tag": "kemonomimi_mode"
+    },
+    {
+      "phrase": "kemonomimi mode detail",
+      "tag": "kemonomimi_mode"
+    },
+    {
+      "phrase": "with kemonomimi mode",
+      "tag": "kemonomimi_mode"
+    },
+    {
+      "phrase": "kindergarten teacher",
+      "tag": "kindergarten_teacher"
+    },
+    {
+      "phrase": "kindergarten teacher detail",
+      "tag": "kindergarten_teacher"
+    },
+    {
+      "phrase": "with kindergarten teacher",
+      "tag": "kindergarten_teacher"
+    },
+    {
+      "phrase": "king",
+      "tag": "king"
+    },
+    {
+      "phrase": "showing king",
+      "tag": "king"
+    },
+    {
+      "phrase": "with king",
+      "tag": "king"
+    },
+    {
+      "phrase": "knight",
+      "tag": "knight"
+    },
+    {
+      "phrase": "showing knight",
+      "tag": "knight"
+    },
+    {
+      "phrase": "with knight",
+      "tag": "knight"
+    },
+    {
+      "phrase": "koala girl",
+      "tag": "koala_girl"
+    },
+    {
+      "phrase": "koala girl detail",
+      "tag": "koala_girl"
+    },
+    {
+      "phrase": "with koala girl",
+      "tag": "koala_girl"
+    },
+    {
+      "phrase": "kogal",
+      "tag": "kogal"
+    },
+    {
+      "phrase": "showing kogal",
+      "tag": "kogal"
+    },
+    {
+      "phrase": "with kogal",
+      "tag": "kogal"
+    },
+    {
+      "phrase": "komainu boy",
+      "tag": "komainu_boy"
+    },
+    {
+      "phrase": "komainu boy detail",
+      "tag": "komainu_boy"
+    },
+    {
+      "phrase": "with komainu boy",
+      "tag": "komainu_boy"
+    },
+    {
+      "phrase": "komainu girl",
+      "tag": "komainu_girl"
+    },
+    {
+      "phrase": "komainu girl detail",
+      "tag": "komainu_girl"
+    },
+    {
+      "phrase": "with komainu girl",
+      "tag": "komainu_girl"
+    },
+    {
+      "phrase": "lamia boy",
+      "tag": "lamia_boy"
+    },
+    {
+      "phrase": "lamia boy detail",
+      "tag": "lamia_boy"
+    },
+    {
+      "phrase": "with lamia boy",
+      "tag": "lamia_boy"
+    },
+    {
+      "phrase": "leech girl",
+      "tag": "leech_girl"
+    },
+    {
+      "phrase": "leech girl detail",
+      "tag": "leech_girl"
+    },
+    {
+      "phrase": "with leech girl",
+      "tag": "leech_girl"
+    },
+    {
+      "phrase": "left-handed",
+      "tag": "left-handed"
+    },
+    {
+      "phrase": "showing left-handed",
+      "tag": "left-handed"
+    },
+    {
+      "phrase": "with left-handed",
+      "tag": "left-handed"
+    },
+    {
+      "phrase": "legendary super saiyan",
+      "tag": "legendary_super_saiyan"
+    },
+    {
+      "phrase": "legendary super saiyan detail",
+      "tag": "legendary_super_saiyan"
+    },
+    {
+      "phrase": "with legendary super saiyan",
+      "tag": "legendary_super_saiyan"
+    },
+    {
+      "phrase": "legless amputee",
+      "tag": "legless_amputee"
+    },
+    {
+      "phrase": "legless amputee detail",
+      "tag": "legless_amputee"
+    },
+    {
+      "phrase": "with legless amputee",
+      "tag": "legless_amputee"
+    },
+    {
+      "phrase": "lemur girl",
+      "tag": "lemur_girl"
+    },
+    {
+      "phrase": "lemur girl detail",
+      "tag": "lemur_girl"
+    },
+    {
+      "phrase": "with lemur girl",
+      "tag": "lemur_girl"
+    },
+    {
+      "phrase": "leopard boy",
+      "tag": "leopard_boy"
+    },
+    {
+      "phrase": "leopard boy detail",
+      "tag": "leopard_boy"
+    },
+    {
+      "phrase": "with leopard boy",
+      "tag": "leopard_boy"
+    },
+    {
+      "phrase": "leopard girl",
+      "tag": "leopard_girl"
+    },
+    {
+      "phrase": "leopard girl detail",
+      "tag": "leopard_girl"
+    },
+    {
+      "phrase": "with leopard girl",
+      "tag": "leopard_girl"
+    },
+    {
+      "phrase": "lifeguard",
+      "tag": "lifeguard"
+    },
+    {
+      "phrase": "showing lifeguard",
+      "tag": "lifeguard"
+    },
+    {
+      "phrase": "with lifeguard",
+      "tag": "lifeguard"
+    },
+    {
+      "phrase": "light persona",
+      "tag": "light_persona"
+    },
+    {
+      "phrase": "light persona detail",
+      "tag": "light_persona"
+    },
+    {
+      "phrase": "with light persona",
+      "tag": "light_persona"
+    },
+    {
+      "phrase": "line infantry",
+      "tag": "line_infantry"
+    },
+    {
+      "phrase": "line infantry detail",
+      "tag": "line_infantry"
+    },
+    {
+      "phrase": "with line infantry",
+      "tag": "line_infantry"
+    },
+    {
+      "phrase": "lion boy",
+      "tag": "lion_boy"
+    },
+    {
+      "phrase": "lion boy detail",
+      "tag": "lion_boy"
+    },
+    {
+      "phrase": "with lion boy",
+      "tag": "lion_boy"
+    },
+    {
+      "phrase": "lion girl",
+      "tag": "lion_girl"
+    },
+    {
+      "phrase": "lion girl detail",
+      "tag": "lion_girl"
+    },
+    {
+      "phrase": "with lion girl",
+      "tag": "lion_girl"
+    },
+    {
+      "phrase": "llama girl",
+      "tag": "llama_girl"
+    },
+    {
+      "phrase": "llama girl detail",
+      "tag": "llama_girl"
+    },
+    {
+      "phrase": "with llama girl",
+      "tag": "llama_girl"
+    },
+    {
+      "phrase": "lobster girl",
+      "tag": "lobster_girl"
+    },
+    {
+      "phrase": "lobster girl detail",
+      "tag": "lobster_girl"
+    },
+    {
+      "phrase": "with lobster girl",
+      "tag": "lobster_girl"
+    },
+    {
+      "phrase": "loli",
+      "tag": "loli"
+    },
+    {
+      "phrase": "showing loli",
+      "tag": "loli"
+    },
+    {
+      "phrase": "with loli",
+      "tag": "loli"
+    },
+    {
+      "phrase": "lolibaba",
+      "tag": "lolibaba"
+    },
+    {
+      "phrase": "showing lolibaba",
+      "tag": "lolibaba"
+    },
+    {
+      "phrase": "with lolibaba",
+      "tag": "lolibaba"
+    },
+    {
+      "phrase": "luchador",
+      "tag": "luchador"
+    },
+    {
+      "phrase": "showing luchador",
+      "tag": "luchador"
+    },
+    {
+      "phrase": "with luchador",
+      "tag": "luchador"
+    },
+    {
+      "phrase": "mafia",
+      "tag": "mafia"
+    },
+    {
+      "phrase": "showing mafia",
+      "tag": "mafia"
+    },
+    {
+      "phrase": "with mafia",
+      "tag": "mafia"
+    },
+    {
+      "phrase": "magical boy",
+      "tag": "magical_boy"
+    },
+    {
+      "phrase": "magical boy detail",
+      "tag": "magical_boy"
+    },
+    {
+      "phrase": "with magical boy",
+      "tag": "magical_boy"
+    },
+    {
+      "phrase": "magical girl",
+      "tag": "magical_girl"
+    },
+    {
+      "phrase": "magical girl detail",
+      "tag": "magical_girl"
+    },
+    {
+      "phrase": "with magical girl",
+      "tag": "magical_girl"
+    },
+    {
+      "phrase": "magician",
+      "tag": "magician"
+    },
+    {
+      "phrase": "showing magician",
+      "tag": "magician"
+    },
+    {
+      "phrase": "with magician",
+      "tag": "magician"
+    },
+    {
+      "phrase": "maid",
+      "tag": "maid"
+    },
+    {
+      "phrase": "showing maid",
+      "tag": "maid"
+    },
+    {
+      "phrase": "with maid",
+      "tag": "maid"
+    },
+    {
+      "phrase": "maid cafe",
+      "tag": "maid_cafe"
+    },
+    {
+      "phrase": "maid cafe detail",
+      "tag": "maid_cafe"
+    },
+    {
+      "phrase": "with maid cafe",
+      "tag": "maid_cafe"
+    },
+    {
+      "phrase": "mailman",
+      "tag": "mailman"
+    },
+    {
+      "phrase": "showing mailman",
+      "tag": "mailman"
+    },
+    {
+      "phrase": "with mailman",
+      "tag": "mailman"
+    },
+    {
+      "phrase": "male maid",
+      "tag": "male_maid"
+    },
+    {
+      "phrase": "male maid detail",
+      "tag": "male_maid"
+    },
+    {
+      "phrase": "with male maid",
+      "tag": "male_maid"
+    },
+    {
+      "phrase": "male prostitution",
+      "tag": "male_prostitution"
+    },
+    {
+      "phrase": "male prostitution detail",
+      "tag": "male_prostitution"
+    },
+    {
+      "phrase": "with male prostitution",
+      "tag": "male_prostitution"
+    },
+    {
+      "phrase": "manly",
+      "tag": "manly"
+    },
+    {
+      "phrase": "showing manly",
+      "tag": "manly"
+    },
+    {
+      "phrase": "with manly",
+      "tag": "manly"
+    },
+    {
+      "phrase": "manta ray girl",
+      "tag": "manta_ray_girl"
+    },
+    {
+      "phrase": "manta ray girl detail",
+      "tag": "manta_ray_girl"
+    },
+    {
+      "phrase": "with manta ray girl",
+      "tag": "manta_ray_girl"
+    },
+    {
+      "phrase": "mantis girl",
+      "tag": "mantis_girl"
+    },
+    {
+      "phrase": "mantis girl detail",
+      "tag": "mantis_girl"
+    },
+    {
+      "phrase": "with mantis girl",
+      "tag": "mantis_girl"
+    },
+    {
+      "phrase": "marmot girl",
+      "tag": "marmot_girl"
+    },
+    {
+      "phrase": "marmot girl detail",
+      "tag": "marmot_girl"
+    },
+    {
+      "phrase": "with marmot girl",
+      "tag": "marmot_girl"
+    },
+    {
+      "phrase": "mature female",
+      "tag": "mature_female"
+    },
+    {
+      "phrase": "mature female detail",
+      "tag": "mature_female"
+    },
+    {
+      "phrase": "with mature female",
+      "tag": "mature_female"
+    },
+    {
+      "phrase": "mature male",
+      "tag": "mature_male"
+    },
+    {
+      "phrase": "mature male detail",
+      "tag": "mature_male"
+    },
+    {
+      "phrase": "with mature male",
+      "tag": "mature_male"
+    },
+    {
+      "phrase": "mecha musume",
+      "tag": "mecha_musume"
+    },
+    {
+      "phrase": "mecha musume detail",
+      "tag": "mecha_musume"
+    },
+    {
+      "phrase": "with mecha musume",
+      "tag": "mecha_musume"
+    },
+    {
+      "phrase": "mechanic",
+      "tag": "mechanic"
+    },
+    {
+      "phrase": "showing mechanic",
+      "tag": "mechanic"
+    },
+    {
+      "phrase": "with mechanic",
+      "tag": "mechanic"
+    },
+    {
+      "phrase": "meerkat boy",
+      "tag": "meerkat_boy"
+    },
+    {
+      "phrase": "meerkat boy detail",
+      "tag": "meerkat_boy"
+    },
+    {
+      "phrase": "with meerkat boy",
+      "tag": "meerkat_boy"
+    },
+    {
+      "phrase": "messy sleeper",
+      "tag": "messy_sleeper"
+    },
+    {
+      "phrase": "messy sleeper detail",
+      "tag": "messy_sleeper"
+    },
+    {
+      "phrase": "with messy sleeper",
+      "tag": "messy_sleeper"
+    },
+    {
+      "phrase": "mesugaki",
+      "tag": "mesugaki"
+    },
+    {
+      "phrase": "showing mesugaki",
+      "tag": "mesugaki"
+    },
+    {
+      "phrase": "with mesugaki",
+      "tag": "mesugaki"
+    },
+    {
+      "phrase": "miko",
+      "tag": "miko"
+    },
+    {
+      "phrase": "showing miko",
+      "tag": "miko"
+    },
+    {
+      "phrase": "with miko",
+      "tag": "miko"
+    },
+    {
+      "phrase": "military",
+      "tag": "military"
+    },
+    {
+      "phrase": "showing military",
+      "tag": "military"
+    },
+    {
+      "phrase": "with military",
+      "tag": "military"
+    },
+    {
+      "phrase": "military fatigues",
+      "tag": "military_fatigues"
+    },
+    {
+      "phrase": "military fatigues detail",
+      "tag": "military_fatigues"
+    },
+    {
+      "phrase": "with military fatigues",
+      "tag": "military_fatigues"
+    },
+    {
+      "phrase": "military lolita",
+      "tag": "military_lolita"
+    },
+    {
+      "phrase": "military lolita detail",
+      "tag": "military_lolita"
+    },
+    {
+      "phrase": "with military lolita",
+      "tag": "military_lolita"
+    },
+    {
+      "phrase": "military operator",
+      "tag": "military_operator"
+    },
+    {
+      "phrase": "military operator detail",
+      "tag": "military_operator"
+    },
+    {
+      "phrase": "with military operator",
+      "tag": "military_operator"
+    },
+    {
+      "phrase": "military police",
+      "tag": "military_police"
+    },
+    {
+      "phrase": "military police detail",
+      "tag": "military_police"
+    },
+    {
+      "phrase": "with military police",
+      "tag": "military_police"
+    },
+    {
+      "phrase": "mini person",
+      "tag": "mini_person"
+    },
+    {
+      "phrase": "mini person detail",
+      "tag": "mini_person"
+    },
+    {
+      "phrase": "with mini person",
+      "tag": "mini_person"
+    },
+    {
+      "phrase": "miniature",
+      "tag": "miniature"
+    },
+    {
+      "phrase": "showing miniature",
+      "tag": "miniature"
+    },
+    {
+      "phrase": "with miniature",
+      "tag": "miniature"
+    },
+    {
+      "phrase": "miniboy",
+      "tag": "miniboy"
+    },
+    {
+      "phrase": "showing miniboy",
+      "tag": "miniboy"
+    },
+    {
+      "phrase": "with miniboy",
+      "tag": "miniboy"
+    },
+    {
+      "phrase": "minigirl",
+      "tag": "minigirl"
+    },
+    {
+      "phrase": "showing minigirl",
+      "tag": "minigirl"
+    },
+    {
+      "phrase": "with minigirl",
+      "tag": "minigirl"
+    },
+    {
+      "phrase": "mixed maids",
+      "tag": "mixed_maids"
+    },
+    {
+      "phrase": "mixed maids detail",
+      "tag": "mixed_maids"
+    },
+    {
+      "phrase": "with mixed maids",
+      "tag": "mixed_maids"
+    },
+    {
+      "phrase": "mobile infantry",
+      "tag": "mobile_infantry"
+    },
+    {
+      "phrase": "mobile infantry detail",
+      "tag": "mobile_infantry"
+    },
+    {
+      "phrase": "with mobile infantry",
+      "tag": "mobile_infantry"
+    },
+    {
+      "phrase": "model",
+      "tag": "model"
+    },
+    {
+      "phrase": "showing model",
+      "tag": "model"
+    },
+    {
+      "phrase": "with model",
+      "tag": "model"
+    },
+    {
+      "phrase": "monk",
+      "tag": "monk"
+    },
+    {
+      "phrase": "showing monk",
+      "tag": "monk"
+    },
+    {
+      "phrase": "with monk",
+      "tag": "monk"
+    },
+    {
+      "phrase": "monkey boy",
+      "tag": "monkey_boy"
+    },
+    {
+      "phrase": "monkey boy detail",
+      "tag": "monkey_boy"
+    },
+    {
+      "phrase": "with monkey boy",
+      "tag": "monkey_boy"
+    },
+    {
+      "phrase": "monkey girl",
+      "tag": "monkey_girl"
+    },
+    {
+      "phrase": "monkey girl detail",
+      "tag": "monkey_girl"
+    },
+    {
+      "phrase": "with monkey girl",
+      "tag": "monkey_girl"
+    },
+    {
+      "phrase": "monster boy",
+      "tag": "monster_boy"
+    },
+    {
+      "phrase": "monster boy detail",
+      "tag": "monster_boy"
+    },
+    {
+      "phrase": "with monster boy",
+      "tag": "monster_boy"
+    },
+    {
+      "phrase": "monster girl",
+      "tag": "monster_girl"
+    },
+    {
+      "phrase": "monster girl detail",
+      "tag": "monster_girl"
+    },
+    {
+      "phrase": "with monster girl",
+      "tag": "monster_girl"
+    },
+    {
+      "phrase": "moose boy",
+      "tag": "moose_boy"
+    },
+    {
+      "phrase": "moose boy detail",
+      "tag": "moose_boy"
+    },
+    {
+      "phrase": "with moose boy",
+      "tag": "moose_boy"
+    },
+    {
+      "phrase": "moose girl",
+      "tag": "moose_girl"
+    },
+    {
+      "phrase": "moose girl detail",
+      "tag": "moose_girl"
+    },
+    {
+      "phrase": "with moose girl",
+      "tag": "moose_girl"
+    },
+    {
+      "phrase": "mosquito girl",
+      "tag": "mosquito_girl"
+    },
+    {
+      "phrase": "mosquito girl detail",
+      "tag": "mosquito_girl"
+    },
+    {
+      "phrase": "with mosquito girl",
+      "tag": "mosquito_girl"
+    },
+    {
+      "phrase": "moth boy",
+      "tag": "moth_boy"
+    },
+    {
+      "phrase": "moth boy detail",
+      "tag": "moth_boy"
+    },
+    {
+      "phrase": "with moth boy",
+      "tag": "moth_boy"
+    },
+    {
+      "phrase": "moth girl",
+      "tag": "moth_girl"
+    },
+    {
+      "phrase": "moth girl detail",
+      "tag": "moth_girl"
+    },
+    {
+      "phrase": "with moth girl",
+      "tag": "moth_girl"
+    },
+    {
+      "phrase": "motherly",
+      "tag": "motherly"
+    },
+    {
+      "phrase": "showing motherly",
+      "tag": "motherly"
+    },
+    {
+      "phrase": "with motherly",
+      "tag": "motherly"
+    },
+    {
+      "phrase": "mouse boy",
+      "tag": "mouse_boy"
+    },
+    {
+      "phrase": "mouse boy detail",
+      "tag": "mouse_boy"
+    },
+    {
+      "phrase": "with mouse boy",
+      "tag": "mouse_boy"
+    },
+    {
+      "phrase": "mouse girl",
+      "tag": "mouse_girl"
+    },
+    {
+      "phrase": "mouse girl detail",
+      "tag": "mouse_girl"
+    },
+    {
+      "phrase": "with mouse girl",
+      "tag": "mouse_girl"
+    },
+    {
+      "phrase": "multiple persona",
+      "tag": "multiple_persona"
+    },
+    {
+      "phrase": "multiple persona detail",
+      "tag": "multiple_persona"
+    },
+    {
+      "phrase": "with multiple persona",
+      "tag": "multiple_persona"
+    },
+    {
+      "phrase": "muscular",
+      "tag": "muscular"
+    },
+    {
+      "phrase": "showing muscular",
+      "tag": "muscular"
+    },
+    {
+      "phrase": "with muscular",
+      "tag": "muscular"
+    },
+    {
+      "phrase": "muscular child",
+      "tag": "muscular_child"
+    },
+    {
+      "phrase": "muscular child detail",
+      "tag": "muscular_child"
+    },
+    {
+      "phrase": "with muscular child",
+      "tag": "muscular_child"
+    },
+    {
+      "phrase": "muscular female",
+      "tag": "muscular_female"
+    },
+    {
+      "phrase": "muscular female detail",
+      "tag": "muscular_female"
+    },
+    {
+      "phrase": "with muscular female",
+      "tag": "muscular_female"
+    },
+    {
+      "phrase": "muscular male",
+      "tag": "muscular_male"
+    },
+    {
+      "phrase": "muscular male detail",
+      "tag": "muscular_male"
+    },
+    {
+      "phrase": "with muscular male",
+      "tag": "muscular_male"
+    },
+    {
+      "phrase": "muscular other",
+      "tag": "muscular_other"
+    },
+    {
+      "phrase": "muscular other detail",
+      "tag": "muscular_other"
+    },
+    {
+      "phrase": "with muscular other",
+      "tag": "muscular_other"
+    },
+    {
+      "phrase": "muscular uke",
+      "tag": "muscular_uke"
+    },
+    {
+      "phrase": "muscular uke detail",
+      "tag": "muscular_uke"
+    },
+    {
+      "phrase": "with muscular uke",
+      "tag": "muscular_uke"
+    },
+    {
+      "phrase": "mushroom girl",
+      "tag": "mushroom_girl"
+    },
+    {
+      "phrase": "mushroom girl detail",
+      "tag": "mushroom_girl"
+    },
+    {
+      "phrase": "with mushroom girl",
+      "tag": "mushroom_girl"
+    },
+    {
+      "phrase": "mutation",
+      "tag": "mutation"
+    },
+    {
+      "phrase": "showing mutation",
+      "tag": "mutation"
+    },
+    {
+      "phrase": "with mutation",
+      "tag": "mutation"
+    },
+    {
+      "phrase": "mystic eyes of death perception",
+      "tag": "mystic_eyes_of_death_perception"
+    },
+    {
+      "phrase": "mystic eyes of death perception detail",
+      "tag": "mystic_eyes_of_death_perception"
+    },
+    {
+      "phrase": "with mystic eyes of death perception",
+      "tag": "mystic_eyes_of_death_perception"
+    },
+    {
+      "phrase": "nakai",
+      "tag": "nakai_(waitress)"
+    },
+    {
+      "phrase": "nakai waitress",
+      "tag": "nakai_(waitress)"
+    },
+    {
+      "phrase": "showing nakai",
+      "tag": "nakai_(waitress)"
+    },
+    {
+      "phrase": "with nakai",
+      "tag": "nakai_(waitress)"
+    },
+    {
+      "phrase": "narcissism",
+      "tag": "narcissism"
+    },
+    {
+      "phrase": "showing narcissism",
+      "tag": "narcissism"
+    },
+    {
+      "phrase": "with narcissism",
+      "tag": "narcissism"
+    },
+    {
+      "phrase": "narwhal girl",
+      "tag": "narwhal_girl"
+    },
+    {
+      "phrase": "narwhal girl detail",
+      "tag": "narwhal_girl"
+    },
+    {
+      "phrase": "with narwhal girl",
+      "tag": "narwhal_girl"
+    },
+    {
+      "phrase": "native american",
+      "tag": "native_american"
+    },
+    {
+      "phrase": "native american detail",
+      "tag": "native_american"
+    },
+    {
+      "phrase": "with native american",
+      "tag": "native_american"
+    },
+    {
+      "phrase": "necromancer",
+      "tag": "necromancer"
+    },
+    {
+      "phrase": "showing necromancer",
+      "tag": "necromancer"
+    },
+    {
+      "phrase": "with necromancer",
+      "tag": "necromancer"
+    },
+    {
+      "phrase": "neet",
+      "tag": "neet"
+    },
+    {
+      "phrase": "showing neet",
+      "tag": "neet"
+    },
+    {
+      "phrase": "with neet",
+      "tag": "neet"
+    },
+    {
+      "phrase": "ninja",
+      "tag": "ninja"
+    },
+    {
+      "phrase": "showing ninja",
+      "tag": "ninja"
+    },
+    {
+      "phrase": "with ninja",
+      "tag": "ninja"
+    },
+    {
+      "phrase": "non-humanoid robot",
+      "tag": "non-humanoid_robot"
+    },
+    {
+      "phrase": "showing non-humanoid robot",
+      "tag": "non-humanoid_robot"
+    },
+    {
+      "phrase": "with non-humanoid robot",
+      "tag": "non-humanoid_robot"
+    },
+    {
+      "phrase": "nontraditional miko",
+      "tag": "nontraditional_miko"
+    },
+    {
+      "phrase": "nontraditional miko detail",
+      "tag": "nontraditional_miko"
+    },
+    {
+      "phrase": "with nontraditional miko",
+      "tag": "nontraditional_miko"
+    },
+    {
+      "phrase": "nudist",
+      "tag": "nudist"
+    },
+    {
+      "phrase": "showing nudist",
+      "tag": "nudist"
+    },
+    {
+      "phrase": "with nudist",
+      "tag": "nudist"
+    },
+    {
+      "phrase": "nun",
+      "tag": "nun"
+    },
+    {
+      "phrase": "showing nun",
+      "tag": "nun"
+    },
+    {
+      "phrase": "with nun",
+      "tag": "nun"
+    },
+    {
+      "phrase": "nurse",
+      "tag": "nurse"
+    },
+    {
+      "phrase": "showing nurse",
+      "tag": "nurse"
+    },
+    {
+      "phrase": "with nurse",
+      "tag": "nurse"
+    },
+    {
+      "phrase": "obese",
+      "tag": "obese"
+    },
+    {
+      "phrase": "showing obese",
+      "tag": "obese"
+    },
+    {
+      "phrase": "with obese",
+      "tag": "obese"
+    },
+    {
+      "phrase": "octopus boy",
+      "tag": "octopus_boy"
+    },
+    {
+      "phrase": "octopus boy detail",
+      "tag": "octopus_boy"
+    },
+    {
+      "phrase": "with octopus boy",
+      "tag": "octopus_boy"
+    },
+    {
+      "phrase": "office lady",
+      "tag": "office_lady"
+    },
+    {
+      "phrase": "office lady detail",
+      "tag": "office_lady"
+    },
+    {
+      "phrase": "with office lady",
+      "tag": "office_lady"
+    },
+    {
+      "phrase": "office siren",
+      "tag": "office_siren"
+    },
+    {
+      "phrase": "office siren detail",
+      "tag": "office_siren"
+    },
+    {
+      "phrase": "with office siren",
+      "tag": "office_siren"
+    },
+    {
+      "phrase": "oiran",
+      "tag": "oiran"
+    },
+    {
+      "phrase": "showing oiran",
+      "tag": "oiran"
+    },
+    {
+      "phrase": "with oiran",
+      "tag": "oiran"
+    },
+    {
+      "phrase": "old",
+      "tag": "old"
+    },
+    {
+      "phrase": "showing old",
+      "tag": "old"
+    },
+    {
+      "phrase": "with old",
+      "tag": "old"
+    },
+    {
+      "phrase": "old maid",
+      "tag": "old_maid"
+    },
+    {
+      "phrase": "old maid detail",
+      "tag": "old_maid"
+    },
+    {
+      "phrase": "with old maid",
+      "tag": "old_maid"
+    },
+    {
+      "phrase": "old man",
+      "tag": "old_man"
+    },
+    {
+      "phrase": "old man detail",
+      "tag": "old_man"
+    },
+    {
+      "phrase": "with old man",
+      "tag": "old_man"
+    },
+    {
+      "phrase": "old woman",
+      "tag": "old_woman"
+    },
+    {
+      "phrase": "old woman detail",
+      "tag": "old_woman"
+    },
+    {
+      "phrase": "with old woman",
+      "tag": "old_woman"
+    },
+    {
+      "phrase": "one-piece tan",
+      "tag": "one-piece_tan"
+    },
+    {
+      "phrase": "one-piece tan detail",
+      "tag": "one-piece_tan"
+    },
+    {
+      "phrase": "with one-piece tan",
+      "tag": "one-piece_tan"
+    },
+    {
+      "phrase": "onee gyaru",
+      "tag": "onee_gyaru"
+    },
+    {
+      "phrase": "onee gyaru detail",
+      "tag": "onee_gyaru"
+    },
+    {
+      "phrase": "with onee gyaru",
+      "tag": "onee_gyaru"
+    },
+    {
+      "phrase": "onmyouji",
+      "tag": "onmyouji"
+    },
+    {
+      "phrase": "showing onmyouji",
+      "tag": "onmyouji"
+    },
+    {
+      "phrase": "with onmyouji",
+      "tag": "onmyouji"
+    },
+    {
+      "phrase": "oppai loli",
+      "tag": "oppai_loli"
+    },
+    {
+      "phrase": "oppai loli detail",
+      "tag": "oppai_loli"
+    },
+    {
+      "phrase": "with oppai loli",
+      "tag": "oppai_loli"
+    },
+    {
+      "phrase": "orca boy",
+      "tag": "orca_boy"
+    },
+    {
+      "phrase": "orca boy detail",
+      "tag": "orca_boy"
+    },
+    {
+      "phrase": "with orca boy",
+      "tag": "orca_boy"
+    },
+    {
+      "phrase": "orca girl",
+      "tag": "orca_girl"
+    },
+    {
+      "phrase": "orca girl detail",
+      "tag": "orca_girl"
+    },
+    {
+      "phrase": "with orca girl",
+      "tag": "orca_girl"
+    },
+    {
+      "phrase": "osugaki",
+      "tag": "osugaki"
+    },
+    {
+      "phrase": "showing osugaki",
+      "tag": "osugaki"
+    },
+    {
+      "phrase": "with osugaki",
+      "tag": "osugaki"
+    },
+    {
+      "phrase": "otaku",
+      "tag": "otaku"
+    },
+    {
+      "phrase": "showing otaku",
+      "tag": "otaku"
+    },
+    {
+      "phrase": "with otaku",
+      "tag": "otaku"
+    },
+    {
+      "phrase": "otter boy",
+      "tag": "otter_boy"
+    },
+    {
+      "phrase": "otter boy detail",
+      "tag": "otter_boy"
+    },
+    {
+      "phrase": "with otter boy",
+      "tag": "otter_boy"
+    },
+    {
+      "phrase": "otter girl",
+      "tag": "otter_girl"
+    },
+    {
+      "phrase": "otter girl detail",
+      "tag": "otter_girl"
+    },
+    {
+      "phrase": "with otter girl",
+      "tag": "otter_girl"
+    },
+    {
+      "phrase": "owl boy",
+      "tag": "owl_boy"
+    },
+    {
+      "phrase": "owl boy detail",
+      "tag": "owl_boy"
+    },
+    {
+      "phrase": "with owl boy",
+      "tag": "owl_boy"
+    },
+    {
+      "phrase": "owl girl",
+      "tag": "owl_girl"
+    },
+    {
+      "phrase": "owl girl detail",
+      "tag": "owl_girl"
+    },
+    {
+      "phrase": "with owl girl",
+      "tag": "owl_girl"
+    },
+    {
+      "phrase": "pale color",
+      "tag": "pale_color"
+    },
+    {
+      "phrase": "pale color detail",
+      "tag": "pale_color"
+    },
+    {
+      "phrase": "with pale color",
+      "tag": "pale_color"
+    },
+    {
+      "phrase": "pale skin",
+      "tag": "pale_skin"
+    },
+    {
+      "phrase": "pale skin detail",
+      "tag": "pale_skin"
+    },
+    {
+      "phrase": "with pale skin",
+      "tag": "pale_skin"
+    },
+    {
+      "phrase": "panda boy",
+      "tag": "panda_boy"
+    },
+    {
+      "phrase": "panda boy detail",
+      "tag": "panda_boy"
+    },
+    {
+      "phrase": "with panda boy",
+      "tag": "panda_boy"
+    },
+    {
+      "phrase": "panda girl",
+      "tag": "panda_girl"
+    },
+    {
+      "phrase": "panda girl detail",
+      "tag": "panda_girl"
+    },
+    {
+      "phrase": "with panda girl",
+      "tag": "panda_girl"
+    },
+    {
+      "phrase": "panther boy",
+      "tag": "panther_boy"
+    },
+    {
+      "phrase": "panther boy detail",
+      "tag": "panther_boy"
+    },
+    {
+      "phrase": "with panther boy",
+      "tag": "panther_boy"
+    },
+    {
+      "phrase": "panther girl",
+      "tag": "panther_girl"
+    },
+    {
+      "phrase": "panther girl detail",
+      "tag": "panther_girl"
+    },
+    {
+      "phrase": "with panther girl",
+      "tag": "panther_girl"
+    },
+    {
+      "phrase": "paparazzi",
+      "tag": "paparazzi"
+    },
+    {
+      "phrase": "showing paparazzi",
+      "tag": "paparazzi"
+    },
+    {
+      "phrase": "with paparazzi",
+      "tag": "paparazzi"
+    },
+    {
+      "phrase": "parrot boy",
+      "tag": "parrot_boy"
+    },
+    {
+      "phrase": "parrot boy detail",
+      "tag": "parrot_boy"
+    },
+    {
+      "phrase": "with parrot boy",
+      "tag": "parrot_boy"
+    },
+    {
+      "phrase": "parrot girl",
+      "tag": "parrot_girl"
+    },
+    {
+      "phrase": "parrot girl detail",
+      "tag": "parrot_girl"
+    },
+    {
+      "phrase": "with parrot girl",
+      "tag": "parrot_girl"
+    },
+    {
+      "phrase": "pear-shaped figure",
+      "tag": "pear-shaped_figure"
+    },
+    {
+      "phrase": "pear-shaped figure detail",
+      "tag": "pear-shaped_figure"
+    },
+    {
+      "phrase": "with pear-shaped figure",
+      "tag": "pear-shaped_figure"
+    },
+    {
+      "phrase": "pedophile",
+      "tag": "pedophile"
+    },
+    {
+      "phrase": "showing pedophile",
+      "tag": "pedophile"
+    },
+    {
+      "phrase": "with pedophile",
+      "tag": "pedophile"
+    },
+    {
+      "phrase": "penguin boy",
+      "tag": "penguin_boy"
+    },
+    {
+      "phrase": "penguin boy detail",
+      "tag": "penguin_boy"
+    },
+    {
+      "phrase": "with penguin boy",
+      "tag": "penguin_boy"
+    },
+    {
+      "phrase": "penguin girl",
+      "tag": "penguin_girl"
+    },
+    {
+      "phrase": "penguin girl detail",
+      "tag": "penguin_girl"
+    },
+    {
+      "phrase": "with penguin girl",
+      "tag": "penguin_girl"
+    },
+    {
+      "phrase": "personification",
+      "tag": "personification"
+    },
+    {
+      "phrase": "showing personification",
+      "tag": "personification"
+    },
+    {
+      "phrase": "with personification",
+      "tag": "personification"
+    },
+    {
+      "phrase": "pervert",
+      "tag": "pervert"
+    },
+    {
+      "phrase": "showing pervert",
+      "tag": "pervert"
+    },
+    {
+      "phrase": "with pervert",
+      "tag": "pervert"
+    },
+    {
+      "phrase": "petite",
+      "tag": "petite"
+    },
+    {
+      "phrase": "showing petite",
+      "tag": "petite"
+    },
+    {
+      "phrase": "with petite",
+      "tag": "petite"
+    },
+    {
+      "phrase": "phantom thief",
+      "tag": "phantom_thief"
+    },
+    {
+      "phrase": "phantom thief detail",
+      "tag": "phantom_thief"
+    },
+    {
+      "phrase": "with phantom thief",
+      "tag": "phantom_thief"
+    },
+    {
+      "phrase": "photographer",
+      "tag": "photographer"
+    },
+    {
+      "phrase": "showing photographer",
+      "tag": "photographer"
+    },
+    {
+      "phrase": "with photographer",
+      "tag": "photographer"
+    },
+    {
+      "phrase": "pig boy",
+      "tag": "pig_boy"
+    },
+    {
+      "phrase": "pig boy detail",
+      "tag": "pig_boy"
+    },
+    {
+      "phrase": "with pig boy",
+      "tag": "pig_boy"
+    },
+    {
+      "phrase": "pig girl",
+      "tag": "pig_girl"
+    },
+    {
+      "phrase": "pig girl detail",
+      "tag": "pig_girl"
+    },
+    {
+      "phrase": "with pig girl",
+      "tag": "pig_girl"
+    },
+    {
+      "phrase": "pilot",
+      "tag": "pilot"
+    },
+    {
+      "phrase": "showing pilot",
+      "tag": "pilot"
+    },
+    {
+      "phrase": "with pilot",
+      "tag": "pilot"
+    },
+    {
+      "phrase": "pimp",
+      "tag": "pimp"
+    },
+    {
+      "phrase": "showing pimp",
+      "tag": "pimp"
+    },
+    {
+      "phrase": "with pimp",
+      "tag": "pimp"
+    },
+    {
+      "phrase": "pip boy",
+      "tag": "pip_boy"
+    },
+    {
+      "phrase": "pip boy detail",
+      "tag": "pip_boy"
+    },
+    {
+      "phrase": "with pip boy",
+      "tag": "pip_boy"
+    },
+    {
+      "phrase": "pirate",
+      "tag": "pirate"
+    },
+    {
+      "phrase": "showing pirate",
+      "tag": "pirate"
+    },
+    {
+      "phrase": "with pirate",
+      "tag": "pirate"
+    },
+    {
+      "phrase": "plant boy",
+      "tag": "plant_boy"
+    },
+    {
+      "phrase": "plant boy detail",
+      "tag": "plant_boy"
+    },
+    {
+      "phrase": "with plant boy",
+      "tag": "plant_boy"
+    },
+    {
+      "phrase": "plant girl",
+      "tag": "plant_girl"
+    },
+    {
+      "phrase": "plant girl detail",
+      "tag": "plant_girl"
+    },
+    {
+      "phrase": "with plant girl",
+      "tag": "plant_girl"
+    },
+    {
+      "phrase": "plump",
+      "tag": "plump"
+    },
+    {
+      "phrase": "showing plump",
+      "tag": "plump"
+    },
+    {
+      "phrase": "with plump",
+      "tag": "plump"
+    },
+    {
+      "phrase": "police",
+      "tag": "police"
+    },
+    {
+      "phrase": "showing police",
+      "tag": "police"
+    },
+    {
+      "phrase": "with police",
+      "tag": "police"
+    },
+    {
+      "phrase": "policeman",
+      "tag": "policeman"
+    },
+    {
+      "phrase": "showing policeman",
+      "tag": "policeman"
+    },
+    {
+      "phrase": "with policeman",
+      "tag": "policeman"
+    },
+    {
+      "phrase": "policewoman",
+      "tag": "policewoman"
+    },
+    {
+      "phrase": "showing policewoman",
+      "tag": "policewoman"
+    },
+    {
+      "phrase": "with policewoman",
+      "tag": "policewoman"
+    },
+    {
+      "phrase": "politician",
+      "tag": "politician"
+    },
+    {
+      "phrase": "showing politician",
+      "tag": "politician"
+    },
+    {
+      "phrase": "with politician",
+      "tag": "politician"
+    },
+    {
+      "phrase": "porcupine boy",
+      "tag": "porcupine_boy"
+    },
+    {
+      "phrase": "porcupine boy detail",
+      "tag": "porcupine_boy"
+    },
+    {
+      "phrase": "with porcupine boy",
+      "tag": "porcupine_boy"
+    },
+    {
+      "phrase": "possessed",
+      "tag": "possessed"
+    },
+    {
+      "phrase": "showing possessed",
+      "tag": "possessed"
+    },
+    {
+      "phrase": "with possessed",
+      "tag": "possessed"
+    },
+    {
+      "phrase": "possum girl",
+      "tag": "possum_girl"
+    },
+    {
+      "phrase": "possum girl detail",
+      "tag": "possum_girl"
+    },
+    {
+      "phrase": "with possum girl",
+      "tag": "possum_girl"
+    },
+    {
+      "phrase": "powerpunk girls",
+      "tag": "powerpunk_girls"
+    },
+    {
+      "phrase": "powerpunk girls detail",
+      "tag": "powerpunk_girls"
+    },
+    {
+      "phrase": "with powerpunk girls",
+      "tag": "powerpunk_girls"
+    },
+    {
+      "phrase": "pretty waitress",
+      "tag": "pretty_waitress_(idolmaster)"
+    },
+    {
+      "phrase": "pretty waitress detail",
+      "tag": "pretty_waitress_(idolmaster)"
+    },
+    {
+      "phrase": "pretty waitress idolmaster",
+      "tag": "pretty_waitress_(idolmaster)"
+    },
+    {
+      "phrase": "with pretty waitress",
+      "tag": "pretty_waitress_(idolmaster)"
+    },
+    {
+      "phrase": "priest",
+      "tag": "priest"
+    },
+    {
+      "phrase": "showing priest",
+      "tag": "priest"
+    },
+    {
+      "phrase": "with priest",
+      "tag": "priest"
+    },
+    {
+      "phrase": "priestess",
+      "tag": "priestess"
+    },
+    {
+      "phrase": "showing priestess",
+      "tag": "priestess"
+    },
+    {
+      "phrase": "with priestess",
+      "tag": "priestess"
+    },
+    {
+      "phrase": "primarch",
+      "tag": "primarch"
+    },
+    {
+      "phrase": "showing primarch",
+      "tag": "primarch"
+    },
+    {
+      "phrase": "with primarch",
+      "tag": "primarch"
+    },
+    {
+      "phrase": "prince",
+      "tag": "prince"
+    },
+    {
+      "phrase": "showing prince",
+      "tag": "prince"
+    },
+    {
+      "phrase": "with prince",
+      "tag": "prince"
+    },
+    {
+      "phrase": "princess",
+      "tag": "princess"
+    },
+    {
+      "phrase": "showing princess",
+      "tag": "princess"
+    },
+    {
+      "phrase": "with princess",
+      "tag": "princess"
+    },
+    {
+      "phrase": "prisoner",
+      "tag": "prisoner"
+    },
+    {
+      "phrase": "showing prisoner",
+      "tag": "prisoner"
+    },
+    {
+      "phrase": "with prisoner",
+      "tag": "prisoner"
+    },
+    {
+      "phrase": "product girl",
+      "tag": "product_girl"
+    },
+    {
+      "phrase": "product girl detail",
+      "tag": "product_girl"
+    },
+    {
+      "phrase": "with product girl",
+      "tag": "product_girl"
+    },
+    {
+      "phrase": "prostitution",
+      "tag": "prostitution"
+    },
+    {
+      "phrase": "showing prostitution",
+      "tag": "prostitution"
+    },
+    {
+      "phrase": "with prostitution",
+      "tag": "prostitution"
+    },
+    {
+      "phrase": "ptsd",
+      "tag": "ptsd"
+    },
+    {
+      "phrase": "showing ptsd",
+      "tag": "ptsd"
+    },
+    {
+      "phrase": "with ptsd",
+      "tag": "ptsd"
+    },
+    {
+      "phrase": "queen",
+      "tag": "queen"
+    },
+    {
+      "phrase": "showing queen",
+      "tag": "queen"
+    },
+    {
+      "phrase": "with queen",
+      "tag": "queen"
+    },
+    {
+      "phrase": "rabbit boy",
+      "tag": "rabbit_boy"
+    },
+    {
+      "phrase": "rabbit boy detail",
+      "tag": "rabbit_boy"
+    },
+    {
+      "phrase": "with rabbit boy",
+      "tag": "rabbit_boy"
+    },
+    {
+      "phrase": "rabbit girl",
+      "tag": "rabbit_girl"
+    },
+    {
+      "phrase": "rabbit girl detail",
+      "tag": "rabbit_girl"
+    },
+    {
+      "phrase": "with rabbit girl",
+      "tag": "rabbit_girl"
+    },
+    {
+      "phrase": "raccoon boy",
+      "tag": "raccoon_boy"
+    },
+    {
+      "phrase": "raccoon boy detail",
+      "tag": "raccoon_boy"
+    },
+    {
+      "phrase": "with raccoon boy",
+      "tag": "raccoon_boy"
+    },
+    {
+      "phrase": "raccoon girl",
+      "tag": "raccoon_girl"
+    },
+    {
+      "phrase": "raccoon girl detail",
+      "tag": "raccoon_girl"
+    },
+    {
+      "phrase": "with raccoon girl",
+      "tag": "raccoon_girl"
+    },
+    {
+      "phrase": "race queen",
+      "tag": "race_queen"
+    },
+    {
+      "phrase": "race queen detail",
+      "tag": "race_queen"
+    },
+    {
+      "phrase": "with race queen",
+      "tag": "race_queen"
+    },
+    {
+      "phrase": "rat boy",
+      "tag": "rat_boy"
+    },
+    {
+      "phrase": "rat boy detail",
+      "tag": "rat_boy"
+    },
+    {
+      "phrase": "with rat boy",
+      "tag": "rat_boy"
+    },
+    {
+      "phrase": "raver",
+      "tag": "raver"
+    },
+    {
+      "phrase": "showing raver",
+      "tag": "raver"
+    },
+    {
+      "phrase": "with raver",
+      "tag": "raver"
+    },
+    {
+      "phrase": "red panda boy",
+      "tag": "red_panda_boy"
+    },
+    {
+      "phrase": "red panda boy detail",
+      "tag": "red_panda_boy"
+    },
+    {
+      "phrase": "with red panda boy",
+      "tag": "red_panda_boy"
+    },
+    {
+      "phrase": "red panda girl",
+      "tag": "red_panda_girl"
+    },
+    {
+      "phrase": "red panda girl detail",
+      "tag": "red_panda_girl"
+    },
+    {
+      "phrase": "with red panda girl",
+      "tag": "red_panda_girl"
+    },
+    {
+      "phrase": "reindeer boy",
+      "tag": "reindeer_boy"
+    },
+    {
+      "phrase": "reindeer boy detail",
+      "tag": "reindeer_boy"
+    },
+    {
+      "phrase": "with reindeer boy",
+      "tag": "reindeer_boy"
+    },
+    {
+      "phrase": "reindeer girl",
+      "tag": "reindeer_girl"
+    },
+    {
+      "phrase": "reindeer girl detail",
+      "tag": "reindeer_girl"
+    },
+    {
+      "phrase": "with reindeer girl",
+      "tag": "reindeer_girl"
+    },
+    {
+      "phrase": "reporter",
+      "tag": "reporter"
+    },
+    {
+      "phrase": "showing reporter",
+      "tag": "reporter"
+    },
+    {
+      "phrase": "with reporter",
+      "tag": "reporter"
+    },
+    {
+      "phrase": "reptile boy",
+      "tag": "reptile_boy"
+    },
+    {
+      "phrase": "reptile boy detail",
+      "tag": "reptile_boy"
+    },
+    {
+      "phrase": "with reptile boy",
+      "tag": "reptile_boy"
+    },
+    {
+      "phrase": "reptile girl",
+      "tag": "reptile_girl"
+    },
+    {
+      "phrase": "reptile girl detail",
+      "tag": "reptile_girl"
+    },
+    {
+      "phrase": "with reptile girl",
+      "tag": "reptile_girl"
+    },
+    {
+      "phrase": "reverse trap",
+      "tag": "reverse_trap"
+    },
+    {
+      "phrase": "reverse trap detail",
+      "tag": "reverse_trap"
+    },
+    {
+      "phrase": "with reverse trap",
+      "tag": "reverse_trap"
+    },
+    {
+      "phrase": "rhino boy",
+      "tag": "rhino_boy"
+    },
+    {
+      "phrase": "rhino boy detail",
+      "tag": "rhino_boy"
+    },
+    {
+      "phrase": "with rhino boy",
+      "tag": "rhino_boy"
+    },
+    {
+      "phrase": "rhinoceros girl",
+      "tag": "rhinoceros_girl"
+    },
+    {
+      "phrase": "rhinoceros girl detail",
+      "tag": "rhinoceros_girl"
+    },
+    {
+      "phrase": "with rhinoceros girl",
+      "tag": "rhinoceros_girl"
+    },
+    {
+      "phrase": "robot boy",
+      "tag": "robot_boy"
+    },
+    {
+      "phrase": "robot boy detail",
+      "tag": "robot_boy"
+    },
+    {
+      "phrase": "with robot boy",
+      "tag": "robot_boy"
+    },
+    {
+      "phrase": "robot girl",
+      "tag": "robot_girl"
+    },
+    {
+      "phrase": "robot girl detail",
+      "tag": "robot_girl"
+    },
+    {
+      "phrase": "with robot girl",
+      "tag": "robot_girl"
+    },
+    {
+      "phrase": "rokku gyaru",
+      "tag": "rokku_gyaru"
+    },
+    {
+      "phrase": "rokku gyaru detail",
+      "tag": "rokku_gyaru"
+    },
+    {
+      "phrase": "with rokku gyaru",
+      "tag": "rokku_gyaru"
+    },
+    {
+      "phrase": "round girl",
+      "tag": "round_girl"
+    },
+    {
+      "phrase": "round girl detail",
+      "tag": "round_girl"
+    },
+    {
+      "phrase": "with round girl",
+      "tag": "round_girl"
+    },
+    {
+      "phrase": "rowdyruff boys",
+      "tag": "rowdyruff_boys"
+    },
+    {
+      "phrase": "rowdyruff boys detail",
+      "tag": "rowdyruff_boys"
+    },
+    {
+      "phrase": "with rowdyruff boys",
+      "tag": "rowdyruff_boys"
+    },
+    {
+      "phrase": "s.w.a.t.",
+      "tag": "s.w.a.t."
+    },
+    {
+      "phrase": "s.w.a.t. visible",
+      "tag": "s.w.a.t."
+    },
+    {
+      "phrase": "with s.w.a.t.",
+      "tag": "s.w.a.t."
+    },
+    {
+      "phrase": "salaryman",
+      "tag": "salaryman"
+    },
+    {
+      "phrase": "showing salaryman",
+      "tag": "salaryman"
+    },
+    {
+      "phrase": "with salaryman",
+      "tag": "salaryman"
+    },
+    {
+      "phrase": "samurai",
+      "tag": "samurai"
+    },
+    {
+      "phrase": "showing samurai",
+      "tag": "samurai"
+    },
+    {
+      "phrase": "with samurai",
+      "tag": "samurai"
+    },
+    {
+      "phrase": "school nurse",
+      "tag": "school_nurse"
+    },
+    {
+      "phrase": "school nurse detail",
+      "tag": "school_nurse"
+    },
+    {
+      "phrase": "with school nurse",
+      "tag": "school_nurse"
+    },
+    {
+      "phrase": "scientist",
+      "tag": "scientist"
+    },
+    {
+      "phrase": "showing scientist",
+      "tag": "scientist"
+    },
+    {
+      "phrase": "with scientist",
+      "tag": "scientist"
+    },
+    {
+      "phrase": "scorpion girl",
+      "tag": "scorpion_girl"
+    },
+    {
+      "phrase": "scorpion girl detail",
+      "tag": "scorpion_girl"
+    },
+    {
+      "phrase": "with scorpion girl",
+      "tag": "scorpion_girl"
+    },
+    {
+      "phrase": "sea angel girl",
+      "tag": "sea_angel_girl"
+    },
+    {
+      "phrase": "sea angel girl detail",
+      "tag": "sea_angel_girl"
+    },
+    {
+      "phrase": "with sea angel girl",
+      "tag": "sea_angel_girl"
+    },
+    {
+      "phrase": "sea slug boy",
+      "tag": "sea_slug_boy"
+    },
+    {
+      "phrase": "sea slug boy detail",
+      "tag": "sea_slug_boy"
+    },
+    {
+      "phrase": "with sea slug boy",
+      "tag": "sea_slug_boy"
+    },
+    {
+      "phrase": "sea slug girl",
+      "tag": "sea_slug_girl"
+    },
+    {
+      "phrase": "sea slug girl detail",
+      "tag": "sea_slug_girl"
+    },
+    {
+      "phrase": "with sea slug girl",
+      "tag": "sea_slug_girl"
+    },
+    {
+      "phrase": "seal boy",
+      "tag": "seal_boy"
+    },
+    {
+      "phrase": "seal boy detail",
+      "tag": "seal_boy"
+    },
+    {
+      "phrase": "with seal boy",
+      "tag": "seal_boy"
+    },
+    {
+      "phrase": "security guard",
+      "tag": "security_guard"
+    },
+    {
+      "phrase": "security guard detail",
+      "tag": "security_guard"
+    },
+    {
+      "phrase": "with security guard",
+      "tag": "security_guard"
+    },
+    {
+      "phrase": "shark boy",
+      "tag": "shark_boy"
+    },
+    {
+      "phrase": "shark boy detail",
+      "tag": "shark_boy"
+    },
+    {
+      "phrase": "with shark boy",
+      "tag": "shark_boy"
+    },
+    {
+      "phrase": "shark girl",
+      "tag": "shark_girl"
+    },
+    {
+      "phrase": "shark girl detail",
+      "tag": "shark_girl"
+    },
+    {
+      "phrase": "with shark girl",
+      "tag": "shark_girl"
+    },
+    {
+      "phrase": "sheep boy",
+      "tag": "sheep_boy"
+    },
+    {
+      "phrase": "sheep boy detail",
+      "tag": "sheep_boy"
+    },
+    {
+      "phrase": "with sheep boy",
+      "tag": "sheep_boy"
+    },
+    {
+      "phrase": "sheep girl",
+      "tag": "sheep_girl"
+    },
+    {
+      "phrase": "sheep girl detail",
+      "tag": "sheep_girl"
+    },
+    {
+      "phrase": "with sheep girl",
+      "tag": "sheep_girl"
+    },
+    {
+      "phrase": "shiny pokemon",
+      "tag": "shiny_pokemon"
+    },
+    {
+      "phrase": "shiny pokemon detail",
+      "tag": "shiny_pokemon"
+    },
+    {
+      "phrase": "with shiny pokemon",
+      "tag": "shiny_pokemon"
+    },
+    {
+      "phrase": "shiny skin",
+      "tag": "shiny_skin"
+    },
+    {
+      "phrase": "shiny skin detail",
+      "tag": "shiny_skin"
+    },
+    {
+      "phrase": "with shiny skin",
+      "tag": "shiny_skin"
+    },
+    {
+      "phrase": "short male",
+      "tag": "short_male"
+    },
+    {
+      "phrase": "short male detail",
+      "tag": "short_male"
+    },
+    {
+      "phrase": "with short male",
+      "tag": "short_male"
+    },
+    {
+      "phrase": "shortstack",
+      "tag": "shortstack"
+    },
+    {
+      "phrase": "showing shortstack",
+      "tag": "shortstack"
+    },
+    {
+      "phrase": "with shortstack",
+      "tag": "shortstack"
+    },
+    {
+      "phrase": "shosei",
+      "tag": "shosei"
+    },
+    {
+      "phrase": "showing shosei",
+      "tag": "shosei"
+    },
+    {
+      "phrase": "with shosei",
+      "tag": "shosei"
+    },
+    {
+      "phrase": "shota",
+      "tag": "shota"
+    },
+    {
+      "phrase": "showing shota",
+      "tag": "shota"
+    },
+    {
+      "phrase": "with shota",
+      "tag": "shota"
+    },
+    {
+      "phrase": "shotajiji",
+      "tag": "shotajiji"
+    },
+    {
+      "phrase": "showing shotajiji",
+      "tag": "shotajiji"
+    },
+    {
+      "phrase": "with shotajiji",
+      "tag": "shotajiji"
+    },
+    {
+      "phrase": "shrimp girl",
+      "tag": "shrimp_girl"
+    },
+    {
+      "phrase": "shrimp girl detail",
+      "tag": "shrimp_girl"
+    },
+    {
+      "phrase": "with shrimp girl",
+      "tag": "shrimp_girl"
+    },
+    {
+      "phrase": "showing siblings",
+      "tag": "siblings"
+    },
+    {
+      "phrase": "siblings",
+      "tag": "siblings"
+    },
+    {
+      "phrase": "with siblings",
+      "tag": "siblings"
+    },
+    {
+      "phrase": "showing siscon",
+      "tag": "siscon"
+    },
+    {
+      "phrase": "siscon",
+      "tag": "siscon"
+    },
+    {
+      "phrase": "with siscon",
+      "tag": "siscon"
+    },
+    {
+      "phrase": "showing sith",
+      "tag": "sith"
+    },
+    {
+      "phrase": "sith",
+      "tag": "sith"
+    },
+    {
+      "phrase": "with sith",
+      "tag": "sith"
+    },
+    {
+      "phrase": "size difference",
+      "tag": "size_difference"
+    },
+    {
+      "phrase": "size difference detail",
+      "tag": "size_difference"
+    },
+    {
+      "phrase": "with size difference",
+      "tag": "size_difference"
+    },
+    {
+      "phrase": "skin tight",
+      "tag": "skin_tight"
+    },
+    {
+      "phrase": "skin tight detail",
+      "tag": "skin_tight"
+    },
+    {
+      "phrase": "with skin tight",
+      "tag": "skin_tight"
+    },
+    {
+      "phrase": "showing skinny",
+      "tag": "skinny"
+    },
+    {
+      "phrase": "skinny",
+      "tag": "skinny"
+    },
+    {
+      "phrase": "with skinny",
+      "tag": "skinny"
+    },
+    {
+      "phrase": "skunk boy",
+      "tag": "skunk_boy"
+    },
+    {
+      "phrase": "skunk boy detail",
+      "tag": "skunk_boy"
+    },
+    {
+      "phrase": "with skunk boy",
+      "tag": "skunk_boy"
+    },
+    {
+      "phrase": "skunk girl",
+      "tag": "skunk_girl"
+    },
+    {
+      "phrase": "skunk girl detail",
+      "tag": "skunk_girl"
+    },
+    {
+      "phrase": "with skunk girl",
+      "tag": "skunk_girl"
+    },
+    {
+      "phrase": "showing slave",
+      "tag": "slave"
+    },
+    {
+      "phrase": "slave",
+      "tag": "slave"
+    },
+    {
+      "phrase": "with slave",
+      "tag": "slave"
+    },
+    {
+      "phrase": "slime boy",
+      "tag": "slime_boy"
+    },
+    {
+      "phrase": "slime boy detail",
+      "tag": "slime_boy"
+    },
+    {
+      "phrase": "with slime boy",
+      "tag": "slime_boy"
+    },
+    {
+      "phrase": "slime girl",
+      "tag": "slime_girl"
+    },
+    {
+      "phrase": "slime girl detail",
+      "tag": "slime_girl"
+    },
+    {
+      "phrase": "with slime girl",
+      "tag": "slime_girl"
+    },
+    {
+      "phrase": "slingshot tan",
+      "tag": "slingshot_tan"
+    },
+    {
+      "phrase": "slingshot tan detail",
+      "tag": "slingshot_tan"
+    },
+    {
+      "phrase": "with slingshot tan",
+      "tag": "slingshot_tan"
+    },
+    {
+      "phrase": "sloth girl",
+      "tag": "sloth_girl"
+    },
+    {
+      "phrase": "sloth girl detail",
+      "tag": "sloth_girl"
+    },
+    {
+      "phrase": "with sloth girl",
+      "tag": "sloth_girl"
+    },
+    {
+      "phrase": "slug girl",
+      "tag": "slug_girl"
+    },
+    {
+      "phrase": "slug girl detail",
+      "tag": "slug_girl"
+    },
+    {
+      "phrase": "with slug girl",
+      "tag": "slug_girl"
+    },
+    {
+      "phrase": "snail girl",
+      "tag": "snail_girl"
+    },
+    {
+      "phrase": "snail girl detail",
+      "tag": "snail_girl"
+    },
+    {
+      "phrase": "with snail girl",
+      "tag": "snail_girl"
+    },
+    {
+      "phrase": "snake boy",
+      "tag": "snake_boy"
+    },
+    {
+      "phrase": "snake boy detail",
+      "tag": "snake_boy"
+    },
+    {
+      "phrase": "with snake boy",
+      "tag": "snake_boy"
+    },
+    {
+      "phrase": "snake girl",
+      "tag": "snake_girl"
+    },
+    {
+      "phrase": "snake girl detail",
+      "tag": "snake_girl"
+    },
+    {
+      "phrase": "with snake girl",
+      "tag": "snake_girl"
+    },
+    {
+      "phrase": "snow leopard boy",
+      "tag": "snow_leopard_boy"
+    },
+    {
+      "phrase": "snow leopard boy detail",
+      "tag": "snow_leopard_boy"
+    },
+    {
+      "phrase": "with snow leopard boy",
+      "tag": "snow_leopard_boy"
+    },
+    {
+      "phrase": "snow leopard girl",
+      "tag": "snow_leopard_girl"
+    },
+    {
+      "phrase": "snow leopard girl detail",
+      "tag": "snow_leopard_girl"
+    },
+    {
+      "phrase": "with snow leopard girl",
+      "tag": "snow_leopard_girl"
+    },
+    {
+      "phrase": "showing soldier",
+      "tag": "soldier"
+    },
+    {
+      "phrase": "soldier",
+      "tag": "soldier"
+    },
+    {
+      "phrase": "with soldier",
+      "tag": "soldier"
+    },
+    {
+      "phrase": "showing spicy",
+      "tag": "spicy"
+    },
+    {
+      "phrase": "spicy",
+      "tag": "spicy"
+    },
+    {
+      "phrase": "with spicy",
+      "tag": "spicy"
+    },
+    {
+      "phrase": "spider boy",
+      "tag": "spider_boy"
+    },
+    {
+      "phrase": "spider boy detail",
+      "tag": "spider_boy"
+    },
+    {
+      "phrase": "with spider boy",
+      "tag": "spider_boy"
+    },
+    {
+      "phrase": "spider girl",
+      "tag": "spider_girl"
+    },
+    {
+      "phrase": "spider girl detail",
+      "tag": "spider_girl"
+    },
+    {
+      "phrase": "with spider girl",
+      "tag": "spider_girl"
+    },
+    {
+      "phrase": "squid girl",
+      "tag": "squid_girl"
+    },
+    {
+      "phrase": "squid girl detail",
+      "tag": "squid_girl"
+    },
+    {
+      "phrase": "with squid girl",
+      "tag": "squid_girl"
+    },
+    {
+      "phrase": "squirrel boy",
+      "tag": "squirrel_boy"
+    },
+    {
+      "phrase": "squirrel boy detail",
+      "tag": "squirrel_boy"
+    },
+    {
+      "phrase": "with squirrel boy",
+      "tag": "squirrel_boy"
+    },
+    {
+      "phrase": "squirrel girl",
+      "tag": "squirrel_girl"
+    },
+    {
+      "phrase": "squirrel girl detail",
+      "tag": "squirrel_girl"
+    },
+    {
+      "phrase": "with squirrel girl",
+      "tag": "squirrel_girl"
+    },
+    {
+      "phrase": "standard bearer",
+      "tag": "standard_bearer"
+    },
+    {
+      "phrase": "standard bearer detail",
+      "tag": "standard_bearer"
+    },
+    {
+      "phrase": "with standard bearer",
+      "tag": "standard_bearer"
+    },
+    {
+      "phrase": "stoat girl",
+      "tag": "stoat_girl"
+    },
+    {
+      "phrase": "stoat girl detail",
+      "tag": "stoat_girl"
+    },
+    {
+      "phrase": "with stoat girl",
+      "tag": "stoat_girl"
+    },
+    {
+      "phrase": "store clerk",
+      "tag": "store_clerk"
+    },
+    {
+      "phrase": "store clerk detail",
+      "tag": "store_clerk"
+    },
+    {
+      "phrase": "with store clerk",
+      "tag": "store_clerk"
+    },
+    {
+      "phrase": "showing stormtrooper",
+      "tag": "stormtrooper"
+    },
+    {
+      "phrase": "stormtrooper",
+      "tag": "stormtrooper"
+    },
+    {
+      "phrase": "with stormtrooper",
+      "tag": "stormtrooper"
+    },
+    {
+      "phrase": "showing stripper",
+      "tag": "stripper"
+    },
+    {
+      "phrase": "stripper",
+      "tag": "stripper"
+    },
+    {
+      "phrase": "with stripper",
+      "tag": "stripper"
+    },
+    {
+      "phrase": "showing strong",
+      "tag": "strong"
+    },
+    {
+      "phrase": "strong",
+      "tag": "strong"
+    },
+    {
+      "phrase": "with strong",
+      "tag": "strong"
+    },
+    {
+      "phrase": "showing sukeban",
+      "tag": "sukeban"
+    },
+    {
+      "phrase": "sukeban",
+      "tag": "sukeban"
+    },
+    {
+      "phrase": "with sukeban",
+      "tag": "sukeban"
+    },
+    {
+      "phrase": "showing sumo",
+      "tag": "sumo"
+    },
+    {
+      "phrase": "sumo",
+      "tag": "sumo"
+    },
+    {
+      "phrase": "with sumo",
+      "tag": "sumo"
+    },
+    {
+      "phrase": "super saiyan",
+      "tag": "super_saiyan"
+    },
+    {
+      "phrase": "super saiyan detail",
+      "tag": "super_saiyan"
+    },
+    {
+      "phrase": "with super saiyan",
+      "tag": "super_saiyan"
+    },
+    {
+      "phrase": "super saiyan 1",
+      "tag": "super_saiyan_1"
+    },
+    {
+      "phrase": "super saiyan 1 detail",
+      "tag": "super_saiyan_1"
+    },
+    {
+      "phrase": "with super saiyan 1",
+      "tag": "super_saiyan_1"
+    },
+    {
+      "phrase": "super saiyan 2",
+      "tag": "super_saiyan_2"
+    },
+    {
+      "phrase": "super saiyan 2 detail",
+      "tag": "super_saiyan_2"
+    },
+    {
+      "phrase": "with super saiyan 2",
+      "tag": "super_saiyan_2"
+    },
+    {
+      "phrase": "super saiyan 3",
+      "tag": "super_saiyan_3"
+    },
+    {
+      "phrase": "super saiyan 3 detail",
+      "tag": "super_saiyan_3"
+    },
+    {
+      "phrase": "with super saiyan 3",
+      "tag": "super_saiyan_3"
+    },
+    {
+      "phrase": "super saiyan 4",
+      "tag": "super_saiyan_4"
+    },
+    {
+      "phrase": "super saiyan 4 detail",
+      "tag": "super_saiyan_4"
+    },
+    {
+      "phrase": "with super saiyan 4",
+      "tag": "super_saiyan_4"
+    },
+    {
+      "phrase": "super saiyan blue",
+      "tag": "super_saiyan_blue"
+    },
+    {
+      "phrase": "super saiyan blue detail",
+      "tag": "super_saiyan_blue"
+    },
+    {
+      "phrase": "with super saiyan blue",
+      "tag": "super_saiyan_blue"
+    },
+    {
+      "phrase": "super saiyan blue evolved",
+      "tag": "super_saiyan_blue_evolved"
+    },
+    {
+      "phrase": "super saiyan blue evolved detail",
+      "tag": "super_saiyan_blue_evolved"
+    },
+    {
+      "phrase": "with super saiyan blue evolved",
+      "tag": "super_saiyan_blue_evolved"
+    },
+    {
+      "phrase": "super saiyan god",
+      "tag": "super_saiyan_god"
+    },
+    {
+      "phrase": "super saiyan god detail",
+      "tag": "super_saiyan_god"
+    },
+    {
+      "phrase": "with super saiyan god",
+      "tag": "super_saiyan_god"
+    },
+    {
+      "phrase": "super saiyan rose",
+      "tag": "super_saiyan_rose"
+    },
+    {
+      "phrase": "super saiyan rose detail",
+      "tag": "super_saiyan_rose"
+    },
+    {
+      "phrase": "with super saiyan rose",
+      "tag": "super_saiyan_rose"
+    },
+    {
+      "phrase": "tactical maid",
+      "tag": "tactical_maid"
+    },
+    {
+      "phrase": "tactical maid detail",
+      "tag": "tactical_maid"
+    },
+    {
+      "phrase": "with tactical maid",
+      "tag": "tactical_maid"
+    },
+    {
+      "phrase": "tall crown",
+      "tag": "tall_crown"
+    },
+    {
+      "phrase": "tall crown detail",
+      "tag": "tall_crown"
+    },
+    {
+      "phrase": "with tall crown",
+      "tag": "tall_crown"
+    },
+    {
+      "phrase": "tall female",
+      "tag": "tall_female"
+    },
+    {
+      "phrase": "tall female detail",
+      "tag": "tall_female"
+    },
+    {
+      "phrase": "with tall female",
+      "tag": "tall_female"
+    },
+    {
+      "phrase": "tall male",
+      "tag": "tall_male"
+    },
+    {
+      "phrase": "tall male detail",
+      "tag": "tall_male"
+    },
+    {
+      "phrase": "with tall male",
+      "tag": "tall_male"
+    },
+    {
+      "phrase": "showing tan",
+      "tag": "tan"
+    },
+    {
+      "phrase": "tan",
+      "tag": "tan"
+    },
+    {
+      "phrase": "tanned",
+      "tag": "tan"
+    },
+    {
+      "phrase": "with tan",
+      "tag": "tan"
+    },
+    {
+      "phrase": "tan tattoo",
+      "tag": "tan_tattoo"
+    },
+    {
+      "phrase": "tan tattoo detail",
+      "tag": "tan_tattoo"
+    },
+    {
+      "phrase": "with tan tattoo",
+      "tag": "tan_tattoo"
+    },
+    {
+      "phrase": "showing tanlines",
+      "tag": "tanlines"
+    },
+    {
+      "phrase": "tanlines",
+      "tag": "tanlines"
+    },
+    {
+      "phrase": "with tanlines",
+      "tag": "tanlines"
+    },
+    {
+      "phrase": "tapir girl",
+      "tag": "tapir_girl"
+    },
+    {
+      "phrase": "tapir girl detail",
+      "tag": "tapir_girl"
+    },
+    {
+      "phrase": "with tapir girl",
+      "tag": "tapir_girl"
+    },
+    {
+      "phrase": "showing teacher",
+      "tag": "teacher"
+    },
+    {
+      "phrase": "teacher",
+      "tag": "teacher"
+    },
+    {
+      "phrase": "with teacher",
+      "tag": "teacher"
+    },
+    {
+      "phrase": "tentacle girl",
+      "tag": "tentacle_girl"
+    },
+    {
+      "phrase": "tentacle girl detail",
+      "tag": "tentacle_girl"
+    },
+    {
+      "phrase": "with tentacle girl",
+      "tag": "tentacle_girl"
+    },
+    {
+      "phrase": "showing thief",
+      "tag": "thief"
+    },
+    {
+      "phrase": "thief",
+      "tag": "thief"
+    },
+    {
+      "phrase": "with thief",
+      "tag": "thief"
+    },
+    {
+      "phrase": "three sizes",
+      "tag": "three_sizes"
+    },
+    {
+      "phrase": "three sizes detail",
+      "tag": "three_sizes"
+    },
+    {
+      "phrase": "with three sizes",
+      "tag": "three_sizes"
+    },
+    {
+      "phrase": "tiger boy",
+      "tag": "tiger_boy"
+    },
+    {
+      "phrase": "tiger boy detail",
+      "tag": "tiger_boy"
+    },
+    {
+      "phrase": "with tiger boy",
+      "tag": "tiger_boy"
+    },
+    {
+      "phrase": "tiger girl",
+      "tag": "tiger_girl"
+    },
+    {
+      "phrase": "tiger girl detail",
+      "tag": "tiger_girl"
+    },
+    {
+      "phrase": "with tiger girl",
+      "tag": "tiger_girl"
+    },
+    {
+      "phrase": "showing toddler",
+      "tag": "toddler"
+    },
+    {
+      "phrase": "toddler",
+      "tag": "toddler"
+    },
+    {
+      "phrase": "with toddler",
+      "tag": "toddler"
+    },
+    {
+      "phrase": "showing tomboy",
+      "tag": "tomboy"
+    },
+    {
+      "phrase": "tomboy",
+      "tag": "tomboy"
+    },
+    {
+      "phrase": "with tomboy",
+      "tag": "tomboy"
+    },
+    {
+      "phrase": "toned female",
+      "tag": "toned_female"
+    },
+    {
+      "phrase": "toned female detail",
+      "tag": "toned_female"
+    },
+    {
+      "phrase": "with toned female",
+      "tag": "toned_female"
+    },
+    {
+      "phrase": "toned male",
+      "tag": "toned_male"
+    },
+    {
+      "phrase": "toned male detail",
+      "tag": "toned_male"
+    },
+    {
+      "phrase": "with toned male",
+      "tag": "toned_male"
+    },
+    {
+      "phrase": "tour guide",
+      "tag": "tour_guide"
+    },
+    {
+      "phrase": "tour guide detail",
+      "tag": "tour_guide"
+    },
+    {
+      "phrase": "with tour guide",
+      "tag": "tour_guide"
+    },
+    {
+      "phrase": "train attendant",
+      "tag": "train_attendant"
+    },
+    {
+      "phrase": "train attendant detail",
+      "tag": "train_attendant"
+    },
+    {
+      "phrase": "with train attendant",
+      "tag": "train_attendant"
+    },
+    {
+      "phrase": "train conductor",
+      "tag": "train_conductor"
+    },
+    {
+      "phrase": "train conductor detail",
+      "tag": "train_conductor"
+    },
+    {
+      "phrase": "with train conductor",
+      "tag": "train_conductor"
+    },
+    {
+      "phrase": "showing trap",
+      "tag": "trap"
+    },
+    {
+      "phrase": "trap",
+      "tag": "trap"
+    },
+    {
+      "phrase": "with trap",
+      "tag": "trap"
+    },
+    {
+      "phrase": "travel attendant",
+      "tag": "travel_attendant"
+    },
+    {
+      "phrase": "travel attendant detail",
+      "tag": "travel_attendant"
+    },
+    {
+      "phrase": "with travel attendant",
+      "tag": "travel_attendant"
+    },
+    {
+      "phrase": "tree boy",
+      "tag": "tree_boy"
+    },
+    {
+      "phrase": "tree boy detail",
+      "tag": "tree_boy"
+    },
+    {
+      "phrase": "with tree boy",
+      "tag": "tree_boy"
+    },
+    {
+      "phrase": "triple amputee",
+      "tag": "triple_amputee"
+    },
+    {
+      "phrase": "triple amputee detail",
+      "tag": "triple_amputee"
+    },
+    {
+      "phrase": "with triple amputee",
+      "tag": "triple_amputee"
+    },
+    {
+      "phrase": "showing tsundere",
+      "tag": "tsundere"
+    },
+    {
+      "phrase": "tsundere",
+      "tag": "tsundere"
+    },
+    {
+      "phrase": "with tsundere",
+      "tag": "tsundere"
+    },
+    {
+      "phrase": "turtle boy",
+      "tag": "turtle_boy"
+    },
+    {
+      "phrase": "turtle boy detail",
+      "tag": "turtle_boy"
+    },
+    {
+      "phrase": "with turtle boy",
+      "tag": "turtle_boy"
+    },
+    {
+      "phrase": "showing twins",
+      "tag": "twins"
+    },
+    {
+      "phrase": "twins",
+      "tag": "twins"
+    },
+    {
+      "phrase": "with twins",
+      "tag": "twins"
+    },
+    {
+      "phrase": "ugly bastard",
+      "tag": "ugly_bastard"
+    },
+    {
+      "phrase": "ugly bastard detail",
+      "tag": "ugly_bastard"
+    },
+    {
+      "phrase": "with ugly bastard",
+      "tag": "ugly_bastard"
+    },
+    {
+      "phrase": "ultra instinct",
+      "tag": "ultra_instinct"
+    },
+    {
+      "phrase": "ultra instinct detail",
+      "tag": "ultra_instinct"
+    },
+    {
+      "phrase": "with ultra instinct",
+      "tag": "ultra_instinct"
+    },
+    {
+      "phrase": "unconventional maid",
+      "tag": "unconventional_maid"
+    },
+    {
+      "phrase": "unconventional maid detail",
+      "tag": "unconventional_maid"
+    },
+    {
+      "phrase": "with unconventional maid",
+      "tag": "unconventional_maid"
+    },
+    {
+      "phrase": "unicorn boy",
+      "tag": "unicorn_boy"
+    },
+    {
+      "phrase": "unicorn boy detail",
+      "tag": "unicorn_boy"
+    },
+    {
+      "phrase": "with unicorn boy",
+      "tag": "unicorn_boy"
+    },
+    {
+      "phrase": "unicorn girl",
+      "tag": "unicorn_girl"
+    },
+    {
+      "phrase": "unicorn girl detail",
+      "tag": "unicorn_girl"
+    },
+    {
+      "phrase": "with unicorn girl",
+      "tag": "unicorn_girl"
+    },
+    {
+      "phrase": "showing unkempt",
+      "tag": "unkempt"
+    },
+    {
+      "phrase": "unkempt",
+      "tag": "unkempt"
+    },
+    {
+      "phrase": "with unkempt",
+      "tag": "unkempt"
+    },
+    {
+      "phrase": "urban legend",
+      "tag": "urban_legend"
+    },
+    {
+      "phrase": "urban legend detail",
+      "tag": "urban_legend"
+    },
+    {
+      "phrase": "with urban legend",
+      "tag": "urban_legend"
+    },
+    {
+      "phrase": "showing utaite",
+      "tag": "utaite"
+    },
+    {
+      "phrase": "utaite",
+      "tag": "utaite"
+    },
+    {
+      "phrase": "with utaite",
+      "tag": "utaite"
+    },
+    {
+      "phrase": "showing valentine",
+      "tag": "valentine"
+    },
+    {
+      "phrase": "valentine",
+      "tag": "valentine"
+    },
+    {
+      "phrase": "with valentine",
+      "tag": "valentine"
+    },
+    {
+      "phrase": "very dark skin",
+      "tag": "very_dark_skin"
+    },
+    {
+      "phrase": "very dark skin detail",
+      "tag": "very_dark_skin"
+    },
+    {
+      "phrase": "with very dark skin",
+      "tag": "very_dark_skin"
+    },
+    {
+      "phrase": "very hairy",
+      "tag": "very_hairy"
+    },
+    {
+      "phrase": "very hairy detail",
+      "tag": "very_hairy"
+    },
+    {
+      "phrase": "with very hairy",
+      "tag": "very_hairy"
+    },
+    {
+      "phrase": "victorian maid",
+      "tag": "victorian_maid"
+    },
+    {
+      "phrase": "victorian maid detail",
+      "tag": "victorian_maid"
+    },
+    {
+      "phrase": "with victorian maid",
+      "tag": "victorian_maid"
+    },
+    {
+      "phrase": "showing viking",
+      "tag": "viking"
+    },
+    {
+      "phrase": "viking",
+      "tag": "viking"
+    },
+    {
+      "phrase": "with viking",
+      "tag": "viking"
+    },
+    {
+      "phrase": "showing virgin",
+      "tag": "virgin"
+    },
+    {
+      "phrase": "virgin",
+      "tag": "virgin"
+    },
+    {
+      "phrase": "with virgin",
+      "tag": "virgin"
+    },
+    {
+      "phrase": "virtual boy",
+      "tag": "virtual_boy"
+    },
+    {
+      "phrase": "virtual boy detail",
+      "tag": "virtual_boy"
+    },
+    {
+      "phrase": "with virtual boy",
+      "tag": "virtual_boy"
+    },
+    {
+      "phrase": "virtual youtuber",
+      "tag": "virtual_youtuber"
+    },
+    {
+      "phrase": "virtual youtuber detail",
+      "tag": "virtual_youtuber"
+    },
+    {
+      "phrase": "with virtual youtuber",
+      "tag": "virtual_youtuber"
+    },
+    {
+      "phrase": "wa maid",
+      "tag": "wa_maid"
+    },
+    {
+      "phrase": "wa maid detail",
+      "tag": "wa_maid"
+    },
+    {
+      "phrase": "with wa maid",
+      "tag": "wa_maid"
+    },
+    {
+      "phrase": "showing waiter",
+      "tag": "waiter"
+    },
+    {
+      "phrase": "waiter",
+      "tag": "waiter"
+    },
+    {
+      "phrase": "with waiter",
+      "tag": "waiter"
+    },
+    {
+      "phrase": "showing waitress",
+      "tag": "waitress"
+    },
+    {
+      "phrase": "waitress",
+      "tag": "waitress"
+    },
+    {
+      "phrase": "with waitress",
+      "tag": "waitress"
+    },
+    {
+      "phrase": "walrus boy",
+      "tag": "walrus_boy"
+    },
+    {
+      "phrase": "walrus boy detail",
+      "tag": "walrus_boy"
+    },
+    {
+      "phrase": "with walrus boy",
+      "tag": "walrus_boy"
+    },
+    {
+      "phrase": "showing warrior",
+      "tag": "warrior"
+    },
+    {
+      "phrase": "warrior",
+      "tag": "warrior"
+    },
+    {
+      "phrase": "with warrior",
+      "tag": "warrior"
+    },
+    {
+      "phrase": "wasp girl",
+      "tag": "wasp_girl"
+    },
+    {
+      "phrase": "wasp girl detail",
+      "tag": "wasp_girl"
+    },
+    {
+      "phrase": "with wasp girl",
+      "tag": "wasp_girl"
+    },
+    {
+      "phrase": "weasel boy",
+      "tag": "weasel_boy"
+    },
+    {
+      "phrase": "weasel boy detail",
+      "tag": "weasel_boy"
+    },
+    {
+      "phrase": "with weasel boy",
+      "tag": "weasel_boy"
+    },
+    {
+      "phrase": "weasel girl",
+      "tag": "weasel_girl"
+    },
+    {
+      "phrase": "weasel girl detail",
+      "tag": "weasel_girl"
+    },
+    {
+      "phrase": "with weasel girl",
+      "tag": "weasel_girl"
+    },
+    {
+      "phrase": "showing weight",
+      "tag": "weight"
+    },
+    {
+      "phrase": "weight",
+      "tag": "weight"
+    },
+    {
+      "phrase": "with weight",
+      "tag": "weight"
+    },
+    {
+      "phrase": "weight conscious",
+      "tag": "weight_conscious"
+    },
+    {
+      "phrase": "weight conscious detail",
+      "tag": "weight_conscious"
+    },
+    {
+      "phrase": "with weight conscious",
+      "tag": "weight_conscious"
+    },
+    {
+      "phrase": "weight gain",
+      "tag": "weight_gain"
+    },
+    {
+      "phrase": "weight gain detail",
+      "tag": "weight_gain"
+    },
+    {
+      "phrase": "with weight gain",
+      "tag": "weight_gain"
+    },
+    {
+      "phrase": "whale girl",
+      "tag": "whale_girl"
+    },
+    {
+      "phrase": "whale girl detail",
+      "tag": "whale_girl"
+    },
+    {
+      "phrase": "with whale girl",
+      "tag": "whale_girl"
+    },
+    {
+      "phrase": "white devil",
+      "tag": "white_devil"
+    },
+    {
+      "phrase": "white devil detail",
+      "tag": "white_devil"
+    },
+    {
+      "phrase": "with white devil",
+      "tag": "white_devil"
+    },
+    {
+      "phrase": "white skin",
+      "tag": "white_skin"
+    },
+    {
+      "phrase": "white skin detail",
+      "tag": "white_skin"
+    },
+    {
+      "phrase": "with white skin",
+      "tag": "white_skin"
+    },
+    {
+      "phrase": "showing witch",
+      "tag": "witch"
+    },
+    {
+      "phrase": "witch",
+      "tag": "witch"
+    },
+    {
+      "phrase": "with witch",
+      "tag": "witch"
+    },
+    {
+      "phrase": "showing wizard",
+      "tag": "wizard"
+    },
+    {
+      "phrase": "with wizard",
+      "tag": "wizard"
+    },
+    {
+      "phrase": "wizard",
+      "tag": "wizard"
+    },
+    {
+      "phrase": "with wolf boy",
+      "tag": "wolf_boy"
+    },
+    {
+      "phrase": "wolf boy",
+      "tag": "wolf_boy"
+    },
+    {
+      "phrase": "wolf boy detail",
+      "tag": "wolf_boy"
+    },
+    {
+      "phrase": "with wolf girl",
+      "tag": "wolf_girl"
+    },
+    {
+      "phrase": "wolf girl",
+      "tag": "wolf_girl"
+    },
+    {
+      "phrase": "wolf girl detail",
+      "tag": "wolf_girl"
+    },
+    {
+      "phrase": "showing wrestler",
+      "tag": "wrestler"
+    },
+    {
+      "phrase": "with wrestler",
+      "tag": "wrestler"
+    },
+    {
+      "phrase": "wrestler",
+      "tag": "wrestler"
+    },
+    {
+      "phrase": "showing yakuza",
+      "tag": "yakuza"
+    },
+    {
+      "phrase": "with yakuza",
+      "tag": "yakuza"
+    },
+    {
+      "phrase": "yakuza",
+      "tag": "yakuza"
+    },
+    {
+      "phrase": "showing yandere",
+      "tag": "yandere"
+    },
+    {
+      "phrase": "with yandere",
+      "tag": "yandere"
+    },
+    {
+      "phrase": "yandere",
+      "tag": "yandere"
+    },
+    {
+      "phrase": "with zebra girl",
+      "tag": "zebra_girl"
+    },
+    {
+      "phrase": "zebra girl",
+      "tag": "zebra_girl"
+    },
+    {
+      "phrase": "zebra girl detail",
+      "tag": "zebra_girl"
+    },
+    {
+      "phrase": "showing zombification",
+      "tag": "zombification"
+    },
+    {
+      "phrase": "with zombification",
+      "tag": "zombification"
+    },
+    {
+      "phrase": "zombification",
+      "tag": "zombification"
+    }
+  ]
+}

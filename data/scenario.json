@@ -1,0 +1,6008 @@
+{
+  "items": [
+    {
+      "phrase": "airport",
+      "tag": "Airport"
+    },
+    {
+      "phrase": "airport setting",
+      "tag": "Airport"
+    },
+    {
+      "phrase": "in airport",
+      "tag": "Airport"
+    },
+    {
+      "phrase": "alien planet",
+      "tag": "Alien_Planet"
+    },
+    {
+      "phrase": "alien planet setting",
+      "tag": "Alien_Planet"
+    },
+    {
+      "phrase": "in alien planet",
+      "tag": "Alien_Planet"
+    },
+    {
+      "phrase": "alley",
+      "tag": "Alley"
+    },
+    {
+      "phrase": "alley setting",
+      "tag": "Alley"
+    },
+    {
+      "phrase": "in alley",
+      "tag": "Alley"
+    },
+    {
+      "phrase": "amusement park",
+      "tag": "Amusement_Park"
+    },
+    {
+      "phrase": "amusement park setting",
+      "tag": "Amusement_Park"
+    },
+    {
+      "phrase": "in amusement park",
+      "tag": "Amusement_Park"
+    },
+    {
+      "phrase": "apartment",
+      "tag": "Apartment"
+    },
+    {
+      "phrase": "apartment setting",
+      "tag": "Apartment"
+    },
+    {
+      "phrase": "in apartment",
+      "tag": "Apartment"
+    },
+    {
+      "phrase": "aquarium",
+      "tag": "Aquarium"
+    },
+    {
+      "phrase": "aquarium setting",
+      "tag": "Aquarium"
+    },
+    {
+      "phrase": "in aquarium",
+      "tag": "Aquarium"
+    },
+    {
+      "phrase": "arboretum",
+      "tag": "Arboretum"
+    },
+    {
+      "phrase": "arboretum setting",
+      "tag": "Arboretum"
+    },
+    {
+      "phrase": "in arboretum",
+      "tag": "Arboretum"
+    },
+    {
+      "phrase": "arcade",
+      "tag": "Arcade"
+    },
+    {
+      "phrase": "arcade setting",
+      "tag": "Arcade"
+    },
+    {
+      "phrase": "in arcade",
+      "tag": "Arcade"
+    },
+    {
+      "phrase": "arena",
+      "tag": "Arena"
+    },
+    {
+      "phrase": "arena setting",
+      "tag": "Arena"
+    },
+    {
+      "phrase": "in arena",
+      "tag": "Arena"
+    },
+    {
+      "phrase": "art gallery",
+      "tag": "Art_Gallery"
+    },
+    {
+      "phrase": "art gallery setting",
+      "tag": "Art_Gallery"
+    },
+    {
+      "phrase": "in art gallery",
+      "tag": "Art_Gallery"
+    },
+    {
+      "phrase": "attic",
+      "tag": "Attic"
+    },
+    {
+      "phrase": "attic setting",
+      "tag": "Attic"
+    },
+    {
+      "phrase": "in attic",
+      "tag": "Attic"
+    },
+    {
+      "phrase": "bakery",
+      "tag": "Bakery"
+    },
+    {
+      "phrase": "bakery setting",
+      "tag": "Bakery"
+    },
+    {
+      "phrase": "in bakery",
+      "tag": "Bakery"
+    },
+    {
+      "phrase": "balcony",
+      "tag": "Balcony"
+    },
+    {
+      "phrase": "balcony setting",
+      "tag": "Balcony"
+    },
+    {
+      "phrase": "in balcony",
+      "tag": "Balcony"
+    },
+    {
+      "phrase": "bar",
+      "tag": "Bar"
+    },
+    {
+      "phrase": "bar setting",
+      "tag": "Bar"
+    },
+    {
+      "phrase": "in bar",
+      "tag": "Bar"
+    },
+    {
+      "phrase": "barbershop",
+      "tag": "Barbershop"
+    },
+    {
+      "phrase": "barbershop setting",
+      "tag": "Barbershop"
+    },
+    {
+      "phrase": "in barbershop",
+      "tag": "Barbershop"
+    },
+    {
+      "phrase": "barracks",
+      "tag": "Barracks"
+    },
+    {
+      "phrase": "barracks setting",
+      "tag": "Barracks"
+    },
+    {
+      "phrase": "in barracks",
+      "tag": "Barracks"
+    },
+    {
+      "phrase": "basement",
+      "tag": "Basement"
+    },
+    {
+      "phrase": "basement setting",
+      "tag": "Basement"
+    },
+    {
+      "phrase": "in basement",
+      "tag": "Basement"
+    },
+    {
+      "phrase": "battlefield",
+      "tag": "Battlefield"
+    },
+    {
+      "phrase": "battlefield setting",
+      "tag": "Battlefield"
+    },
+    {
+      "phrase": "in battlefield",
+      "tag": "Battlefield"
+    },
+    {
+      "phrase": "bazaar",
+      "tag": "Bazaar"
+    },
+    {
+      "phrase": "bazaar setting",
+      "tag": "Bazaar"
+    },
+    {
+      "phrase": "in bazaar",
+      "tag": "Bazaar"
+    },
+    {
+      "phrase": "beach",
+      "tag": "Beach"
+    },
+    {
+      "phrase": "beach setting",
+      "tag": "Beach"
+    },
+    {
+      "phrase": "in beach",
+      "tag": "Beach"
+    },
+    {
+      "phrase": "beach resort",
+      "tag": "Beach_Resort"
+    },
+    {
+      "phrase": "beach resort setting",
+      "tag": "Beach_Resort"
+    },
+    {
+      "phrase": "in beach resort",
+      "tag": "Beach_Resort"
+    },
+    {
+      "phrase": "beachfront",
+      "tag": "Beachfront"
+    },
+    {
+      "phrase": "beachfront setting",
+      "tag": "Beachfront"
+    },
+    {
+      "phrase": "in beachfront",
+      "tag": "Beachfront"
+    },
+    {
+      "phrase": "beauty salon",
+      "tag": "Beauty_Salon"
+    },
+    {
+      "phrase": "beauty salon setting",
+      "tag": "Beauty_Salon"
+    },
+    {
+      "phrase": "in beauty salon",
+      "tag": "Beauty_Salon"
+    },
+    {
+      "phrase": "book cafe",
+      "tag": "Book_Cafe"
+    },
+    {
+      "phrase": "book cafe setting",
+      "tag": "Book_Cafe"
+    },
+    {
+      "phrase": "in book cafe",
+      "tag": "Book_Cafe"
+    },
+    {
+      "phrase": "bookstore",
+      "tag": "Bookstore"
+    },
+    {
+      "phrase": "bookstore setting",
+      "tag": "Bookstore"
+    },
+    {
+      "phrase": "in bookstore",
+      "tag": "Bookstore"
+    },
+    {
+      "phrase": "botanical garden",
+      "tag": "Botanical_Garden"
+    },
+    {
+      "phrase": "botanical garden setting",
+      "tag": "Botanical_Garden"
+    },
+    {
+      "phrase": "in botanical garden",
+      "tag": "Botanical_Garden"
+    },
+    {
+      "phrase": "bridge",
+      "tag": "Bridge"
+    },
+    {
+      "phrase": "bridge setting",
+      "tag": "Bridge"
+    },
+    {
+      "phrase": "in bridge",
+      "tag": "Bridge"
+    },
+    {
+      "phrase": "bubble tea shop",
+      "tag": "Bubble_Tea_Shop"
+    },
+    {
+      "phrase": "bubble tea shop setting",
+      "tag": "Bubble_Tea_Shop"
+    },
+    {
+      "phrase": "in bubble tea shop",
+      "tag": "Bubble_Tea_Shop"
+    },
+    {
+      "phrase": "bunker",
+      "tag": "Bunker"
+    },
+    {
+      "phrase": "bunker setting",
+      "tag": "Bunker"
+    },
+    {
+      "phrase": "in bunker",
+      "tag": "Bunker"
+    },
+    {
+      "phrase": "bus depot",
+      "tag": "Bus_Depot"
+    },
+    {
+      "phrase": "bus depot setting",
+      "tag": "Bus_Depot"
+    },
+    {
+      "phrase": "in bus depot",
+      "tag": "Bus_Depot"
+    },
+    {
+      "phrase": "bus stop",
+      "tag": "Bus_Stop"
+    },
+    {
+      "phrase": "bus stop setting",
+      "tag": "Bus_Stop"
+    },
+    {
+      "phrase": "in bus stop",
+      "tag": "Bus_Stop"
+    },
+    {
+      "phrase": "butcher shop",
+      "tag": "Butcher_Shop"
+    },
+    {
+      "phrase": "butcher shop setting",
+      "tag": "Butcher_Shop"
+    },
+    {
+      "phrase": "in butcher shop",
+      "tag": "Butcher_Shop"
+    },
+    {
+      "phrase": "cabin",
+      "tag": "Cabin"
+    },
+    {
+      "phrase": "cabin setting",
+      "tag": "Cabin"
+    },
+    {
+      "phrase": "in cabin",
+      "tag": "Cabin"
+    },
+    {
+      "phrase": "cafe",
+      "tag": "Cafe"
+    },
+    {
+      "phrase": "cafe setting",
+      "tag": "Cafe"
+    },
+    {
+      "phrase": "in cafe",
+      "tag": "Cafe"
+    },
+    {
+      "phrase": "candy store",
+      "tag": "Candy_Store"
+    },
+    {
+      "phrase": "candy store setting",
+      "tag": "Candy_Store"
+    },
+    {
+      "phrase": "in candy store",
+      "tag": "Candy_Store"
+    },
+    {
+      "phrase": "canyon",
+      "tag": "Canyon"
+    },
+    {
+      "phrase": "canyon setting",
+      "tag": "Canyon"
+    },
+    {
+      "phrase": "in canyon",
+      "tag": "Canyon"
+    },
+    {
+      "phrase": "carnival",
+      "tag": "Carnival"
+    },
+    {
+      "phrase": "carnival setting",
+      "tag": "Carnival"
+    },
+    {
+      "phrase": "in carnival",
+      "tag": "Carnival"
+    },
+    {
+      "phrase": "castle",
+      "tag": "Castle"
+    },
+    {
+      "phrase": "castle setting",
+      "tag": "Castle"
+    },
+    {
+      "phrase": "in castle",
+      "tag": "Castle"
+    },
+    {
+      "phrase": "cave",
+      "tag": "Cave"
+    },
+    {
+      "phrase": "cave setting",
+      "tag": "Cave"
+    },
+    {
+      "phrase": "in cave",
+      "tag": "Cave"
+    },
+    {
+      "phrase": "chalet",
+      "tag": "Chalet"
+    },
+    {
+      "phrase": "chalet setting",
+      "tag": "Chalet"
+    },
+    {
+      "phrase": "in chalet",
+      "tag": "Chalet"
+    },
+    {
+      "phrase": "cityscape",
+      "tag": "Cityscape"
+    },
+    {
+      "phrase": "cityscape setting",
+      "tag": "Cityscape"
+    },
+    {
+      "phrase": "in cityscape",
+      "tag": "Cityscape"
+    },
+    {
+      "phrase": "cliffside",
+      "tag": "Cliffside"
+    },
+    {
+      "phrase": "cliffside setting",
+      "tag": "Cliffside"
+    },
+    {
+      "phrase": "in cliffside",
+      "tag": "Cliffside"
+    },
+    {
+      "phrase": "clinic",
+      "tag": "Clinic"
+    },
+    {
+      "phrase": "clinic setting",
+      "tag": "Clinic"
+    },
+    {
+      "phrase": "in clinic",
+      "tag": "Clinic"
+    },
+    {
+      "phrase": "club",
+      "tag": "Club"
+    },
+    {
+      "phrase": "club setting",
+      "tag": "Club"
+    },
+    {
+      "phrase": "in club",
+      "tag": "Club"
+    },
+    {
+      "phrase": "coastal",
+      "tag": "Coastal"
+    },
+    {
+      "phrase": "coastal setting",
+      "tag": "Coastal"
+    },
+    {
+      "phrase": "in coastal",
+      "tag": "Coastal"
+    },
+    {
+      "phrase": "coffee shop",
+      "tag": "Coffee_Shop"
+    },
+    {
+      "phrase": "coffee shop setting",
+      "tag": "Coffee_Shop"
+    },
+    {
+      "phrase": "in coffee shop",
+      "tag": "Coffee_Shop"
+    },
+    {
+      "phrase": "comic book shop",
+      "tag": "Comic_Book_Shop"
+    },
+    {
+      "phrase": "comic book shop setting",
+      "tag": "Comic_Book_Shop"
+    },
+    {
+      "phrase": "in comic book shop",
+      "tag": "Comic_Book_Shop"
+    },
+    {
+      "phrase": "command center",
+      "tag": "Command_Center"
+    },
+    {
+      "phrase": "command center setting",
+      "tag": "Command_Center"
+    },
+    {
+      "phrase": "in command center",
+      "tag": "Command_Center"
+    },
+    {
+      "phrase": "concert hall",
+      "tag": "Concert_Hall"
+    },
+    {
+      "phrase": "concert hall setting",
+      "tag": "Concert_Hall"
+    },
+    {
+      "phrase": "in concert hall",
+      "tag": "Concert_Hall"
+    },
+    {
+      "phrase": "construction site",
+      "tag": "Construction_Site"
+    },
+    {
+      "phrase": "construction site setting",
+      "tag": "Construction_Site"
+    },
+    {
+      "phrase": "in construction site",
+      "tag": "Construction_Site"
+    },
+    {
+      "phrase": "cottage",
+      "tag": "Cottage"
+    },
+    {
+      "phrase": "cottage setting",
+      "tag": "Cottage"
+    },
+    {
+      "phrase": "in cottage",
+      "tag": "Cottage"
+    },
+    {
+      "phrase": "countryside",
+      "tag": "Countryside"
+    },
+    {
+      "phrase": "countryside setting",
+      "tag": "Countryside"
+    },
+    {
+      "phrase": "in countryside",
+      "tag": "Countryside"
+    },
+    {
+      "phrase": "courthouse",
+      "tag": "Courthouse"
+    },
+    {
+      "phrase": "courthouse setting",
+      "tag": "Courthouse"
+    },
+    {
+      "phrase": "in courthouse",
+      "tag": "Courthouse"
+    },
+    {
+      "phrase": "courtroom",
+      "tag": "Courtroom"
+    },
+    {
+      "phrase": "courtroom setting",
+      "tag": "Courtroom"
+    },
+    {
+      "phrase": "in courtroom",
+      "tag": "Courtroom"
+    },
+    {
+      "phrase": "courtyard",
+      "tag": "Courtyard"
+    },
+    {
+      "phrase": "courtyard setting",
+      "tag": "Courtyard"
+    },
+    {
+      "phrase": "in courtyard",
+      "tag": "Courtyard"
+    },
+    {
+      "phrase": "cyberpunk city",
+      "tag": "Cyberpunk_City"
+    },
+    {
+      "phrase": "cyberpunk city setting",
+      "tag": "Cyberpunk_City"
+    },
+    {
+      "phrase": "in cyberpunk city",
+      "tag": "Cyberpunk_City"
+    },
+    {
+      "phrase": "dance club",
+      "tag": "Dance_Club"
+    },
+    {
+      "phrase": "dance club setting",
+      "tag": "Dance_Club"
+    },
+    {
+      "phrase": "in dance club",
+      "tag": "Dance_Club"
+    },
+    {
+      "phrase": "dance studio",
+      "tag": "Dance_Studio"
+    },
+    {
+      "phrase": "dance studio setting",
+      "tag": "Dance_Studio"
+    },
+    {
+      "phrase": "in dance studio",
+      "tag": "Dance_Studio"
+    },
+    {
+      "phrase": "deck",
+      "tag": "Deck"
+    },
+    {
+      "phrase": "deck setting",
+      "tag": "Deck"
+    },
+    {
+      "phrase": "in deck",
+      "tag": "Deck"
+    },
+    {
+      "phrase": "demolition site",
+      "tag": "Demolition_Site"
+    },
+    {
+      "phrase": "demolition site setting",
+      "tag": "Demolition_Site"
+    },
+    {
+      "phrase": "in demolition site",
+      "tag": "Demolition_Site"
+    },
+    {
+      "phrase": "desert",
+      "tag": "Desert"
+    },
+    {
+      "phrase": "desert setting",
+      "tag": "Desert"
+    },
+    {
+      "phrase": "in desert",
+      "tag": "Desert"
+    },
+    {
+      "phrase": "dock",
+      "tag": "Dock"
+    },
+    {
+      "phrase": "dock setting",
+      "tag": "Dock"
+    },
+    {
+      "phrase": "in dock",
+      "tag": "Dock"
+    },
+    {
+      "phrase": "dungeon",
+      "tag": "Dungeon"
+    },
+    {
+      "phrase": "dungeon setting",
+      "tag": "Dungeon"
+    },
+    {
+      "phrase": "in dungeon",
+      "tag": "Dungeon"
+    },
+    {
+      "phrase": "factory",
+      "tag": "Factory"
+    },
+    {
+      "phrase": "factory setting",
+      "tag": "Factory"
+    },
+    {
+      "phrase": "in factory",
+      "tag": "Factory"
+    },
+    {
+      "phrase": "fairground",
+      "tag": "Fairground"
+    },
+    {
+      "phrase": "fairground setting",
+      "tag": "Fairground"
+    },
+    {
+      "phrase": "in fairground",
+      "tag": "Fairground"
+    },
+    {
+      "phrase": "fairy tale forest",
+      "tag": "Fairy_Tale_Forest"
+    },
+    {
+      "phrase": "fairy tale forest setting",
+      "tag": "Fairy_Tale_Forest"
+    },
+    {
+      "phrase": "in fairy tale forest",
+      "tag": "Fairy_Tale_Forest"
+    },
+    {
+      "phrase": "fantasy castle",
+      "tag": "Fantasy_Castle"
+    },
+    {
+      "phrase": "fantasy castle setting",
+      "tag": "Fantasy_Castle"
+    },
+    {
+      "phrase": "in fantasy castle",
+      "tag": "Fantasy_Castle"
+    },
+    {
+      "phrase": "fantasy village",
+      "tag": "Fantasy_Village"
+    },
+    {
+      "phrase": "fantasy village setting",
+      "tag": "Fantasy_Village"
+    },
+    {
+      "phrase": "in fantasy village",
+      "tag": "Fantasy_Village"
+    },
+    {
+      "phrase": "farm",
+      "tag": "Farm"
+    },
+    {
+      "phrase": "farm setting",
+      "tag": "Farm"
+    },
+    {
+      "phrase": "in farm",
+      "tag": "Farm"
+    },
+    {
+      "phrase": "farmers market",
+      "tag": "Farmers_Market"
+    },
+    {
+      "phrase": "farmers market setting",
+      "tag": "Farmers_Market"
+    },
+    {
+      "phrase": "in farmers market",
+      "tag": "Farmers_Market"
+    },
+    {
+      "phrase": "farmhouse",
+      "tag": "Farmhouse"
+    },
+    {
+      "phrase": "farmhouse setting",
+      "tag": "Farmhouse"
+    },
+    {
+      "phrase": "in farmhouse",
+      "tag": "Farmhouse"
+    },
+    {
+      "phrase": "fire station",
+      "tag": "Fire_Station"
+    },
+    {
+      "phrase": "fire station setting",
+      "tag": "Fire_Station"
+    },
+    {
+      "phrase": "in fire station",
+      "tag": "Fire_Station"
+    },
+    {
+      "phrase": "fishing pier",
+      "tag": "Fishing_Pier"
+    },
+    {
+      "phrase": "fishing pier setting",
+      "tag": "Fishing_Pier"
+    },
+    {
+      "phrase": "in fishing pier",
+      "tag": "Fishing_Pier"
+    },
+    {
+      "phrase": "fishing village",
+      "tag": "Fishing_Village"
+    },
+    {
+      "phrase": "fishing village setting",
+      "tag": "Fishing_Village"
+    },
+    {
+      "phrase": "in fishing village",
+      "tag": "Fishing_Village"
+    },
+    {
+      "phrase": "flower shop",
+      "tag": "Flower_Shop"
+    },
+    {
+      "phrase": "flower shop setting",
+      "tag": "Flower_Shop"
+    },
+    {
+      "phrase": "in flower shop",
+      "tag": "Flower_Shop"
+    },
+    {
+      "phrase": "forest",
+      "tag": "Forest"
+    },
+    {
+      "phrase": "forest setting",
+      "tag": "Forest"
+    },
+    {
+      "phrase": "in forest",
+      "tag": "Forest"
+    },
+    {
+      "phrase": "garden",
+      "tag": "Garden"
+    },
+    {
+      "phrase": "garden setting",
+      "tag": "Garden"
+    },
+    {
+      "phrase": "in garden",
+      "tag": "Garden"
+    },
+    {
+      "phrase": "garden patio",
+      "tag": "Garden_Patio"
+    },
+    {
+      "phrase": "garden patio setting",
+      "tag": "Garden_Patio"
+    },
+    {
+      "phrase": "in garden patio",
+      "tag": "Garden_Patio"
+    },
+    {
+      "phrase": "gas station",
+      "tag": "Gas_Station"
+    },
+    {
+      "phrase": "gas station setting",
+      "tag": "Gas_Station"
+    },
+    {
+      "phrase": "in gas station",
+      "tag": "Gas_Station"
+    },
+    {
+      "phrase": "ghost town",
+      "tag": "Ghost_Town"
+    },
+    {
+      "phrase": "ghost town setting",
+      "tag": "Ghost_Town"
+    },
+    {
+      "phrase": "in ghost town",
+      "tag": "Ghost_Town"
+    },
+    {
+      "phrase": "glacier",
+      "tag": "Glacier"
+    },
+    {
+      "phrase": "glacier setting",
+      "tag": "Glacier"
+    },
+    {
+      "phrase": "in glacier",
+      "tag": "Glacier"
+    },
+    {
+      "phrase": "gym",
+      "tag": "Gym"
+    },
+    {
+      "phrase": "gym setting",
+      "tag": "Gym"
+    },
+    {
+      "phrase": "in gym",
+      "tag": "Gym"
+    },
+    {
+      "phrase": "hair salon",
+      "tag": "Hair_Salon"
+    },
+    {
+      "phrase": "hair salon setting",
+      "tag": "Hair_Salon"
+    },
+    {
+      "phrase": "in hair salon",
+      "tag": "Hair_Salon"
+    },
+    {
+      "phrase": "harbor",
+      "tag": "Harbor"
+    },
+    {
+      "phrase": "harbor setting",
+      "tag": "Harbor"
+    },
+    {
+      "phrase": "in harbor",
+      "tag": "Harbor"
+    },
+    {
+      "phrase": "haunted house",
+      "tag": "Haunted_House"
+    },
+    {
+      "phrase": "haunted house setting",
+      "tag": "Haunted_House"
+    },
+    {
+      "phrase": "in haunted house",
+      "tag": "Haunted_House"
+    },
+    {
+      "phrase": "highway",
+      "tag": "Highway"
+    },
+    {
+      "phrase": "highway setting",
+      "tag": "Highway"
+    },
+    {
+      "phrase": "in highway",
+      "tag": "Highway"
+    },
+    {
+      "phrase": "hilltop",
+      "tag": "Hilltop"
+    },
+    {
+      "phrase": "hilltop setting",
+      "tag": "Hilltop"
+    },
+    {
+      "phrase": "in hilltop",
+      "tag": "Hilltop"
+    },
+    {
+      "phrase": "hospital",
+      "tag": "Hospital"
+    },
+    {
+      "phrase": "hospital setting",
+      "tag": "Hospital"
+    },
+    {
+      "phrase": "in hospital",
+      "tag": "Hospital"
+    },
+    {
+      "phrase": "hot spring",
+      "tag": "Hot_Spring"
+    },
+    {
+      "phrase": "hot spring setting",
+      "tag": "Hot_Spring"
+    },
+    {
+      "phrase": "in hot spring",
+      "tag": "Hot_Spring"
+    },
+    {
+      "phrase": "house",
+      "tag": "House"
+    },
+    {
+      "phrase": "house setting",
+      "tag": "House"
+    },
+    {
+      "phrase": "in house",
+      "tag": "House"
+    },
+    {
+      "phrase": "hut",
+      "tag": "Hut"
+    },
+    {
+      "phrase": "hut setting",
+      "tag": "Hut"
+    },
+    {
+      "phrase": "in hut",
+      "tag": "Hut"
+    },
+    {
+      "phrase": "ice cream parlor",
+      "tag": "Ice_Cream_Parlor"
+    },
+    {
+      "phrase": "ice cream parlor setting",
+      "tag": "Ice_Cream_Parlor"
+    },
+    {
+      "phrase": "in ice cream parlor",
+      "tag": "Ice_Cream_Parlor"
+    },
+    {
+      "phrase": "igloo",
+      "tag": "Igloo"
+    },
+    {
+      "phrase": "igloo setting",
+      "tag": "Igloo"
+    },
+    {
+      "phrase": "in igloo",
+      "tag": "Igloo"
+    },
+    {
+      "phrase": "in industrial",
+      "tag": "Industrial"
+    },
+    {
+      "phrase": "industrial",
+      "tag": "Industrial"
+    },
+    {
+      "phrase": "industrial setting",
+      "tag": "Industrial"
+    },
+    {
+      "phrase": "in internet cafe",
+      "tag": "Internet_Cafe"
+    },
+    {
+      "phrase": "internet cafe",
+      "tag": "Internet_Cafe"
+    },
+    {
+      "phrase": "internet cafe setting",
+      "tag": "Internet_Cafe"
+    },
+    {
+      "phrase": "in interrogation room",
+      "tag": "Interrogation_Room"
+    },
+    {
+      "phrase": "interrogation room",
+      "tag": "Interrogation_Room"
+    },
+    {
+      "phrase": "interrogation room setting",
+      "tag": "Interrogation_Room"
+    },
+    {
+      "phrase": "in island",
+      "tag": "Island"
+    },
+    {
+      "phrase": "island",
+      "tag": "Island"
+    },
+    {
+      "phrase": "island setting",
+      "tag": "Island"
+    },
+    {
+      "phrase": "in jail cell",
+      "tag": "Jail_Cell"
+    },
+    {
+      "phrase": "jail cell",
+      "tag": "Jail_Cell"
+    },
+    {
+      "phrase": "jail cell setting",
+      "tag": "Jail_Cell"
+    },
+    {
+      "phrase": "in juice bar",
+      "tag": "Juice_Bar"
+    },
+    {
+      "phrase": "juice bar",
+      "tag": "Juice_Bar"
+    },
+    {
+      "phrase": "juice bar setting",
+      "tag": "Juice_Bar"
+    },
+    {
+      "phrase": "in jungle",
+      "tag": "Jungle"
+    },
+    {
+      "phrase": "jungle",
+      "tag": "Jungle"
+    },
+    {
+      "phrase": "jungle setting",
+      "tag": "Jungle"
+    },
+    {
+      "phrase": "in laboratory",
+      "tag": "Laboratory"
+    },
+    {
+      "phrase": "laboratory",
+      "tag": "Laboratory"
+    },
+    {
+      "phrase": "laboratory setting",
+      "tag": "Laboratory"
+    },
+    {
+      "phrase": "in lake",
+      "tag": "Lake"
+    },
+    {
+      "phrase": "lake",
+      "tag": "Lake"
+    },
+    {
+      "phrase": "lake setting",
+      "tag": "Lake"
+    },
+    {
+      "phrase": "in library",
+      "tag": "Library"
+    },
+    {
+      "phrase": "library",
+      "tag": "Library"
+    },
+    {
+      "phrase": "library setting",
+      "tag": "Library"
+    },
+    {
+      "phrase": "in lighthouse",
+      "tag": "Lighthouse"
+    },
+    {
+      "phrase": "lighthouse",
+      "tag": "Lighthouse"
+    },
+    {
+      "phrase": "lighthouse setting",
+      "tag": "Lighthouse"
+    },
+    {
+      "phrase": "in magic school",
+      "tag": "Magic_School"
+    },
+    {
+      "phrase": "magic school",
+      "tag": "Magic_School"
+    },
+    {
+      "phrase": "magic school setting",
+      "tag": "Magic_School"
+    },
+    {
+      "phrase": "in mall",
+      "tag": "Mall"
+    },
+    {
+      "phrase": "mall",
+      "tag": "Mall"
+    },
+    {
+      "phrase": "mall setting",
+      "tag": "Mall"
+    },
+    {
+      "phrase": "in mangrove",
+      "tag": "Mangrove"
+    },
+    {
+      "phrase": "mangrove",
+      "tag": "Mangrove"
+    },
+    {
+      "phrase": "mangrove setting",
+      "tag": "Mangrove"
+    },
+    {
+      "phrase": "in mansion",
+      "tag": "Mansion"
+    },
+    {
+      "phrase": "mansion",
+      "tag": "Mansion"
+    },
+    {
+      "phrase": "mansion setting",
+      "tag": "Mansion"
+    },
+    {
+      "phrase": "in market",
+      "tag": "Market"
+    },
+    {
+      "phrase": "market",
+      "tag": "Market"
+    },
+    {
+      "phrase": "market setting",
+      "tag": "Market"
+    },
+    {
+      "phrase": "in market street",
+      "tag": "Market_Street"
+    },
+    {
+      "phrase": "market street",
+      "tag": "Market_Street"
+    },
+    {
+      "phrase": "market street setting",
+      "tag": "Market_Street"
+    },
+    {
+      "phrase": "in marsh",
+      "tag": "Marsh"
+    },
+    {
+      "phrase": "marsh",
+      "tag": "Marsh"
+    },
+    {
+      "phrase": "marsh setting",
+      "tag": "Marsh"
+    },
+    {
+      "phrase": "in meadow",
+      "tag": "Meadow"
+    },
+    {
+      "phrase": "meadow",
+      "tag": "Meadow"
+    },
+    {
+      "phrase": "meadow setting",
+      "tag": "Meadow"
+    },
+    {
+      "phrase": "in medieval castle",
+      "tag": "Medieval_Castle"
+    },
+    {
+      "phrase": "medieval castle",
+      "tag": "Medieval_Castle"
+    },
+    {
+      "phrase": "medieval castle setting",
+      "tag": "Medieval_Castle"
+    },
+    {
+      "phrase": "in medieval town",
+      "tag": "Medieval_Town"
+    },
+    {
+      "phrase": "medieval town",
+      "tag": "Medieval_Town"
+    },
+    {
+      "phrase": "medieval town setting",
+      "tag": "Medieval_Town"
+    },
+    {
+      "phrase": "in military aircraft",
+      "tag": "Military_Aircraft"
+    },
+    {
+      "phrase": "military aircraft",
+      "tag": "Military_Aircraft"
+    },
+    {
+      "phrase": "military aircraft setting",
+      "tag": "Military_Aircraft"
+    },
+    {
+      "phrase": "in military base",
+      "tag": "Military_Base"
+    },
+    {
+      "phrase": "military base",
+      "tag": "Military_Base"
+    },
+    {
+      "phrase": "military base setting",
+      "tag": "Military_Base"
+    },
+    {
+      "phrase": "in military ship",
+      "tag": "Military_Ship"
+    },
+    {
+      "phrase": "military ship",
+      "tag": "Military_Ship"
+    },
+    {
+      "phrase": "military ship setting",
+      "tag": "Military_Ship"
+    },
+    {
+      "phrase": "in mountain",
+      "tag": "Mountain"
+    },
+    {
+      "phrase": "mountain",
+      "tag": "Mountain"
+    },
+    {
+      "phrase": "mountain setting",
+      "tag": "Mountain"
+    },
+    {
+      "phrase": "in mountaintop",
+      "tag": "Mountaintop"
+    },
+    {
+      "phrase": "mountaintop",
+      "tag": "Mountaintop"
+    },
+    {
+      "phrase": "mountaintop setting",
+      "tag": "Mountaintop"
+    },
+    {
+      "phrase": "in museum",
+      "tag": "Museum"
+    },
+    {
+      "phrase": "museum",
+      "tag": "Museum"
+    },
+    {
+      "phrase": "museum setting",
+      "tag": "Museum"
+    },
+    {
+      "phrase": "in nail salon",
+      "tag": "Nail_Salon"
+    },
+    {
+      "phrase": "nail salon",
+      "tag": "Nail_Salon"
+    },
+    {
+      "phrase": "nail salon setting",
+      "tag": "Nail_Salon"
+    },
+    {
+      "phrase": "in national park",
+      "tag": "National_Park"
+    },
+    {
+      "phrase": "national park",
+      "tag": "National_Park"
+    },
+    {
+      "phrase": "national park setting",
+      "tag": "National_Park"
+    },
+    {
+      "phrase": "in oasis",
+      "tag": "Oasis"
+    },
+    {
+      "phrase": "oasis",
+      "tag": "Oasis"
+    },
+    {
+      "phrase": "oasis setting",
+      "tag": "Oasis"
+    },
+    {
+      "phrase": "in office",
+      "tag": "Office"
+    },
+    {
+      "phrase": "office",
+      "tag": "Office"
+    },
+    {
+      "phrase": "office setting",
+      "tag": "Office"
+    },
+    {
+      "phrase": "in opera house",
+      "tag": "Opera_House"
+    },
+    {
+      "phrase": "opera house",
+      "tag": "Opera_House"
+    },
+    {
+      "phrase": "opera house setting",
+      "tag": "Opera_House"
+    },
+    {
+      "phrase": "in park",
+      "tag": "Park"
+    },
+    {
+      "phrase": "park",
+      "tag": "Park"
+    },
+    {
+      "phrase": "park setting",
+      "tag": "Park"
+    },
+    {
+      "phrase": "in patio",
+      "tag": "Patio"
+    },
+    {
+      "phrase": "patio",
+      "tag": "Patio"
+    },
+    {
+      "phrase": "patio setting",
+      "tag": "Patio"
+    },
+    {
+      "phrase": "in penthouse",
+      "tag": "Penthouse"
+    },
+    {
+      "phrase": "penthouse",
+      "tag": "Penthouse"
+    },
+    {
+      "phrase": "penthouse setting",
+      "tag": "Penthouse"
+    },
+    {
+      "phrase": "in pet shop",
+      "tag": "Pet_Shop"
+    },
+    {
+      "phrase": "pet shop",
+      "tag": "Pet_Shop"
+    },
+    {
+      "phrase": "pet shop setting",
+      "tag": "Pet_Shop"
+    },
+    {
+      "phrase": "in pirate ship",
+      "tag": "Pirate_Ship"
+    },
+    {
+      "phrase": "pirate ship",
+      "tag": "Pirate_Ship"
+    },
+    {
+      "phrase": "pirate ship setting",
+      "tag": "Pirate_Ship"
+    },
+    {
+      "phrase": "in plains",
+      "tag": "Plains"
+    },
+    {
+      "phrase": "plains",
+      "tag": "Plains"
+    },
+    {
+      "phrase": "plains setting",
+      "tag": "Plains"
+    },
+    {
+      "phrase": "in plateau",
+      "tag": "Plateau"
+    },
+    {
+      "phrase": "plateau",
+      "tag": "Plateau"
+    },
+    {
+      "phrase": "plateau setting",
+      "tag": "Plateau"
+    },
+    {
+      "phrase": "in playground",
+      "tag": "Playground"
+    },
+    {
+      "phrase": "playground",
+      "tag": "Playground"
+    },
+    {
+      "phrase": "playground setting",
+      "tag": "Playground"
+    },
+    {
+      "phrase": "in police station",
+      "tag": "Police_Station"
+    },
+    {
+      "phrase": "police station",
+      "tag": "Police_Station"
+    },
+    {
+      "phrase": "police station setting",
+      "tag": "Police_Station"
+    },
+    {
+      "phrase": "in porch",
+      "tag": "Porch"
+    },
+    {
+      "phrase": "porch",
+      "tag": "Porch"
+    },
+    {
+      "phrase": "porch setting",
+      "tag": "Porch"
+    },
+    {
+      "phrase": "in port",
+      "tag": "Port"
+    },
+    {
+      "phrase": "port",
+      "tag": "Port"
+    },
+    {
+      "phrase": "port setting",
+      "tag": "Port"
+    },
+    {
+      "phrase": "in prairie",
+      "tag": "Prairie"
+    },
+    {
+      "phrase": "prairie",
+      "tag": "Prairie"
+    },
+    {
+      "phrase": "prairie setting",
+      "tag": "Prairie"
+    },
+    {
+      "phrase": "in prison",
+      "tag": "Prison"
+    },
+    {
+      "phrase": "prison",
+      "tag": "Prison"
+    },
+    {
+      "phrase": "prison setting",
+      "tag": "Prison"
+    },
+    {
+      "phrase": "in ranch",
+      "tag": "Ranch"
+    },
+    {
+      "phrase": "ranch",
+      "tag": "Ranch"
+    },
+    {
+      "phrase": "ranch setting",
+      "tag": "Ranch"
+    },
+    {
+      "phrase": "in repair shop",
+      "tag": "Repair_Shop"
+    },
+    {
+      "phrase": "repair shop",
+      "tag": "Repair_Shop"
+    },
+    {
+      "phrase": "repair shop setting",
+      "tag": "Repair_Shop"
+    },
+    {
+      "phrase": "in residential street",
+      "tag": "Residential_Street"
+    },
+    {
+      "phrase": "residential street",
+      "tag": "Residential_Street"
+    },
+    {
+      "phrase": "residential street setting",
+      "tag": "Residential_Street"
+    },
+    {
+      "phrase": "in restaurant",
+      "tag": "Restaurant"
+    },
+    {
+      "phrase": "restaurant",
+      "tag": "Restaurant"
+    },
+    {
+      "phrase": "restaurant setting",
+      "tag": "Restaurant"
+    },
+    {
+      "phrase": "in river",
+      "tag": "River"
+    },
+    {
+      "phrase": "river",
+      "tag": "River"
+    },
+    {
+      "phrase": "river setting",
+      "tag": "River"
+    },
+    {
+      "phrase": "in rooftop",
+      "tag": "Rooftop"
+    },
+    {
+      "phrase": "rooftop",
+      "tag": "Rooftop"
+    },
+    {
+      "phrase": "rooftop setting",
+      "tag": "Rooftop"
+    },
+    {
+      "phrase": "in ruins",
+      "tag": "Ruins"
+    },
+    {
+      "phrase": "ruins",
+      "tag": "Ruins"
+    },
+    {
+      "phrase": "ruins setting",
+      "tag": "Ruins"
+    },
+    {
+      "phrase": "in sauna",
+      "tag": "Sauna"
+    },
+    {
+      "phrase": "sauna",
+      "tag": "Sauna"
+    },
+    {
+      "phrase": "sauna setting",
+      "tag": "Sauna"
+    },
+    {
+      "phrase": "in savanna",
+      "tag": "Savanna"
+    },
+    {
+      "phrase": "savanna",
+      "tag": "Savanna"
+    },
+    {
+      "phrase": "savanna setting",
+      "tag": "Savanna"
+    },
+    {
+      "phrase": "in school",
+      "tag": "School"
+    },
+    {
+      "phrase": "school",
+      "tag": "School"
+    },
+    {
+      "phrase": "school setting",
+      "tag": "School"
+    },
+    {
+      "phrase": "in science facility",
+      "tag": "Science_Facility"
+    },
+    {
+      "phrase": "science facility",
+      "tag": "Science_Facility"
+    },
+    {
+      "phrase": "science facility setting",
+      "tag": "Science_Facility"
+    },
+    {
+      "phrase": "in shopping center",
+      "tag": "Shopping_Center"
+    },
+    {
+      "phrase": "shopping center",
+      "tag": "Shopping_Center"
+    },
+    {
+      "phrase": "shopping center setting",
+      "tag": "Shopping_Center"
+    },
+    {
+      "phrase": "in shrine",
+      "tag": "Shrine"
+    },
+    {
+      "phrase": "shrine",
+      "tag": "Shrine"
+    },
+    {
+      "phrase": "shrine setting",
+      "tag": "Shrine"
+    },
+    {
+      "phrase": "in ski resort",
+      "tag": "Ski_Resort"
+    },
+    {
+      "phrase": "ski resort",
+      "tag": "Ski_Resort"
+    },
+    {
+      "phrase": "ski resort setting",
+      "tag": "Ski_Resort"
+    },
+    {
+      "phrase": "in skyscraper",
+      "tag": "Skyscraper"
+    },
+    {
+      "phrase": "skyscraper",
+      "tag": "Skyscraper"
+    },
+    {
+      "phrase": "skyscraper setting",
+      "tag": "Skyscraper"
+    },
+    {
+      "phrase": "in spa",
+      "tag": "Spa"
+    },
+    {
+      "phrase": "spa",
+      "tag": "Spa"
+    },
+    {
+      "phrase": "spa setting",
+      "tag": "Spa"
+    },
+    {
+      "phrase": "in space",
+      "tag": "Space"
+    },
+    {
+      "phrase": "space",
+      "tag": "Space"
+    },
+    {
+      "phrase": "space setting",
+      "tag": "Space"
+    },
+    {
+      "phrase": "in space station",
+      "tag": "Space_Station"
+    },
+    {
+      "phrase": "space station",
+      "tag": "Space_Station"
+    },
+    {
+      "phrase": "space station setting",
+      "tag": "Space_Station"
+    },
+    {
+      "phrase": "in sports field",
+      "tag": "Sports_Field"
+    },
+    {
+      "phrase": "sports field",
+      "tag": "Sports_Field"
+    },
+    {
+      "phrase": "sports field setting",
+      "tag": "Sports_Field"
+    },
+    {
+      "phrase": "in stadium",
+      "tag": "Stadium"
+    },
+    {
+      "phrase": "stadium",
+      "tag": "Stadium"
+    },
+    {
+      "phrase": "stadium setting",
+      "tag": "Stadium"
+    },
+    {
+      "phrase": "in steampunk town",
+      "tag": "Steampunk_Town"
+    },
+    {
+      "phrase": "steampunk town",
+      "tag": "Steampunk_Town"
+    },
+    {
+      "phrase": "steampunk town setting",
+      "tag": "Steampunk_Town"
+    },
+    {
+      "phrase": "in streets",
+      "tag": "Streets"
+    },
+    {
+      "phrase": "streets",
+      "tag": "Streets"
+    },
+    {
+      "phrase": "streets setting",
+      "tag": "Streets"
+    },
+    {
+      "phrase": "in suburban",
+      "tag": "Suburban"
+    },
+    {
+      "phrase": "suburban",
+      "tag": "Suburban"
+    },
+    {
+      "phrase": "suburban setting",
+      "tag": "Suburban"
+    },
+    {
+      "phrase": "in swamp",
+      "tag": "Swamp"
+    },
+    {
+      "phrase": "swamp",
+      "tag": "Swamp"
+    },
+    {
+      "phrase": "swamp setting",
+      "tag": "Swamp"
+    },
+    {
+      "phrase": "in swimming pool",
+      "tag": "Swimming_Pool"
+    },
+    {
+      "phrase": "swimming pool",
+      "tag": "Swimming_Pool"
+    },
+    {
+      "phrase": "swimming pool setting",
+      "tag": "Swimming_Pool"
+    },
+    {
+      "phrase": "in tattoo parlor",
+      "tag": "Tattoo_Parlor"
+    },
+    {
+      "phrase": "tattoo parlor",
+      "tag": "Tattoo_Parlor"
+    },
+    {
+      "phrase": "tattoo parlor setting",
+      "tag": "Tattoo_Parlor"
+    },
+    {
+      "phrase": "in taxi stand",
+      "tag": "Taxi_Stand"
+    },
+    {
+      "phrase": "taxi stand",
+      "tag": "Taxi_Stand"
+    },
+    {
+      "phrase": "taxi stand setting",
+      "tag": "Taxi_Stand"
+    },
+    {
+      "phrase": "in tea house",
+      "tag": "Tea_House"
+    },
+    {
+      "phrase": "tea house",
+      "tag": "Tea_House"
+    },
+    {
+      "phrase": "tea house setting",
+      "tag": "Tea_House"
+    },
+    {
+      "phrase": "in temple",
+      "tag": "Temple"
+    },
+    {
+      "phrase": "temple",
+      "tag": "Temple"
+    },
+    {
+      "phrase": "temple setting",
+      "tag": "Temple"
+    },
+    {
+      "phrase": "in tent",
+      "tag": "Tent"
+    },
+    {
+      "phrase": "tent",
+      "tag": "Tent"
+    },
+    {
+      "phrase": "tent setting",
+      "tag": "Tent"
+    },
+    {
+      "phrase": "in terrace",
+      "tag": "Terrace"
+    },
+    {
+      "phrase": "terrace",
+      "tag": "Terrace"
+    },
+    {
+      "phrase": "terrace setting",
+      "tag": "Terrace"
+    },
+    {
+      "phrase": "in theater",
+      "tag": "Theater"
+    },
+    {
+      "phrase": "theater",
+      "tag": "Theater"
+    },
+    {
+      "phrase": "theater setting",
+      "tag": "Theater"
+    },
+    {
+      "phrase": "in toy store",
+      "tag": "Toy_Store"
+    },
+    {
+      "phrase": "toy store",
+      "tag": "Toy_Store"
+    },
+    {
+      "phrase": "toy store setting",
+      "tag": "Toy_Store"
+    },
+    {
+      "phrase": "in track",
+      "tag": "Track"
+    },
+    {
+      "phrase": "track",
+      "tag": "Track"
+    },
+    {
+      "phrase": "track setting",
+      "tag": "Track"
+    },
+    {
+      "phrase": "in train station",
+      "tag": "Train_Station"
+    },
+    {
+      "phrase": "train station",
+      "tag": "Train_Station"
+    },
+    {
+      "phrase": "train station setting",
+      "tag": "Train_Station"
+    },
+    {
+      "phrase": "in train yard",
+      "tag": "Train_Yard"
+    },
+    {
+      "phrase": "train yard",
+      "tag": "Train_Yard"
+    },
+    {
+      "phrase": "train yard setting",
+      "tag": "Train_Yard"
+    },
+    {
+      "phrase": "in training ground",
+      "tag": "Training_Ground"
+    },
+    {
+      "phrase": "training ground",
+      "tag": "Training_Ground"
+    },
+    {
+      "phrase": "training ground setting",
+      "tag": "Training_Ground"
+    },
+    {
+      "phrase": "in treehouse",
+      "tag": "Treehouse"
+    },
+    {
+      "phrase": "treehouse",
+      "tag": "Treehouse"
+    },
+    {
+      "phrase": "treehouse setting",
+      "tag": "Treehouse"
+    },
+    {
+      "phrase": "in trenches",
+      "tag": "Trenches"
+    },
+    {
+      "phrase": "trenches",
+      "tag": "Trenches"
+    },
+    {
+      "phrase": "trenches setting",
+      "tag": "Trenches"
+    },
+    {
+      "phrase": "in tundra",
+      "tag": "Tundra"
+    },
+    {
+      "phrase": "tundra",
+      "tag": "Tundra"
+    },
+    {
+      "phrase": "tundra setting",
+      "tag": "Tundra"
+    },
+    {
+      "phrase": "in tunnel",
+      "tag": "Tunnel"
+    },
+    {
+      "phrase": "tunnel",
+      "tag": "Tunnel"
+    },
+    {
+      "phrase": "tunnel setting",
+      "tag": "Tunnel"
+    },
+    {
+      "phrase": "in underwater",
+      "tag": "Underwater"
+    },
+    {
+      "phrase": "underwater",
+      "tag": "Underwater"
+    },
+    {
+      "phrase": "underwater setting",
+      "tag": "Underwater"
+    },
+    {
+      "phrase": "in university",
+      "tag": "University"
+    },
+    {
+      "phrase": "university",
+      "tag": "University"
+    },
+    {
+      "phrase": "university setting",
+      "tag": "University"
+    },
+    {
+      "phrase": "in urban",
+      "tag": "Urban"
+    },
+    {
+      "phrase": "urban",
+      "tag": "Urban"
+    },
+    {
+      "phrase": "urban setting",
+      "tag": "Urban"
+    },
+    {
+      "phrase": "in victorian city",
+      "tag": "Victorian_City"
+    },
+    {
+      "phrase": "victorian city",
+      "tag": "Victorian_City"
+    },
+    {
+      "phrase": "victorian city setting",
+      "tag": "Victorian_City"
+    },
+    {
+      "phrase": "in village",
+      "tag": "Village"
+    },
+    {
+      "phrase": "village",
+      "tag": "Village"
+    },
+    {
+      "phrase": "village setting",
+      "tag": "Village"
+    },
+    {
+      "phrase": "in vineyard",
+      "tag": "Vineyard"
+    },
+    {
+      "phrase": "vineyard",
+      "tag": "Vineyard"
+    },
+    {
+      "phrase": "vineyard setting",
+      "tag": "Vineyard"
+    },
+    {
+      "phrase": "in volcanic",
+      "tag": "Volcanic"
+    },
+    {
+      "phrase": "volcanic",
+      "tag": "Volcanic"
+    },
+    {
+      "phrase": "volcanic setting",
+      "tag": "Volcanic"
+    },
+    {
+      "phrase": "in war room",
+      "tag": "War_Room"
+    },
+    {
+      "phrase": "war room",
+      "tag": "War_Room"
+    },
+    {
+      "phrase": "war room setting",
+      "tag": "War_Room"
+    },
+    {
+      "phrase": "in warehouse",
+      "tag": "Warehouse"
+    },
+    {
+      "phrase": "warehouse",
+      "tag": "Warehouse"
+    },
+    {
+      "phrase": "warehouse setting",
+      "tag": "Warehouse"
+    },
+    {
+      "phrase": "in waterfall",
+      "tag": "Waterfall"
+    },
+    {
+      "phrase": "waterfall",
+      "tag": "Waterfall"
+    },
+    {
+      "phrase": "waterfall setting",
+      "tag": "Waterfall"
+    },
+    {
+      "phrase": "in wilderness",
+      "tag": "Wilderness"
+    },
+    {
+      "phrase": "wilderness",
+      "tag": "Wilderness"
+    },
+    {
+      "phrase": "wilderness setting",
+      "tag": "Wilderness"
+    },
+    {
+      "phrase": "in wine cellars",
+      "tag": "Wine_Cellars"
+    },
+    {
+      "phrase": "wine cellars",
+      "tag": "Wine_Cellars"
+    },
+    {
+      "phrase": "wine cellars setting",
+      "tag": "Wine_Cellars"
+    },
+    {
+      "phrase": "in zoo",
+      "tag": "Zoo"
+    },
+    {
+      "phrase": "zoo",
+      "tag": "Zoo"
+    },
+    {
+      "phrase": "zoo setting",
+      "tag": "Zoo"
+    },
+    {
+      "phrase": "academy city",
+      "tag": "academy_city"
+    },
+    {
+      "phrase": "academy city setting",
+      "tag": "academy_city"
+    },
+    {
+      "phrase": "in academy city",
+      "tag": "academy_city"
+    },
+    {
+      "phrase": "airplane interior",
+      "tag": "airplane_interior"
+    },
+    {
+      "phrase": "airplane interior setting",
+      "tag": "airplane_interior"
+    },
+    {
+      "phrase": "in airplane interior",
+      "tag": "airplane_interior"
+    },
+    {
+      "phrase": "akihabara",
+      "tag": "akihabara_(tokyo)"
+    },
+    {
+      "phrase": "akihabara setting",
+      "tag": "akihabara_(tokyo)"
+    },
+    {
+      "phrase": "akihabara tokyo",
+      "tag": "akihabara_(tokyo)"
+    },
+    {
+      "phrase": "in akihabara",
+      "tag": "akihabara_(tokyo)"
+    },
+    {
+      "phrase": "altar",
+      "tag": "altar"
+    },
+    {
+      "phrase": "altar setting",
+      "tag": "altar"
+    },
+    {
+      "phrase": "in altar",
+      "tag": "altar"
+    },
+    {
+      "phrase": "amusement park",
+      "tag": "amusement_park"
+    },
+    {
+      "phrase": "amusement park setting",
+      "tag": "amusement_park"
+    },
+    {
+      "phrase": "in amusement park",
+      "tag": "amusement_park"
+    },
+    {
+      "phrase": "art room",
+      "tag": "art_room"
+    },
+    {
+      "phrase": "art room setting",
+      "tag": "art_room"
+    },
+    {
+      "phrase": "in art room",
+      "tag": "art_room"
+    },
+    {
+      "phrase": "ashiyu",
+      "tag": "ashiyu"
+    },
+    {
+      "phrase": "ashiyu setting",
+      "tag": "ashiyu"
+    },
+    {
+      "phrase": "in ashiyu",
+      "tag": "ashiyu"
+    },
+    {
+      "phrase": "astro city",
+      "tag": "astro_city"
+    },
+    {
+      "phrase": "astro city setting",
+      "tag": "astro_city"
+    },
+    {
+      "phrase": "in astro city",
+      "tag": "astro_city"
+    },
+    {
+      "phrase": "ballroom",
+      "tag": "ballroom"
+    },
+    {
+      "phrase": "ballroom setting",
+      "tag": "ballroom"
+    },
+    {
+      "phrase": "in ballroom",
+      "tag": "ballroom"
+    },
+    {
+      "phrase": "bamboo forest",
+      "tag": "bamboo_forest"
+    },
+    {
+      "phrase": "bamboo forest setting",
+      "tag": "bamboo_forest"
+    },
+    {
+      "phrase": "in bamboo forest",
+      "tag": "bamboo_forest"
+    },
+    {
+      "phrase": "bar",
+      "tag": "bar_(place)"
+    },
+    {
+      "phrase": "bar place",
+      "tag": "bar_(place)"
+    },
+    {
+      "phrase": "bar setting",
+      "tag": "bar_(place)"
+    },
+    {
+      "phrase": "in bar",
+      "tag": "bar_(place)"
+    },
+    {
+      "phrase": "barn",
+      "tag": "barn"
+    },
+    {
+      "phrase": "barn setting",
+      "tag": "barn"
+    },
+    {
+      "phrase": "in barn",
+      "tag": "barn"
+    },
+    {
+      "phrase": "baseball stadium",
+      "tag": "baseball_stadium"
+    },
+    {
+      "phrase": "baseball stadium setting",
+      "tag": "baseball_stadium"
+    },
+    {
+      "phrase": "in baseball stadium",
+      "tag": "baseball_stadium"
+    },
+    {
+      "phrase": "basketball court",
+      "tag": "basketball_court"
+    },
+    {
+      "phrase": "basketball court setting",
+      "tag": "basketball_court"
+    },
+    {
+      "phrase": "in basketball court",
+      "tag": "basketball_court"
+    },
+    {
+      "phrase": "bath",
+      "tag": "bath"
+    },
+    {
+      "phrase": "bath setting",
+      "tag": "bath"
+    },
+    {
+      "phrase": "in bath",
+      "tag": "bath"
+    },
+    {
+      "phrase": "bathhouse",
+      "tag": "bathhouse"
+    },
+    {
+      "phrase": "bathhouse setting",
+      "tag": "bathhouse"
+    },
+    {
+      "phrase": "in bathhouse",
+      "tag": "bathhouse"
+    },
+    {
+      "phrase": "bathroom",
+      "tag": "bathroom"
+    },
+    {
+      "phrase": "bathroom setting",
+      "tag": "bathroom"
+    },
+    {
+      "phrase": "in bathroom",
+      "tag": "bathroom"
+    },
+    {
+      "phrase": "bathroom scale",
+      "tag": "bathroom_scale"
+    },
+    {
+      "phrase": "bathroom scale setting",
+      "tag": "bathroom_scale"
+    },
+    {
+      "phrase": "in bathroom scale",
+      "tag": "bathroom_scale"
+    },
+    {
+      "phrase": "bathtub",
+      "tag": "bathtub"
+    },
+    {
+      "phrase": "bathtub setting",
+      "tag": "bathtub"
+    },
+    {
+      "phrase": "in bathtub",
+      "tag": "bathtub"
+    },
+    {
+      "phrase": "beach house",
+      "tag": "beach_house"
+    },
+    {
+      "phrase": "beach house setting",
+      "tag": "beach_house"
+    },
+    {
+      "phrase": "in beach house",
+      "tag": "beach_house"
+    },
+    {
+      "phrase": "bedroom",
+      "tag": "bedroom"
+    },
+    {
+      "phrase": "bedroom setting",
+      "tag": "bedroom"
+    },
+    {
+      "phrase": "in bedroom",
+      "tag": "bedroom"
+    },
+    {
+      "phrase": "billiards",
+      "tag": "billiards"
+    },
+    {
+      "phrase": "billiards setting",
+      "tag": "billiards"
+    },
+    {
+      "phrase": "in billiards",
+      "tag": "billiards"
+    },
+    {
+      "phrase": "bio lab",
+      "tag": "bio_lab"
+    },
+    {
+      "phrase": "bio lab setting",
+      "tag": "bio_lab"
+    },
+    {
+      "phrase": "in bio lab",
+      "tag": "bio_lab"
+    },
+    {
+      "phrase": "birthday party",
+      "tag": "birthday_party"
+    },
+    {
+      "phrase": "birthday party setting",
+      "tag": "birthday_party"
+    },
+    {
+      "phrase": "in birthday party",
+      "tag": "birthday_party"
+    },
+    {
+      "phrase": "blue theme",
+      "tag": "blue_theme"
+    },
+    {
+      "phrase": "blue theme setting",
+      "tag": "blue_theme"
+    },
+    {
+      "phrase": "in blue theme",
+      "tag": "blue_theme"
+    },
+    {
+      "phrase": "boat interior",
+      "tag": "boat_interior"
+    },
+    {
+      "phrase": "boat interior setting",
+      "tag": "boat_interior"
+    },
+    {
+      "phrase": "in boat interior",
+      "tag": "boat_interior"
+    },
+    {
+      "phrase": "breakfast",
+      "tag": "breakfast"
+    },
+    {
+      "phrase": "breakfast setting",
+      "tag": "breakfast"
+    },
+    {
+      "phrase": "in breakfast",
+      "tag": "breakfast"
+    },
+    {
+      "phrase": "brick wall",
+      "tag": "brick_wall"
+    },
+    {
+      "phrase": "brick wall setting",
+      "tag": "brick_wall"
+    },
+    {
+      "phrase": "in brick wall",
+      "tag": "brick_wall"
+    },
+    {
+      "phrase": "bus interior",
+      "tag": "bus_interior"
+    },
+    {
+      "phrase": "bus interior setting",
+      "tag": "bus_interior"
+    },
+    {
+      "phrase": "in bus interior",
+      "tag": "bus_interior"
+    },
+    {
+      "phrase": "bus stop",
+      "tag": "bus_stop"
+    },
+    {
+      "phrase": "bus stop setting",
+      "tag": "bus_stop"
+    },
+    {
+      "phrase": "in bus stop",
+      "tag": "bus_stop"
+    },
+    {
+      "phrase": "cafeteria",
+      "tag": "cafeteria"
+    },
+    {
+      "phrase": "cafeteria setting",
+      "tag": "cafeteria"
+    },
+    {
+      "phrase": "in cafeteria",
+      "tag": "cafeteria"
+    },
+    {
+      "phrase": "campfire",
+      "tag": "campfire"
+    },
+    {
+      "phrase": "campfire setting",
+      "tag": "campfire"
+    },
+    {
+      "phrase": "in campfire",
+      "tag": "campfire"
+    },
+    {
+      "phrase": "canal",
+      "tag": "canal"
+    },
+    {
+      "phrase": "canal setting",
+      "tag": "canal"
+    },
+    {
+      "phrase": "in canal",
+      "tag": "canal"
+    },
+    {
+      "phrase": "car interior",
+      "tag": "car_interior"
+    },
+    {
+      "phrase": "car interior setting",
+      "tag": "car_interior"
+    },
+    {
+      "phrase": "in car interior",
+      "tag": "car_interior"
+    },
+    {
+      "phrase": "car wash",
+      "tag": "car_wash_(place)"
+    },
+    {
+      "phrase": "car wash place",
+      "tag": "car_wash_(place)"
+    },
+    {
+      "phrase": "car wash setting",
+      "tag": "car_wash_(place)"
+    },
+    {
+      "phrase": "in car wash",
+      "tag": "car_wash_(place)"
+    },
+    {
+      "phrase": "carousel",
+      "tag": "carousel"
+    },
+    {
+      "phrase": "carousel setting",
+      "tag": "carousel"
+    },
+    {
+      "phrase": "in carousel",
+      "tag": "carousel"
+    },
+    {
+      "phrase": "casino",
+      "tag": "casino"
+    },
+    {
+      "phrase": "casino setting",
+      "tag": "casino"
+    },
+    {
+      "phrase": "in casino",
+      "tag": "casino"
+    },
+    {
+      "phrase": "cat cafe",
+      "tag": "cat_cafe"
+    },
+    {
+      "phrase": "cat cafe setting",
+      "tag": "cat_cafe"
+    },
+    {
+      "phrase": "in cat cafe",
+      "tag": "cat_cafe"
+    },
+    {
+      "phrase": "cathedral",
+      "tag": "cathedral"
+    },
+    {
+      "phrase": "cathedral setting",
+      "tag": "cathedral"
+    },
+    {
+      "phrase": "in cathedral",
+      "tag": "cathedral"
+    },
+    {
+      "phrase": "cave interior",
+      "tag": "cave_interior"
+    },
+    {
+      "phrase": "cave interior setting",
+      "tag": "cave_interior"
+    },
+    {
+      "phrase": "in cave interior",
+      "tag": "cave_interior"
+    },
+    {
+      "phrase": "ceiling",
+      "tag": "ceiling"
+    },
+    {
+      "phrase": "ceiling setting",
+      "tag": "ceiling"
+    },
+    {
+      "phrase": "in ceiling",
+      "tag": "ceiling"
+    },
+    {
+      "phrase": "chain-link fence",
+      "tag": "chain-link_fence"
+    },
+    {
+      "phrase": "chain-link fence setting",
+      "tag": "chain-link_fence"
+    },
+    {
+      "phrase": "in chain-link fence",
+      "tag": "chain-link_fence"
+    },
+    {
+      "phrase": "changing room",
+      "tag": "changing_room"
+    },
+    {
+      "phrase": "changing room setting",
+      "tag": "changing_room"
+    },
+    {
+      "phrase": "in changing room",
+      "tag": "changing_room"
+    },
+    {
+      "phrase": "checkered floor",
+      "tag": "checkered_floor"
+    },
+    {
+      "phrase": "checkered floor setting",
+      "tag": "checkered_floor"
+    },
+    {
+      "phrase": "in checkered floor",
+      "tag": "checkered_floor"
+    },
+    {
+      "phrase": "chinese restaurant",
+      "tag": "chinese_restaurant"
+    },
+    {
+      "phrase": "chinese restaurant setting",
+      "tag": "chinese_restaurant"
+    },
+    {
+      "phrase": "in chinese restaurant",
+      "tag": "chinese_restaurant"
+    },
+    {
+      "phrase": "chinese wedding",
+      "tag": "chinese_wedding"
+    },
+    {
+      "phrase": "chinese wedding setting",
+      "tag": "chinese_wedding"
+    },
+    {
+      "phrase": "in chinese wedding",
+      "tag": "chinese_wedding"
+    },
+    {
+      "phrase": "chireiden",
+      "tag": "chireiden"
+    },
+    {
+      "phrase": "chireiden setting",
+      "tag": "chireiden"
+    },
+    {
+      "phrase": "in chireiden",
+      "tag": "chireiden"
+    },
+    {
+      "phrase": "church",
+      "tag": "church"
+    },
+    {
+      "phrase": "church setting",
+      "tag": "church"
+    },
+    {
+      "phrase": "in church",
+      "tag": "church"
+    },
+    {
+      "phrase": "circus",
+      "tag": "circus"
+    },
+    {
+      "phrase": "circus setting",
+      "tag": "circus"
+    },
+    {
+      "phrase": "in circus",
+      "tag": "circus"
+    },
+    {
+      "phrase": "city",
+      "tag": "city"
+    },
+    {
+      "phrase": "city setting",
+      "tag": "city"
+    },
+    {
+      "phrase": "in city",
+      "tag": "city"
+    },
+    {
+      "phrase": "classroom",
+      "tag": "classroom"
+    },
+    {
+      "phrase": "classroom setting",
+      "tag": "classroom"
+    },
+    {
+      "phrase": "in classroom",
+      "tag": "classroom"
+    },
+    {
+      "phrase": "cliff",
+      "tag": "cliff"
+    },
+    {
+      "phrase": "cliff setting",
+      "tag": "cliff"
+    },
+    {
+      "phrase": "in cliff",
+      "tag": "cliff"
+    },
+    {
+      "phrase": "clock tower",
+      "tag": "clock_tower"
+    },
+    {
+      "phrase": "clock tower setting",
+      "tag": "clock_tower"
+    },
+    {
+      "phrase": "in clock tower",
+      "tag": "clock_tower"
+    },
+    {
+      "phrase": "clubroom",
+      "tag": "clubroom"
+    },
+    {
+      "phrase": "clubroom setting",
+      "tag": "clubroom"
+    },
+    {
+      "phrase": "in clubroom",
+      "tag": "clubroom"
+    },
+    {
+      "phrase": "cockpit",
+      "tag": "cockpit"
+    },
+    {
+      "phrase": "cockpit setting",
+      "tag": "cockpit"
+    },
+    {
+      "phrase": "in cockpit",
+      "tag": "cockpit"
+    },
+    {
+      "phrase": "colony interior",
+      "tag": "colony_interior"
+    },
+    {
+      "phrase": "colony interior setting",
+      "tag": "colony_interior"
+    },
+    {
+      "phrase": "in colony interior",
+      "tag": "colony_interior"
+    },
+    {
+      "phrase": "colosseum",
+      "tag": "colosseum"
+    },
+    {
+      "phrase": "colosseum setting",
+      "tag": "colosseum"
+    },
+    {
+      "phrase": "in colosseum",
+      "tag": "colosseum"
+    },
+    {
+      "phrase": "concert",
+      "tag": "concert"
+    },
+    {
+      "phrase": "concert setting",
+      "tag": "concert"
+    },
+    {
+      "phrase": "in concert",
+      "tag": "concert"
+    },
+    {
+      "phrase": "construction",
+      "tag": "construction"
+    },
+    {
+      "phrase": "construction setting",
+      "tag": "construction"
+    },
+    {
+      "phrase": "in construction",
+      "tag": "construction"
+    },
+    {
+      "phrase": "convenience store",
+      "tag": "convenience_store"
+    },
+    {
+      "phrase": "convenience store setting",
+      "tag": "convenience_store"
+    },
+    {
+      "phrase": "in convenience store",
+      "tag": "convenience_store"
+    },
+    {
+      "phrase": "convention",
+      "tag": "convention"
+    },
+    {
+      "phrase": "convention setting",
+      "tag": "convention"
+    },
+    {
+      "phrase": "in convention",
+      "tag": "convention"
+    },
+    {
+      "phrase": "coral reef",
+      "tag": "coral_reef"
+    },
+    {
+      "phrase": "coral reef setting",
+      "tag": "coral_reef"
+    },
+    {
+      "phrase": "in coral reef",
+      "tag": "coral_reef"
+    },
+    {
+      "phrase": "corn field",
+      "tag": "corn_field"
+    },
+    {
+      "phrase": "corn field setting",
+      "tag": "corn_field"
+    },
+    {
+      "phrase": "in corn field",
+      "tag": "corn_field"
+    },
+    {
+      "phrase": "crack",
+      "tag": "crack"
+    },
+    {
+      "phrase": "crack setting",
+      "tag": "crack"
+    },
+    {
+      "phrase": "in crack",
+      "tag": "crack"
+    },
+    {
+      "phrase": "crowded",
+      "tag": "crowded"
+    },
+    {
+      "phrase": "crowded setting",
+      "tag": "crowded"
+    },
+    {
+      "phrase": "in crowded",
+      "tag": "crowded"
+    },
+    {
+      "phrase": "cubicle",
+      "tag": "cubicle"
+    },
+    {
+      "phrase": "cubicle setting",
+      "tag": "cubicle"
+    },
+    {
+      "phrase": "in cubicle",
+      "tag": "cubicle"
+    },
+    {
+      "phrase": "dark foreground",
+      "tag": "dark_foreground"
+    },
+    {
+      "phrase": "dark foreground setting",
+      "tag": "dark_foreground"
+    },
+    {
+      "phrase": "in dark foreground",
+      "tag": "dark_foreground"
+    },
+    {
+      "phrase": "dark room",
+      "tag": "dark_room"
+    },
+    {
+      "phrase": "dark room setting",
+      "tag": "dark_room"
+    },
+    {
+      "phrase": "in dark room",
+      "tag": "dark_room"
+    },
+    {
+      "phrase": "diner",
+      "tag": "diner"
+    },
+    {
+      "phrase": "diner setting",
+      "tag": "diner"
+    },
+    {
+      "phrase": "in diner",
+      "tag": "diner"
+    },
+    {
+      "phrase": "dining room",
+      "tag": "dining_room"
+    },
+    {
+      "phrase": "dining room setting",
+      "tag": "dining_room"
+    },
+    {
+      "phrase": "in dining room",
+      "tag": "dining_room"
+    },
+    {
+      "phrase": "dinner",
+      "tag": "dinner"
+    },
+    {
+      "phrase": "dinner setting",
+      "tag": "dinner"
+    },
+    {
+      "phrase": "in dinner",
+      "tag": "dinner"
+    },
+    {
+      "phrase": "dirt road",
+      "tag": "dirt_road"
+    },
+    {
+      "phrase": "dirt road setting",
+      "tag": "dirt_road"
+    },
+    {
+      "phrase": "in dirt road",
+      "tag": "dirt_road"
+    },
+    {
+      "phrase": "dojo",
+      "tag": "dojo"
+    },
+    {
+      "phrase": "dojo setting",
+      "tag": "dojo"
+    },
+    {
+      "phrase": "in dojo",
+      "tag": "dojo"
+    },
+    {
+      "phrase": "doorway",
+      "tag": "doorway"
+    },
+    {
+      "phrase": "doorway setting",
+      "tag": "doorway"
+    },
+    {
+      "phrase": "in doorway",
+      "tag": "doorway"
+    },
+    {
+      "phrase": "dressing room",
+      "tag": "dressing_room"
+    },
+    {
+      "phrase": "dressing room setting",
+      "tag": "dressing_room"
+    },
+    {
+      "phrase": "in dressing room",
+      "tag": "dressing_room"
+    },
+    {
+      "phrase": "earth",
+      "tag": "earth_(planet)"
+    },
+    {
+      "phrase": "earth planet",
+      "tag": "earth_(planet)"
+    },
+    {
+      "phrase": "earth setting",
+      "tag": "earth_(planet)"
+    },
+    {
+      "phrase": "in earth",
+      "tag": "earth_(planet)"
+    },
+    {
+      "phrase": "east asian architecture",
+      "tag": "east_asian_architecture"
+    },
+    {
+      "phrase": "east asian architecture setting",
+      "tag": "east_asian_architecture"
+    },
+    {
+      "phrase": "in east asian architecture",
+      "tag": "east_asian_architecture"
+    },
+    {
+      "phrase": "ecruteak city",
+      "tag": "ecruteak_city"
+    },
+    {
+      "phrase": "ecruteak city setting",
+      "tag": "ecruteak_city"
+    },
+    {
+      "phrase": "in ecruteak city",
+      "tag": "ecruteak_city"
+    },
+    {
+      "phrase": "eiffel tower",
+      "tag": "eiffel_tower"
+    },
+    {
+      "phrase": "eiffel tower setting",
+      "tag": "eiffel_tower"
+    },
+    {
+      "phrase": "in eiffel tower",
+      "tag": "eiffel_tower"
+    },
+    {
+      "phrase": "elevator",
+      "tag": "elevator"
+    },
+    {
+      "phrase": "elevator setting",
+      "tag": "elevator"
+    },
+    {
+      "phrase": "in elevator",
+      "tag": "elevator"
+    },
+    {
+      "phrase": "empty pool",
+      "tag": "empty_pool"
+    },
+    {
+      "phrase": "empty pool setting",
+      "tag": "empty_pool"
+    },
+    {
+      "phrase": "in empty pool",
+      "tag": "empty_pool"
+    },
+    {
+      "phrase": "empty room",
+      "tag": "empty_room"
+    },
+    {
+      "phrase": "empty room setting",
+      "tag": "empty_room"
+    },
+    {
+      "phrase": "in empty room",
+      "tag": "empty_room"
+    },
+    {
+      "phrase": "escape room",
+      "tag": "escape_room"
+    },
+    {
+      "phrase": "escape room setting",
+      "tag": "escape_room"
+    },
+    {
+      "phrase": "in escape room",
+      "tag": "escape_room"
+    },
+    {
+      "phrase": "familymart",
+      "tag": "familymart"
+    },
+    {
+      "phrase": "familymart setting",
+      "tag": "familymart"
+    },
+    {
+      "phrase": "in familymart",
+      "tag": "familymart"
+    },
+    {
+      "phrase": "ferris wheel interior",
+      "tag": "ferris_wheel_interior"
+    },
+    {
+      "phrase": "ferris wheel interior setting",
+      "tag": "ferris_wheel_interior"
+    },
+    {
+      "phrase": "in ferris wheel interior",
+      "tag": "ferris_wheel_interior"
+    },
+    {
+      "phrase": "field",
+      "tag": "field"
+    },
+    {
+      "phrase": "field setting",
+      "tag": "field"
+    },
+    {
+      "phrase": "in field",
+      "tag": "field"
+    },
+    {
+      "phrase": "field of blades",
+      "tag": "field_of_blades"
+    },
+    {
+      "phrase": "field of blades setting",
+      "tag": "field_of_blades"
+    },
+    {
+      "phrase": "in field of blades",
+      "tag": "field_of_blades"
+    },
+    {
+      "phrase": "fire pit",
+      "tag": "fire_pit"
+    },
+    {
+      "phrase": "fire pit setting",
+      "tag": "fire_pit"
+    },
+    {
+      "phrase": "in fire pit",
+      "tag": "fire_pit"
+    },
+    {
+      "phrase": "fitting room",
+      "tag": "fitting_room"
+    },
+    {
+      "phrase": "fitting room setting",
+      "tag": "fitting_room"
+    },
+    {
+      "phrase": "in fitting room",
+      "tag": "fitting_room"
+    },
+    {
+      "phrase": "flight deck",
+      "tag": "flight_deck"
+    },
+    {
+      "phrase": "flight deck setting",
+      "tag": "flight_deck"
+    },
+    {
+      "phrase": "in flight deck",
+      "tag": "flight_deck"
+    },
+    {
+      "phrase": "floating castle",
+      "tag": "floating_castle"
+    },
+    {
+      "phrase": "floating castle setting",
+      "tag": "floating_castle"
+    },
+    {
+      "phrase": "in floating castle",
+      "tag": "floating_castle"
+    },
+    {
+      "phrase": "floating island",
+      "tag": "floating_island"
+    },
+    {
+      "phrase": "floating island setting",
+      "tag": "floating_island"
+    },
+    {
+      "phrase": "in floating island",
+      "tag": "floating_island"
+    },
+    {
+      "phrase": "floor",
+      "tag": "floor"
+    },
+    {
+      "phrase": "floor setting",
+      "tag": "floor"
+    },
+    {
+      "phrase": "in floor",
+      "tag": "floor"
+    },
+    {
+      "phrase": "flower field",
+      "tag": "flower_field"
+    },
+    {
+      "phrase": "flower field setting",
+      "tag": "flower_field"
+    },
+    {
+      "phrase": "in flower field",
+      "tag": "flower_field"
+    },
+    {
+      "phrase": "foot bath",
+      "tag": "foot_bath"
+    },
+    {
+      "phrase": "foot bath setting",
+      "tag": "foot_bath"
+    },
+    {
+      "phrase": "in foot bath",
+      "tag": "foot_bath"
+    },
+    {
+      "phrase": "forest of magic",
+      "tag": "forest_of_magic"
+    },
+    {
+      "phrase": "forest of magic setting",
+      "tag": "forest_of_magic"
+    },
+    {
+      "phrase": "in forest of magic",
+      "tag": "forest_of_magic"
+    },
+    {
+      "phrase": "frozen lake",
+      "tag": "frozen_lake"
+    },
+    {
+      "phrase": "frozen lake setting",
+      "tag": "frozen_lake"
+    },
+    {
+      "phrase": "in frozen lake",
+      "tag": "frozen_lake"
+    },
+    {
+      "phrase": "funeral",
+      "tag": "funeral"
+    },
+    {
+      "phrase": "funeral setting",
+      "tag": "funeral"
+    },
+    {
+      "phrase": "in funeral",
+      "tag": "funeral"
+    },
+    {
+      "phrase": "fushimi inari taisha",
+      "tag": "fushimi_inari_taisha"
+    },
+    {
+      "phrase": "fushimi inari taisha setting",
+      "tag": "fushimi_inari_taisha"
+    },
+    {
+      "phrase": "in fushimi inari taisha",
+      "tag": "fushimi_inari_taisha"
+    },
+    {
+      "phrase": "garage",
+      "tag": "garage"
+    },
+    {
+      "phrase": "garage setting",
+      "tag": "garage"
+    },
+    {
+      "phrase": "in garage",
+      "tag": "garage"
+    },
+    {
+      "phrase": "garden of the sun",
+      "tag": "garden_of_the_sun"
+    },
+    {
+      "phrase": "garden of the sun setting",
+      "tag": "garden_of_the_sun"
+    },
+    {
+      "phrase": "in garden of the sun",
+      "tag": "garden_of_the_sun"
+    },
+    {
+      "phrase": "gazebo",
+      "tag": "gazebo"
+    },
+    {
+      "phrase": "gazebo setting",
+      "tag": "gazebo"
+    },
+    {
+      "phrase": "in gazebo",
+      "tag": "gazebo"
+    },
+    {
+      "phrase": "genkan",
+      "tag": "genkan"
+    },
+    {
+      "phrase": "genkan setting",
+      "tag": "genkan"
+    },
+    {
+      "phrase": "in genkan",
+      "tag": "genkan"
+    },
+    {
+      "phrase": "grasslands",
+      "tag": "grasslands"
+    },
+    {
+      "phrase": "grasslands setting",
+      "tag": "grasslands"
+    },
+    {
+      "phrase": "in grasslands",
+      "tag": "grasslands"
+    },
+    {
+      "phrase": "graveyard",
+      "tag": "graveyard"
+    },
+    {
+      "phrase": "graveyard setting",
+      "tag": "graveyard"
+    },
+    {
+      "phrase": "in graveyard",
+      "tag": "graveyard"
+    },
+    {
+      "phrase": "greenhouse",
+      "tag": "greenhouse"
+    },
+    {
+      "phrase": "greenhouse setting",
+      "tag": "greenhouse"
+    },
+    {
+      "phrase": "in greenhouse",
+      "tag": "greenhouse"
+    },
+    {
+      "phrase": "gym storeroom",
+      "tag": "gym_storeroom"
+    },
+    {
+      "phrase": "gym storeroom setting",
+      "tag": "gym_storeroom"
+    },
+    {
+      "phrase": "in gym storeroom",
+      "tag": "gym_storeroom"
+    },
+    {
+      "phrase": "hakugyokurou",
+      "tag": "hakugyokurou"
+    },
+    {
+      "phrase": "hakugyokurou setting",
+      "tag": "hakugyokurou"
+    },
+    {
+      "phrase": "in hakugyokurou",
+      "tag": "hakugyokurou"
+    },
+    {
+      "phrase": "hakurei shrine",
+      "tag": "hakurei_shrine"
+    },
+    {
+      "phrase": "hakurei shrine setting",
+      "tag": "hakurei_shrine"
+    },
+    {
+      "phrase": "in hakurei shrine",
+      "tag": "hakurei_shrine"
+    },
+    {
+      "phrase": "hallway",
+      "tag": "hallway"
+    },
+    {
+      "phrase": "hallway setting",
+      "tag": "hallway"
+    },
+    {
+      "phrase": "in hallway",
+      "tag": "hallway"
+    },
+    {
+      "phrase": "hangar",
+      "tag": "hangar"
+    },
+    {
+      "phrase": "hangar setting",
+      "tag": "hangar"
+    },
+    {
+      "phrase": "in hangar",
+      "tag": "hangar"
+    },
+    {
+      "phrase": "helicopter interior",
+      "tag": "helicopter_interior"
+    },
+    {
+      "phrase": "helicopter interior setting",
+      "tag": "helicopter_interior"
+    },
+    {
+      "phrase": "in helicopter interior",
+      "tag": "helicopter_interior"
+    },
+    {
+      "phrase": "hell",
+      "tag": "hell"
+    },
+    {
+      "phrase": "hell setting",
+      "tag": "hell"
+    },
+    {
+      "phrase": "in hell",
+      "tag": "hell"
+    },
+    {
+      "phrase": "hole in ceiling",
+      "tag": "hole_in_ceiling"
+    },
+    {
+      "phrase": "hole in ceiling setting",
+      "tag": "hole_in_ceiling"
+    },
+    {
+      "phrase": "in hole in ceiling",
+      "tag": "hole_in_ceiling"
+    },
+    {
+      "phrase": "hole in floor",
+      "tag": "hole_in_floor"
+    },
+    {
+      "phrase": "hole in floor setting",
+      "tag": "hole_in_floor"
+    },
+    {
+      "phrase": "in hole in floor",
+      "tag": "hole_in_floor"
+    },
+    {
+      "phrase": "hole in wall",
+      "tag": "hole_in_wall"
+    },
+    {
+      "phrase": "hole in wall setting",
+      "tag": "hole_in_wall"
+    },
+    {
+      "phrase": "in hole in wall",
+      "tag": "hole_in_wall"
+    },
+    {
+      "phrase": "honda city",
+      "tag": "honda_city"
+    },
+    {
+      "phrase": "honda city setting",
+      "tag": "honda_city"
+    },
+    {
+      "phrase": "in honda city",
+      "tag": "honda_city"
+    },
+    {
+      "phrase": "horse racing track",
+      "tag": "horse_racing_track"
+    },
+    {
+      "phrase": "horse racing track setting",
+      "tag": "horse_racing_track"
+    },
+    {
+      "phrase": "in horse racing track",
+      "tag": "horse_racing_track"
+    },
+    {
+      "phrase": "hotel",
+      "tag": "hotel"
+    },
+    {
+      "phrase": "hotel setting",
+      "tag": "hotel"
+    },
+    {
+      "phrase": "in hotel",
+      "tag": "hotel"
+    },
+    {
+      "phrase": "hotel room",
+      "tag": "hotel_room"
+    },
+    {
+      "phrase": "hotel room setting",
+      "tag": "hotel_room"
+    },
+    {
+      "phrase": "in hotel room",
+      "tag": "hotel_room"
+    },
+    {
+      "phrase": "human village",
+      "tag": "human_village_(touhou)"
+    },
+    {
+      "phrase": "human village setting",
+      "tag": "human_village_(touhou)"
+    },
+    {
+      "phrase": "human village touhou",
+      "tag": "human_village_(touhou)"
+    },
+    {
+      "phrase": "in human village",
+      "tag": "human_village_(touhou)"
+    },
+    {
+      "phrase": "in bathtub",
+      "tag": "in_bathtub"
+    },
+    {
+      "phrase": "in bathtub setting",
+      "tag": "in_bathtub"
+    },
+    {
+      "phrase": "in in bathtub",
+      "tag": "in_bathtub"
+    },
+    {
+      "phrase": "in cage",
+      "tag": "in_cage"
+    },
+    {
+      "phrase": "in cage setting",
+      "tag": "in_cage"
+    },
+    {
+      "phrase": "in in cage",
+      "tag": "in_cage"
+    },
+    {
+      "phrase": "in cell",
+      "tag": "in_cell"
+    },
+    {
+      "phrase": "in cell setting",
+      "tag": "in_cell"
+    },
+    {
+      "phrase": "in in cell",
+      "tag": "in_cell"
+    },
+    {
+      "phrase": "in crane game",
+      "tag": "in_crane_game"
+    },
+    {
+      "phrase": "in crane game setting",
+      "tag": "in_crane_game"
+    },
+    {
+      "phrase": "in in crane game",
+      "tag": "in_crane_game"
+    },
+    {
+      "phrase": "in in locker",
+      "tag": "in_locker"
+    },
+    {
+      "phrase": "in locker",
+      "tag": "in_locker"
+    },
+    {
+      "phrase": "in locker setting",
+      "tag": "in_locker"
+    },
+    {
+      "phrase": "in in shopping cart",
+      "tag": "in_shopping_cart"
+    },
+    {
+      "phrase": "in shopping cart",
+      "tag": "in_shopping_cart"
+    },
+    {
+      "phrase": "in shopping cart setting",
+      "tag": "in_shopping_cart"
+    },
+    {
+      "phrase": "in in trash can",
+      "tag": "in_trash_can"
+    },
+    {
+      "phrase": "in trash can",
+      "tag": "in_trash_can"
+    },
+    {
+      "phrase": "in trash can setting",
+      "tag": "in_trash_can"
+    },
+    {
+      "phrase": "in inazuma city",
+      "tag": "inazuma_city"
+    },
+    {
+      "phrase": "inazuma city",
+      "tag": "inazuma_city"
+    },
+    {
+      "phrase": "inazuma city setting",
+      "tag": "inazuma_city"
+    },
+    {
+      "phrase": "in indoors",
+      "tag": "indoors"
+    },
+    {
+      "phrase": "indoors",
+      "tag": "indoors"
+    },
+    {
+      "phrase": "indoors setting",
+      "tag": "indoors"
+    },
+    {
+      "phrase": "in infirmary",
+      "tag": "infirmary"
+    },
+    {
+      "phrase": "infirmary",
+      "tag": "infirmary"
+    },
+    {
+      "phrase": "infirmary setting",
+      "tag": "infirmary"
+    },
+    {
+      "phrase": "in inside creature",
+      "tag": "inside_creature"
+    },
+    {
+      "phrase": "inside creature",
+      "tag": "inside_creature"
+    },
+    {
+      "phrase": "inside creature setting",
+      "tag": "inside_creature"
+    },
+    {
+      "phrase": "in international space station",
+      "tag": "international_space_station"
+    },
+    {
+      "phrase": "international space station",
+      "tag": "international_space_station"
+    },
+    {
+      "phrase": "international space station setting",
+      "tag": "international_space_station"
+    },
+    {
+      "phrase": "in ishikawa prefectural library",
+      "tag": "ishikawa_prefectural_library"
+    },
+    {
+      "phrase": "ishikawa prefectural library",
+      "tag": "ishikawa_prefectural_library"
+    },
+    {
+      "phrase": "ishikawa prefectural library setting",
+      "tag": "ishikawa_prefectural_library"
+    },
+    {
+      "phrase": "in izakaya",
+      "tag": "izakaya"
+    },
+    {
+      "phrase": "izakaya",
+      "tag": "izakaya"
+    },
+    {
+      "phrase": "izakaya setting",
+      "tag": "izakaya"
+    },
+    {
+      "phrase": "in junkyard",
+      "tag": "junkyard"
+    },
+    {
+      "phrase": "junkyard",
+      "tag": "junkyard"
+    },
+    {
+      "phrase": "junkyard setting",
+      "tag": "junkyard"
+    },
+    {
+      "phrase": "in kanazawa station",
+      "tag": "kanazawa_station"
+    },
+    {
+      "phrase": "kanazawa station",
+      "tag": "kanazawa_station"
+    },
+    {
+      "phrase": "kanazawa station setting",
+      "tag": "kanazawa_station"
+    },
+    {
+      "phrase": "in kijiyama north high school",
+      "tag": "kijiyama_north_high_school"
+    },
+    {
+      "phrase": "kijiyama north high school",
+      "tag": "kijiyama_north_high_school"
+    },
+    {
+      "phrase": "kijiyama north high school setting",
+      "tag": "kijiyama_north_high_school"
+    },
+    {
+      "phrase": "in kindergarten",
+      "tag": "kindergarten"
+    },
+    {
+      "phrase": "kindergarten",
+      "tag": "kindergarten"
+    },
+    {
+      "phrase": "kindergarten setting",
+      "tag": "kindergarten"
+    },
+    {
+      "phrase": "in kisaragi station",
+      "tag": "kisaragi_station"
+    },
+    {
+      "phrase": "kisaragi station",
+      "tag": "kisaragi_station"
+    },
+    {
+      "phrase": "kisaragi station setting",
+      "tag": "kisaragi_station"
+    },
+    {
+      "phrase": "in kitchen",
+      "tag": "kitchen"
+    },
+    {
+      "phrase": "kitchen",
+      "tag": "kitchen"
+    },
+    {
+      "phrase": "kitchen setting",
+      "tag": "kitchen"
+    },
+    {
+      "phrase": "in kitchen range",
+      "tag": "kitchen_range"
+    },
+    {
+      "phrase": "kitchen range",
+      "tag": "kitchen_range"
+    },
+    {
+      "phrase": "kitchen range setting",
+      "tag": "kitchen_range"
+    },
+    {
+      "phrase": "in kyoto",
+      "tag": "kyoto"
+    },
+    {
+      "phrase": "kyoto",
+      "tag": "kyoto"
+    },
+    {
+      "phrase": "kyoto setting",
+      "tag": "kyoto"
+    },
+    {
+      "phrase": "in landscape",
+      "tag": "landscape"
+    },
+    {
+      "phrase": "landscape",
+      "tag": "landscape"
+    },
+    {
+      "phrase": "landscape setting",
+      "tag": "landscape"
+    },
+    {
+      "phrase": "in laundromat",
+      "tag": "laundromat"
+    },
+    {
+      "phrase": "laundromat",
+      "tag": "laundromat"
+    },
+    {
+      "phrase": "laundromat setting",
+      "tag": "laundromat"
+    },
+    {
+      "phrase": "in library",
+      "tag": "library"
+    },
+    {
+      "phrase": "library",
+      "tag": "library"
+    },
+    {
+      "phrase": "library setting",
+      "tag": "library"
+    },
+    {
+      "phrase": "in limousine interior",
+      "tag": "limousine_interior"
+    },
+    {
+      "phrase": "limousine interior",
+      "tag": "limousine_interior"
+    },
+    {
+      "phrase": "limousine interior setting",
+      "tag": "limousine_interior"
+    },
+    {
+      "phrase": "in living room",
+      "tag": "living_room"
+    },
+    {
+      "phrase": "living room",
+      "tag": "living_room"
+    },
+    {
+      "phrase": "living room setting",
+      "tag": "living_room"
+    },
+    {
+      "phrase": "in liyue harbor",
+      "tag": "liyue_harbor"
+    },
+    {
+      "phrase": "liyue harbor",
+      "tag": "liyue_harbor"
+    },
+    {
+      "phrase": "liyue harbor setting",
+      "tag": "liyue_harbor"
+    },
+    {
+      "phrase": "in loaded interior",
+      "tag": "loaded_interior"
+    },
+    {
+      "phrase": "loaded interior",
+      "tag": "loaded_interior"
+    },
+    {
+      "phrase": "loaded interior setting",
+      "tag": "loaded_interior"
+    },
+    {
+      "phrase": "in locker",
+      "tag": "locker"
+    },
+    {
+      "phrase": "locker",
+      "tag": "locker"
+    },
+    {
+      "phrase": "locker setting",
+      "tag": "locker"
+    },
+    {
+      "phrase": "in locker room",
+      "tag": "locker_room"
+    },
+    {
+      "phrase": "locker room",
+      "tag": "locker_room"
+    },
+    {
+      "phrase": "locker room setting",
+      "tag": "locker_room"
+    },
+    {
+      "phrase": "in loft bed",
+      "tag": "loft_bed"
+    },
+    {
+      "phrase": "loft bed",
+      "tag": "loft_bed"
+    },
+    {
+      "phrase": "loft bed setting",
+      "tag": "loft_bed"
+    },
+    {
+      "phrase": "in london",
+      "tag": "london"
+    },
+    {
+      "phrase": "london",
+      "tag": "london"
+    },
+    {
+      "phrase": "london setting",
+      "tag": "london"
+    },
+    {
+      "phrase": "in lookout platform",
+      "tag": "lookout_platform"
+    },
+    {
+      "phrase": "lookout platform",
+      "tag": "lookout_platform"
+    },
+    {
+      "phrase": "lookout platform setting",
+      "tag": "lookout_platform"
+    },
+    {
+      "phrase": "in love hotel",
+      "tag": "love_hotel"
+    },
+    {
+      "phrase": "love hotel",
+      "tag": "love_hotel"
+    },
+    {
+      "phrase": "love hotel setting",
+      "tag": "love_hotel"
+    },
+    {
+      "phrase": "in lumiose city",
+      "tag": "lumiose_city"
+    },
+    {
+      "phrase": "lumiose city",
+      "tag": "lumiose_city"
+    },
+    {
+      "phrase": "lumiose city setting",
+      "tag": "lumiose_city"
+    },
+    {
+      "phrase": "in magic circle background",
+      "tag": "magic_circle_background"
+    },
+    {
+      "phrase": "magic circle background",
+      "tag": "magic_circle_background"
+    },
+    {
+      "phrase": "magic circle background setting",
+      "tag": "magic_circle_background"
+    },
+    {
+      "phrase": "in marching band",
+      "tag": "marching_band"
+    },
+    {
+      "phrase": "marching band",
+      "tag": "marching_band"
+    },
+    {
+      "phrase": "marching band setting",
+      "tag": "marching_band"
+    },
+    {
+      "phrase": "in market stall",
+      "tag": "market_stall"
+    },
+    {
+      "phrase": "market stall",
+      "tag": "market_stall"
+    },
+    {
+      "phrase": "market stall setting",
+      "tag": "market_stall"
+    },
+    {
+      "phrase": "in mermaid out of environment",
+      "tag": "mermaid_out_of_environment"
+    },
+    {
+      "phrase": "mermaid out of environment",
+      "tag": "mermaid_out_of_environment"
+    },
+    {
+      "phrase": "mermaid out of environment setting",
+      "tag": "mermaid_out_of_environment"
+    },
+    {
+      "phrase": "in messy room",
+      "tag": "messy_room"
+    },
+    {
+      "phrase": "messy room",
+      "tag": "messy_room"
+    },
+    {
+      "phrase": "messy room setting",
+      "tag": "messy_room"
+    },
+    {
+      "phrase": "in military base",
+      "tag": "military_base"
+    },
+    {
+      "phrase": "military base",
+      "tag": "military_base"
+    },
+    {
+      "phrase": "military base setting",
+      "tag": "military_base"
+    },
+    {
+      "phrase": "in misty lake",
+      "tag": "misty_lake"
+    },
+    {
+      "phrase": "misty lake",
+      "tag": "misty_lake"
+    },
+    {
+      "phrase": "misty lake setting",
+      "tag": "misty_lake"
+    },
+    {
+      "phrase": "in mitsukoshi",
+      "tag": "mitsukoshi_(department_store)"
+    },
+    {
+      "phrase": "mitsukoshi",
+      "tag": "mitsukoshi_(department_store)"
+    },
+    {
+      "phrase": "mitsukoshi department store",
+      "tag": "mitsukoshi_(department_store)"
+    },
+    {
+      "phrase": "mitsukoshi setting",
+      "tag": "mitsukoshi_(department_store)"
+    },
+    {
+      "phrase": "in moriya shrine",
+      "tag": "moriya_shrine"
+    },
+    {
+      "phrase": "moriya shrine",
+      "tag": "moriya_shrine"
+    },
+    {
+      "phrase": "moriya shrine setting",
+      "tag": "moriya_shrine"
+    },
+    {
+      "phrase": "in mount fuji",
+      "tag": "mount_fuji"
+    },
+    {
+      "phrase": "mount fuji",
+      "tag": "mount_fuji"
+    },
+    {
+      "phrase": "mount fuji setting",
+      "tag": "mount_fuji"
+    },
+    {
+      "phrase": "in mountainous horizon",
+      "tag": "mountainous_horizon"
+    },
+    {
+      "phrase": "mountainous horizon",
+      "tag": "mountainous_horizon"
+    },
+    {
+      "phrase": "mountainous horizon setting",
+      "tag": "mountainous_horizon"
+    },
+    {
+      "phrase": "in movie theater",
+      "tag": "movie_theater"
+    },
+    {
+      "phrase": "movie theater",
+      "tag": "movie_theater"
+    },
+    {
+      "phrase": "movie theater setting",
+      "tag": "movie_theater"
+    },
+    {
+      "phrase": "in my room",
+      "tag": "my_room"
+    },
+    {
+      "phrase": "my room",
+      "tag": "my_room"
+    },
+    {
+      "phrase": "my room setting",
+      "tag": "my_room"
+    },
+    {
+      "phrase": "in naked school attendance",
+      "tag": "naked_school_attendance"
+    },
+    {
+      "phrase": "naked school attendance",
+      "tag": "naked_school_attendance"
+    },
+    {
+      "phrase": "naked school attendance setting",
+      "tag": "naked_school_attendance"
+    },
+    {
+      "phrase": "in new york city",
+      "tag": "new_york_city"
+    },
+    {
+      "phrase": "new york city",
+      "tag": "new_york_city"
+    },
+    {
+      "phrase": "new york city setting",
+      "tag": "new_york_city"
+    },
+    {
+      "phrase": "in new york city police department",
+      "tag": "new_york_city_police_department"
+    },
+    {
+      "phrase": "new york city police department",
+      "tag": "new_york_city_police_department"
+    },
+    {
+      "phrase": "new york city police department setting",
+      "tag": "new_york_city_police_department"
+    },
+    {
+      "phrase": "in night vision",
+      "tag": "night_vision"
+    },
+    {
+      "phrase": "night vision",
+      "tag": "night_vision"
+    },
+    {
+      "phrase": "night vision setting",
+      "tag": "night_vision"
+    },
+    {
+      "phrase": "in nightclub",
+      "tag": "nightclub"
+    },
+    {
+      "phrase": "nightclub",
+      "tag": "nightclub"
+    },
+    {
+      "phrase": "nightclub setting",
+      "tag": "nightclub"
+    },
+    {
+      "phrase": "in nude beach",
+      "tag": "nude_beach"
+    },
+    {
+      "phrase": "nude beach",
+      "tag": "nude_beach"
+    },
+    {
+      "phrase": "nude beach setting",
+      "tag": "nude_beach"
+    },
+    {
+      "phrase": "in octavinelle dorm",
+      "tag": "octavinelle_dorm"
+    },
+    {
+      "phrase": "octavinelle dorm",
+      "tag": "octavinelle_dorm"
+    },
+    {
+      "phrase": "octavinelle dorm setting",
+      "tag": "octavinelle_dorm"
+    },
+    {
+      "phrase": "in office",
+      "tag": "office"
+    },
+    {
+      "phrase": "office",
+      "tag": "office"
+    },
+    {
+      "phrase": "office setting",
+      "tag": "office"
+    },
+    {
+      "phrase": "in onsen",
+      "tag": "onsen"
+    },
+    {
+      "phrase": "onsen",
+      "tag": "onsen"
+    },
+    {
+      "phrase": "onsen setting",
+      "tag": "onsen"
+    },
+    {
+      "phrase": "in orange star high school",
+      "tag": "orange_star_high_school"
+    },
+    {
+      "phrase": "orange star high school",
+      "tag": "orange_star_high_school"
+    },
+    {
+      "phrase": "orange star high school setting",
+      "tag": "orange_star_high_school"
+    },
+    {
+      "phrase": "in otaku room",
+      "tag": "otaku_room"
+    },
+    {
+      "phrase": "otaku room",
+      "tag": "otaku_room"
+    },
+    {
+      "phrase": "otaku room setting",
+      "tag": "otaku_room"
+    },
+    {
+      "phrase": "in outdoors",
+      "tag": "outdoors"
+    },
+    {
+      "phrase": "outdoors",
+      "tag": "outdoors"
+    },
+    {
+      "phrase": "outdoors setting",
+      "tag": "outdoors"
+    },
+    {
+      "phrase": "in padded room",
+      "tag": "padded_room"
+    },
+    {
+      "phrase": "padded room",
+      "tag": "padded_room"
+    },
+    {
+      "phrase": "padded room setting",
+      "tag": "padded_room"
+    },
+    {
+      "phrase": "in palace",
+      "tag": "palace"
+    },
+    {
+      "phrase": "palace",
+      "tag": "palace"
+    },
+    {
+      "phrase": "palace setting",
+      "tag": "palace"
+    },
+    {
+      "phrase": "in park",
+      "tag": "park"
+    },
+    {
+      "phrase": "park",
+      "tag": "park"
+    },
+    {
+      "phrase": "park setting",
+      "tag": "park"
+    },
+    {
+      "phrase": "in parking lot",
+      "tag": "parking_lot"
+    },
+    {
+      "phrase": "parking lot",
+      "tag": "parking_lot"
+    },
+    {
+      "phrase": "parking lot setting",
+      "tag": "parking_lot"
+    },
+    {
+      "phrase": "in party",
+      "tag": "party"
+    },
+    {
+      "phrase": "party",
+      "tag": "party"
+    },
+    {
+      "phrase": "party setting",
+      "tag": "party"
+    },
+    {
+      "phrase": "in path",
+      "tag": "path"
+    },
+    {
+      "phrase": "path",
+      "tag": "path"
+    },
+    {
+      "phrase": "path setting",
+      "tag": "path"
+    },
+    {
+      "phrase": "in picnic",
+      "tag": "picnic"
+    },
+    {
+      "phrase": "picnic",
+      "tag": "picnic"
+    },
+    {
+      "phrase": "picnic setting",
+      "tag": "picnic"
+    },
+    {
+      "phrase": "in pier",
+      "tag": "pier"
+    },
+    {
+      "phrase": "pier",
+      "tag": "pier"
+    },
+    {
+      "phrase": "pier setting",
+      "tag": "pier"
+    },
+    {
+      "phrase": "in planet",
+      "tag": "planet"
+    },
+    {
+      "phrase": "planet",
+      "tag": "planet"
+    },
+    {
+      "phrase": "planet setting",
+      "tag": "planet"
+    },
+    {
+      "phrase": "in platform",
+      "tag": "platform"
+    },
+    {
+      "phrase": "platform",
+      "tag": "platform"
+    },
+    {
+      "phrase": "platform setting",
+      "tag": "platform"
+    },
+    {
+      "phrase": "in platform heels",
+      "tag": "platform_heels"
+    },
+    {
+      "phrase": "platform heels",
+      "tag": "platform_heels"
+    },
+    {
+      "phrase": "platform heels setting",
+      "tag": "platform_heels"
+    },
+    {
+      "phrase": "in pokestar studios",
+      "tag": "pokestar_studios"
+    },
+    {
+      "phrase": "pokestar studios",
+      "tag": "pokestar_studios"
+    },
+    {
+      "phrase": "pokestar studios setting",
+      "tag": "pokestar_studios"
+    },
+    {
+      "phrase": "in pond",
+      "tag": "pond"
+    },
+    {
+      "phrase": "pond",
+      "tag": "pond"
+    },
+    {
+      "phrase": "pond setting",
+      "tag": "pond"
+    },
+    {
+      "phrase": "in pool",
+      "tag": "pool"
+    },
+    {
+      "phrase": "pool",
+      "tag": "pool"
+    },
+    {
+      "phrase": "pool setting",
+      "tag": "pool"
+    },
+    {
+      "phrase": "in poolside",
+      "tag": "poolside"
+    },
+    {
+      "phrase": "poolside",
+      "tag": "poolside"
+    },
+    {
+      "phrase": "poolside setting",
+      "tag": "poolside"
+    },
+    {
+      "phrase": "in prison cell",
+      "tag": "prison_cell"
+    },
+    {
+      "phrase": "prison cell",
+      "tag": "prison_cell"
+    },
+    {
+      "phrase": "prison cell setting",
+      "tag": "prison_cell"
+    },
+    {
+      "phrase": "in public restroom",
+      "tag": "public_restroom"
+    },
+    {
+      "phrase": "public restroom",
+      "tag": "public_restroom"
+    },
+    {
+      "phrase": "public restroom setting",
+      "tag": "public_restroom"
+    },
+    {
+      "phrase": "in pyramid",
+      "tag": "pyramid_(structure)"
+    },
+    {
+      "phrase": "pyramid",
+      "tag": "pyramid_(structure)"
+    },
+    {
+      "phrase": "pyramid setting",
+      "tag": "pyramid_(structure)"
+    },
+    {
+      "phrase": "pyramid structure",
+      "tag": "pyramid_(structure)"
+    },
+    {
+      "phrase": "in queue",
+      "tag": "queue"
+    },
+    {
+      "phrase": "queue",
+      "tag": "queue"
+    },
+    {
+      "phrase": "queue setting",
+      "tag": "queue"
+    },
+    {
+      "phrase": "in quinzhee",
+      "tag": "quinzhee"
+    },
+    {
+      "phrase": "quinzhee",
+      "tag": "quinzhee"
+    },
+    {
+      "phrase": "quinzhee setting",
+      "tag": "quinzhee"
+    },
+    {
+      "phrase": "in racetrack",
+      "tag": "racetrack"
+    },
+    {
+      "phrase": "racetrack",
+      "tag": "racetrack"
+    },
+    {
+      "phrase": "racetrack setting",
+      "tag": "racetrack"
+    },
+    {
+      "phrase": "in railroad tracks",
+      "tag": "railroad_tracks"
+    },
+    {
+      "phrase": "railroad tracks",
+      "tag": "railroad_tracks"
+    },
+    {
+      "phrase": "railroad tracks setting",
+      "tag": "railroad_tracks"
+    },
+    {
+      "phrase": "in raimon",
+      "tag": "raimon"
+    },
+    {
+      "phrase": "raimon",
+      "tag": "raimon"
+    },
+    {
+      "phrase": "raimon setting",
+      "tag": "raimon"
+    },
+    {
+      "phrase": "in recording studio",
+      "tag": "recording_studio"
+    },
+    {
+      "phrase": "recording studio",
+      "tag": "recording_studio"
+    },
+    {
+      "phrase": "recording studio setting",
+      "tag": "recording_studio"
+    },
+    {
+      "phrase": "in refrigerator interior",
+      "tag": "refrigerator_interior"
+    },
+    {
+      "phrase": "refrigerator interior",
+      "tag": "refrigerator_interior"
+    },
+    {
+      "phrase": "refrigerator interior setting",
+      "tag": "refrigerator_interior"
+    },
+    {
+      "phrase": "in restaurant",
+      "tag": "restaurant"
+    },
+    {
+      "phrase": "restaurant",
+      "tag": "restaurant"
+    },
+    {
+      "phrase": "restaurant setting",
+      "tag": "restaurant"
+    },
+    {
+      "phrase": "in rice paddy",
+      "tag": "rice_paddy"
+    },
+    {
+      "phrase": "rice paddy",
+      "tag": "rice_paddy"
+    },
+    {
+      "phrase": "rice paddy setting",
+      "tag": "rice_paddy"
+    },
+    {
+      "phrase": "in riverbank",
+      "tag": "riverbank"
+    },
+    {
+      "phrase": "riverbank",
+      "tag": "riverbank"
+    },
+    {
+      "phrase": "riverbank setting",
+      "tag": "riverbank"
+    },
+    {
+      "phrase": "in road",
+      "tag": "road"
+    },
+    {
+      "phrase": "road",
+      "tag": "road"
+    },
+    {
+      "phrase": "road setting",
+      "tag": "road"
+    },
+    {
+      "phrase": "in running track",
+      "tag": "running_track"
+    },
+    {
+      "phrase": "running track",
+      "tag": "running_track"
+    },
+    {
+      "phrase": "running track setting",
+      "tag": "running_track"
+    },
+    {
+      "phrase": "in runway",
+      "tag": "runway"
+    },
+    {
+      "phrase": "runway",
+      "tag": "runway"
+    },
+    {
+      "phrase": "runway setting",
+      "tag": "runway"
+    },
+    {
+      "phrase": "in sanzu river",
+      "tag": "sanzu_river"
+    },
+    {
+      "phrase": "sanzu river",
+      "tag": "sanzu_river"
+    },
+    {
+      "phrase": "sanzu river setting",
+      "tag": "sanzu_river"
+    },
+    {
+      "phrase": "in savannah",
+      "tag": "savannah"
+    },
+    {
+      "phrase": "savannah",
+      "tag": "savannah"
+    },
+    {
+      "phrase": "savannah setting",
+      "tag": "savannah"
+    },
+    {
+      "phrase": "in scarlet devil mansion",
+      "tag": "scarlet_devil_mansion"
+    },
+    {
+      "phrase": "scarlet devil mansion",
+      "tag": "scarlet_devil_mansion"
+    },
+    {
+      "phrase": "scarlet devil mansion setting",
+      "tag": "scarlet_devil_mansion"
+    },
+    {
+      "phrase": "in school",
+      "tag": "school"
+    },
+    {
+      "phrase": "school",
+      "tag": "school"
+    },
+    {
+      "phrase": "school setting",
+      "tag": "school"
+    },
+    {
+      "phrase": "in school festival",
+      "tag": "school_festival"
+    },
+    {
+      "phrase": "school festival",
+      "tag": "school_festival"
+    },
+    {
+      "phrase": "school festival setting",
+      "tag": "school_festival"
+    },
+    {
+      "phrase": "in school gateway",
+      "tag": "school_gateway"
+    },
+    {
+      "phrase": "school gateway",
+      "tag": "school_gateway"
+    },
+    {
+      "phrase": "school gateway setting",
+      "tag": "school_gateway"
+    },
+    {
+      "phrase": "in school of fish",
+      "tag": "school_of_fish"
+    },
+    {
+      "phrase": "school of fish",
+      "tag": "school_of_fish"
+    },
+    {
+      "phrase": "school of fish setting",
+      "tag": "school_of_fish"
+    },
+    {
+      "phrase": "in school yard",
+      "tag": "school_yard"
+    },
+    {
+      "phrase": "school yard",
+      "tag": "school_yard"
+    },
+    {
+      "phrase": "school yard setting",
+      "tag": "school_yard"
+    },
+    {
+      "phrase": "in seafloor",
+      "tag": "seafloor"
+    },
+    {
+      "phrase": "seafloor",
+      "tag": "seafloor"
+    },
+    {
+      "phrase": "seafloor setting",
+      "tag": "seafloor"
+    },
+    {
+      "phrase": "in sewer",
+      "tag": "sewer"
+    },
+    {
+      "phrase": "sewer",
+      "tag": "sewer"
+    },
+    {
+      "phrase": "sewer setting",
+      "tag": "sewer"
+    },
+    {
+      "phrase": "in shed",
+      "tag": "shed"
+    },
+    {
+      "phrase": "shed",
+      "tag": "shed"
+    },
+    {
+      "phrase": "shed setting",
+      "tag": "shed"
+    },
+    {
+      "phrase": "in shibuya",
+      "tag": "shibuya_(tokyo)"
+    },
+    {
+      "phrase": "shibuya",
+      "tag": "shibuya_(tokyo)"
+    },
+    {
+      "phrase": "shibuya setting",
+      "tag": "shibuya_(tokyo)"
+    },
+    {
+      "phrase": "shibuya tokyo",
+      "tag": "shibuya_(tokyo)"
+    },
+    {
+      "phrase": "in shibuya station",
+      "tag": "shibuya_station"
+    },
+    {
+      "phrase": "shibuya station",
+      "tag": "shibuya_station"
+    },
+    {
+      "phrase": "shibuya station setting",
+      "tag": "shibuya_station"
+    },
+    {
+      "phrase": "in shinjuku",
+      "tag": "shinjuku_(tokyo)"
+    },
+    {
+      "phrase": "shinjuku",
+      "tag": "shinjuku_(tokyo)"
+    },
+    {
+      "phrase": "shinjuku setting",
+      "tag": "shinjuku_(tokyo)"
+    },
+    {
+      "phrase": "shinjuku tokyo",
+      "tag": "shinjuku_(tokyo)"
+    },
+    {
+      "phrase": "in ship deck",
+      "tag": "ship_deck"
+    },
+    {
+      "phrase": "ship deck",
+      "tag": "ship_deck"
+    },
+    {
+      "phrase": "ship deck setting",
+      "tag": "ship_deck"
+    },
+    {
+      "phrase": "in ship interior",
+      "tag": "ship_interior"
+    },
+    {
+      "phrase": "ship interior",
+      "tag": "ship_interior"
+    },
+    {
+      "phrase": "ship interior setting",
+      "tag": "ship_interior"
+    },
+    {
+      "phrase": "in shipwreck",
+      "tag": "shipwreck"
+    },
+    {
+      "phrase": "shipwreck",
+      "tag": "shipwreck"
+    },
+    {
+      "phrase": "shipwreck setting",
+      "tag": "shipwreck"
+    },
+    {
+      "phrase": "in shop",
+      "tag": "shop"
+    },
+    {
+      "phrase": "shop",
+      "tag": "shop"
+    },
+    {
+      "phrase": "shop setting",
+      "tag": "shop"
+    },
+    {
+      "phrase": "in shore",
+      "tag": "shore"
+    },
+    {
+      "phrase": "shore",
+      "tag": "shore"
+    },
+    {
+      "phrase": "shore setting",
+      "tag": "shore"
+    },
+    {
+      "phrase": "in shouji",
+      "tag": "shouji"
+    },
+    {
+      "phrase": "shouji",
+      "tag": "shouji"
+    },
+    {
+      "phrase": "shouji setting",
+      "tag": "shouji"
+    },
+    {
+      "phrase": "in shower",
+      "tag": "shower_(place)"
+    },
+    {
+      "phrase": "shower",
+      "tag": "shower_(place)"
+    },
+    {
+      "phrase": "shower place",
+      "tag": "shower_(place)"
+    },
+    {
+      "phrase": "shower setting",
+      "tag": "shower_(place)"
+    },
+    {
+      "phrase": "in sidewalk",
+      "tag": "sidewalk"
+    },
+    {
+      "phrase": "sidewalk",
+      "tag": "sidewalk"
+    },
+    {
+      "phrase": "sidewalk setting",
+      "tag": "sidewalk"
+    },
+    {
+      "phrase": "in skate park",
+      "tag": "skate_park"
+    },
+    {
+      "phrase": "skate park",
+      "tag": "skate_park"
+    },
+    {
+      "phrase": "skate park setting",
+      "tag": "skate_park"
+    },
+    {
+      "phrase": "in skating ring",
+      "tag": "skating_ring"
+    },
+    {
+      "phrase": "skating ring",
+      "tag": "skating_ring"
+    },
+    {
+      "phrase": "skating ring setting",
+      "tag": "skating_ring"
+    },
+    {
+      "phrase": "in sleepover",
+      "tag": "sleepover"
+    },
+    {
+      "phrase": "sleepover",
+      "tag": "sleepover"
+    },
+    {
+      "phrase": "sleepover setting",
+      "tag": "sleepover"
+    },
+    {
+      "phrase": "in sliding doors",
+      "tag": "sliding_doors"
+    },
+    {
+      "phrase": "sliding doors",
+      "tag": "sliding_doors"
+    },
+    {
+      "phrase": "sliding doors setting",
+      "tag": "sliding_doors"
+    },
+    {
+      "phrase": "in snow shelter",
+      "tag": "snow_shelter"
+    },
+    {
+      "phrase": "snow shelter",
+      "tag": "snow_shelter"
+    },
+    {
+      "phrase": "snow shelter setting",
+      "tag": "snow_shelter"
+    },
+    {
+      "phrase": "in snowscape",
+      "tag": "snowscape"
+    },
+    {
+      "phrase": "snowscape",
+      "tag": "snowscape"
+    },
+    {
+      "phrase": "snowscape setting",
+      "tag": "snowscape"
+    },
+    {
+      "phrase": "in soapland",
+      "tag": "soapland"
+    },
+    {
+      "phrase": "soapland",
+      "tag": "soapland"
+    },
+    {
+      "phrase": "soapland setting",
+      "tag": "soapland"
+    },
+    {
+      "phrase": "in spacecraft interior",
+      "tag": "spacecraft_interior"
+    },
+    {
+      "phrase": "spacecraft interior",
+      "tag": "spacecraft_interior"
+    },
+    {
+      "phrase": "spacecraft interior setting",
+      "tag": "spacecraft_interior"
+    },
+    {
+      "phrase": "in sparkle background",
+      "tag": "sparkle_background"
+    },
+    {
+      "phrase": "sparkle background",
+      "tag": "sparkle_background"
+    },
+    {
+      "phrase": "sparkle background setting",
+      "tag": "sparkle_background"
+    },
+    {
+      "phrase": "in staff room",
+      "tag": "staff_room"
+    },
+    {
+      "phrase": "staff room",
+      "tag": "staff_room"
+    },
+    {
+      "phrase": "staff room setting",
+      "tag": "staff_room"
+    },
+    {
+      "phrase": "in stage",
+      "tag": "stage"
+    },
+    {
+      "phrase": "stage",
+      "tag": "stage"
+    },
+    {
+      "phrase": "stage setting",
+      "tag": "stage"
+    },
+    {
+      "phrase": "in stage of magic",
+      "tag": "stage_of_magic_(idolmaster)"
+    },
+    {
+      "phrase": "stage of magic",
+      "tag": "stage_of_magic_(idolmaster)"
+    },
+    {
+      "phrase": "stage of magic idolmaster",
+      "tag": "stage_of_magic_(idolmaster)"
+    },
+    {
+      "phrase": "stage of magic setting",
+      "tag": "stage_of_magic_(idolmaster)"
+    },
+    {
+      "phrase": "in stairwell",
+      "tag": "stairwell"
+    },
+    {
+      "phrase": "stairwell",
+      "tag": "stairwell"
+    },
+    {
+      "phrase": "stairwell setting",
+      "tag": "stairwell"
+    },
+    {
+      "phrase": "in storage room",
+      "tag": "storage_room"
+    },
+    {
+      "phrase": "storage room",
+      "tag": "storage_room"
+    },
+    {
+      "phrase": "storage room setting",
+      "tag": "storage_room"
+    },
+    {
+      "phrase": "in storefront",
+      "tag": "storefront"
+    },
+    {
+      "phrase": "storefront",
+      "tag": "storefront"
+    },
+    {
+      "phrase": "storefront setting",
+      "tag": "storefront"
+    },
+    {
+      "phrase": "in street",
+      "tag": "street"
+    },
+    {
+      "phrase": "street",
+      "tag": "street"
+    },
+    {
+      "phrase": "street setting",
+      "tag": "street"
+    },
+    {
+      "phrase": "in street gutter",
+      "tag": "street_gutter"
+    },
+    {
+      "phrase": "street gutter",
+      "tag": "street_gutter"
+    },
+    {
+      "phrase": "street gutter setting",
+      "tag": "street_gutter"
+    },
+    {
+      "phrase": "in studio",
+      "tag": "studio"
+    },
+    {
+      "phrase": "studio",
+      "tag": "studio"
+    },
+    {
+      "phrase": "studio setting",
+      "tag": "studio"
+    },
+    {
+      "phrase": "in submerged",
+      "tag": "submerged"
+    },
+    {
+      "phrase": "submerged",
+      "tag": "submerged"
+    },
+    {
+      "phrase": "submerged setting",
+      "tag": "submerged"
+    },
+    {
+      "phrase": "in subway",
+      "tag": "subway"
+    },
+    {
+      "phrase": "subway",
+      "tag": "subway"
+    },
+    {
+      "phrase": "subway setting",
+      "tag": "subway"
+    },
+    {
+      "phrase": "in subway station",
+      "tag": "subway_station"
+    },
+    {
+      "phrase": "subway station",
+      "tag": "subway_station"
+    },
+    {
+      "phrase": "subway station setting",
+      "tag": "subway_station"
+    },
+    {
+      "phrase": "in sumeru city",
+      "tag": "sumeru_city"
+    },
+    {
+      "phrase": "sumeru city",
+      "tag": "sumeru_city"
+    },
+    {
+      "phrase": "sumeru city setting",
+      "tag": "sumeru_city"
+    },
+    {
+      "phrase": "in supermarket",
+      "tag": "supermarket"
+    },
+    {
+      "phrase": "supermarket",
+      "tag": "supermarket"
+    },
+    {
+      "phrase": "supermarket setting",
+      "tag": "supermarket"
+    },
+    {
+      "phrase": "in tank interior",
+      "tag": "tank_interior"
+    },
+    {
+      "phrase": "tank interior",
+      "tag": "tank_interior"
+    },
+    {
+      "phrase": "tank interior setting",
+      "tag": "tank_interior"
+    },
+    {
+      "phrase": "in tatami",
+      "tag": "tatami"
+    },
+    {
+      "phrase": "tatami",
+      "tag": "tatami"
+    },
+    {
+      "phrase": "tatami setting",
+      "tag": "tatami"
+    },
+    {
+      "phrase": "in tavern",
+      "tag": "tavern"
+    },
+    {
+      "phrase": "tavern",
+      "tag": "tavern"
+    },
+    {
+      "phrase": "tavern setting",
+      "tag": "tavern"
+    },
+    {
+      "phrase": "in tea party",
+      "tag": "tea_party"
+    },
+    {
+      "phrase": "tea party",
+      "tag": "tea_party"
+    },
+    {
+      "phrase": "tea party setting",
+      "tag": "tea_party"
+    },
+    {
+      "phrase": "in tennis court",
+      "tag": "tennis_court"
+    },
+    {
+      "phrase": "tennis court",
+      "tag": "tennis_court"
+    },
+    {
+      "phrase": "tennis court setting",
+      "tag": "tennis_court"
+    },
+    {
+      "phrase": "in tent interior",
+      "tag": "tent_interior"
+    },
+    {
+      "phrase": "tent interior",
+      "tag": "tent_interior"
+    },
+    {
+      "phrase": "tent interior setting",
+      "tag": "tent_interior"
+    },
+    {
+      "phrase": "in tentacle pit",
+      "tag": "tentacle_pit"
+    },
+    {
+      "phrase": "tentacle pit",
+      "tag": "tentacle_pit"
+    },
+    {
+      "phrase": "tentacle pit setting",
+      "tag": "tentacle_pit"
+    },
+    {
+      "phrase": "in third wheel",
+      "tag": "third_wheel"
+    },
+    {
+      "phrase": "third wheel",
+      "tag": "third_wheel"
+    },
+    {
+      "phrase": "third wheel setting",
+      "tag": "third_wheel"
+    },
+    {
+      "phrase": "in throne room",
+      "tag": "throne_room"
+    },
+    {
+      "phrase": "throne room",
+      "tag": "throne_room"
+    },
+    {
+      "phrase": "throne room setting",
+      "tag": "throne_room"
+    },
+    {
+      "phrase": "in toilet",
+      "tag": "toilet"
+    },
+    {
+      "phrase": "toilet",
+      "tag": "toilet"
+    },
+    {
+      "phrase": "toilet setting",
+      "tag": "toilet"
+    },
+    {
+      "phrase": "in toilet stall",
+      "tag": "toilet_stall"
+    },
+    {
+      "phrase": "toilet stall",
+      "tag": "toilet_stall"
+    },
+    {
+      "phrase": "toilet stall setting",
+      "tag": "toilet_stall"
+    },
+    {
+      "phrase": "in tokyo",
+      "tag": "tokyo_(city)"
+    },
+    {
+      "phrase": "tokyo",
+      "tag": "tokyo_(city)"
+    },
+    {
+      "phrase": "tokyo city",
+      "tag": "tokyo_(city)"
+    },
+    {
+      "phrase": "tokyo setting",
+      "tag": "tokyo_(city)"
+    },
+    {
+      "phrase": "in tokyo big sight",
+      "tag": "tokyo_big_sight"
+    },
+    {
+      "phrase": "tokyo big sight",
+      "tag": "tokyo_big_sight"
+    },
+    {
+      "phrase": "tokyo big sight setting",
+      "tag": "tokyo_big_sight"
+    },
+    {
+      "phrase": "in tokyo city hall",
+      "tag": "tokyo_city_hall"
+    },
+    {
+      "phrase": "tokyo city hall",
+      "tag": "tokyo_city_hall"
+    },
+    {
+      "phrase": "tokyo city hall setting",
+      "tag": "tokyo_city_hall"
+    },
+    {
+      "phrase": "in tokyo skytree",
+      "tag": "tokyo_skytree"
+    },
+    {
+      "phrase": "tokyo skytree",
+      "tag": "tokyo_skytree"
+    },
+    {
+      "phrase": "tokyo skytree setting",
+      "tag": "tokyo_skytree"
+    },
+    {
+      "phrase": "in tokyo station",
+      "tag": "tokyo_station"
+    },
+    {
+      "phrase": "tokyo station",
+      "tag": "tokyo_station"
+    },
+    {
+      "phrase": "tokyo station setting",
+      "tag": "tokyo_station"
+    },
+    {
+      "phrase": "in tokyo tower",
+      "tag": "tokyo_tower"
+    },
+    {
+      "phrase": "tokyo tower",
+      "tag": "tokyo_tower"
+    },
+    {
+      "phrase": "tokyo tower setting",
+      "tag": "tokyo_tower"
+    },
+    {
+      "phrase": "in torii",
+      "tag": "torii"
+    },
+    {
+      "phrase": "torii",
+      "tag": "torii"
+    },
+    {
+      "phrase": "torii setting",
+      "tag": "torii"
+    },
+    {
+      "phrase": "in tower",
+      "tag": "tower"
+    },
+    {
+      "phrase": "tower",
+      "tag": "tower"
+    },
+    {
+      "phrase": "tower setting",
+      "tag": "tower"
+    },
+    {
+      "phrase": "in town",
+      "tag": "town"
+    },
+    {
+      "phrase": "town",
+      "tag": "town"
+    },
+    {
+      "phrase": "town setting",
+      "tag": "town"
+    },
+    {
+      "phrase": "in track and field",
+      "tag": "track_and_field"
+    },
+    {
+      "phrase": "track and field",
+      "tag": "track_and_field"
+    },
+    {
+      "phrase": "track and field setting",
+      "tag": "track_and_field"
+    },
+    {
+      "phrase": "in train interior",
+      "tag": "train_interior"
+    },
+    {
+      "phrase": "train interior",
+      "tag": "train_interior"
+    },
+    {
+      "phrase": "train interior setting",
+      "tag": "train_interior"
+    },
+    {
+      "phrase": "in train station",
+      "tag": "train_station"
+    },
+    {
+      "phrase": "train station",
+      "tag": "train_station"
+    },
+    {
+      "phrase": "train station setting",
+      "tag": "train_station"
+    },
+    {
+      "phrase": "in train station platform",
+      "tag": "train_station_platform"
+    },
+    {
+      "phrase": "train station platform",
+      "tag": "train_station_platform"
+    },
+    {
+      "phrase": "train station platform setting",
+      "tag": "train_station_platform"
+    },
+    {
+      "phrase": "in training room",
+      "tag": "training_room"
+    },
+    {
+      "phrase": "training room",
+      "tag": "training_room"
+    },
+    {
+      "phrase": "training room setting",
+      "tag": "training_room"
+    },
+    {
+      "phrase": "in tree hollow",
+      "tag": "tree_hollow"
+    },
+    {
+      "phrase": "tree hollow",
+      "tag": "tree_hollow"
+    },
+    {
+      "phrase": "tree hollow setting",
+      "tag": "tree_hollow"
+    },
+    {
+      "phrase": "in trench",
+      "tag": "trench"
+    },
+    {
+      "phrase": "trench",
+      "tag": "trench"
+    },
+    {
+      "phrase": "trench setting",
+      "tag": "trench"
+    },
+    {
+      "phrase": "in under bed",
+      "tag": "under_bed"
+    },
+    {
+      "phrase": "under bed",
+      "tag": "under_bed"
+    },
+    {
+      "phrase": "under bed setting",
+      "tag": "under_bed"
+    },
+    {
+      "phrase": "in under kotatsu",
+      "tag": "under_kotatsu"
+    },
+    {
+      "phrase": "under kotatsu",
+      "tag": "under_kotatsu"
+    },
+    {
+      "phrase": "under kotatsu setting",
+      "tag": "under_kotatsu"
+    },
+    {
+      "phrase": "in underground",
+      "tag": "underground"
+    },
+    {
+      "phrase": "underground",
+      "tag": "underground"
+    },
+    {
+      "phrase": "underground setting",
+      "tag": "underground"
+    },
+    {
+      "phrase": "in underwater city",
+      "tag": "underwater_city"
+    },
+    {
+      "phrase": "underwater city",
+      "tag": "underwater_city"
+    },
+    {
+      "phrase": "underwater city setting",
+      "tag": "underwater_city"
+    },
+    {
+      "phrase": "in valley",
+      "tag": "valley"
+    },
+    {
+      "phrase": "valley",
+      "tag": "valley"
+    },
+    {
+      "phrase": "valley setting",
+      "tag": "valley"
+    },
+    {
+      "phrase": "in vehicle interior",
+      "tag": "vehicle_interior"
+    },
+    {
+      "phrase": "vehicle interior",
+      "tag": "vehicle_interior"
+    },
+    {
+      "phrase": "vehicle interior setting",
+      "tag": "vehicle_interior"
+    },
+    {
+      "phrase": "in velvet room",
+      "tag": "velvet_room"
+    },
+    {
+      "phrase": "velvet room",
+      "tag": "velvet_room"
+    },
+    {
+      "phrase": "velvet room setting",
+      "tag": "velvet_room"
+    },
+    {
+      "phrase": "in venice",
+      "tag": "venice"
+    },
+    {
+      "phrase": "venice",
+      "tag": "venice"
+    },
+    {
+      "phrase": "venice setting",
+      "tag": "venice"
+    },
+    {
+      "phrase": "in veranda",
+      "tag": "veranda"
+    },
+    {
+      "phrase": "veranda",
+      "tag": "veranda"
+    },
+    {
+      "phrase": "veranda setting",
+      "tag": "veranda"
+    },
+    {
+      "phrase": "in volcano",
+      "tag": "volcano"
+    },
+    {
+      "phrase": "volcano",
+      "tag": "volcano"
+    },
+    {
+      "phrase": "volcano setting",
+      "tag": "volcano"
+    },
+    {
+      "phrase": "in wading pool",
+      "tag": "wading_pool"
+    },
+    {
+      "phrase": "wading pool",
+      "tag": "wading_pool"
+    },
+    {
+      "phrase": "wading pool setting",
+      "tag": "wading_pool"
+    },
+    {
+      "phrase": "in waterpark",
+      "tag": "waterpark"
+    },
+    {
+      "phrase": "waterpark",
+      "tag": "waterpark"
+    },
+    {
+      "phrase": "waterpark setting",
+      "tag": "waterpark"
+    },
+    {
+      "phrase": "in wetland",
+      "tag": "wetland"
+    },
+    {
+      "phrase": "wetland",
+      "tag": "wetland"
+    },
+    {
+      "phrase": "wetland setting",
+      "tag": "wetland"
+    },
+    {
+      "phrase": "in winner's platform",
+      "tag": "winner's_platform"
+    },
+    {
+      "phrase": "winner's platform",
+      "tag": "winner's_platform"
+    },
+    {
+      "phrase": "winner's platform setting",
+      "tag": "winner's_platform"
+    },
+    {
+      "phrase": "in witch's labyrinth",
+      "tag": "witch's_labyrinth"
+    },
+    {
+      "phrase": "witch's labyrinth",
+      "tag": "witch's_labyrinth"
+    },
+    {
+      "phrase": "witch's labyrinth setting",
+      "tag": "witch's_labyrinth"
+    },
+    {
+      "phrase": "in wonderful magic",
+      "tag": "wonderful_magic_(idolmaster)"
+    },
+    {
+      "phrase": "wonderful magic",
+      "tag": "wonderful_magic_(idolmaster)"
+    },
+    {
+      "phrase": "wonderful magic idolmaster",
+      "tag": "wonderful_magic_(idolmaster)"
+    },
+    {
+      "phrase": "wonderful magic setting",
+      "tag": "wonderful_magic_(idolmaster)"
+    },
+    {
+      "phrase": "in yatai",
+      "tag": "yatai"
+    },
+    {
+      "phrase": "yatai",
+      "tag": "yatai"
+    },
+    {
+      "phrase": "yatai setting",
+      "tag": "yatai"
+    },
+    {
+      "phrase": "in youkai mountain",
+      "tag": "youkai_mountain"
+    },
+    {
+      "phrase": "youkai mountain",
+      "tag": "youkai_mountain"
+    },
+    {
+      "phrase": "youkai mountain setting",
+      "tag": "youkai_mountain"
+    },
+    {
+      "phrase": "in yuzu bath",
+      "tag": "yuzu_bath"
+    },
+    {
+      "phrase": "yuzu bath",
+      "tag": "yuzu_bath"
+    },
+    {
+      "phrase": "yuzu bath setting",
+      "tag": "yuzu_bath"
+    }
+  ]
+}

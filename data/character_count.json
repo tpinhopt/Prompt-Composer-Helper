@@ -1,0 +1,532 @@
+{
+  "items": [
+    {
+      "phrase": "1 boy",
+      "tag": "1boy"
+    },
+    {
+      "phrase": "1boy",
+      "tag": "1boy"
+    },
+    {
+      "phrase": "one boy",
+      "tag": "1boy"
+    },
+    {
+      "phrase": "single boy",
+      "tag": "1boy"
+    },
+    {
+      "phrase": "with 1boy",
+      "tag": "1boy"
+    },
+    {
+      "phrase": "1 girl",
+      "tag": "1girl"
+    },
+    {
+      "phrase": "1girl",
+      "tag": "1girl"
+    },
+    {
+      "phrase": "one girl",
+      "tag": "1girl"
+    },
+    {
+      "phrase": "single girl",
+      "tag": "1girl"
+    },
+    {
+      "phrase": "with 1girl",
+      "tag": "1girl"
+    },
+    {
+      "phrase": "1other",
+      "tag": "1other"
+    },
+    {
+      "phrase": "showing 1other",
+      "tag": "1other"
+    },
+    {
+      "phrase": "with 1other",
+      "tag": "1other"
+    },
+    {
+      "phrase": "2 boys",
+      "tag": "2boys"
+    },
+    {
+      "phrase": "2boys",
+      "tag": "2boys"
+    },
+    {
+      "phrase": "showing 2boys",
+      "tag": "2boys"
+    },
+    {
+      "phrase": "two boys",
+      "tag": "2boys"
+    },
+    {
+      "phrase": "with 2boys",
+      "tag": "2boys"
+    },
+    {
+      "phrase": "2 girls",
+      "tag": "2girls"
+    },
+    {
+      "phrase": "2girls",
+      "tag": "2girls"
+    },
+    {
+      "phrase": "showing 2girls",
+      "tag": "2girls"
+    },
+    {
+      "phrase": "two girls",
+      "tag": "2girls"
+    },
+    {
+      "phrase": "with 2girls",
+      "tag": "2girls"
+    },
+    {
+      "phrase": "2others",
+      "tag": "2others"
+    },
+    {
+      "phrase": "showing 2others",
+      "tag": "2others"
+    },
+    {
+      "phrase": "with 2others",
+      "tag": "2others"
+    },
+    {
+      "phrase": "3 boys",
+      "tag": "3boys"
+    },
+    {
+      "phrase": "3boys",
+      "tag": "3boys"
+    },
+    {
+      "phrase": "showing 3boys",
+      "tag": "3boys"
+    },
+    {
+      "phrase": "three boys",
+      "tag": "3boys"
+    },
+    {
+      "phrase": "with 3boys",
+      "tag": "3boys"
+    },
+    {
+      "phrase": "3 girls",
+      "tag": "3girls"
+    },
+    {
+      "phrase": "3girls",
+      "tag": "3girls"
+    },
+    {
+      "phrase": "showing 3girls",
+      "tag": "3girls"
+    },
+    {
+      "phrase": "three girls",
+      "tag": "3girls"
+    },
+    {
+      "phrase": "with 3girls",
+      "tag": "3girls"
+    },
+    {
+      "phrase": "3others",
+      "tag": "3others"
+    },
+    {
+      "phrase": "showing 3others",
+      "tag": "3others"
+    },
+    {
+      "phrase": "with 3others",
+      "tag": "3others"
+    },
+    {
+      "phrase": "4 boys",
+      "tag": "4boys"
+    },
+    {
+      "phrase": "4boys",
+      "tag": "4boys"
+    },
+    {
+      "phrase": "four boys",
+      "tag": "4boys"
+    },
+    {
+      "phrase": "showing 4boys",
+      "tag": "4boys"
+    },
+    {
+      "phrase": "with 4boys",
+      "tag": "4boys"
+    },
+    {
+      "phrase": "4 girls",
+      "tag": "4girls"
+    },
+    {
+      "phrase": "4girls",
+      "tag": "4girls"
+    },
+    {
+      "phrase": "four girls",
+      "tag": "4girls"
+    },
+    {
+      "phrase": "showing 4girls",
+      "tag": "4girls"
+    },
+    {
+      "phrase": "with 4girls",
+      "tag": "4girls"
+    },
+    {
+      "phrase": "4others",
+      "tag": "4others"
+    },
+    {
+      "phrase": "showing 4others",
+      "tag": "4others"
+    },
+    {
+      "phrase": "with 4others",
+      "tag": "4others"
+    },
+    {
+      "phrase": "5 boys",
+      "tag": "5boys"
+    },
+    {
+      "phrase": "5boys",
+      "tag": "5boys"
+    },
+    {
+      "phrase": "five boys",
+      "tag": "5boys"
+    },
+    {
+      "phrase": "showing 5boys",
+      "tag": "5boys"
+    },
+    {
+      "phrase": "with 5boys",
+      "tag": "5boys"
+    },
+    {
+      "phrase": "5 girls",
+      "tag": "5girls"
+    },
+    {
+      "phrase": "5girls",
+      "tag": "5girls"
+    },
+    {
+      "phrase": "five girls",
+      "tag": "5girls"
+    },
+    {
+      "phrase": "showing 5girls",
+      "tag": "5girls"
+    },
+    {
+      "phrase": "with 5girls",
+      "tag": "5girls"
+    },
+    {
+      "phrase": "5others",
+      "tag": "5others"
+    },
+    {
+      "phrase": "showing 5others",
+      "tag": "5others"
+    },
+    {
+      "phrase": "with 5others",
+      "tag": "5others"
+    },
+    {
+      "phrase": "6+boys",
+      "tag": "6+boys"
+    },
+    {
+      "phrase": "showing 6+boys",
+      "tag": "6+boys"
+    },
+    {
+      "phrase": "with 6+boys",
+      "tag": "6+boys"
+    },
+    {
+      "phrase": "6+girls",
+      "tag": "6+girls"
+    },
+    {
+      "phrase": "showing 6+girls",
+      "tag": "6+girls"
+    },
+    {
+      "phrase": "with 6+girls",
+      "tag": "6+girls"
+    },
+    {
+      "phrase": "6+others",
+      "tag": "6+others"
+    },
+    {
+      "phrase": "showing 6+others",
+      "tag": "6+others"
+    },
+    {
+      "phrase": "with 6+others",
+      "tag": "6+others"
+    },
+    {
+      "phrase": "absolutely everyone",
+      "tag": "absolutely_everyone"
+    },
+    {
+      "phrase": "absolutely everyone detail",
+      "tag": "absolutely_everyone"
+    },
+    {
+      "phrase": "with absolutely everyone",
+      "tag": "absolutely_everyone"
+    },
+    {
+      "phrase": "audience",
+      "tag": "audience"
+    },
+    {
+      "phrase": "showing audience",
+      "tag": "audience"
+    },
+    {
+      "phrase": "with audience",
+      "tag": "audience"
+    },
+    {
+      "phrase": "baby",
+      "tag": "baby"
+    },
+    {
+      "phrase": "showing baby",
+      "tag": "baby"
+    },
+    {
+      "phrase": "with baby",
+      "tag": "baby"
+    },
+    {
+      "phrase": "crowd",
+      "tag": "crowd"
+    },
+    {
+      "phrase": "showing crowd",
+      "tag": "crowd"
+    },
+    {
+      "phrase": "with crowd",
+      "tag": "crowd"
+    },
+    {
+      "phrase": "focus on male",
+      "tag": "male_focus"
+    },
+    {
+      "phrase": "focused on male",
+      "tag": "male_focus"
+    },
+    {
+      "phrase": "male focus",
+      "tag": "male_focus"
+    },
+    {
+      "phrase": "male-focused",
+      "tag": "male_focus"
+    },
+    {
+      "phrase": "with male focus",
+      "tag": "male_focus"
+    },
+    {
+      "phrase": "group of boys",
+      "tag": "multiple_boys"
+    },
+    {
+      "phrase": "many boys",
+      "tag": "multiple_boys"
+    },
+    {
+      "phrase": "multiple boys",
+      "tag": "multiple_boys"
+    },
+    {
+      "phrase": "multiple boys detail",
+      "tag": "multiple_boys"
+    },
+    {
+      "phrase": "with multiple boys",
+      "tag": "multiple_boys"
+    },
+    {
+      "phrase": "group of girls",
+      "tag": "multiple_girls"
+    },
+    {
+      "phrase": "many girls",
+      "tag": "multiple_girls"
+    },
+    {
+      "phrase": "multiple girls",
+      "tag": "multiple_girls"
+    },
+    {
+      "phrase": "multiple girls detail",
+      "tag": "multiple_girls"
+    },
+    {
+      "phrase": "with multiple girls",
+      "tag": "multiple_girls"
+    },
+    {
+      "phrase": "multiple others",
+      "tag": "multiple_others"
+    },
+    {
+      "phrase": "multiple others detail",
+      "tag": "multiple_others"
+    },
+    {
+      "phrase": "with multiple others",
+      "tag": "multiple_others"
+    },
+    {
+      "phrase": "no humans",
+      "tag": "no_humans"
+    },
+    {
+      "phrase": "no humans detail",
+      "tag": "no_humans"
+    },
+    {
+      "phrase": "with no humans",
+      "tag": "no_humans"
+    },
+    {
+      "phrase": "other with male",
+      "tag": "other_with_male"
+    },
+    {
+      "phrase": "other with male detail",
+      "tag": "other_with_male"
+    },
+    {
+      "phrase": "with other with male",
+      "tag": "other_with_male"
+    },
+    {
+      "phrase": "people",
+      "tag": "people"
+    },
+    {
+      "phrase": "showing people",
+      "tag": "people"
+    },
+    {
+      "phrase": "with people",
+      "tag": "people"
+    },
+    {
+      "phrase": "quintuplets",
+      "tag": "quintuplets"
+    },
+    {
+      "phrase": "showing quintuplets",
+      "tag": "quintuplets"
+    },
+    {
+      "phrase": "with quintuplets",
+      "tag": "quintuplets"
+    },
+    {
+      "phrase": "sextuplets",
+      "tag": "sextuplets"
+    },
+    {
+      "phrase": "showing sextuplets",
+      "tag": "sextuplets"
+    },
+    {
+      "phrase": "with sextuplets",
+      "tag": "sextuplets"
+    },
+    {
+      "phrase": "alone",
+      "tag": "solo"
+    },
+    {
+      "phrase": "showing solo",
+      "tag": "solo"
+    },
+    {
+      "phrase": "single subject",
+      "tag": "solo"
+    },
+    {
+      "phrase": "solo",
+      "tag": "solo"
+    },
+    {
+      "phrase": "with solo",
+      "tag": "solo"
+    },
+    {
+      "phrase": "focus on solo",
+      "tag": "solo_focus"
+    },
+    {
+      "phrase": "focused on single subject",
+      "tag": "solo_focus"
+    },
+    {
+      "phrase": "focused on solo",
+      "tag": "solo_focus"
+    },
+    {
+      "phrase": "single subject focus",
+      "tag": "solo_focus"
+    },
+    {
+      "phrase": "solo focus",
+      "tag": "solo_focus"
+    },
+    {
+      "phrase": "showing triplets",
+      "tag": "triplets"
+    },
+    {
+      "phrase": "triplets",
+      "tag": "triplets"
+    },
+    {
+      "phrase": "with triplets",
+      "tag": "triplets"
+    }
+  ]
+}

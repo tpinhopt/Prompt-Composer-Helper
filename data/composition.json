@@ -1,0 +1,2420 @@
+{
+  "items": [
+    {
+      "phrase": "3d background",
+      "tag": "3d_background"
+    },
+    {
+      "phrase": "in 3d background position",
+      "tag": "3d_background"
+    },
+    {
+      "phrase": "5koma",
+      "tag": "5koma"
+    },
+    {
+      "phrase": "in 5koma position",
+      "tag": "5koma"
+    },
+    {
+      "phrase": "abstract background",
+      "tag": "abstract_background"
+    },
+    {
+      "phrase": "in abstract background position",
+      "tag": "abstract_background"
+    },
+    {
+      "phrase": "ai-generated background",
+      "tag": "ai-generated_background"
+    },
+    {
+      "phrase": "in ai-generated background position",
+      "tag": "ai-generated_background"
+    },
+    {
+      "phrase": "american flag background",
+      "tag": "american_flag_background"
+    },
+    {
+      "phrase": "in american flag background position",
+      "tag": "american_flag_background"
+    },
+    {
+      "phrase": "animal background",
+      "tag": "animal_background"
+    },
+    {
+      "phrase": "in animal background position",
+      "tag": "animal_background"
+    },
+    {
+      "phrase": "anime screenshot inset",
+      "tag": "anime_screenshot_inset"
+    },
+    {
+      "phrase": "in anime screenshot inset position",
+      "tag": "anime_screenshot_inset"
+    },
+    {
+      "phrase": "aqua background",
+      "tag": "aqua_background"
+    },
+    {
+      "phrase": "in aqua background position",
+      "tag": "aqua_background"
+    },
+    {
+      "phrase": "argyle background",
+      "tag": "argyle_background"
+    },
+    {
+      "phrase": "in argyle background position",
+      "tag": "argyle_background"
+    },
+    {
+      "phrase": "arm out of frame",
+      "tag": "arm_out_of_frame"
+    },
+    {
+      "phrase": "in arm out of frame position",
+      "tag": "arm_out_of_frame"
+    },
+    {
+      "phrase": "armpit focus",
+      "tag": "armpit_focus"
+    },
+    {
+      "phrase": "armpit focus pose",
+      "tag": "armpit_focus"
+    },
+    {
+      "phrase": "armpit focus position",
+      "tag": "armpit_focus"
+    },
+    {
+      "phrase": "focus on armpit",
+      "tag": "armpit_focus"
+    },
+    {
+      "phrase": "focused on armpit",
+      "tag": "armpit_focus"
+    },
+    {
+      "phrase": "arrow background",
+      "tag": "arrow_background"
+    },
+    {
+      "phrase": "in arrow background position",
+      "tag": "arrow_background"
+    },
+    {
+      "phrase": "art tools in frame",
+      "tag": "art_tools_in_frame"
+    },
+    {
+      "phrase": "in art tools in frame position",
+      "tag": "art_tools_in_frame"
+    },
+    {
+      "phrase": "bat background",
+      "tag": "bat_background"
+    },
+    {
+      "phrase": "in bat background position",
+      "tag": "bat_background"
+    },
+    {
+      "phrase": "behind another",
+      "tag": "behind_another"
+    },
+    {
+      "phrase": "in behind another position",
+      "tag": "behind_another"
+    },
+    {
+      "phrase": "behind tree",
+      "tag": "behind_tree"
+    },
+    {
+      "phrase": "in behind tree position",
+      "tag": "behind_tree"
+    },
+    {
+      "phrase": "bell print",
+      "tag": "bell_print"
+    },
+    {
+      "phrase": "in bell print position",
+      "tag": "bell_print"
+    },
+    {
+      "phrase": "between fingers",
+      "tag": "between_fingers"
+    },
+    {
+      "phrase": "in between fingers position",
+      "tag": "between_fingers"
+    },
+    {
+      "phrase": "black background",
+      "tag": "black_background"
+    },
+    {
+      "phrase": "in black background position",
+      "tag": "black_background"
+    },
+    {
+      "phrase": "black vs white",
+      "tag": "black_vs_white"
+    },
+    {
+      "phrase": "in black vs white position",
+      "tag": "black_vs_white"
+    },
+    {
+      "phrase": "bloody handprints",
+      "tag": "bloody_handprints"
+    },
+    {
+      "phrase": "in bloody handprints position",
+      "tag": "bloody_handprints"
+    },
+    {
+      "phrase": "blue background",
+      "tag": "blue_background"
+    },
+    {
+      "phrase": "in blue background position",
+      "tag": "blue_background"
+    },
+    {
+      "phrase": "blueprint background",
+      "tag": "blueprint_background"
+    },
+    {
+      "phrase": "in blueprint background position",
+      "tag": "blueprint_background"
+    },
+    {
+      "phrase": "blush visible through hair",
+      "tag": "blush_visible_through_hair"
+    },
+    {
+      "phrase": "in blush visible through hair position",
+      "tag": "blush_visible_through_hair"
+    },
+    {
+      "phrase": "borrowed inset",
+      "tag": "borrowed_inset"
+    },
+    {
+      "phrase": "in borrowed inset position",
+      "tag": "borrowed_inset"
+    },
+    {
+      "phrase": "bow background",
+      "tag": "bow_background"
+    },
+    {
+      "phrase": "in bow background position",
+      "tag": "bow_background"
+    },
+    {
+      "phrase": "bright background",
+      "tag": "bright_background"
+    },
+    {
+      "phrase": "in bright background position",
+      "tag": "bright_background"
+    },
+    {
+      "phrase": "brown background",
+      "tag": "brown_background"
+    },
+    {
+      "phrase": "in brown background position",
+      "tag": "brown_background"
+    },
+    {
+      "phrase": "butterfly background",
+      "tag": "butterfly_background"
+    },
+    {
+      "phrase": "in butterfly background position",
+      "tag": "butterfly_background"
+    },
+    {
+      "phrase": "camouflage background",
+      "tag": "camouflage_background"
+    },
+    {
+      "phrase": "in camouflage background position",
+      "tag": "camouflage_background"
+    },
+    {
+      "phrase": "card background",
+      "tag": "card_background"
+    },
+    {
+      "phrase": "in card background position",
+      "tag": "card_background"
+    },
+    {
+      "phrase": "carried breast rest",
+      "tag": "carried_breast_rest"
+    },
+    {
+      "phrase": "in carried breast rest position",
+      "tag": "carried_breast_rest"
+    },
+    {
+      "phrase": "carrot background",
+      "tag": "carrot_background"
+    },
+    {
+      "phrase": "in carrot background position",
+      "tag": "carrot_background"
+    },
+    {
+      "phrase": "carrot in pocket",
+      "tag": "carrot_in_pocket"
+    },
+    {
+      "phrase": "in carrot in pocket position",
+      "tag": "carrot_in_pocket"
+    },
+    {
+      "phrase": "chain print",
+      "tag": "chain_print"
+    },
+    {
+      "phrase": "in chain print position",
+      "tag": "chain_print"
+    },
+    {
+      "phrase": "checkered background",
+      "tag": "checkered_background"
+    },
+    {
+      "phrase": "in checkered background position",
+      "tag": "checkered_background"
+    },
+    {
+      "phrase": "cherry background",
+      "tag": "cherry_background"
+    },
+    {
+      "phrase": "in cherry background position",
+      "tag": "cherry_background"
+    },
+    {
+      "phrase": "cherry blossom background",
+      "tag": "cherry_blossom_background"
+    },
+    {
+      "phrase": "in cherry blossom background position",
+      "tag": "cherry_blossom_background"
+    },
+    {
+      "phrase": "chibi inset",
+      "tag": "chibi_inset"
+    },
+    {
+      "phrase": "in chibi inset position",
+      "tag": "chibi_inset"
+    },
+    {
+      "phrase": "christmas tree print",
+      "tag": "christmas_tree_print"
+    },
+    {
+      "phrase": "in christmas tree print position",
+      "tag": "christmas_tree_print"
+    },
+    {
+      "phrase": "circle formation",
+      "tag": "circle_formation"
+    },
+    {
+      "phrase": "in circle formation position",
+      "tag": "circle_formation"
+    },
+    {
+      "phrase": "circuit board print",
+      "tag": "circuit_board_print"
+    },
+    {
+      "phrase": "in circuit board print position",
+      "tag": "circuit_board_print"
+    },
+    {
+      "phrase": "city below",
+      "tag": "city_below"
+    },
+    {
+      "phrase": "in city below position",
+      "tag": "city_below"
+    },
+    {
+      "phrase": "claw foot bathtub",
+      "tag": "claw_foot_bathtub"
+    },
+    {
+      "phrase": "in claw foot bathtub position",
+      "tag": "claw_foot_bathtub"
+    },
+    {
+      "phrase": "cloud background",
+      "tag": "cloud_background"
+    },
+    {
+      "phrase": "in cloud background position",
+      "tag": "cloud_background"
+    },
+    {
+      "phrase": "cloud focus",
+      "tag": "cloud_focus"
+    },
+    {
+      "phrase": "cloud focus pose",
+      "tag": "cloud_focus"
+    },
+    {
+      "phrase": "cloud focus position",
+      "tag": "cloud_focus"
+    },
+    {
+      "phrase": "focus on cloud",
+      "tag": "cloud_focus"
+    },
+    {
+      "phrase": "focused on cloud",
+      "tag": "cloud_focus"
+    },
+    {
+      "phrase": "cloud print",
+      "tag": "cloud_print"
+    },
+    {
+      "phrase": "in cloud print position",
+      "tag": "cloud_print"
+    },
+    {
+      "phrase": "clover background",
+      "tag": "clover_background"
+    },
+    {
+      "phrase": "in clover background position",
+      "tag": "clover_background"
+    },
+    {
+      "phrase": "collage",
+      "tag": "collage"
+    },
+    {
+      "phrase": "in collage position",
+      "tag": "collage"
+    },
+    {
+      "phrase": "collage background",
+      "tag": "collage_background"
+    },
+    {
+      "phrase": "in collage background position",
+      "tag": "collage_background"
+    },
+    {
+      "phrase": "color connection",
+      "tag": "color_connection"
+    },
+    {
+      "phrase": "in color connection position",
+      "tag": "color_connection"
+    },
+    {
+      "phrase": "color contrast",
+      "tag": "color_contrast"
+    },
+    {
+      "phrase": "in color contrast position",
+      "tag": "color_contrast"
+    },
+    {
+      "phrase": "colorful background",
+      "tag": "colorful_background"
+    },
+    {
+      "phrase": "in colorful background position",
+      "tag": "colorful_background"
+    },
+    {
+      "phrase": "column lineup",
+      "tag": "column_lineup"
+    },
+    {
+      "phrase": "in column lineup position",
+      "tag": "column_lineup"
+    },
+    {
+      "phrase": "column lineup background",
+      "tag": "column_lineup_background"
+    },
+    {
+      "phrase": "in column lineup background position",
+      "tag": "column_lineup_background"
+    },
+    {
+      "phrase": "condom in pocket",
+      "tag": "condom_in_pocket"
+    },
+    {
+      "phrase": "in condom in pocket position",
+      "tag": "condom_in_pocket"
+    },
+    {
+      "phrase": "contrast",
+      "tag": "contrast"
+    },
+    {
+      "phrase": "in contrast position",
+      "tag": "contrast"
+    },
+    {
+      "phrase": "cracked background",
+      "tag": "cracked_background"
+    },
+    {
+      "phrase": "in cracked background position",
+      "tag": "cracked_background"
+    },
+    {
+      "phrase": "cramped",
+      "tag": "cramped"
+    },
+    {
+      "phrase": "in cramped position",
+      "tag": "cramped"
+    },
+    {
+      "phrase": "cream background",
+      "tag": "cream_background"
+    },
+    {
+      "phrase": "in cream background position",
+      "tag": "cream_background"
+    },
+    {
+      "phrase": "creature on arm",
+      "tag": "creature_on_arm"
+    },
+    {
+      "phrase": "in creature on arm position",
+      "tag": "creature_on_arm"
+    },
+    {
+      "phrase": "creature on hand",
+      "tag": "creature_on_hand"
+    },
+    {
+      "phrase": "in creature on hand position",
+      "tag": "creature_on_hand"
+    },
+    {
+      "phrase": "creature on head",
+      "tag": "creature_on_head"
+    },
+    {
+      "phrase": "in creature on head position",
+      "tag": "creature_on_head"
+    },
+    {
+      "phrase": "creature on lap",
+      "tag": "creature_on_lap"
+    },
+    {
+      "phrase": "in creature on lap position",
+      "tag": "creature_on_lap"
+    },
+    {
+      "phrase": "creature on shoulder",
+      "tag": "creature_on_shoulder"
+    },
+    {
+      "phrase": "in creature on shoulder position",
+      "tag": "creature_on_shoulder"
+    },
+    {
+      "phrase": "cropped head",
+      "tag": "cropped_head"
+    },
+    {
+      "phrase": "in cropped head position",
+      "tag": "cropped_head"
+    },
+    {
+      "phrase": "cropped shoulders",
+      "tag": "cropped_shoulders"
+    },
+    {
+      "phrase": "in cropped shoulders position",
+      "tag": "cropped_shoulders"
+    },
+    {
+      "phrase": "cross background",
+      "tag": "cross_background"
+    },
+    {
+      "phrase": "in cross background position",
+      "tag": "cross_background"
+    },
+    {
+      "phrase": "crossed swords",
+      "tag": "crossed_swords"
+    },
+    {
+      "phrase": "in crossed swords position",
+      "tag": "crossed_swords"
+    },
+    {
+      "phrase": "crotch focus",
+      "tag": "crotch_focus"
+    },
+    {
+      "phrase": "crotch focus pose",
+      "tag": "crotch_focus"
+    },
+    {
+      "phrase": "crotch focus position",
+      "tag": "crotch_focus"
+    },
+    {
+      "phrase": "focus on crotch",
+      "tag": "crotch_focus"
+    },
+    {
+      "phrase": "focused on crotch",
+      "tag": "crotch_focus"
+    },
+    {
+      "phrase": "cut-in",
+      "tag": "cut-in"
+    },
+    {
+      "phrase": "in cut-in position",
+      "tag": "cut-in"
+    },
+    {
+      "phrase": "dark background",
+      "tag": "dark_background"
+    },
+    {
+      "phrase": "in dark background position",
+      "tag": "dark_background"
+    },
+    {
+      "phrase": "diagonal-striped background",
+      "tag": "diagonal-striped_background"
+    },
+    {
+      "phrase": "in diagonal-striped background position",
+      "tag": "diagonal-striped_background"
+    },
+    {
+      "phrase": "different reflection",
+      "tag": "different_reflection"
+    },
+    {
+      "phrase": "in different reflection position",
+      "tag": "different_reflection"
+    },
+    {
+      "phrase": "disembodied penis",
+      "tag": "disembodied_penis"
+    },
+    {
+      "phrase": "in disembodied penis position",
+      "tag": "disembodied_penis"
+    },
+    {
+      "phrase": "dithered background",
+      "tag": "dithered_background"
+    },
+    {
+      "phrase": "in dithered background position",
+      "tag": "dithered_background"
+    },
+    {
+      "phrase": "doodle background",
+      "tag": "doodle_background"
+    },
+    {
+      "phrase": "in doodle background position",
+      "tag": "doodle_background"
+    },
+    {
+      "phrase": "doodle inset",
+      "tag": "doodle_inset"
+    },
+    {
+      "phrase": "in doodle inset position",
+      "tag": "doodle_inset"
+    },
+    {
+      "phrase": "dotted background",
+      "tag": "dotted_background"
+    },
+    {
+      "phrase": "in dotted background position",
+      "tag": "dotted_background"
+    },
+    {
+      "phrase": "dragon on head",
+      "tag": "dragon_on_head"
+    },
+    {
+      "phrase": "in dragon on head position",
+      "tag": "dragon_on_head"
+    },
+    {
+      "phrase": "dragon on shoulder",
+      "tag": "dragon_on_shoulder"
+    },
+    {
+      "phrase": "in dragon on shoulder position",
+      "tag": "dragon_on_shoulder"
+    },
+    {
+      "phrase": "ears visible through hair",
+      "tag": "ears_visible_through_hair"
+    },
+    {
+      "phrase": "in ears visible through hair position",
+      "tag": "ears_visible_through_hair"
+    },
+    {
+      "phrase": "equipment layout",
+      "tag": "equipment_layout"
+    },
+    {
+      "phrase": "in equipment layout position",
+      "tag": "equipment_layout"
+    },
+    {
+      "phrase": "everyone",
+      "tag": "everyone"
+    },
+    {
+      "phrase": "in everyone position",
+      "tag": "everyone"
+    },
+    {
+      "phrase": "explosion background",
+      "tag": "explosion_background"
+    },
+    {
+      "phrase": "in explosion background position",
+      "tag": "explosion_background"
+    },
+    {
+      "phrase": "eye focus",
+      "tag": "eye_focus"
+    },
+    {
+      "phrase": "eye focus pose",
+      "tag": "eye_focus"
+    },
+    {
+      "phrase": "eye focus position",
+      "tag": "eye_focus"
+    },
+    {
+      "phrase": "focus on eye",
+      "tag": "eye_focus"
+    },
+    {
+      "phrase": "focused on eye",
+      "tag": "eye_focus"
+    },
+    {
+      "phrase": "eyebrows hidden by hair",
+      "tag": "eyebrows_hidden_by_hair"
+    },
+    {
+      "phrase": "in eyebrows hidden by hair position",
+      "tag": "eyebrows_hidden_by_hair"
+    },
+    {
+      "phrase": "eyebrows visible through hat",
+      "tag": "eyebrows_visible_through_hat"
+    },
+    {
+      "phrase": "in eyebrows visible through hat position",
+      "tag": "eyebrows_visible_through_hat"
+    },
+    {
+      "phrase": "eyebrows visible through headband",
+      "tag": "eyebrows_visible_through_headband"
+    },
+    {
+      "phrase": "in eyebrows visible through headband position",
+      "tag": "eyebrows_visible_through_headband"
+    },
+    {
+      "phrase": "eyebrows visible through mask",
+      "tag": "eyebrows_visible_through_mask"
+    },
+    {
+      "phrase": "in eyebrows visible through mask position",
+      "tag": "eyebrows_visible_through_mask"
+    },
+    {
+      "phrase": "eyes visible through hair",
+      "tag": "eyes_visible_through_hair"
+    },
+    {
+      "phrase": "in eyes visible through hair position",
+      "tag": "eyes_visible_through_hair"
+    },
+    {
+      "phrase": "eyewear visible through hair",
+      "tag": "eyewear_visible_through_hair"
+    },
+    {
+      "phrase": "in eyewear visible through hair position",
+      "tag": "eyewear_visible_through_hair"
+    },
+    {
+      "phrase": "facing to the side",
+      "tag": "facing_to_the_side"
+    },
+    {
+      "phrase": "in facing to the side position",
+      "tag": "facing_to_the_side"
+    },
+    {
+      "phrase": "fake screenshot",
+      "tag": "fake_screenshot"
+    },
+    {
+      "phrase": "in fake screenshot position",
+      "tag": "fake_screenshot"
+    },
+    {
+      "phrase": "falling money",
+      "tag": "falling_money"
+    },
+    {
+      "phrase": "in falling money position",
+      "tag": "falling_money"
+    },
+    {
+      "phrase": "fiery background",
+      "tag": "fiery_background"
+    },
+    {
+      "phrase": "in fiery background position",
+      "tag": "fiery_background"
+    },
+    {
+      "phrase": "firework background",
+      "tag": "firework_background"
+    },
+    {
+      "phrase": "in firework background position",
+      "tag": "firework_background"
+    },
+    {
+      "phrase": "fish background",
+      "tag": "fish_background"
+    },
+    {
+      "phrase": "in fish background position",
+      "tag": "fish_background"
+    },
+    {
+      "phrase": "flag background",
+      "tag": "flag_background"
+    },
+    {
+      "phrase": "in flag background position",
+      "tag": "flag_background"
+    },
+    {
+      "phrase": "floating clothes",
+      "tag": "floating_clothes"
+    },
+    {
+      "phrase": "in floating clothes position",
+      "tag": "floating_clothes"
+    },
+    {
+      "phrase": "floating object",
+      "tag": "floating_object"
+    },
+    {
+      "phrase": "in floating object position",
+      "tag": "floating_object"
+    },
+    {
+      "phrase": "floral background",
+      "tag": "floral_background"
+    },
+    {
+      "phrase": "in floral background position",
+      "tag": "floral_background"
+    },
+    {
+      "phrase": "flower in drink",
+      "tag": "flower_in_drink"
+    },
+    {
+      "phrase": "in flower in drink position",
+      "tag": "flower_in_drink"
+    },
+    {
+      "phrase": "flower in pocket",
+      "tag": "flower_in_pocket"
+    },
+    {
+      "phrase": "in flower in pocket position",
+      "tag": "flower_in_pocket"
+    },
+    {
+      "phrase": "flower on chest",
+      "tag": "flower_on_chest"
+    },
+    {
+      "phrase": "in flower on chest position",
+      "tag": "flower_on_chest"
+    },
+    {
+      "phrase": "food-themed background",
+      "tag": "food-themed_background"
+    },
+    {
+      "phrase": "in food-themed background position",
+      "tag": "food-themed_background"
+    },
+    {
+      "phrase": "food print",
+      "tag": "food_print"
+    },
+    {
+      "phrase": "in food print position",
+      "tag": "food_print"
+    },
+    {
+      "phrase": "forced perspective",
+      "tag": "forced_perspective"
+    },
+    {
+      "phrase": "in forced perspective position",
+      "tag": "forced_perspective"
+    },
+    {
+      "phrase": "framed insect",
+      "tag": "framed_insect"
+    },
+    {
+      "phrase": "in framed insect position",
+      "tag": "framed_insect"
+    },
+    {
+      "phrase": "framed pectorals",
+      "tag": "framed_pectorals"
+    },
+    {
+      "phrase": "in framed pectorals position",
+      "tag": "framed_pectorals"
+    },
+    {
+      "phrase": "front and back",
+      "tag": "front_and_back"
+    },
+    {
+      "phrase": "in front and back position",
+      "tag": "front_and_back"
+    },
+    {
+      "phrase": "fruit background",
+      "tag": "fruit_background"
+    },
+    {
+      "phrase": "in fruit background position",
+      "tag": "fruit_background"
+    },
+    {
+      "phrase": "fruit print",
+      "tag": "fruit_print"
+    },
+    {
+      "phrase": "in fruit print position",
+      "tag": "fruit_print"
+    },
+    {
+      "phrase": "galaxy background",
+      "tag": "galaxy_background"
+    },
+    {
+      "phrase": "in galaxy background position",
+      "tag": "galaxy_background"
+    },
+    {
+      "phrase": "game screenshot background",
+      "tag": "game_screenshot_background"
+    },
+    {
+      "phrase": "in game screenshot background position",
+      "tag": "game_screenshot_background"
+    },
+    {
+      "phrase": "game screenshot inset",
+      "tag": "game_screenshot_inset"
+    },
+    {
+      "phrase": "in game screenshot inset position",
+      "tag": "game_screenshot_inset"
+    },
+    {
+      "phrase": "gear background",
+      "tag": "gear_background"
+    },
+    {
+      "phrase": "in gear background position",
+      "tag": "gear_background"
+    },
+    {
+      "phrase": "gingham background",
+      "tag": "gingham_background"
+    },
+    {
+      "phrase": "in gingham background position",
+      "tag": "gingham_background"
+    },
+    {
+      "phrase": "google street view",
+      "tag": "google_street_view"
+    },
+    {
+      "phrase": "in google street view position",
+      "tag": "google_street_view"
+    },
+    {
+      "phrase": "gradient background",
+      "tag": "gradient_background"
+    },
+    {
+      "phrase": "in gradient background position",
+      "tag": "gradient_background"
+    },
+    {
+      "phrase": "green background",
+      "tag": "green_background"
+    },
+    {
+      "phrase": "in green background position",
+      "tag": "green_background"
+    },
+    {
+      "phrase": "grey background",
+      "tag": "grey_background"
+    },
+    {
+      "phrase": "in grey background position",
+      "tag": "grey_background"
+    },
+    {
+      "phrase": "greyscale with colored background",
+      "tag": "greyscale_with_colored_background"
+    },
+    {
+      "phrase": "in greyscale with colored background position",
+      "tag": "greyscale_with_colored_background"
+    },
+    {
+      "phrase": "grid",
+      "tag": "grid"
+    },
+    {
+      "phrase": "in grid position",
+      "tag": "grid"
+    },
+    {
+      "phrase": "grid background",
+      "tag": "grid_background"
+    },
+    {
+      "phrase": "in grid background position",
+      "tag": "grid_background"
+    },
+    {
+      "phrase": "group profile",
+      "tag": "group_profile"
+    },
+    {
+      "phrase": "in group profile position",
+      "tag": "group_profile"
+    },
+    {
+      "phrase": "halftone background",
+      "tag": "halftone_background"
+    },
+    {
+      "phrase": "in halftone background position",
+      "tag": "halftone_background"
+    },
+    {
+      "phrase": "focus on hand",
+      "tag": "hand_focus"
+    },
+    {
+      "phrase": "focused on hand",
+      "tag": "hand_focus"
+    },
+    {
+      "phrase": "hand focus",
+      "tag": "hand_focus"
+    },
+    {
+      "phrase": "hand focus pose",
+      "tag": "hand_focus"
+    },
+    {
+      "phrase": "hand focus position",
+      "tag": "hand_focus"
+    },
+    {
+      "phrase": "handkerchief in pocket",
+      "tag": "handkerchief_in_pocket"
+    },
+    {
+      "phrase": "in handkerchief in pocket position",
+      "tag": "handkerchief_in_pocket"
+    },
+    {
+      "phrase": "hands out of frame",
+      "tag": "hands_out_of_frame"
+    },
+    {
+      "phrase": "in hands out of frame position",
+      "tag": "hands_out_of_frame"
+    },
+    {
+      "phrase": "head out of frame",
+      "tag": "head_out_of_frame"
+    },
+    {
+      "phrase": "in head out of frame position",
+      "tag": "head_out_of_frame"
+    },
+    {
+      "phrase": "heart background",
+      "tag": "heart_background"
+    },
+    {
+      "phrase": "in heart background position",
+      "tag": "heart_background"
+    },
+    {
+      "phrase": "honeycomb background",
+      "tag": "honeycomb_background"
+    },
+    {
+      "phrase": "in honeycomb background position",
+      "tag": "honeycomb_background"
+    },
+    {
+      "phrase": "houndstooth background",
+      "tag": "houndstooth_background"
+    },
+    {
+      "phrase": "in houndstooth background position",
+      "tag": "houndstooth_background"
+    },
+    {
+      "phrase": "in basket",
+      "tag": "in_basket"
+    },
+    {
+      "phrase": "in in basket position",
+      "tag": "in_basket"
+    },
+    {
+      "phrase": "in bowl",
+      "tag": "in_bowl"
+    },
+    {
+      "phrase": "in in bowl position",
+      "tag": "in_bowl"
+    },
+    {
+      "phrase": "in container",
+      "tag": "in_container"
+    },
+    {
+      "phrase": "in in container position",
+      "tag": "in_container"
+    },
+    {
+      "phrase": "in snow globe",
+      "tag": "in_snow_globe"
+    },
+    {
+      "phrase": "in snow globe position",
+      "tag": "in_snow_globe"
+    },
+    {
+      "phrase": "instrument case on back",
+      "tag": "instrument_case_on_back"
+    },
+    {
+      "phrase": "instrument case on back position",
+      "tag": "instrument_case_on_back"
+    },
+    {
+      "phrase": "instrument on back",
+      "tag": "instrument_on_back"
+    },
+    {
+      "phrase": "instrument on back position",
+      "tag": "instrument_on_back"
+    },
+    {
+      "phrase": "invisible floor",
+      "tag": "invisible_floor"
+    },
+    {
+      "phrase": "invisible floor position",
+      "tag": "invisible_floor"
+    },
+    {
+      "phrase": "in juxtaposition",
+      "tag": "juxtaposition"
+    },
+    {
+      "phrase": "juxtaposition",
+      "tag": "juxtaposition"
+    },
+    {
+      "phrase": "juxtaposition stance",
+      "tag": "juxtaposition"
+    },
+    {
+      "phrase": "knees out of frame",
+      "tag": "knees_out_of_frame"
+    },
+    {
+      "phrase": "knees out of frame position",
+      "tag": "knees_out_of_frame"
+    },
+    {
+      "phrase": "lace background",
+      "tag": "lace_background"
+    },
+    {
+      "phrase": "lace background position",
+      "tag": "lace_background"
+    },
+    {
+      "phrase": "leaf background",
+      "tag": "leaf_background"
+    },
+    {
+      "phrase": "leaf background position",
+      "tag": "leaf_background"
+    },
+    {
+      "phrase": "leaf print",
+      "tag": "leaf_print"
+    },
+    {
+      "phrase": "leaf print position",
+      "tag": "leaf_print"
+    },
+    {
+      "phrase": "lens flare",
+      "tag": "lens_flare"
+    },
+    {
+      "phrase": "lens flare position",
+      "tag": "lens_flare"
+    },
+    {
+      "phrase": "lightning background",
+      "tag": "lightning_background"
+    },
+    {
+      "phrase": "lightning background position",
+      "tag": "lightning_background"
+    },
+    {
+      "phrase": "lineup",
+      "tag": "lineup"
+    },
+    {
+      "phrase": "lineup position",
+      "tag": "lineup"
+    },
+    {
+      "phrase": "looking through window",
+      "tag": "looking_through_window"
+    },
+    {
+      "phrase": "looking through window position",
+      "tag": "looking_through_window"
+    },
+    {
+      "phrase": "macaron background",
+      "tag": "macaron_background"
+    },
+    {
+      "phrase": "macaron background position",
+      "tag": "macaron_background"
+    },
+    {
+      "phrase": "map background",
+      "tag": "map_background"
+    },
+    {
+      "phrase": "map background position",
+      "tag": "map_background"
+    },
+    {
+      "phrase": "maple leaf print",
+      "tag": "maple_leaf_print"
+    },
+    {
+      "phrase": "maple leaf print position",
+      "tag": "maple_leaf_print"
+    },
+    {
+      "phrase": "matching outfits",
+      "tag": "matching_outfits"
+    },
+    {
+      "phrase": "matching outfits position",
+      "tag": "matching_outfits"
+    },
+    {
+      "phrase": "focus on mecha",
+      "tag": "mecha_focus"
+    },
+    {
+      "phrase": "focused on mecha",
+      "tag": "mecha_focus"
+    },
+    {
+      "phrase": "mecha focus",
+      "tag": "mecha_focus"
+    },
+    {
+      "phrase": "mecha focus pose",
+      "tag": "mecha_focus"
+    },
+    {
+      "phrase": "mecha focus position",
+      "tag": "mecha_focus"
+    },
+    {
+      "phrase": "mirror image",
+      "tag": "mirror_image"
+    },
+    {
+      "phrase": "mirror image position",
+      "tag": "mirror_image"
+    },
+    {
+      "phrase": "mirror selfie",
+      "tag": "mirror_selfie"
+    },
+    {
+      "phrase": "mirror selfie position",
+      "tag": "mirror_selfie"
+    },
+    {
+      "phrase": "monochrome background",
+      "tag": "monochrome_background"
+    },
+    {
+      "phrase": "monochrome background position",
+      "tag": "monochrome_background"
+    },
+    {
+      "phrase": "moon background",
+      "tag": "moon_background"
+    },
+    {
+      "phrase": "moon background position",
+      "tag": "moon_background"
+    },
+    {
+      "phrase": "moon gate",
+      "tag": "moon_gate"
+    },
+    {
+      "phrase": "moon gate position",
+      "tag": "moon_gate"
+    },
+    {
+      "phrase": "moon print",
+      "tag": "moon_print"
+    },
+    {
+      "phrase": "moon print position",
+      "tag": "moon_print"
+    },
+    {
+      "phrase": "focus on mountain",
+      "tag": "mountain_focus"
+    },
+    {
+      "phrase": "focused on mountain",
+      "tag": "mountain_focus"
+    },
+    {
+      "phrase": "mountain focus",
+      "tag": "mountain_focus"
+    },
+    {
+      "phrase": "mountain focus pose",
+      "tag": "mountain_focus"
+    },
+    {
+      "phrase": "mountain focus position",
+      "tag": "mountain_focus"
+    },
+    {
+      "phrase": "mountain print",
+      "tag": "mountain_print"
+    },
+    {
+      "phrase": "mountain print position",
+      "tag": "mountain_print"
+    },
+    {
+      "phrase": "focus on mouth",
+      "tag": "mouth_focus"
+    },
+    {
+      "phrase": "focused on mouth",
+      "tag": "mouth_focus"
+    },
+    {
+      "phrase": "mouth focus",
+      "tag": "mouth_focus"
+    },
+    {
+      "phrase": "mouth focus pose",
+      "tag": "mouth_focus"
+    },
+    {
+      "phrase": "mouth focus position",
+      "tag": "mouth_focus"
+    },
+    {
+      "phrase": "mouth out of frame",
+      "tag": "mouth_out_of_frame"
+    },
+    {
+      "phrase": "mouth out of frame position",
+      "tag": "mouth_out_of_frame"
+    },
+    {
+      "phrase": "mouth visible through hair",
+      "tag": "mouth_visible_through_hair"
+    },
+    {
+      "phrase": "mouth visible through hair position",
+      "tag": "mouth_visible_through_hair"
+    },
+    {
+      "phrase": "moving background",
+      "tag": "moving_background"
+    },
+    {
+      "phrase": "moving background position",
+      "tag": "moving_background"
+    },
+    {
+      "phrase": "multicolored squares background",
+      "tag": "multicolored_squares_background"
+    },
+    {
+      "phrase": "multicolored squares background position",
+      "tag": "multicolored_squares_background"
+    },
+    {
+      "phrase": "multiple 4koma",
+      "tag": "multiple_4koma"
+    },
+    {
+      "phrase": "multiple 4koma position",
+      "tag": "multiple_4koma"
+    },
+    {
+      "phrase": "multiple expressions",
+      "tag": "multiple_expressions"
+    },
+    {
+      "phrase": "multiple expressions position",
+      "tag": "multiple_expressions"
+    },
+    {
+      "phrase": "musical note background",
+      "tag": "musical_note_background"
+    },
+    {
+      "phrase": "musical note background position",
+      "tag": "musical_note_background"
+    },
+    {
+      "phrase": "necktie in pocket",
+      "tag": "necktie_in_pocket"
+    },
+    {
+      "phrase": "necktie in pocket position",
+      "tag": "necktie_in_pocket"
+    },
+    {
+      "phrase": "negative space",
+      "tag": "negative_space"
+    },
+    {
+      "phrase": "negative space position",
+      "tag": "negative_space"
+    },
+    {
+      "phrase": "note on back",
+      "tag": "note_on_back"
+    },
+    {
+      "phrase": "note on back position",
+      "tag": "note_on_back"
+    },
+    {
+      "phrase": "number background",
+      "tag": "number_background"
+    },
+    {
+      "phrase": "number background position",
+      "tag": "number_background"
+    },
+    {
+      "phrase": "object behind ear",
+      "tag": "object_behind_ear"
+    },
+    {
+      "phrase": "object behind ear position",
+      "tag": "object_behind_ear"
+    },
+    {
+      "phrase": "object floating above hand",
+      "tag": "object_floating_above_hand"
+    },
+    {
+      "phrase": "object floating above hand position",
+      "tag": "object_floating_above_hand"
+    },
+    {
+      "phrase": "focus on object",
+      "tag": "object_focus"
+    },
+    {
+      "phrase": "focused on object",
+      "tag": "object_focus"
+    },
+    {
+      "phrase": "object focus",
+      "tag": "object_focus"
+    },
+    {
+      "phrase": "object focus pose",
+      "tag": "object_focus"
+    },
+    {
+      "phrase": "object focus position",
+      "tag": "object_focus"
+    },
+    {
+      "phrase": "object in pocket",
+      "tag": "object_in_pocket"
+    },
+    {
+      "phrase": "object in pocket position",
+      "tag": "object_in_pocket"
+    },
+    {
+      "phrase": "object on pectorals",
+      "tag": "object_on_pectorals"
+    },
+    {
+      "phrase": "object on pectorals position",
+      "tag": "object_on_pectorals"
+    },
+    {
+      "phrase": "official art inset",
+      "tag": "official_art_inset"
+    },
+    {
+      "phrase": "official art inset position",
+      "tag": "official_art_inset"
+    },
+    {
+      "phrase": "opposing sides",
+      "tag": "opposing_sides"
+    },
+    {
+      "phrase": "opposing sides position",
+      "tag": "opposing_sides"
+    },
+    {
+      "phrase": "orange background",
+      "tag": "orange_background"
+    },
+    {
+      "phrase": "orange background position",
+      "tag": "orange_background"
+    },
+    {
+      "phrase": "oval background",
+      "tag": "oval_background"
+    },
+    {
+      "phrase": "oval background position",
+      "tag": "oval_background"
+    },
+    {
+      "phrase": "oval image",
+      "tag": "oval_image"
+    },
+    {
+      "phrase": "oval image position",
+      "tag": "oval_image"
+    },
+    {
+      "phrase": "overflowing",
+      "tag": "overflowing"
+    },
+    {
+      "phrase": "overflowing position",
+      "tag": "overflowing"
+    },
+    {
+      "phrase": "palm tree print",
+      "tag": "palm_tree_print"
+    },
+    {
+      "phrase": "palm tree print position",
+      "tag": "palm_tree_print"
+    },
+    {
+      "phrase": "paneled background",
+      "tag": "paneled_background"
+    },
+    {
+      "phrase": "paneled background position",
+      "tag": "paneled_background"
+    },
+    {
+      "phrase": "panther print",
+      "tag": "panther_print"
+    },
+    {
+      "phrase": "panther print position",
+      "tag": "panther_print"
+    },
+    {
+      "phrase": "paper background",
+      "tag": "paper_background"
+    },
+    {
+      "phrase": "paper background position",
+      "tag": "paper_background"
+    },
+    {
+      "phrase": "patterned background",
+      "tag": "patterned_background"
+    },
+    {
+      "phrase": "patterned background position",
+      "tag": "patterned_background"
+    },
+    {
+      "phrase": "paw print background",
+      "tag": "paw_print_background"
+    },
+    {
+      "phrase": "paw print background position",
+      "tag": "paw_print_background"
+    },
+    {
+      "phrase": "pen behind ear",
+      "tag": "pen_behind_ear"
+    },
+    {
+      "phrase": "pen behind ear position",
+      "tag": "pen_behind_ear"
+    },
+    {
+      "phrase": "pen in pocket",
+      "tag": "pen_in_pocket"
+    },
+    {
+      "phrase": "pen in pocket position",
+      "tag": "pen_in_pocket"
+    },
+    {
+      "phrase": "pencil behind ear",
+      "tag": "pencil_behind_ear"
+    },
+    {
+      "phrase": "pencil behind ear position",
+      "tag": "pencil_behind_ear"
+    },
+    {
+      "phrase": "in performance juxtaposition",
+      "tag": "performance_juxtaposition"
+    },
+    {
+      "phrase": "performance juxtaposition",
+      "tag": "performance_juxtaposition"
+    },
+    {
+      "phrase": "performance juxtaposition stance",
+      "tag": "performance_juxtaposition"
+    },
+    {
+      "phrase": "perspective",
+      "tag": "perspective"
+    },
+    {
+      "phrase": "perspective position",
+      "tag": "perspective"
+    },
+    {
+      "phrase": "photo background",
+      "tag": "photo_background"
+    },
+    {
+      "phrase": "photo background position",
+      "tag": "photo_background"
+    },
+    {
+      "phrase": "photo inset",
+      "tag": "photo_inset"
+    },
+    {
+      "phrase": "photo inset position",
+      "tag": "photo_inset"
+    },
+    {
+      "phrase": "pile",
+      "tag": "pile"
+    },
+    {
+      "phrase": "pile position",
+      "tag": "pile"
+    },
+    {
+      "phrase": "pill background",
+      "tag": "pill_background"
+    },
+    {
+      "phrase": "pill background position",
+      "tag": "pill_background"
+    },
+    {
+      "phrase": "pillarboxed",
+      "tag": "pillarboxed"
+    },
+    {
+      "phrase": "pillarboxed position",
+      "tag": "pillarboxed"
+    },
+    {
+      "phrase": "pink background",
+      "tag": "pink_background"
+    },
+    {
+      "phrase": "pink background position",
+      "tag": "pink_background"
+    },
+    {
+      "phrase": "pixel art inset",
+      "tag": "pixel_art_inset"
+    },
+    {
+      "phrase": "pixel art inset position",
+      "tag": "pixel_art_inset"
+    },
+    {
+      "phrase": "pixelated background",
+      "tag": "pixelated_background"
+    },
+    {
+      "phrase": "pixelated background position",
+      "tag": "pixelated_background"
+    },
+    {
+      "phrase": "plaid background",
+      "tag": "plaid_background"
+    },
+    {
+      "phrase": "plaid background position",
+      "tag": "plaid_background"
+    },
+    {
+      "phrase": "playing card print",
+      "tag": "playing_card_print"
+    },
+    {
+      "phrase": "playing card print position",
+      "tag": "playing_card_print"
+    },
+    {
+      "phrase": "pokemon between legs",
+      "tag": "pokemon_between_legs"
+    },
+    {
+      "phrase": "pokemon between legs position",
+      "tag": "pokemon_between_legs"
+    },
+    {
+      "phrase": "pokemon on arm",
+      "tag": "pokemon_on_arm"
+    },
+    {
+      "phrase": "pokemon on arm position",
+      "tag": "pokemon_on_arm"
+    },
+    {
+      "phrase": "pokemon on back",
+      "tag": "pokemon_on_back"
+    },
+    {
+      "phrase": "pokemon on back position",
+      "tag": "pokemon_on_back"
+    },
+    {
+      "phrase": "pokemon on head",
+      "tag": "pokemon_on_head"
+    },
+    {
+      "phrase": "pokemon on head position",
+      "tag": "pokemon_on_head"
+    },
+    {
+      "phrase": "pokemon on lap",
+      "tag": "pokemon_on_lap"
+    },
+    {
+      "phrase": "pokemon on lap position",
+      "tag": "pokemon_on_lap"
+    },
+    {
+      "phrase": "pokemon on leg",
+      "tag": "pokemon_on_leg"
+    },
+    {
+      "phrase": "pokemon on leg position",
+      "tag": "pokemon_on_leg"
+    },
+    {
+      "phrase": "pokemon on shoulder",
+      "tag": "pokemon_on_shoulder"
+    },
+    {
+      "phrase": "pokemon on shoulder position",
+      "tag": "pokemon_on_shoulder"
+    },
+    {
+      "phrase": "polka dot background",
+      "tag": "polka_dot_background"
+    },
+    {
+      "phrase": "polka dot background position",
+      "tag": "polka_dot_background"
+    },
+    {
+      "phrase": "pov hair",
+      "tag": "pov_hair"
+    },
+    {
+      "phrase": "pov hair position",
+      "tag": "pov_hair"
+    },
+    {
+      "phrase": "print background",
+      "tag": "print_background"
+    },
+    {
+      "phrase": "print background position",
+      "tag": "print_background"
+    },
+    {
+      "phrase": "projected inset",
+      "tag": "projected_inset"
+    },
+    {
+      "phrase": "projected inset position",
+      "tag": "projected_inset"
+    },
+    {
+      "phrase": "pumpkin background",
+      "tag": "pumpkin_background"
+    },
+    {
+      "phrase": "pumpkin background position",
+      "tag": "pumpkin_background"
+    },
+    {
+      "phrase": "pumpkin on head",
+      "tag": "pumpkin_on_head"
+    },
+    {
+      "phrase": "pumpkin on head position",
+      "tag": "pumpkin_on_head"
+    },
+    {
+      "phrase": "purple background",
+      "tag": "purple_background"
+    },
+    {
+      "phrase": "purple background position",
+      "tag": "purple_background"
+    },
+    {
+      "phrase": "rabbit background",
+      "tag": "rabbit_background"
+    },
+    {
+      "phrase": "rabbit background position",
+      "tag": "rabbit_background"
+    },
+    {
+      "phrase": "radial gradient background",
+      "tag": "radial_gradient_background"
+    },
+    {
+      "phrase": "radial gradient background position",
+      "tag": "radial_gradient_background"
+    },
+    {
+      "phrase": "rainbow background",
+      "tag": "rainbow_background"
+    },
+    {
+      "phrase": "rainbow background position",
+      "tag": "rainbow_background"
+    },
+    {
+      "phrase": "rainbow order",
+      "tag": "rainbow_order"
+    },
+    {
+      "phrase": "rainbow order position",
+      "tag": "rainbow_order"
+    },
+    {
+      "phrase": "real life insert",
+      "tag": "real_life_insert"
+    },
+    {
+      "phrase": "real life insert position",
+      "tag": "real_life_insert"
+    },
+    {
+      "phrase": "rectangle",
+      "tag": "rectangle"
+    },
+    {
+      "phrase": "rectangle position",
+      "tag": "rectangle"
+    },
+    {
+      "phrase": "red background",
+      "tag": "red_background"
+    },
+    {
+      "phrase": "red background position",
+      "tag": "red_background"
+    },
+    {
+      "phrase": "reference inset",
+      "tag": "reference_inset"
+    },
+    {
+      "phrase": "reference inset position",
+      "tag": "reference_inset"
+    },
+    {
+      "phrase": "focus on reflection",
+      "tag": "reflection_focus"
+    },
+    {
+      "phrase": "focused on reflection",
+      "tag": "reflection_focus"
+    },
+    {
+      "phrase": "reflection focus",
+      "tag": "reflection_focus"
+    },
+    {
+      "phrase": "reflection focus pose",
+      "tag": "reflection_focus"
+    },
+    {
+      "phrase": "reflection focus position",
+      "tag": "reflection_focus"
+    },
+    {
+      "phrase": "request inset",
+      "tag": "request_inset"
+    },
+    {
+      "phrase": "request inset position",
+      "tag": "request_inset"
+    },
+    {
+      "phrase": "rose background",
+      "tag": "rose_background"
+    },
+    {
+      "phrase": "rose background position",
+      "tag": "rose_background"
+    },
+    {
+      "phrase": "rotational symmetry",
+      "tag": "rotational_symmetry"
+    },
+    {
+      "phrase": "rotational symmetry position",
+      "tag": "rotational_symmetry"
+    },
+    {
+      "phrase": "round image",
+      "tag": "round_image"
+    },
+    {
+      "phrase": "round image position",
+      "tag": "round_image"
+    },
+    {
+      "phrase": "sack behind back",
+      "tag": "sack_behind_back"
+    },
+    {
+      "phrase": "sack behind back position",
+      "tag": "sack_behind_back"
+    },
+    {
+      "phrase": "screenshot background",
+      "tag": "screenshot_background"
+    },
+    {
+      "phrase": "screenshot background position",
+      "tag": "screenshot_background"
+    },
+    {
+      "phrase": "screenshot inset",
+      "tag": "screenshot_inset"
+    },
+    {
+      "phrase": "screenshot inset position",
+      "tag": "screenshot_inset"
+    },
+    {
+      "phrase": "scribble background",
+      "tag": "scribble_background"
+    },
+    {
+      "phrase": "scribble background position",
+      "tag": "scribble_background"
+    },
+    {
+      "phrase": "sequential",
+      "tag": "sequential"
+    },
+    {
+      "phrase": "sequential position",
+      "tag": "sequential"
+    },
+    {
+      "phrase": "simple background",
+      "tag": "simple_background"
+    },
+    {
+      "phrase": "simple background position",
+      "tag": "simple_background"
+    },
+    {
+      "phrase": "size comparison",
+      "tag": "size_comparison"
+    },
+    {
+      "phrase": "size comparison position",
+      "tag": "size_comparison"
+    },
+    {
+      "phrase": "skateboard behind back",
+      "tag": "skateboard_behind_back"
+    },
+    {
+      "phrase": "skateboard behind back position",
+      "tag": "skateboard_behind_back"
+    },
+    {
+      "phrase": "skull background",
+      "tag": "skull_background"
+    },
+    {
+      "phrase": "skull background position",
+      "tag": "skull_background"
+    },
+    {
+      "phrase": "snow print",
+      "tag": "snow_print"
+    },
+    {
+      "phrase": "snow print position",
+      "tag": "snow_print"
+    },
+    {
+      "phrase": "snowflake background",
+      "tag": "snowflake_background"
+    },
+    {
+      "phrase": "snowflake background position",
+      "tag": "snowflake_background"
+    },
+    {
+      "phrase": "sofmap background",
+      "tag": "sofmap_background"
+    },
+    {
+      "phrase": "sofmap background position",
+      "tag": "sofmap_background"
+    },
+    {
+      "phrase": "spider web background",
+      "tag": "spider_web_background"
+    },
+    {
+      "phrase": "spider web background position",
+      "tag": "spider_web_background"
+    },
+    {
+      "phrase": "spiral",
+      "tag": "spiral"
+    },
+    {
+      "phrase": "spiral position",
+      "tag": "spiral"
+    },
+    {
+      "phrase": "spiral background",
+      "tag": "spiral_background"
+    },
+    {
+      "phrase": "spiral background position",
+      "tag": "spiral_background"
+    },
+    {
+      "phrase": "splatter background",
+      "tag": "splatter_background"
+    },
+    {
+      "phrase": "splatter background position",
+      "tag": "splatter_background"
+    },
+    {
+      "phrase": "split screen",
+      "tag": "split_screen"
+    },
+    {
+      "phrase": "split screen position",
+      "tag": "split_screen"
+    },
+    {
+      "phrase": "spring onion print",
+      "tag": "spring_onion_print"
+    },
+    {
+      "phrase": "spring onion print position",
+      "tag": "spring_onion_print"
+    },
+    {
+      "phrase": "stack",
+      "tag": "stack"
+    },
+    {
+      "phrase": "stack position",
+      "tag": "stack"
+    },
+    {
+      "phrase": "star symbol background",
+      "tag": "star_symbol_background"
+    },
+    {
+      "phrase": "star symbol background position",
+      "tag": "star_symbol_background"
+    },
+    {
+      "phrase": "starry sky background",
+      "tag": "starry_sky_background"
+    },
+    {
+      "phrase": "starry sky background position",
+      "tag": "starry_sky_background"
+    },
+    {
+      "phrase": "step and repeat",
+      "tag": "step_and_repeat"
+    },
+    {
+      "phrase": "step and repeat position",
+      "tag": "step_and_repeat"
+    },
+    {
+      "phrase": "strawberry background",
+      "tag": "strawberry_background"
+    },
+    {
+      "phrase": "strawberry background position",
+      "tag": "strawberry_background"
+    },
+    {
+      "phrase": "striped background",
+      "tag": "striped_background"
+    },
+    {
+      "phrase": "striped background position",
+      "tag": "striped_background"
+    },
+    {
+      "phrase": "sunburst",
+      "tag": "sunburst"
+    },
+    {
+      "phrase": "sunburst position",
+      "tag": "sunburst"
+    },
+    {
+      "phrase": "sunburst background",
+      "tag": "sunburst_background"
+    },
+    {
+      "phrase": "sunburst background position",
+      "tag": "sunburst_background"
+    },
+    {
+      "phrase": "surrounded",
+      "tag": "surrounded"
+    },
+    {
+      "phrase": "surrounded position",
+      "tag": "surrounded"
+    },
+    {
+      "phrase": "surrounded by hands",
+      "tag": "surrounded_by_hands"
+    },
+    {
+      "phrase": "surrounded by hands position",
+      "tag": "surrounded_by_hands"
+    },
+    {
+      "phrase": "swirl",
+      "tag": "swirl"
+    },
+    {
+      "phrase": "swirl position",
+      "tag": "swirl"
+    },
+    {
+      "phrase": "symmetry",
+      "tag": "symmetry"
+    },
+    {
+      "phrase": "symmetry position",
+      "tag": "symmetry"
+    },
+    {
+      "phrase": "three-toned background",
+      "tag": "three-toned_background"
+    },
+    {
+      "phrase": "three-toned background position",
+      "tag": "three-toned_background"
+    },
+    {
+      "phrase": "through medium",
+      "tag": "through_medium"
+    },
+    {
+      "phrase": "through medium position",
+      "tag": "through_medium"
+    },
+    {
+      "phrase": "through painting",
+      "tag": "through_painting"
+    },
+    {
+      "phrase": "through painting position",
+      "tag": "through_painting"
+    },
+    {
+      "phrase": "through screen",
+      "tag": "through_screen"
+    },
+    {
+      "phrase": "through screen position",
+      "tag": "through_screen"
+    },
+    {
+      "phrase": "through wall",
+      "tag": "through_wall"
+    },
+    {
+      "phrase": "through wall position",
+      "tag": "through_wall"
+    },
+    {
+      "phrase": "through window",
+      "tag": "through_window"
+    },
+    {
+      "phrase": "through window position",
+      "tag": "through_window"
+    },
+    {
+      "phrase": "tissue in nose",
+      "tag": "tissue_in_nose"
+    },
+    {
+      "phrase": "tissue in nose position",
+      "tag": "tissue_in_nose"
+    },
+    {
+      "phrase": "too many scoops",
+      "tag": "too_many_scoops"
+    },
+    {
+      "phrase": "too many scoops position",
+      "tag": "too_many_scoops"
+    },
+    {
+      "phrase": "transparent background",
+      "tag": "transparent_background"
+    },
+    {
+      "phrase": "transparent background position",
+      "tag": "transparent_background"
+    },
+    {
+      "phrase": "triangle background",
+      "tag": "triangle_background"
+    },
+    {
+      "phrase": "triangle background position",
+      "tag": "triangle_background"
+    },
+    {
+      "phrase": "triangular tiling background",
+      "tag": "triangular_tiling_background"
+    },
+    {
+      "phrase": "triangular tiling background position",
+      "tag": "triangular_tiling_background"
+    },
+    {
+      "phrase": "turnaround",
+      "tag": "turnaround"
+    },
+    {
+      "phrase": "turnaround position",
+      "tag": "turnaround"
+    },
+    {
+      "phrase": "two-tone background",
+      "tag": "two-tone_background"
+    },
+    {
+      "phrase": "two-tone background position",
+      "tag": "two-tone_background"
+    },
+    {
+      "phrase": "vanishing point",
+      "tag": "vanishing_point"
+    },
+    {
+      "phrase": "vanishing point position",
+      "tag": "vanishing_point"
+    },
+    {
+      "phrase": "vertical-striped background",
+      "tag": "vertical-striped_background"
+    },
+    {
+      "phrase": "vertical-striped background position",
+      "tag": "vertical-striped_background"
+    },
+    {
+      "phrase": "vs",
+      "tag": "vs"
+    },
+    {
+      "phrase": "vs position",
+      "tag": "vs"
+    },
+    {
+      "phrase": "water censor",
+      "tag": "water_censor"
+    },
+    {
+      "phrase": "water censor position",
+      "tag": "water_censor"
+    },
+    {
+      "phrase": "watercolor background",
+      "tag": "watercolor_background"
+    },
+    {
+      "phrase": "watercolor background position",
+      "tag": "watercolor_background"
+    },
+    {
+      "phrase": "wavy background",
+      "tag": "wavy_background"
+    },
+    {
+      "phrase": "wavy background position",
+      "tag": "wavy_background"
+    },
+    {
+      "phrase": "weapon background",
+      "tag": "weapon_background"
+    },
+    {
+      "phrase": "weapon background position",
+      "tag": "weapon_background"
+    },
+    {
+      "phrase": "white background",
+      "tag": "white_background"
+    },
+    {
+      "phrase": "white background position",
+      "tag": "white_background"
+    },
+    {
+      "phrase": "yellow background",
+      "tag": "yellow_background"
+    },
+    {
+      "phrase": "yellow background position",
+      "tag": "yellow_background"
+    }
+  ]
+}

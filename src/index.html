@@ -1,0 +1,167 @@
+<!-- src/index.html -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Structured Prompt Composer</title>
+    <link rel="stylesheet" href="/src/styles.css" />
+  </head>
+
+  <body>
+    <div class="app">
+      <header class="pageHeader">
+        <h1 class="title">Structured Prompt Composer V1.0.0</h1>
+        <p class="subtitle">Offline • SDXL & Anima Friendly • Deterministic tag mapping</p>
+        <div id="bootError" class="bootError" aria-live="polite"></div>
+      </header>
+
+      <section class="globalToolbar" aria-label="Global controls">
+        <div class="ratingSegment" role="group" aria-label="Prompt rating">
+          <label class="segmentOption">
+            <input type="radio" name="rating" id="ratingSfw" value="sfw" checked />
+            <span>SFW</span>
+          </label>
+          <label class="segmentOption">
+            <input type="radio" name="rating" id="ratingSuggestive" value="suggestive" />
+            <span>Suggestive</span>
+          </label>
+          <label class="segmentOption">
+            <input type="radio" name="rating" id="ratingNsfw" value="nsfw" />
+            <span>NSFW</span>
+          </label>
+          <label class="segmentOption">
+            <input type="radio" name="rating" id="ratingExplicit" value="explicit" />
+            <span>Explicit</span>
+          </label>
+        </div>
+
+        <div class="toolbarControls">
+          <div class="field toolbarPreset">
+            <label for="presetPicker">Preset</label>
+            <select id="presetPicker"></select>
+          </div>
+          <button id="openCharacterModal" type="button">Characters (0)</button>
+          <button id="resetTags" type="button">Reset</button>
+        </div>
+      </section>
+
+      <main class="layout">
+        <section class="card settingsCard" aria-label="Technical settings">
+          <h2 class="sectionTitle">Technical Settings</h2>
+
+          <div class="settingsTwoCol">
+            <div class="settingsCol">
+              <div class="field">
+                <label for="cameraFraming">Camera Framing</label>
+                <select id="cameraFraming"></select>
+              </div>
+
+              <div class="field">
+                <label for="cameraAngle">Camera Angle</label>
+                <select id="cameraAngle"></select>
+              </div>
+
+              <div class="field">
+                <label>Composition toggles</label>
+                <div id="compositionToggles" class="pillToggleList"></div>
+              </div>
+            </div>
+
+            <div class="settingsCol">
+              <div class="field">
+                <label for="lighting">Lighting</label>
+                <select id="lighting"></select>
+              </div>
+
+              <div class="field">
+                <label for="timeOfDay">Time of day</label>
+                <select id="timeOfDay"></select>
+              </div>
+
+              <div class="field">
+                <label>Style modifiers</label>
+                <div id="styleModifiers" class="pillToggleList"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="card workspaceCard" aria-label="Prompt workspace">
+          <h2 class="sectionTitle">Workspace</h2>
+
+          <div class="field">
+            <label for="loraTriggers">LoRA / Trigger Words (optional)</label>
+            <input
+              type="text"
+              id="loraTriggers"
+              placeholder="e.g. character_lora_v1:0.8, painterly_style"
+            />
+          </div>
+
+          <div class="field">
+            <label for="mainText">Describe your image</label>
+            <textarea
+              id="mainText"
+              rows="8"
+              placeholder="e.g. a girl with long hair looking at viewer, wearing a yellow raincoat, cinematic lighting"
+            ></textarea>
+          </div>
+
+          <label class="toggleRow rawHelperRow">
+            <input type="checkbox" id="rawHelperToggle" checked />
+            <span>Include raw helper text (recommended)</span>
+          </label>
+          <div id="parserStatus" class="parserStatus" aria-live="polite"></div>
+        </section>
+
+        <section class="outputsArea" aria-label="Generated outputs">
+          <div class="outputsGrid">
+            <section class="card outputCard">
+              <div class="outputHeader">
+                <h2 class="sectionTitle">Positive Prompt</h2>
+                <button id="copyPositive" type="button">Copy</button>
+              </div>
+              <textarea id="positiveOut" rows="11"></textarea>
+            </section>
+
+            <section class="card outputCard">
+              <div class="outputHeader">
+                <h2 class="sectionTitle">Negative Prompt</h2>
+                <button id="copyNegative" type="button">Copy</button>
+              </div>
+              <textarea id="negativeOut" rows="11"></textarea>
+            </section>
+          </div>
+
+          <div class="outputUtility">
+            <div id="copyStatus" class="copyStatus" aria-live="polite"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div id="characterModal" class="modal hidden" aria-hidden="true">
+      <div class="modalContent" role="dialog" aria-modal="true" aria-labelledby="characterModalTitle">
+        <div class="modalHeader">
+          <h2 id="characterModalTitle">Select Characters</h2>
+          <button id="closeCharacterModal" type="button" aria-label="Close character modal">Close</button>
+        </div>
+
+        <div class="field modalSearchField">
+          <label for="characterSearch">Search</label>
+          <input type="search" id="characterSearch" placeholder="Search characters..." />
+        </div>
+
+        <div id="characterList" class="characterList"></div>
+
+        <div class="modalFooter">
+          <button id="clearCharacters" type="button">Clear</button>
+          <button id="applyCharacters" type="button">Apply Characters</button>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/app.js"></script>
+  </body>
+</html>

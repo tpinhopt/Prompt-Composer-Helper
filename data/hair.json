@@ -1,0 +1,6476 @@
+{
+  "items": [
+    {
+      "phrase": "absurdly long hair",
+      "tag": "absurdly_long_hair"
+    },
+    {
+      "phrase": "absurdly long hair visible",
+      "tag": "absurdly_long_hair"
+    },
+    {
+      "phrase": "showing absurdly long hair",
+      "tag": "absurdly_long_hair"
+    },
+    {
+      "phrase": "with absurdly long hair",
+      "tag": "absurdly_long_hair"
+    },
+    {
+      "phrase": "afro",
+      "tag": "afro"
+    },
+    {
+      "phrase": "afro visible",
+      "tag": "afro"
+    },
+    {
+      "phrase": "showing afro",
+      "tag": "afro"
+    },
+    {
+      "phrase": "with afro",
+      "tag": "afro"
+    },
+    {
+      "phrase": "afro puffs",
+      "tag": "afro_puffs"
+    },
+    {
+      "phrase": "afro puffs visible",
+      "tag": "afro_puffs"
+    },
+    {
+      "phrase": "showing afro puffs",
+      "tag": "afro_puffs"
+    },
+    {
+      "phrase": "with afro puffs",
+      "tag": "afro_puffs"
+    },
+    {
+      "phrase": "ahoge",
+      "tag": "ahoge"
+    },
+    {
+      "phrase": "ahoge visible",
+      "tag": "ahoge"
+    },
+    {
+      "phrase": "showing ahoge",
+      "tag": "ahoge"
+    },
+    {
+      "phrase": "with ahoge",
+      "tag": "ahoge"
+    },
+    {
+      "phrase": "ahoge removed",
+      "tag": "ahoge_removed"
+    },
+    {
+      "phrase": "ahoge removed visible",
+      "tag": "ahoge_removed"
+    },
+    {
+      "phrase": "showing ahoge removed",
+      "tag": "ahoge_removed"
+    },
+    {
+      "phrase": "with ahoge removed",
+      "tag": "ahoge_removed"
+    },
+    {
+      "phrase": "ahoge wag",
+      "tag": "ahoge_wag"
+    },
+    {
+      "phrase": "ahoge wag visible",
+      "tag": "ahoge_wag"
+    },
+    {
+      "phrase": "showing ahoge wag",
+      "tag": "ahoge_wag"
+    },
+    {
+      "phrase": "with ahoge wag",
+      "tag": "ahoge_wag"
+    },
+    {
+      "phrase": "alternate hair color",
+      "tag": "alternate_hair_color"
+    },
+    {
+      "phrase": "alternate hair color visible",
+      "tag": "alternate_hair_color"
+    },
+    {
+      "phrase": "showing alternate hair color",
+      "tag": "alternate_hair_color"
+    },
+    {
+      "phrase": "with alternate hair color",
+      "tag": "alternate_hair_color"
+    },
+    {
+      "phrase": "alternate hair length",
+      "tag": "alternate_hair_length"
+    },
+    {
+      "phrase": "alternate hair length visible",
+      "tag": "alternate_hair_length"
+    },
+    {
+      "phrase": "showing alternate hair length",
+      "tag": "alternate_hair_length"
+    },
+    {
+      "phrase": "with alternate hair length",
+      "tag": "alternate_hair_length"
+    },
+    {
+      "phrase": "alternate hairstyle",
+      "tag": "alternate_hairstyle"
+    },
+    {
+      "phrase": "alternate hairstyle visible",
+      "tag": "alternate_hairstyle"
+    },
+    {
+      "phrase": "showing alternate hairstyle",
+      "tag": "alternate_hairstyle"
+    },
+    {
+      "phrase": "with alternate hairstyle",
+      "tag": "alternate_hairstyle"
+    },
+    {
+      "phrase": "animal with hair",
+      "tag": "animal_with_hair"
+    },
+    {
+      "phrase": "animal with hair visible",
+      "tag": "animal_with_hair"
+    },
+    {
+      "phrase": "showing animal with hair",
+      "tag": "animal_with_hair"
+    },
+    {
+      "phrase": "with animal with hair",
+      "tag": "animal_with_hair"
+    },
+    {
+      "phrase": "antenna hair",
+      "tag": "antenna_hair"
+    },
+    {
+      "phrase": "antenna hair visible",
+      "tag": "antenna_hair"
+    },
+    {
+      "phrase": "showing antenna hair",
+      "tag": "antenna_hair"
+    },
+    {
+      "phrase": "with antenna hair",
+      "tag": "antenna_hair"
+    },
+    {
+      "phrase": "aqua hair",
+      "tag": "aqua_hair"
+    },
+    {
+      "phrase": "aqua hair visible",
+      "tag": "aqua_hair"
+    },
+    {
+      "phrase": "showing aqua hair",
+      "tag": "aqua_hair"
+    },
+    {
+      "phrase": "with aqua hair",
+      "tag": "aqua_hair"
+    },
+    {
+      "phrase": "aqua streaks",
+      "tag": "aqua_streaks"
+    },
+    {
+      "phrase": "aqua streaks visible",
+      "tag": "aqua_streaks"
+    },
+    {
+      "phrase": "showing aqua streaks",
+      "tag": "aqua_streaks"
+    },
+    {
+      "phrase": "with aqua streaks",
+      "tag": "aqua_streaks"
+    },
+    {
+      "phrase": "arched bangs",
+      "tag": "arched_bangs"
+    },
+    {
+      "phrase": "arched bangs visible",
+      "tag": "arched_bangs"
+    },
+    {
+      "phrase": "showing arched bangs",
+      "tag": "arched_bangs"
+    },
+    {
+      "phrase": "with arched bangs",
+      "tag": "arched_bangs"
+    },
+    {
+      "phrase": "asymmetrical bangs",
+      "tag": "asymmetrical_bangs"
+    },
+    {
+      "phrase": "asymmetrical bangs visible",
+      "tag": "asymmetrical_bangs"
+    },
+    {
+      "phrase": "showing asymmetrical bangs",
+      "tag": "asymmetrical_bangs"
+    },
+    {
+      "phrase": "with asymmetrical bangs",
+      "tag": "asymmetrical_bangs"
+    },
+    {
+      "phrase": "asymmetrical hair",
+      "tag": "asymmetrical_hair"
+    },
+    {
+      "phrase": "asymmetrical hair visible",
+      "tag": "asymmetrical_hair"
+    },
+    {
+      "phrase": "showing asymmetrical hair",
+      "tag": "asymmetrical_hair"
+    },
+    {
+      "phrase": "with asymmetrical hair",
+      "tag": "asymmetrical_hair"
+    },
+    {
+      "phrase": "asymmetrical sidelocks",
+      "tag": "asymmetrical_sidelocks"
+    },
+    {
+      "phrase": "asymmetrical sidelocks visible",
+      "tag": "asymmetrical_sidelocks"
+    },
+    {
+      "phrase": "showing asymmetrical sidelocks",
+      "tag": "asymmetrical_sidelocks"
+    },
+    {
+      "phrase": "with asymmetrical sidelocks",
+      "tag": "asymmetrical_sidelocks"
+    },
+    {
+      "phrase": "back hair",
+      "tag": "back_hair"
+    },
+    {
+      "phrase": "back hair visible",
+      "tag": "back_hair"
+    },
+    {
+      "phrase": "showing back hair",
+      "tag": "back_hair"
+    },
+    {
+      "phrase": "with back hair",
+      "tag": "back_hair"
+    },
+    {
+      "phrase": "bald",
+      "tag": "bald"
+    },
+    {
+      "phrase": "bald visible",
+      "tag": "bald"
+    },
+    {
+      "phrase": "showing bald",
+      "tag": "bald"
+    },
+    {
+      "phrase": "with bald",
+      "tag": "bald"
+    },
+    {
+      "phrase": "balding",
+      "tag": "balding"
+    },
+    {
+      "phrase": "balding visible",
+      "tag": "balding"
+    },
+    {
+      "phrase": "showing balding",
+      "tag": "balding"
+    },
+    {
+      "phrase": "with balding",
+      "tag": "balding"
+    },
+    {
+      "phrase": "bandage on hair",
+      "tag": "bandage_on_hair"
+    },
+    {
+      "phrase": "bandage on hair visible",
+      "tag": "bandage_on_hair"
+    },
+    {
+      "phrase": "showing bandage on hair",
+      "tag": "bandage_on_hair"
+    },
+    {
+      "phrase": "with bandage on hair",
+      "tag": "bandage_on_hair"
+    },
+    {
+      "phrase": "bangs blown up",
+      "tag": "bangs_blown_up"
+    },
+    {
+      "phrase": "bangs blown up visible",
+      "tag": "bangs_blown_up"
+    },
+    {
+      "phrase": "showing bangs blown up",
+      "tag": "bangs_blown_up"
+    },
+    {
+      "phrase": "with bangs blown up",
+      "tag": "bangs_blown_up"
+    },
+    {
+      "phrase": "bangs pinned back",
+      "tag": "bangs_pinned_back"
+    },
+    {
+      "phrase": "bangs pinned back visible",
+      "tag": "bangs_pinned_back"
+    },
+    {
+      "phrase": "showing bangs pinned back",
+      "tag": "bangs_pinned_back"
+    },
+    {
+      "phrase": "with bangs pinned back",
+      "tag": "bangs_pinned_back"
+    },
+    {
+      "phrase": "beehive hairdo",
+      "tag": "beehive_hairdo"
+    },
+    {
+      "phrase": "beehive hairdo visible",
+      "tag": "beehive_hairdo"
+    },
+    {
+      "phrase": "showing beehive hairdo",
+      "tag": "beehive_hairdo"
+    },
+    {
+      "phrase": "with beehive hairdo",
+      "tag": "beehive_hairdo"
+    },
+    {
+      "phrase": "big hair",
+      "tag": "big_hair"
+    },
+    {
+      "phrase": "big hair visible",
+      "tag": "big_hair"
+    },
+    {
+      "phrase": "showing big hair",
+      "tag": "big_hair"
+    },
+    {
+      "phrase": "with big hair",
+      "tag": "big_hair"
+    },
+    {
+      "phrase": "black hair",
+      "tag": "black_hair"
+    },
+    {
+      "phrase": "black hair visible",
+      "tag": "black_hair"
+    },
+    {
+      "phrase": "showing black hair",
+      "tag": "black_hair"
+    },
+    {
+      "phrase": "with black hair",
+      "tag": "black_hair"
+    },
+    {
+      "phrase": "black streaks",
+      "tag": "black_streaks"
+    },
+    {
+      "phrase": "black streaks visible",
+      "tag": "black_streaks"
+    },
+    {
+      "phrase": "showing black streaks",
+      "tag": "black_streaks"
+    },
+    {
+      "phrase": "with black streaks",
+      "tag": "black_streaks"
+    },
+    {
+      "phrase": "bleached hair",
+      "tag": "bleached_hair"
+    },
+    {
+      "phrase": "bleached hair visible",
+      "tag": "bleached_hair"
+    },
+    {
+      "phrase": "showing bleached hair",
+      "tag": "bleached_hair"
+    },
+    {
+      "phrase": "with bleached hair",
+      "tag": "bleached_hair"
+    },
+    {
+      "phrase": "blonde hair",
+      "tag": "blonde_hair"
+    },
+    {
+      "phrase": "blonde hair visible",
+      "tag": "blonde_hair"
+    },
+    {
+      "phrase": "showing blonde hair",
+      "tag": "blonde_hair"
+    },
+    {
+      "phrase": "with blonde hair",
+      "tag": "blonde_hair"
+    },
+    {
+      "phrase": "blonde streaks",
+      "tag": "blonde_streaks"
+    },
+    {
+      "phrase": "blonde streaks visible",
+      "tag": "blonde_streaks"
+    },
+    {
+      "phrase": "showing blonde streaks",
+      "tag": "blonde_streaks"
+    },
+    {
+      "phrase": "with blonde streaks",
+      "tag": "blonde_streaks"
+    },
+    {
+      "phrase": "blue hair",
+      "tag": "blue_hair"
+    },
+    {
+      "phrase": "blue hair visible",
+      "tag": "blue_hair"
+    },
+    {
+      "phrase": "showing blue hair",
+      "tag": "blue_hair"
+    },
+    {
+      "phrase": "with blue hair",
+      "tag": "blue_hair"
+    },
+    {
+      "phrase": "blue streaks",
+      "tag": "blue_streaks"
+    },
+    {
+      "phrase": "blue streaks visible",
+      "tag": "blue_streaks"
+    },
+    {
+      "phrase": "showing blue streaks",
+      "tag": "blue_streaks"
+    },
+    {
+      "phrase": "with blue streaks",
+      "tag": "blue_streaks"
+    },
+    {
+      "phrase": "blunt bangs",
+      "tag": "blunt_bangs"
+    },
+    {
+      "phrase": "blunt bangs visible",
+      "tag": "blunt_bangs"
+    },
+    {
+      "phrase": "showing blunt bangs",
+      "tag": "blunt_bangs"
+    },
+    {
+      "phrase": "with blunt bangs",
+      "tag": "blunt_bangs"
+    },
+    {
+      "phrase": "blunt ends",
+      "tag": "blunt_ends"
+    },
+    {
+      "phrase": "blunt ends visible",
+      "tag": "blunt_ends"
+    },
+    {
+      "phrase": "showing blunt ends",
+      "tag": "blunt_ends"
+    },
+    {
+      "phrase": "with blunt ends",
+      "tag": "blunt_ends"
+    },
+    {
+      "phrase": "blunt sidelocks",
+      "tag": "blunt_sidelocks"
+    },
+    {
+      "phrase": "blunt sidelocks visible",
+      "tag": "blunt_sidelocks"
+    },
+    {
+      "phrase": "showing blunt sidelocks",
+      "tag": "blunt_sidelocks"
+    },
+    {
+      "phrase": "with blunt sidelocks",
+      "tag": "blunt_sidelocks"
+    },
+    {
+      "phrase": "blunt tresses",
+      "tag": "blunt_tresses"
+    },
+    {
+      "phrase": "blunt tresses visible",
+      "tag": "blunt_tresses"
+    },
+    {
+      "phrase": "showing blunt tresses",
+      "tag": "blunt_tresses"
+    },
+    {
+      "phrase": "with blunt tresses",
+      "tag": "blunt_tresses"
+    },
+    {
+      "phrase": "bob cut",
+      "tag": "bob_cut"
+    },
+    {
+      "phrase": "bob cut visible",
+      "tag": "bob_cut"
+    },
+    {
+      "phrase": "showing bob cut",
+      "tag": "bob_cut"
+    },
+    {
+      "phrase": "with bob cut",
+      "tag": "bob_cut"
+    },
+    {
+      "phrase": "borrowed hairstyle",
+      "tag": "borrowed_hairstyle"
+    },
+    {
+      "phrase": "borrowed hairstyle visible",
+      "tag": "borrowed_hairstyle"
+    },
+    {
+      "phrase": "showing borrowed hairstyle",
+      "tag": "borrowed_hairstyle"
+    },
+    {
+      "phrase": "with borrowed hairstyle",
+      "tag": "borrowed_hairstyle"
+    },
+    {
+      "phrase": "bouncing hair",
+      "tag": "bouncing_hair"
+    },
+    {
+      "phrase": "bouncing hair visible",
+      "tag": "bouncing_hair"
+    },
+    {
+      "phrase": "showing bouncing hair",
+      "tag": "bouncing_hair"
+    },
+    {
+      "phrase": "with bouncing hair",
+      "tag": "bouncing_hair"
+    },
+    {
+      "phrase": "bow-shaped hair",
+      "tag": "bow-shaped_hair"
+    },
+    {
+      "phrase": "bow-shaped hair visible",
+      "tag": "bow-shaped_hair"
+    },
+    {
+      "phrase": "showing bow-shaped hair",
+      "tag": "bow-shaped_hair"
+    },
+    {
+      "phrase": "with bow-shaped hair",
+      "tag": "bow-shaped_hair"
+    },
+    {
+      "phrase": "bowl cut",
+      "tag": "bowl_cut"
+    },
+    {
+      "phrase": "bowl cut visible",
+      "tag": "bowl_cut"
+    },
+    {
+      "phrase": "showing bowl cut",
+      "tag": "bowl_cut"
+    },
+    {
+      "phrase": "with bowl cut",
+      "tag": "bowl_cut"
+    },
+    {
+      "phrase": "box braids",
+      "tag": "box_braids"
+    },
+    {
+      "phrase": "box braids visible",
+      "tag": "box_braids"
+    },
+    {
+      "phrase": "showing box braids",
+      "tag": "box_braids"
+    },
+    {
+      "phrase": "with box braids",
+      "tag": "box_braids"
+    },
+    {
+      "phrase": "braid",
+      "tag": "braid"
+    },
+    {
+      "phrase": "braid visible",
+      "tag": "braid"
+    },
+    {
+      "phrase": "showing braid",
+      "tag": "braid"
+    },
+    {
+      "phrase": "with braid",
+      "tag": "braid"
+    },
+    {
+      "phrase": "braided bangs",
+      "tag": "braided_bangs"
+    },
+    {
+      "phrase": "braided bangs visible",
+      "tag": "braided_bangs"
+    },
+    {
+      "phrase": "showing braided bangs",
+      "tag": "braided_bangs"
+    },
+    {
+      "phrase": "with braided bangs",
+      "tag": "braided_bangs"
+    },
+    {
+      "phrase": "braided bun",
+      "tag": "braided_bun"
+    },
+    {
+      "phrase": "braided bun visible",
+      "tag": "braided_bun"
+    },
+    {
+      "phrase": "showing braided bun",
+      "tag": "braided_bun"
+    },
+    {
+      "phrase": "with braided bun",
+      "tag": "braided_bun"
+    },
+    {
+      "phrase": "braided ponytail",
+      "tag": "braided_ponytail"
+    },
+    {
+      "phrase": "braided ponytail visible",
+      "tag": "braided_ponytail"
+    },
+    {
+      "phrase": "showing braided ponytail",
+      "tag": "braided_ponytail"
+    },
+    {
+      "phrase": "with braided ponytail",
+      "tag": "braided_ponytail"
+    },
+    {
+      "phrase": "braided sidelock",
+      "tag": "braided_sidelock"
+    },
+    {
+      "phrase": "braided sidelock visible",
+      "tag": "braided_sidelock"
+    },
+    {
+      "phrase": "showing braided sidelock",
+      "tag": "braided_sidelock"
+    },
+    {
+      "phrase": "with braided sidelock",
+      "tag": "braided_sidelock"
+    },
+    {
+      "phrase": "braided sidelocks",
+      "tag": "braided_sidelocks"
+    },
+    {
+      "phrase": "braided sidelocks visible",
+      "tag": "braided_sidelocks"
+    },
+    {
+      "phrase": "showing braided sidelocks",
+      "tag": "braided_sidelocks"
+    },
+    {
+      "phrase": "with braided sidelocks",
+      "tag": "braided_sidelocks"
+    },
+    {
+      "phrase": "braided twintails",
+      "tag": "braided_twintails"
+    },
+    {
+      "phrase": "braided twintails visible",
+      "tag": "braided_twintails"
+    },
+    {
+      "phrase": "showing braided twintails",
+      "tag": "braided_twintails"
+    },
+    {
+      "phrase": "with braided twintails",
+      "tag": "braided_twintails"
+    },
+    {
+      "phrase": "bread bun",
+      "tag": "bread_bun"
+    },
+    {
+      "phrase": "bread bun visible",
+      "tag": "bread_bun"
+    },
+    {
+      "phrase": "showing bread bun",
+      "tag": "bread_bun"
+    },
+    {
+      "phrase": "with bread bun",
+      "tag": "bread_bun"
+    },
+    {
+      "phrase": "british shorthair",
+      "tag": "british_shorthair"
+    },
+    {
+      "phrase": "british shorthair visible",
+      "tag": "british_shorthair"
+    },
+    {
+      "phrase": "showing british shorthair",
+      "tag": "british_shorthair"
+    },
+    {
+      "phrase": "with british shorthair",
+      "tag": "british_shorthair"
+    },
+    {
+      "phrase": "brown hair",
+      "tag": "brown_hair"
+    },
+    {
+      "phrase": "brown hair visible",
+      "tag": "brown_hair"
+    },
+    {
+      "phrase": "showing brown hair",
+      "tag": "brown_hair"
+    },
+    {
+      "phrase": "with brown hair",
+      "tag": "brown_hair"
+    },
+    {
+      "phrase": "bun",
+      "tag": "bun_(food)"
+    },
+    {
+      "phrase": "bun food",
+      "tag": "bun_(food)"
+    },
+    {
+      "phrase": "bun visible",
+      "tag": "bun_(food)"
+    },
+    {
+      "phrase": "showing bun",
+      "tag": "bun_(food)"
+    },
+    {
+      "phrase": "with bun",
+      "tag": "bun_(food)"
+    },
+    {
+      "phrase": "bun cover",
+      "tag": "bun_cover"
+    },
+    {
+      "phrase": "bun cover visible",
+      "tag": "bun_cover"
+    },
+    {
+      "phrase": "showing bun cover",
+      "tag": "bun_cover"
+    },
+    {
+      "phrase": "with bun cover",
+      "tag": "bun_cover"
+    },
+    {
+      "phrase": "bun ends",
+      "tag": "bun_ends"
+    },
+    {
+      "phrase": "bun ends visible",
+      "tag": "bun_ends"
+    },
+    {
+      "phrase": "showing bun ends",
+      "tag": "bun_ends"
+    },
+    {
+      "phrase": "with bun ends",
+      "tag": "bun_ends"
+    },
+    {
+      "phrase": "bun with braided base",
+      "tag": "bun_with_braided_base"
+    },
+    {
+      "phrase": "bun with braided base visible",
+      "tag": "bun_with_braided_base"
+    },
+    {
+      "phrase": "showing bun with braided base",
+      "tag": "bun_with_braided_base"
+    },
+    {
+      "phrase": "with bun with braided base",
+      "tag": "bun_with_braided_base"
+    },
+    {
+      "phrase": "bunching hair",
+      "tag": "bunching_hair"
+    },
+    {
+      "phrase": "bunching hair visible",
+      "tag": "bunching_hair"
+    },
+    {
+      "phrase": "showing bunching hair",
+      "tag": "bunching_hair"
+    },
+    {
+      "phrase": "with bunching hair",
+      "tag": "bunching_hair"
+    },
+    {
+      "phrase": "burning hair",
+      "tag": "burning_hair"
+    },
+    {
+      "phrase": "burning hair visible",
+      "tag": "burning_hair"
+    },
+    {
+      "phrase": "showing burning hair",
+      "tag": "burning_hair"
+    },
+    {
+      "phrase": "with burning hair",
+      "tag": "burning_hair"
+    },
+    {
+      "phrase": "burnt hair",
+      "tag": "burnt_hair"
+    },
+    {
+      "phrase": "burnt hair visible",
+      "tag": "burnt_hair"
+    },
+    {
+      "phrase": "showing burnt hair",
+      "tag": "burnt_hair"
+    },
+    {
+      "phrase": "with burnt hair",
+      "tag": "burnt_hair"
+    },
+    {
+      "phrase": "buzz cut",
+      "tag": "buzz_cut"
+    },
+    {
+      "phrase": "buzz cut visible",
+      "tag": "buzz_cut"
+    },
+    {
+      "phrase": "showing buzz cut",
+      "tag": "buzz_cut"
+    },
+    {
+      "phrase": "with buzz cut",
+      "tag": "buzz_cut"
+    },
+    {
+      "phrase": "cable hair",
+      "tag": "cable_hair"
+    },
+    {
+      "phrase": "cable hair visible",
+      "tag": "cable_hair"
+    },
+    {
+      "phrase": "showing cable hair",
+      "tag": "cable_hair"
+    },
+    {
+      "phrase": "with cable hair",
+      "tag": "cable_hair"
+    },
+    {
+      "phrase": "center-flap bangs",
+      "tag": "center-flap_bangs"
+    },
+    {
+      "phrase": "center-flap bangs visible",
+      "tag": "center-flap_bangs"
+    },
+    {
+      "phrase": "showing center-flap bangs",
+      "tag": "center-flap_bangs"
+    },
+    {
+      "phrase": "with center-flap bangs",
+      "tag": "center-flap_bangs"
+    },
+    {
+      "phrase": "chinese hairstyle",
+      "tag": "chinese_hairstyle"
+    },
+    {
+      "phrase": "chinese hairstyle visible",
+      "tag": "chinese_hairstyle"
+    },
+    {
+      "phrase": "showing chinese hairstyle",
+      "tag": "chinese_hairstyle"
+    },
+    {
+      "phrase": "with chinese hairstyle",
+      "tag": "chinese_hairstyle"
+    },
+    {
+      "phrase": "chonmage",
+      "tag": "chonmage"
+    },
+    {
+      "phrase": "chonmage visible",
+      "tag": "chonmage"
+    },
+    {
+      "phrase": "showing chonmage",
+      "tag": "chonmage"
+    },
+    {
+      "phrase": "with chonmage",
+      "tag": "chonmage"
+    },
+    {
+      "phrase": "choppy bangs",
+      "tag": "choppy_bangs"
+    },
+    {
+      "phrase": "choppy bangs visible",
+      "tag": "choppy_bangs"
+    },
+    {
+      "phrase": "showing choppy bangs",
+      "tag": "choppy_bangs"
+    },
+    {
+      "phrase": "with choppy bangs",
+      "tag": "choppy_bangs"
+    },
+    {
+      "phrase": "cinnamiku hairstyle",
+      "tag": "cinnamiku_hairstyle"
+    },
+    {
+      "phrase": "cinnamiku hairstyle visible",
+      "tag": "cinnamiku_hairstyle"
+    },
+    {
+      "phrase": "showing cinnamiku hairstyle",
+      "tag": "cinnamiku_hairstyle"
+    },
+    {
+      "phrase": "with cinnamiku hairstyle",
+      "tag": "cinnamiku_hairstyle"
+    },
+    {
+      "phrase": "claw hair clip",
+      "tag": "claw_hair_clip"
+    },
+    {
+      "phrase": "claw hair clip visible",
+      "tag": "claw_hair_clip"
+    },
+    {
+      "phrase": "showing claw hair clip",
+      "tag": "claw_hair_clip"
+    },
+    {
+      "phrase": "with claw hair clip",
+      "tag": "claw_hair_clip"
+    },
+    {
+      "phrase": "cloud hair",
+      "tag": "cloud_hair"
+    },
+    {
+      "phrase": "cloud hair visible",
+      "tag": "cloud_hair"
+    },
+    {
+      "phrase": "showing cloud hair",
+      "tag": "cloud_hair"
+    },
+    {
+      "phrase": "with cloud hair",
+      "tag": "cloud_hair"
+    },
+    {
+      "phrase": "colored bangs",
+      "tag": "colored_bangs"
+    },
+    {
+      "phrase": "colored bangs visible",
+      "tag": "colored_bangs"
+    },
+    {
+      "phrase": "showing colored bangs",
+      "tag": "colored_bangs"
+    },
+    {
+      "phrase": "with colored bangs",
+      "tag": "colored_bangs"
+    },
+    {
+      "phrase": "colored inner hair",
+      "tag": "colored_inner_hair"
+    },
+    {
+      "phrase": "colored inner hair visible",
+      "tag": "colored_inner_hair"
+    },
+    {
+      "phrase": "showing colored inner hair",
+      "tag": "colored_inner_hair"
+    },
+    {
+      "phrase": "with colored inner hair",
+      "tag": "colored_inner_hair"
+    },
+    {
+      "phrase": "colored tips",
+      "tag": "colored_tips"
+    },
+    {
+      "phrase": "colored tips visible",
+      "tag": "colored_tips"
+    },
+    {
+      "phrase": "showing colored tips",
+      "tag": "colored_tips"
+    },
+    {
+      "phrase": "with colored tips",
+      "tag": "colored_tips"
+    },
+    {
+      "phrase": "cone hair bun",
+      "tag": "cone_hair_bun"
+    },
+    {
+      "phrase": "cone hair bun visible",
+      "tag": "cone_hair_bun"
+    },
+    {
+      "phrase": "showing cone hair bun",
+      "tag": "cone_hair_bun"
+    },
+    {
+      "phrase": "with cone hair bun",
+      "tag": "cone_hair_bun"
+    },
+    {
+      "phrase": "cornrows",
+      "tag": "cornrows"
+    },
+    {
+      "phrase": "cornrows visible",
+      "tag": "cornrows"
+    },
+    {
+      "phrase": "showing cornrows",
+      "tag": "cornrows"
+    },
+    {
+      "phrase": "with cornrows",
+      "tag": "cornrows"
+    },
+    {
+      "phrase": "cowlick",
+      "tag": "cowlick"
+    },
+    {
+      "phrase": "cowlick visible",
+      "tag": "cowlick"
+    },
+    {
+      "phrase": "showing cowlick",
+      "tag": "cowlick"
+    },
+    {
+      "phrase": "with cowlick",
+      "tag": "cowlick"
+    },
+    {
+      "phrase": "crew cut",
+      "tag": "crew_cut"
+    },
+    {
+      "phrase": "crew cut visible",
+      "tag": "crew_cut"
+    },
+    {
+      "phrase": "showing crew cut",
+      "tag": "crew_cut"
+    },
+    {
+      "phrase": "with crew cut",
+      "tag": "crew_cut"
+    },
+    {
+      "phrase": "crossed bangs",
+      "tag": "crossed_bangs"
+    },
+    {
+      "phrase": "crossed bangs visible",
+      "tag": "crossed_bangs"
+    },
+    {
+      "phrase": "showing crossed bangs",
+      "tag": "crossed_bangs"
+    },
+    {
+      "phrase": "with crossed bangs",
+      "tag": "crossed_bangs"
+    },
+    {
+      "phrase": "crosshair",
+      "tag": "crosshair"
+    },
+    {
+      "phrase": "crosshair visible",
+      "tag": "crosshair"
+    },
+    {
+      "phrase": "showing crosshair",
+      "tag": "crosshair"
+    },
+    {
+      "phrase": "with crosshair",
+      "tag": "crosshair"
+    },
+    {
+      "phrase": "crown braid",
+      "tag": "crown_braid"
+    },
+    {
+      "phrase": "crown braid visible",
+      "tag": "crown_braid"
+    },
+    {
+      "phrase": "showing crown braid",
+      "tag": "crown_braid"
+    },
+    {
+      "phrase": "with crown braid",
+      "tag": "crown_braid"
+    },
+    {
+      "phrase": "crystal hair",
+      "tag": "crystal_hair"
+    },
+    {
+      "phrase": "crystal hair visible",
+      "tag": "crystal_hair"
+    },
+    {
+      "phrase": "showing crystal hair",
+      "tag": "crystal_hair"
+    },
+    {
+      "phrase": "with crystal hair",
+      "tag": "crystal_hair"
+    },
+    {
+      "phrase": "curly hair",
+      "tag": "curly_hair"
+    },
+    {
+      "phrase": "curly hair visible",
+      "tag": "curly_hair"
+    },
+    {
+      "phrase": "showing curly hair",
+      "tag": "curly_hair"
+    },
+    {
+      "phrase": "with curly hair",
+      "tag": "curly_hair"
+    },
+    {
+      "phrase": "curly sidelocks",
+      "tag": "curly_sidelocks"
+    },
+    {
+      "phrase": "curly sidelocks visible",
+      "tag": "curly_sidelocks"
+    },
+    {
+      "phrase": "showing curly sidelocks",
+      "tag": "curly_sidelocks"
+    },
+    {
+      "phrase": "with curly sidelocks",
+      "tag": "curly_sidelocks"
+    },
+    {
+      "phrase": "curtained hair",
+      "tag": "curtained_hair"
+    },
+    {
+      "phrase": "curtained hair visible",
+      "tag": "curtained_hair"
+    },
+    {
+      "phrase": "showing curtained hair",
+      "tag": "curtained_hair"
+    },
+    {
+      "phrase": "with curtained hair",
+      "tag": "curtained_hair"
+    },
+    {
+      "phrase": "cut bangs",
+      "tag": "cut_bangs"
+    },
+    {
+      "phrase": "cut bangs visible",
+      "tag": "cut_bangs"
+    },
+    {
+      "phrase": "showing cut bangs",
+      "tag": "cut_bangs"
+    },
+    {
+      "phrase": "with cut bangs",
+      "tag": "cut_bangs"
+    },
+    {
+      "phrase": "detached ahoge",
+      "tag": "detached_ahoge"
+    },
+    {
+      "phrase": "detached ahoge visible",
+      "tag": "detached_ahoge"
+    },
+    {
+      "phrase": "showing detached ahoge",
+      "tag": "detached_ahoge"
+    },
+    {
+      "phrase": "with detached ahoge",
+      "tag": "detached_ahoge"
+    },
+    {
+      "phrase": "detached hair",
+      "tag": "detached_hair"
+    },
+    {
+      "phrase": "detached hair visible",
+      "tag": "detached_hair"
+    },
+    {
+      "phrase": "showing detached hair",
+      "tag": "detached_hair"
+    },
+    {
+      "phrase": "with detached hair",
+      "tag": "detached_hair"
+    },
+    {
+      "phrase": "diagonal bangs",
+      "tag": "diagonal_bangs"
+    },
+    {
+      "phrase": "diagonal bangs visible",
+      "tag": "diagonal_bangs"
+    },
+    {
+      "phrase": "showing diagonal bangs",
+      "tag": "diagonal_bangs"
+    },
+    {
+      "phrase": "with diagonal bangs",
+      "tag": "diagonal_bangs"
+    },
+    {
+      "phrase": "donut hair bun",
+      "tag": "donut_hair_bun"
+    },
+    {
+      "phrase": "donut hair bun visible",
+      "tag": "donut_hair_bun"
+    },
+    {
+      "phrase": "showing donut hair bun",
+      "tag": "donut_hair_bun"
+    },
+    {
+      "phrase": "with donut hair bun",
+      "tag": "donut_hair_bun"
+    },
+    {
+      "phrase": "double-decker hamburger bun",
+      "tag": "double-decker_hamburger_bun"
+    },
+    {
+      "phrase": "double-decker hamburger bun visible",
+      "tag": "double-decker_hamburger_bun"
+    },
+    {
+      "phrase": "showing double-decker hamburger bun",
+      "tag": "double-decker_hamburger_bun"
+    },
+    {
+      "phrase": "with double-decker hamburger bun",
+      "tag": "double-decker_hamburger_bun"
+    },
+    {
+      "phrase": "double-parted bangs",
+      "tag": "double-parted_bangs"
+    },
+    {
+      "phrase": "double-parted bangs visible",
+      "tag": "double-parted_bangs"
+    },
+    {
+      "phrase": "showing double-parted bangs",
+      "tag": "double-parted_bangs"
+    },
+    {
+      "phrase": "with double-parted bangs",
+      "tag": "double-parted_bangs"
+    },
+    {
+      "phrase": "double-parted hair",
+      "tag": "double-parted_hair"
+    },
+    {
+      "phrase": "double-parted hair visible",
+      "tag": "double-parted_hair"
+    },
+    {
+      "phrase": "showing double-parted hair",
+      "tag": "double-parted_hair"
+    },
+    {
+      "phrase": "with double-parted hair",
+      "tag": "double-parted_hair"
+    },
+    {
+      "phrase": "double bun",
+      "tag": "double_bun"
+    },
+    {
+      "phrase": "double bun visible",
+      "tag": "double_bun"
+    },
+    {
+      "phrase": "showing double bun",
+      "tag": "double_bun"
+    },
+    {
+      "phrase": "with double bun",
+      "tag": "double_bun"
+    },
+    {
+      "phrase": "dreadlocks",
+      "tag": "dreadlocks"
+    },
+    {
+      "phrase": "dreadlocks visible",
+      "tag": "dreadlocks"
+    },
+    {
+      "phrase": "showing dreadlocks",
+      "tag": "dreadlocks"
+    },
+    {
+      "phrase": "with dreadlocks",
+      "tag": "dreadlocks"
+    },
+    {
+      "phrase": "drill hair",
+      "tag": "drill_hair"
+    },
+    {
+      "phrase": "drill hair visible",
+      "tag": "drill_hair"
+    },
+    {
+      "phrase": "showing drill hair",
+      "tag": "drill_hair"
+    },
+    {
+      "phrase": "with drill hair",
+      "tag": "drill_hair"
+    },
+    {
+      "phrase": "drill ponytail",
+      "tag": "drill_ponytail"
+    },
+    {
+      "phrase": "drill ponytail visible",
+      "tag": "drill_ponytail"
+    },
+    {
+      "phrase": "showing drill ponytail",
+      "tag": "drill_ponytail"
+    },
+    {
+      "phrase": "with drill ponytail",
+      "tag": "drill_ponytail"
+    },
+    {
+      "phrase": "drill sidelocks",
+      "tag": "drill_sidelocks"
+    },
+    {
+      "phrase": "drill sidelocks visible",
+      "tag": "drill_sidelocks"
+    },
+    {
+      "phrase": "showing drill sidelocks",
+      "tag": "drill_sidelocks"
+    },
+    {
+      "phrase": "with drill sidelocks",
+      "tag": "drill_sidelocks"
+    },
+    {
+      "phrase": "dutch braided ponytail",
+      "tag": "dutch_braided_ponytail"
+    },
+    {
+      "phrase": "dutch braided ponytail visible",
+      "tag": "dutch_braided_ponytail"
+    },
+    {
+      "phrase": "showing dutch braided ponytail",
+      "tag": "dutch_braided_ponytail"
+    },
+    {
+      "phrase": "with dutch braided ponytail",
+      "tag": "dutch_braided_ponytail"
+    },
+    {
+      "phrase": "dyed ahoge",
+      "tag": "dyed_ahoge"
+    },
+    {
+      "phrase": "dyed ahoge visible",
+      "tag": "dyed_ahoge"
+    },
+    {
+      "phrase": "showing dyed ahoge",
+      "tag": "dyed_ahoge"
+    },
+    {
+      "phrase": "with dyed ahoge",
+      "tag": "dyed_ahoge"
+    },
+    {
+      "phrase": "energy hair",
+      "tag": "energy_hair"
+    },
+    {
+      "phrase": "energy hair visible",
+      "tag": "energy_hair"
+    },
+    {
+      "phrase": "showing energy hair",
+      "tag": "energy_hair"
+    },
+    {
+      "phrase": "with energy hair",
+      "tag": "energy_hair"
+    },
+    {
+      "phrase": "expressive hair",
+      "tag": "expressive_hair"
+    },
+    {
+      "phrase": "expressive hair visible",
+      "tag": "expressive_hair"
+    },
+    {
+      "phrase": "showing expressive hair",
+      "tag": "expressive_hair"
+    },
+    {
+      "phrase": "with expressive hair",
+      "tag": "expressive_hair"
+    },
+    {
+      "phrase": "fade",
+      "tag": "fade_(haircut)"
+    },
+    {
+      "phrase": "fade haircut",
+      "tag": "fade_(haircut)"
+    },
+    {
+      "phrase": "fade visible",
+      "tag": "fade_(haircut)"
+    },
+    {
+      "phrase": "showing fade",
+      "tag": "fade_(haircut)"
+    },
+    {
+      "phrase": "with fade",
+      "tag": "fade_(haircut)"
+    },
+    {
+      "phrase": "fake hair bun",
+      "tag": "fake_hair_bun"
+    },
+    {
+      "phrase": "fake hair bun visible",
+      "tag": "fake_hair_bun"
+    },
+    {
+      "phrase": "showing fake hair bun",
+      "tag": "fake_hair_bun"
+    },
+    {
+      "phrase": "with fake hair bun",
+      "tag": "fake_hair_bun"
+    },
+    {
+      "phrase": "fanged bangs",
+      "tag": "fanged_bangs"
+    },
+    {
+      "phrase": "fanged bangs visible",
+      "tag": "fanged_bangs"
+    },
+    {
+      "phrase": "showing fanged bangs",
+      "tag": "fanged_bangs"
+    },
+    {
+      "phrase": "with fanged bangs",
+      "tag": "fanged_bangs"
+    },
+    {
+      "phrase": "feather hair",
+      "tag": "feather_hair"
+    },
+    {
+      "phrase": "feather hair visible",
+      "tag": "feather_hair"
+    },
+    {
+      "phrase": "showing feather hair",
+      "tag": "feather_hair"
+    },
+    {
+      "phrase": "with feather hair",
+      "tag": "feather_hair"
+    },
+    {
+      "phrase": "feixianji",
+      "tag": "feixianji_(hairstyle)"
+    },
+    {
+      "phrase": "feixianji hairstyle",
+      "tag": "feixianji_(hairstyle)"
+    },
+    {
+      "phrase": "feixianji visible",
+      "tag": "feixianji_(hairstyle)"
+    },
+    {
+      "phrase": "showing feixianji",
+      "tag": "feixianji_(hairstyle)"
+    },
+    {
+      "phrase": "with feixianji",
+      "tag": "feixianji_(hairstyle)"
+    },
+    {
+      "phrase": "fiery hair",
+      "tag": "fiery_hair"
+    },
+    {
+      "phrase": "fiery hair visible",
+      "tag": "fiery_hair"
+    },
+    {
+      "phrase": "showing fiery hair",
+      "tag": "fiery_hair"
+    },
+    {
+      "phrase": "with fiery hair",
+      "tag": "fiery_hair"
+    },
+    {
+      "phrase": "flattop",
+      "tag": "flattop"
+    },
+    {
+      "phrase": "flattop visible",
+      "tag": "flattop"
+    },
+    {
+      "phrase": "showing flattop",
+      "tag": "flattop"
+    },
+    {
+      "phrase": "with flattop",
+      "tag": "flattop"
+    },
+    {
+      "phrase": "flipped bangs",
+      "tag": "flipped_bangs"
+    },
+    {
+      "phrase": "flipped bangs visible",
+      "tag": "flipped_bangs"
+    },
+    {
+      "phrase": "showing flipped bangs",
+      "tag": "flipped_bangs"
+    },
+    {
+      "phrase": "with flipped bangs",
+      "tag": "flipped_bangs"
+    },
+    {
+      "phrase": "flipped hair",
+      "tag": "flipped_hair"
+    },
+    {
+      "phrase": "flipped hair visible",
+      "tag": "flipped_hair"
+    },
+    {
+      "phrase": "showing flipped hair",
+      "tag": "flipped_hair"
+    },
+    {
+      "phrase": "with flipped hair",
+      "tag": "flipped_hair"
+    },
+    {
+      "phrase": "flipped sidelocks",
+      "tag": "flipped_sidelocks"
+    },
+    {
+      "phrase": "flipped sidelocks visible",
+      "tag": "flipped_sidelocks"
+    },
+    {
+      "phrase": "showing flipped sidelocks",
+      "tag": "flipped_sidelocks"
+    },
+    {
+      "phrase": "with flipped sidelocks",
+      "tag": "flipped_sidelocks"
+    },
+    {
+      "phrase": "floating hair",
+      "tag": "floating_hair"
+    },
+    {
+      "phrase": "floating hair visible",
+      "tag": "floating_hair"
+    },
+    {
+      "phrase": "showing floating hair",
+      "tag": "floating_hair"
+    },
+    {
+      "phrase": "with floating hair",
+      "tag": "floating_hair"
+    },
+    {
+      "phrase": "flower-shaped hair",
+      "tag": "flower-shaped_hair"
+    },
+    {
+      "phrase": "flower-shaped hair visible",
+      "tag": "flower-shaped_hair"
+    },
+    {
+      "phrase": "showing flower-shaped hair",
+      "tag": "flower-shaped_hair"
+    },
+    {
+      "phrase": "with flower-shaped hair",
+      "tag": "flower-shaped_hair"
+    },
+    {
+      "phrase": "flower braid",
+      "tag": "flower_braid"
+    },
+    {
+      "phrase": "flower braid visible",
+      "tag": "flower_braid"
+    },
+    {
+      "phrase": "showing flower braid",
+      "tag": "flower_braid"
+    },
+    {
+      "phrase": "with flower braid",
+      "tag": "flower_braid"
+    },
+    {
+      "phrase": "fluffy hair",
+      "tag": "fluffy_hair"
+    },
+    {
+      "phrase": "fluffy hair visible",
+      "tag": "fluffy_hair"
+    },
+    {
+      "phrase": "showing fluffy hair",
+      "tag": "fluffy_hair"
+    },
+    {
+      "phrase": "with fluffy hair",
+      "tag": "fluffy_hair"
+    },
+    {
+      "phrase": "folded braid",
+      "tag": "folded_braid"
+    },
+    {
+      "phrase": "folded braid visible",
+      "tag": "folded_braid"
+    },
+    {
+      "phrase": "showing folded braid",
+      "tag": "folded_braid"
+    },
+    {
+      "phrase": "with folded braid",
+      "tag": "folded_braid"
+    },
+    {
+      "phrase": "folded hair",
+      "tag": "folded_hair"
+    },
+    {
+      "phrase": "folded hair visible",
+      "tag": "folded_hair"
+    },
+    {
+      "phrase": "showing folded hair",
+      "tag": "folded_hair"
+    },
+    {
+      "phrase": "with folded hair",
+      "tag": "folded_hair"
+    },
+    {
+      "phrase": "folded ponytail",
+      "tag": "folded_ponytail"
+    },
+    {
+      "phrase": "folded ponytail visible",
+      "tag": "folded_ponytail"
+    },
+    {
+      "phrase": "showing folded ponytail",
+      "tag": "folded_ponytail"
+    },
+    {
+      "phrase": "with folded ponytail",
+      "tag": "folded_ponytail"
+    },
+    {
+      "phrase": "folded twintails",
+      "tag": "folded_twintails"
+    },
+    {
+      "phrase": "folded twintails visible",
+      "tag": "folded_twintails"
+    },
+    {
+      "phrase": "showing folded twintails",
+      "tag": "folded_twintails"
+    },
+    {
+      "phrase": "with folded twintails",
+      "tag": "folded_twintails"
+    },
+    {
+      "phrase": "food-themed hair",
+      "tag": "food-themed_hair"
+    },
+    {
+      "phrase": "food-themed hair visible",
+      "tag": "food-themed_hair"
+    },
+    {
+      "phrase": "showing food-themed hair",
+      "tag": "food-themed_hair"
+    },
+    {
+      "phrase": "with food-themed hair",
+      "tag": "food-themed_hair"
+    },
+    {
+      "phrase": "forked hair",
+      "tag": "forked_hair"
+    },
+    {
+      "phrase": "forked hair visible",
+      "tag": "forked_hair"
+    },
+    {
+      "phrase": "showing forked hair",
+      "tag": "forked_hair"
+    },
+    {
+      "phrase": "with forked hair",
+      "tag": "forked_hair"
+    },
+    {
+      "phrase": "french braided ponytail",
+      "tag": "french_braided_ponytail"
+    },
+    {
+      "phrase": "french braided ponytail visible",
+      "tag": "french_braided_ponytail"
+    },
+    {
+      "phrase": "showing french braided ponytail",
+      "tag": "french_braided_ponytail"
+    },
+    {
+      "phrase": "with french braided ponytail",
+      "tag": "french_braided_ponytail"
+    },
+    {
+      "phrase": "french braided twintails",
+      "tag": "french_braided_twintails"
+    },
+    {
+      "phrase": "french braided twintails visible",
+      "tag": "french_braided_twintails"
+    },
+    {
+      "phrase": "showing french braided twintails",
+      "tag": "french_braided_twintails"
+    },
+    {
+      "phrase": "with french braided twintails",
+      "tag": "french_braided_twintails"
+    },
+    {
+      "phrase": "front braid",
+      "tag": "front_braid"
+    },
+    {
+      "phrase": "front braid visible",
+      "tag": "front_braid"
+    },
+    {
+      "phrase": "showing front braid",
+      "tag": "front_braid"
+    },
+    {
+      "phrase": "with front braid",
+      "tag": "front_braid"
+    },
+    {
+      "phrase": "front ponytail",
+      "tag": "front_ponytail"
+    },
+    {
+      "phrase": "front ponytail visible",
+      "tag": "front_ponytail"
+    },
+    {
+      "phrase": "showing front ponytail",
+      "tag": "front_ponytail"
+    },
+    {
+      "phrase": "with front ponytail",
+      "tag": "front_ponytail"
+    },
+    {
+      "phrase": "glowing hair",
+      "tag": "glowing_hair"
+    },
+    {
+      "phrase": "glowing hair visible",
+      "tag": "glowing_hair"
+    },
+    {
+      "phrase": "showing glowing hair",
+      "tag": "glowing_hair"
+    },
+    {
+      "phrase": "with glowing hair",
+      "tag": "glowing_hair"
+    },
+    {
+      "phrase": "gradient hair",
+      "tag": "gradient_hair"
+    },
+    {
+      "phrase": "gradient hair visible",
+      "tag": "gradient_hair"
+    },
+    {
+      "phrase": "showing gradient hair",
+      "tag": "gradient_hair"
+    },
+    {
+      "phrase": "with gradient hair",
+      "tag": "gradient_hair"
+    },
+    {
+      "phrase": "green hair",
+      "tag": "green_hair"
+    },
+    {
+      "phrase": "green hair visible",
+      "tag": "green_hair"
+    },
+    {
+      "phrase": "showing green hair",
+      "tag": "green_hair"
+    },
+    {
+      "phrase": "with green hair",
+      "tag": "green_hair"
+    },
+    {
+      "phrase": "green streaks",
+      "tag": "green_streaks"
+    },
+    {
+      "phrase": "green streaks visible",
+      "tag": "green_streaks"
+    },
+    {
+      "phrase": "showing green streaks",
+      "tag": "green_streaks"
+    },
+    {
+      "phrase": "with green streaks",
+      "tag": "green_streaks"
+    },
+    {
+      "phrase": "grey hair",
+      "tag": "grey_hair"
+    },
+    {
+      "phrase": "grey hair visible",
+      "tag": "grey_hair"
+    },
+    {
+      "phrase": "showing grey hair",
+      "tag": "grey_hair"
+    },
+    {
+      "phrase": "with grey hair",
+      "tag": "grey_hair"
+    },
+    {
+      "phrase": "group hairstyle switch",
+      "tag": "group_hairstyle_switch"
+    },
+    {
+      "phrase": "group hairstyle switch visible",
+      "tag": "group_hairstyle_switch"
+    },
+    {
+      "phrase": "showing group hairstyle switch",
+      "tag": "group_hairstyle_switch"
+    },
+    {
+      "phrase": "with group hairstyle switch",
+      "tag": "group_hairstyle_switch"
+    },
+    {
+      "phrase": "hair around ear",
+      "tag": "hair_around_ear"
+    },
+    {
+      "phrase": "hair around ear visible",
+      "tag": "hair_around_ear"
+    },
+    {
+      "phrase": "showing hair around ear",
+      "tag": "hair_around_ear"
+    },
+    {
+      "phrase": "with hair around ear",
+      "tag": "hair_around_ear"
+    },
+    {
+      "phrase": "hair around horn",
+      "tag": "hair_around_horn"
+    },
+    {
+      "phrase": "hair around horn visible",
+      "tag": "hair_around_horn"
+    },
+    {
+      "phrase": "showing hair around horn",
+      "tag": "hair_around_horn"
+    },
+    {
+      "phrase": "with hair around horn",
+      "tag": "hair_around_horn"
+    },
+    {
+      "phrase": "hair as food",
+      "tag": "hair_as_food"
+    },
+    {
+      "phrase": "hair as food visible",
+      "tag": "hair_as_food"
+    },
+    {
+      "phrase": "showing hair as food",
+      "tag": "hair_as_food"
+    },
+    {
+      "phrase": "with hair as food",
+      "tag": "hair_as_food"
+    },
+    {
+      "phrase": "hair behind ear",
+      "tag": "hair_behind_ear"
+    },
+    {
+      "phrase": "hair behind ear visible",
+      "tag": "hair_behind_ear"
+    },
+    {
+      "phrase": "showing hair behind ear",
+      "tag": "hair_behind_ear"
+    },
+    {
+      "phrase": "with hair behind ear",
+      "tag": "hair_behind_ear"
+    },
+    {
+      "phrase": "hair behind eyewear",
+      "tag": "hair_behind_eyewear"
+    },
+    {
+      "phrase": "hair behind eyewear visible",
+      "tag": "hair_behind_eyewear"
+    },
+    {
+      "phrase": "showing hair behind eyewear",
+      "tag": "hair_behind_eyewear"
+    },
+    {
+      "phrase": "with hair behind eyewear",
+      "tag": "hair_behind_eyewear"
+    },
+    {
+      "phrase": "hair blush",
+      "tag": "hair_blush"
+    },
+    {
+      "phrase": "hair blush visible",
+      "tag": "hair_blush"
+    },
+    {
+      "phrase": "showing hair blush",
+      "tag": "hair_blush"
+    },
+    {
+      "phrase": "with hair blush",
+      "tag": "hair_blush"
+    },
+    {
+      "phrase": "hair branch",
+      "tag": "hair_branch"
+    },
+    {
+      "phrase": "hair branch visible",
+      "tag": "hair_branch"
+    },
+    {
+      "phrase": "showing hair branch",
+      "tag": "hair_branch"
+    },
+    {
+      "phrase": "with hair branch",
+      "tag": "hair_branch"
+    },
+    {
+      "phrase": "hair brush",
+      "tag": "hair_brush"
+    },
+    {
+      "phrase": "hair brush visible",
+      "tag": "hair_brush"
+    },
+    {
+      "phrase": "showing hair brush",
+      "tag": "hair_brush"
+    },
+    {
+      "phrase": "with hair brush",
+      "tag": "hair_brush"
+    },
+    {
+      "phrase": "hair bun",
+      "tag": "hair_bun"
+    },
+    {
+      "phrase": "hair bun visible",
+      "tag": "hair_bun"
+    },
+    {
+      "phrase": "showing hair bun",
+      "tag": "hair_bun"
+    },
+    {
+      "phrase": "with hair bun",
+      "tag": "hair_bun"
+    },
+    {
+      "phrase": "hair censor",
+      "tag": "hair_censor"
+    },
+    {
+      "phrase": "hair censor visible",
+      "tag": "hair_censor"
+    },
+    {
+      "phrase": "showing hair censor",
+      "tag": "hair_censor"
+    },
+    {
+      "phrase": "with hair censor",
+      "tag": "hair_censor"
+    },
+    {
+      "phrase": "hair chart",
+      "tag": "hair_chart"
+    },
+    {
+      "phrase": "hair chart visible",
+      "tag": "hair_chart"
+    },
+    {
+      "phrase": "showing hair chart",
+      "tag": "hair_chart"
+    },
+    {
+      "phrase": "with hair chart",
+      "tag": "hair_chart"
+    },
+    {
+      "phrase": "hair clipper",
+      "tag": "hair_clipper"
+    },
+    {
+      "phrase": "hair clipper visible",
+      "tag": "hair_clipper"
+    },
+    {
+      "phrase": "showing hair clipper",
+      "tag": "hair_clipper"
+    },
+    {
+      "phrase": "with hair clipper",
+      "tag": "hair_clipper"
+    },
+    {
+      "phrase": "hair color connection",
+      "tag": "hair_color_connection"
+    },
+    {
+      "phrase": "hair color connection visible",
+      "tag": "hair_color_connection"
+    },
+    {
+      "phrase": "showing hair color connection",
+      "tag": "hair_color_connection"
+    },
+    {
+      "phrase": "with hair color connection",
+      "tag": "hair_color_connection"
+    },
+    {
+      "phrase": "hair color switch",
+      "tag": "hair_color_switch"
+    },
+    {
+      "phrase": "hair color switch visible",
+      "tag": "hair_color_switch"
+    },
+    {
+      "phrase": "showing hair color switch",
+      "tag": "hair_color_switch"
+    },
+    {
+      "phrase": "with hair color switch",
+      "tag": "hair_color_switch"
+    },
+    {
+      "phrase": "hair down",
+      "tag": "hair_down"
+    },
+    {
+      "phrase": "hair down visible",
+      "tag": "hair_down"
+    },
+    {
+      "phrase": "showing hair down",
+      "tag": "hair_down"
+    },
+    {
+      "phrase": "with hair down",
+      "tag": "hair_down"
+    },
+    {
+      "phrase": "hair dryer",
+      "tag": "hair_dryer"
+    },
+    {
+      "phrase": "hair dryer visible",
+      "tag": "hair_dryer"
+    },
+    {
+      "phrase": "showing hair dryer",
+      "tag": "hair_dryer"
+    },
+    {
+      "phrase": "with hair dryer",
+      "tag": "hair_dryer"
+    },
+    {
+      "phrase": "hair dye",
+      "tag": "hair_dye"
+    },
+    {
+      "phrase": "hair dye visible",
+      "tag": "hair_dye"
+    },
+    {
+      "phrase": "showing hair dye",
+      "tag": "hair_dye"
+    },
+    {
+      "phrase": "with hair dye",
+      "tag": "hair_dye"
+    },
+    {
+      "phrase": "hair ears",
+      "tag": "hair_ears"
+    },
+    {
+      "phrase": "hair ears visible",
+      "tag": "hair_ears"
+    },
+    {
+      "phrase": "showing hair ears",
+      "tag": "hair_ears"
+    },
+    {
+      "phrase": "with hair ears",
+      "tag": "hair_ears"
+    },
+    {
+      "phrase": "hair edges",
+      "tag": "hair_edges"
+    },
+    {
+      "phrase": "hair edges visible",
+      "tag": "hair_edges"
+    },
+    {
+      "phrase": "showing hair edges",
+      "tag": "hair_edges"
+    },
+    {
+      "phrase": "with hair edges",
+      "tag": "hair_edges"
+    },
+    {
+      "phrase": "hair elastic",
+      "tag": "hair_elastic"
+    },
+    {
+      "phrase": "hair elastic visible",
+      "tag": "hair_elastic"
+    },
+    {
+      "phrase": "showing hair elastic",
+      "tag": "hair_elastic"
+    },
+    {
+      "phrase": "with hair elastic",
+      "tag": "hair_elastic"
+    },
+    {
+      "phrase": "hair extensions",
+      "tag": "hair_extensions"
+    },
+    {
+      "phrase": "hair extensions visible",
+      "tag": "hair_extensions"
+    },
+    {
+      "phrase": "showing hair extensions",
+      "tag": "hair_extensions"
+    },
+    {
+      "phrase": "with hair extensions",
+      "tag": "hair_extensions"
+    },
+    {
+      "phrase": "hair fan",
+      "tag": "hair_fan"
+    },
+    {
+      "phrase": "hair fan visible",
+      "tag": "hair_fan"
+    },
+    {
+      "phrase": "showing hair fan",
+      "tag": "hair_fan"
+    },
+    {
+      "phrase": "with hair fan",
+      "tag": "hair_fan"
+    },
+    {
+      "phrase": "hair flaps",
+      "tag": "hair_flaps"
+    },
+    {
+      "phrase": "hair flaps visible",
+      "tag": "hair_flaps"
+    },
+    {
+      "phrase": "showing hair flaps",
+      "tag": "hair_flaps"
+    },
+    {
+      "phrase": "with hair flaps",
+      "tag": "hair_flaps"
+    },
+    {
+      "phrase": "hair flip",
+      "tag": "hair_flip"
+    },
+    {
+      "phrase": "hair flip visible",
+      "tag": "hair_flip"
+    },
+    {
+      "phrase": "showing hair flip",
+      "tag": "hair_flip"
+    },
+    {
+      "phrase": "with hair flip",
+      "tag": "hair_flip"
+    },
+    {
+      "phrase": "hair floating upwards",
+      "tag": "hair_floating_upwards"
+    },
+    {
+      "phrase": "hair floating upwards visible",
+      "tag": "hair_floating_upwards"
+    },
+    {
+      "phrase": "showing hair floating upwards",
+      "tag": "hair_floating_upwards"
+    },
+    {
+      "phrase": "with hair floating upwards",
+      "tag": "hair_floating_upwards"
+    },
+    {
+      "phrase": "hair flowing over",
+      "tag": "hair_flowing_over"
+    },
+    {
+      "phrase": "hair flowing over visible",
+      "tag": "hair_flowing_over"
+    },
+    {
+      "phrase": "showing hair flowing over",
+      "tag": "hair_flowing_over"
+    },
+    {
+      "phrase": "with hair flowing over",
+      "tag": "hair_flowing_over"
+    },
+    {
+      "phrase": "focus on hair",
+      "tag": "hair_focus"
+    },
+    {
+      "phrase": "focused on hair",
+      "tag": "hair_focus"
+    },
+    {
+      "phrase": "hair focus",
+      "tag": "hair_focus"
+    },
+    {
+      "phrase": "showing hair focus",
+      "tag": "hair_focus"
+    },
+    {
+      "phrase": "with hair focus",
+      "tag": "hair_focus"
+    },
+    {
+      "phrase": "hair half over shoulder",
+      "tag": "hair_half_over_shoulder"
+    },
+    {
+      "phrase": "hair half over shoulder visible",
+      "tag": "hair_half_over_shoulder"
+    },
+    {
+      "phrase": "showing hair half over shoulder",
+      "tag": "hair_half_over_shoulder"
+    },
+    {
+      "phrase": "with hair half over shoulder",
+      "tag": "hair_half_over_shoulder"
+    },
+    {
+      "phrase": "hair half undone",
+      "tag": "hair_half_undone"
+    },
+    {
+      "phrase": "hair half undone visible",
+      "tag": "hair_half_undone"
+    },
+    {
+      "phrase": "showing hair half undone",
+      "tag": "hair_half_undone"
+    },
+    {
+      "phrase": "with hair half undone",
+      "tag": "hair_half_undone"
+    },
+    {
+      "phrase": "hair horns",
+      "tag": "hair_horns"
+    },
+    {
+      "phrase": "hair horns visible",
+      "tag": "hair_horns"
+    },
+    {
+      "phrase": "showing hair horns",
+      "tag": "hair_horns"
+    },
+    {
+      "phrase": "with hair horns",
+      "tag": "hair_horns"
+    },
+    {
+      "phrase": "hair intakes",
+      "tag": "hair_intakes"
+    },
+    {
+      "phrase": "hair intakes visible",
+      "tag": "hair_intakes"
+    },
+    {
+      "phrase": "showing hair intakes",
+      "tag": "hair_intakes"
+    },
+    {
+      "phrase": "with hair intakes",
+      "tag": "hair_intakes"
+    },
+    {
+      "phrase": "hair knot",
+      "tag": "hair_knot"
+    },
+    {
+      "phrase": "hair knot visible",
+      "tag": "hair_knot"
+    },
+    {
+      "phrase": "showing hair knot",
+      "tag": "hair_knot"
+    },
+    {
+      "phrase": "with hair knot",
+      "tag": "hair_knot"
+    },
+    {
+      "phrase": "hair length switch",
+      "tag": "hair_length_switch"
+    },
+    {
+      "phrase": "hair length switch visible",
+      "tag": "hair_length_switch"
+    },
+    {
+      "phrase": "showing hair length switch",
+      "tag": "hair_length_switch"
+    },
+    {
+      "phrase": "with hair length switch",
+      "tag": "hair_length_switch"
+    },
+    {
+      "phrase": "hair move",
+      "tag": "hair_move"
+    },
+    {
+      "phrase": "hair move visible",
+      "tag": "hair_move"
+    },
+    {
+      "phrase": "showing hair move",
+      "tag": "hair_move"
+    },
+    {
+      "phrase": "with hair move",
+      "tag": "hair_move"
+    },
+    {
+      "phrase": "hair mustache",
+      "tag": "hair_mustache"
+    },
+    {
+      "phrase": "hair mustache visible",
+      "tag": "hair_mustache"
+    },
+    {
+      "phrase": "showing hair mustache",
+      "tag": "hair_mustache"
+    },
+    {
+      "phrase": "with hair mustache",
+      "tag": "hair_mustache"
+    },
+    {
+      "phrase": "hair net",
+      "tag": "hair_net"
+    },
+    {
+      "phrase": "hair net visible",
+      "tag": "hair_net"
+    },
+    {
+      "phrase": "showing hair net",
+      "tag": "hair_net"
+    },
+    {
+      "phrase": "with hair net",
+      "tag": "hair_net"
+    },
+    {
+      "phrase": "hair on horn",
+      "tag": "hair_on_horn"
+    },
+    {
+      "phrase": "hair on horn visible",
+      "tag": "hair_on_horn"
+    },
+    {
+      "phrase": "showing hair on horn",
+      "tag": "hair_on_horn"
+    },
+    {
+      "phrase": "with hair on horn",
+      "tag": "hair_on_horn"
+    },
+    {
+      "phrase": "hair over crotch",
+      "tag": "hair_over_crotch"
+    },
+    {
+      "phrase": "hair over crotch visible",
+      "tag": "hair_over_crotch"
+    },
+    {
+      "phrase": "showing hair over crotch",
+      "tag": "hair_over_crotch"
+    },
+    {
+      "phrase": "with hair over crotch",
+      "tag": "hair_over_crotch"
+    },
+    {
+      "phrase": "hair over face",
+      "tag": "hair_over_face"
+    },
+    {
+      "phrase": "hair over face visible",
+      "tag": "hair_over_face"
+    },
+    {
+      "phrase": "showing hair over face",
+      "tag": "hair_over_face"
+    },
+    {
+      "phrase": "with hair over face",
+      "tag": "hair_over_face"
+    },
+    {
+      "phrase": "hair over one eye",
+      "tag": "hair_over_one_eye"
+    },
+    {
+      "phrase": "hair over one eye visible",
+      "tag": "hair_over_one_eye"
+    },
+    {
+      "phrase": "showing hair over one eye",
+      "tag": "hair_over_one_eye"
+    },
+    {
+      "phrase": "with hair over one eye",
+      "tag": "hair_over_one_eye"
+    },
+    {
+      "phrase": "hair over shoulder",
+      "tag": "hair_over_shoulder"
+    },
+    {
+      "phrase": "hair over shoulder visible",
+      "tag": "hair_over_shoulder"
+    },
+    {
+      "phrase": "showing hair over shoulder",
+      "tag": "hair_over_shoulder"
+    },
+    {
+      "phrase": "with hair over shoulder",
+      "tag": "hair_over_shoulder"
+    },
+    {
+      "phrase": "hair petal",
+      "tag": "hair_petal"
+    },
+    {
+      "phrase": "hair petal visible",
+      "tag": "hair_petal"
+    },
+    {
+      "phrase": "showing hair petal",
+      "tag": "hair_petal"
+    },
+    {
+      "phrase": "with hair petal",
+      "tag": "hair_petal"
+    },
+    {
+      "phrase": "hair pulled back",
+      "tag": "hair_pulled_back"
+    },
+    {
+      "phrase": "hair pulled back visible",
+      "tag": "hair_pulled_back"
+    },
+    {
+      "phrase": "showing hair pulled back",
+      "tag": "hair_pulled_back"
+    },
+    {
+      "phrase": "with hair pulled back",
+      "tag": "hair_pulled_back"
+    },
+    {
+      "phrase": "hair raising",
+      "tag": "hair_raising"
+    },
+    {
+      "phrase": "hair raising visible",
+      "tag": "hair_raising"
+    },
+    {
+      "phrase": "showing hair raising",
+      "tag": "hair_raising"
+    },
+    {
+      "phrase": "with hair raising",
+      "tag": "hair_raising"
+    },
+    {
+      "phrase": "hair rollers",
+      "tag": "hair_rollers"
+    },
+    {
+      "phrase": "hair rollers visible",
+      "tag": "hair_rollers"
+    },
+    {
+      "phrase": "showing hair rollers",
+      "tag": "hair_rollers"
+    },
+    {
+      "phrase": "with hair rollers",
+      "tag": "hair_rollers"
+    },
+    {
+      "phrase": "hair salon",
+      "tag": "hair_salon"
+    },
+    {
+      "phrase": "hair salon visible",
+      "tag": "hair_salon"
+    },
+    {
+      "phrase": "showing hair salon",
+      "tag": "hair_salon"
+    },
+    {
+      "phrase": "with hair salon",
+      "tag": "hair_salon"
+    },
+    {
+      "phrase": "hair scarf",
+      "tag": "hair_scarf"
+    },
+    {
+      "phrase": "hair scarf visible",
+      "tag": "hair_scarf"
+    },
+    {
+      "phrase": "showing hair scarf",
+      "tag": "hair_scarf"
+    },
+    {
+      "phrase": "with hair scarf",
+      "tag": "hair_scarf"
+    },
+    {
+      "phrase": "hair slicked back",
+      "tag": "hair_slicked_back"
+    },
+    {
+      "phrase": "hair slicked back visible",
+      "tag": "hair_slicked_back"
+    },
+    {
+      "phrase": "showing hair slicked back",
+      "tag": "hair_slicked_back"
+    },
+    {
+      "phrase": "with hair slicked back",
+      "tag": "hair_slicked_back"
+    },
+    {
+      "phrase": "hair spray",
+      "tag": "hair_spray"
+    },
+    {
+      "phrase": "hair spray visible",
+      "tag": "hair_spray"
+    },
+    {
+      "phrase": "showing hair spray",
+      "tag": "hair_spray"
+    },
+    {
+      "phrase": "with hair spray",
+      "tag": "hair_spray"
+    },
+    {
+      "phrase": "hair spread out",
+      "tag": "hair_spread_out"
+    },
+    {
+      "phrase": "hair spread out visible",
+      "tag": "hair_spread_out"
+    },
+    {
+      "phrase": "showing hair spread out",
+      "tag": "hair_spread_out"
+    },
+    {
+      "phrase": "with hair spread out",
+      "tag": "hair_spread_out"
+    },
+    {
+      "phrase": "hair sprinkles",
+      "tag": "hair_sprinkles"
+    },
+    {
+      "phrase": "hair sprinkles visible",
+      "tag": "hair_sprinkles"
+    },
+    {
+      "phrase": "showing hair sprinkles",
+      "tag": "hair_sprinkles"
+    },
+    {
+      "phrase": "with hair sprinkles",
+      "tag": "hair_sprinkles"
+    },
+    {
+      "phrase": "hair straightener",
+      "tag": "hair_straightener"
+    },
+    {
+      "phrase": "hair straightener visible",
+      "tag": "hair_straightener"
+    },
+    {
+      "phrase": "showing hair straightener",
+      "tag": "hair_straightener"
+    },
+    {
+      "phrase": "with hair straightener",
+      "tag": "hair_straightener"
+    },
+    {
+      "phrase": "hair tattoo",
+      "tag": "hair_tattoo"
+    },
+    {
+      "phrase": "hair tattoo visible",
+      "tag": "hair_tattoo"
+    },
+    {
+      "phrase": "showing hair tattoo",
+      "tag": "hair_tattoo"
+    },
+    {
+      "phrase": "with hair tattoo",
+      "tag": "hair_tattoo"
+    },
+    {
+      "phrase": "hair through headwear",
+      "tag": "hair_through_headwear"
+    },
+    {
+      "phrase": "hair through headwear visible",
+      "tag": "hair_through_headwear"
+    },
+    {
+      "phrase": "showing hair through headwear",
+      "tag": "hair_through_headwear"
+    },
+    {
+      "phrase": "with hair through headwear",
+      "tag": "hair_through_headwear"
+    },
+    {
+      "phrase": "hair through hood",
+      "tag": "hair_through_hood"
+    },
+    {
+      "phrase": "hair through hood visible",
+      "tag": "hair_through_hood"
+    },
+    {
+      "phrase": "showing hair through hood",
+      "tag": "hair_through_hood"
+    },
+    {
+      "phrase": "with hair through hood",
+      "tag": "hair_through_hood"
+    },
+    {
+      "phrase": "hair tie",
+      "tag": "hair_tie"
+    },
+    {
+      "phrase": "hair tie visible",
+      "tag": "hair_tie"
+    },
+    {
+      "phrase": "showing hair tie",
+      "tag": "hair_tie"
+    },
+    {
+      "phrase": "with hair tie",
+      "tag": "hair_tie"
+    },
+    {
+      "phrase": "hair tubes",
+      "tag": "hair_tubes"
+    },
+    {
+      "phrase": "hair tubes visible",
+      "tag": "hair_tubes"
+    },
+    {
+      "phrase": "showing hair tubes",
+      "tag": "hair_tubes"
+    },
+    {
+      "phrase": "with hair tubes",
+      "tag": "hair_tubes"
+    },
+    {
+      "phrase": "hair tubes removed",
+      "tag": "hair_tubes_removed"
+    },
+    {
+      "phrase": "hair tubes removed visible",
+      "tag": "hair_tubes_removed"
+    },
+    {
+      "phrase": "showing hair tubes removed",
+      "tag": "hair_tubes_removed"
+    },
+    {
+      "phrase": "with hair tubes removed",
+      "tag": "hair_tubes_removed"
+    },
+    {
+      "phrase": "hair tuft",
+      "tag": "hair_tuft"
+    },
+    {
+      "phrase": "hair tuft visible",
+      "tag": "hair_tuft"
+    },
+    {
+      "phrase": "showing hair tuft",
+      "tag": "hair_tuft"
+    },
+    {
+      "phrase": "with hair tuft",
+      "tag": "hair_tuft"
+    },
+    {
+      "phrase": "hair undone",
+      "tag": "hair_undone"
+    },
+    {
+      "phrase": "hair undone visible",
+      "tag": "hair_undone"
+    },
+    {
+      "phrase": "showing hair undone",
+      "tag": "hair_undone"
+    },
+    {
+      "phrase": "with hair undone",
+      "tag": "hair_undone"
+    },
+    {
+      "phrase": "hair up",
+      "tag": "hair_up"
+    },
+    {
+      "phrase": "hair up visible",
+      "tag": "hair_up"
+    },
+    {
+      "phrase": "showing hair up",
+      "tag": "hair_up"
+    },
+    {
+      "phrase": "with hair up",
+      "tag": "hair_up"
+    },
+    {
+      "phrase": "hair vines",
+      "tag": "hair_vines"
+    },
+    {
+      "phrase": "hair vines visible",
+      "tag": "hair_vines"
+    },
+    {
+      "phrase": "showing hair vines",
+      "tag": "hair_vines"
+    },
+    {
+      "phrase": "with hair vines",
+      "tag": "hair_vines"
+    },
+    {
+      "phrase": "hair visible through wig",
+      "tag": "hair_visible_through_wig"
+    },
+    {
+      "phrase": "hair visible through wig visible",
+      "tag": "hair_visible_through_wig"
+    },
+    {
+      "phrase": "showing hair visible through wig",
+      "tag": "hair_visible_through_wig"
+    },
+    {
+      "phrase": "with hair visible through wig",
+      "tag": "hair_visible_through_wig"
+    },
+    {
+      "phrase": "hair wagging",
+      "tag": "hair_wagging"
+    },
+    {
+      "phrase": "hair wagging visible",
+      "tag": "hair_wagging"
+    },
+    {
+      "phrase": "showing hair wagging",
+      "tag": "hair_wagging"
+    },
+    {
+      "phrase": "with hair wagging",
+      "tag": "hair_wagging"
+    },
+    {
+      "phrase": "hair wings",
+      "tag": "hair_wings"
+    },
+    {
+      "phrase": "hair wings visible",
+      "tag": "hair_wings"
+    },
+    {
+      "phrase": "showing hair wings",
+      "tag": "hair_wings"
+    },
+    {
+      "phrase": "with hair wings",
+      "tag": "hair_wings"
+    },
+    {
+      "phrase": "hairline",
+      "tag": "hairline"
+    },
+    {
+      "phrase": "hairline visible",
+      "tag": "hairline"
+    },
+    {
+      "phrase": "showing hairline",
+      "tag": "hairline"
+    },
+    {
+      "phrase": "with hairline",
+      "tag": "hairline"
+    },
+    {
+      "phrase": "hairstyle connection",
+      "tag": "hairstyle_connection"
+    },
+    {
+      "phrase": "hairstyle connection visible",
+      "tag": "hairstyle_connection"
+    },
+    {
+      "phrase": "showing hairstyle connection",
+      "tag": "hairstyle_connection"
+    },
+    {
+      "phrase": "with hairstyle connection",
+      "tag": "hairstyle_connection"
+    },
+    {
+      "phrase": "hairstyle switch",
+      "tag": "hairstyle_switch"
+    },
+    {
+      "phrase": "hairstyle switch visible",
+      "tag": "hairstyle_switch"
+    },
+    {
+      "phrase": "showing hairstyle switch",
+      "tag": "hairstyle_switch"
+    },
+    {
+      "phrase": "with hairstyle switch",
+      "tag": "hairstyle_switch"
+    },
+    {
+      "phrase": "half crown braid",
+      "tag": "half_crown_braid"
+    },
+    {
+      "phrase": "half crown braid visible",
+      "tag": "half_crown_braid"
+    },
+    {
+      "phrase": "showing half crown braid",
+      "tag": "half_crown_braid"
+    },
+    {
+      "phrase": "with half crown braid",
+      "tag": "half_crown_braid"
+    },
+    {
+      "phrase": "half up braid",
+      "tag": "half_up_braid"
+    },
+    {
+      "phrase": "half up braid visible",
+      "tag": "half_up_braid"
+    },
+    {
+      "phrase": "showing half up braid",
+      "tag": "half_up_braid"
+    },
+    {
+      "phrase": "with half up braid",
+      "tag": "half_up_braid"
+    },
+    {
+      "phrase": "half up bun",
+      "tag": "half_up_bun"
+    },
+    {
+      "phrase": "half up bun visible",
+      "tag": "half_up_bun"
+    },
+    {
+      "phrase": "showing half up bun",
+      "tag": "half_up_bun"
+    },
+    {
+      "phrase": "with half up bun",
+      "tag": "half_up_bun"
+    },
+    {
+      "phrase": "half up half down braid",
+      "tag": "half_up_half_down_braid"
+    },
+    {
+      "phrase": "half up half down braid visible",
+      "tag": "half_up_half_down_braid"
+    },
+    {
+      "phrase": "showing half up half down braid",
+      "tag": "half_up_half_down_braid"
+    },
+    {
+      "phrase": "with half up half down braid",
+      "tag": "half_up_half_down_braid"
+    },
+    {
+      "phrase": "half updo",
+      "tag": "half_updo"
+    },
+    {
+      "phrase": "half updo visible",
+      "tag": "half_updo"
+    },
+    {
+      "phrase": "showing half updo",
+      "tag": "half_updo"
+    },
+    {
+      "phrase": "with half updo",
+      "tag": "half_updo"
+    },
+    {
+      "phrase": "halo ahoge",
+      "tag": "halo_ahoge"
+    },
+    {
+      "phrase": "halo ahoge visible",
+      "tag": "halo_ahoge"
+    },
+    {
+      "phrase": "showing halo ahoge",
+      "tag": "halo_ahoge"
+    },
+    {
+      "phrase": "with halo ahoge",
+      "tag": "halo_ahoge"
+    },
+    {
+      "phrase": "heart-shaped hair",
+      "tag": "heart-shaped_hair"
+    },
+    {
+      "phrase": "heart-shaped hair visible",
+      "tag": "heart-shaped_hair"
+    },
+    {
+      "phrase": "showing heart-shaped hair",
+      "tag": "heart-shaped_hair"
+    },
+    {
+      "phrase": "with heart-shaped hair",
+      "tag": "heart-shaped_hair"
+    },
+    {
+      "phrase": "heart ahoge",
+      "tag": "heart_ahoge"
+    },
+    {
+      "phrase": "heart ahoge visible",
+      "tag": "heart_ahoge"
+    },
+    {
+      "phrase": "showing heart ahoge",
+      "tag": "heart_ahoge"
+    },
+    {
+      "phrase": "with heart ahoge",
+      "tag": "heart_ahoge"
+    },
+    {
+      "phrase": "heart ahoge duo",
+      "tag": "heart_ahoge_duo"
+    },
+    {
+      "phrase": "heart ahoge duo visible",
+      "tag": "heart_ahoge_duo"
+    },
+    {
+      "phrase": "showing heart ahoge duo",
+      "tag": "heart_ahoge_duo"
+    },
+    {
+      "phrase": "with heart ahoge duo",
+      "tag": "heart_ahoge_duo"
+    },
+    {
+      "phrase": "heart antenna hair",
+      "tag": "heart_antenna_hair"
+    },
+    {
+      "phrase": "heart antenna hair visible",
+      "tag": "heart_antenna_hair"
+    },
+    {
+      "phrase": "showing heart antenna hair",
+      "tag": "heart_antenna_hair"
+    },
+    {
+      "phrase": "with heart antenna hair",
+      "tag": "heart_antenna_hair"
+    },
+    {
+      "phrase": "heart hair bun",
+      "tag": "heart_hair_bun"
+    },
+    {
+      "phrase": "heart hair bun visible",
+      "tag": "heart_hair_bun"
+    },
+    {
+      "phrase": "showing heart hair bun",
+      "tag": "heart_hair_bun"
+    },
+    {
+      "phrase": "with heart hair bun",
+      "tag": "heart_hair_bun"
+    },
+    {
+      "phrase": "helicopter hair",
+      "tag": "helicopter_hair"
+    },
+    {
+      "phrase": "helicopter hair visible",
+      "tag": "helicopter_hair"
+    },
+    {
+      "phrase": "showing helicopter hair",
+      "tag": "helicopter_hair"
+    },
+    {
+      "phrase": "with helicopter hair",
+      "tag": "helicopter_hair"
+    },
+    {
+      "phrase": "high braid",
+      "tag": "high_braid"
+    },
+    {
+      "phrase": "high braid visible",
+      "tag": "high_braid"
+    },
+    {
+      "phrase": "showing high braid",
+      "tag": "high_braid"
+    },
+    {
+      "phrase": "with high braid",
+      "tag": "high_braid"
+    },
+    {
+      "phrase": "high braided ponytail",
+      "tag": "high_braided_ponytail"
+    },
+    {
+      "phrase": "high braided ponytail visible",
+      "tag": "high_braided_ponytail"
+    },
+    {
+      "phrase": "showing high braided ponytail",
+      "tag": "high_braided_ponytail"
+    },
+    {
+      "phrase": "with high braided ponytail",
+      "tag": "high_braided_ponytail"
+    },
+    {
+      "phrase": "high ponytail",
+      "tag": "high_ponytail"
+    },
+    {
+      "phrase": "high ponytail visible",
+      "tag": "high_ponytail"
+    },
+    {
+      "phrase": "showing high ponytail",
+      "tag": "high_ponytail"
+    },
+    {
+      "phrase": "with high ponytail",
+      "tag": "high_ponytail"
+    },
+    {
+      "phrase": "high side ponytail",
+      "tag": "high_side_ponytail"
+    },
+    {
+      "phrase": "high side ponytail visible",
+      "tag": "high_side_ponytail"
+    },
+    {
+      "phrase": "showing high side ponytail",
+      "tag": "high_side_ponytail"
+    },
+    {
+      "phrase": "with high side ponytail",
+      "tag": "high_side_ponytail"
+    },
+    {
+      "phrase": "hime cut",
+      "tag": "hime_cut"
+    },
+    {
+      "phrase": "hime cut visible",
+      "tag": "hime_cut"
+    },
+    {
+      "phrase": "showing hime cut",
+      "tag": "hime_cut"
+    },
+    {
+      "phrase": "with hime cut",
+      "tag": "hime_cut"
+    },
+    {
+      "phrase": "hime gyaru",
+      "tag": "hime_gyaru"
+    },
+    {
+      "phrase": "hime gyaru visible",
+      "tag": "hime_gyaru"
+    },
+    {
+      "phrase": "showing hime gyaru",
+      "tag": "hime_gyaru"
+    },
+    {
+      "phrase": "with hime gyaru",
+      "tag": "hime_gyaru"
+    },
+    {
+      "phrase": "hime lolita",
+      "tag": "hime_lolita"
+    },
+    {
+      "phrase": "hime lolita visible",
+      "tag": "hime_lolita"
+    },
+    {
+      "phrase": "showing hime lolita",
+      "tag": "hime_lolita"
+    },
+    {
+      "phrase": "with hime lolita",
+      "tag": "hime_lolita"
+    },
+    {
+      "phrase": "horn-shaped hair",
+      "tag": "horn-shaped_hair"
+    },
+    {
+      "phrase": "horn-shaped hair visible",
+      "tag": "horn-shaped_hair"
+    },
+    {
+      "phrase": "showing horn-shaped hair",
+      "tag": "horn-shaped_hair"
+    },
+    {
+      "phrase": "with horn-shaped hair",
+      "tag": "horn-shaped_hair"
+    },
+    {
+      "phrase": "hot dog bun",
+      "tag": "hot_dog_bun"
+    },
+    {
+      "phrase": "hot dog bun visible",
+      "tag": "hot_dog_bun"
+    },
+    {
+      "phrase": "showing hot dog bun",
+      "tag": "hot_dog_bun"
+    },
+    {
+      "phrase": "with hot dog bun",
+      "tag": "hot_dog_bun"
+    },
+    {
+      "phrase": "huge ahoge",
+      "tag": "huge_ahoge"
+    },
+    {
+      "phrase": "huge ahoge visible",
+      "tag": "huge_ahoge"
+    },
+    {
+      "phrase": "showing huge ahoge",
+      "tag": "huge_ahoge"
+    },
+    {
+      "phrase": "with huge ahoge",
+      "tag": "huge_ahoge"
+    },
+    {
+      "phrase": "huge antenna hair",
+      "tag": "huge_antenna_hair"
+    },
+    {
+      "phrase": "huge antenna hair visible",
+      "tag": "huge_antenna_hair"
+    },
+    {
+      "phrase": "showing huge antenna hair",
+      "tag": "huge_antenna_hair"
+    },
+    {
+      "phrase": "with huge antenna hair",
+      "tag": "huge_antenna_hair"
+    },
+    {
+      "phrase": "huge hair bun",
+      "tag": "huge_hair_bun"
+    },
+    {
+      "phrase": "huge hair bun visible",
+      "tag": "huge_hair_bun"
+    },
+    {
+      "phrase": "showing huge hair bun",
+      "tag": "huge_hair_bun"
+    },
+    {
+      "phrase": "with huge hair bun",
+      "tag": "huge_hair_bun"
+    },
+    {
+      "phrase": "ice hair",
+      "tag": "ice_hair"
+    },
+    {
+      "phrase": "ice hair visible",
+      "tag": "ice_hair"
+    },
+    {
+      "phrase": "showing ice hair",
+      "tag": "ice_hair"
+    },
+    {
+      "phrase": "with ice hair",
+      "tag": "ice_hair"
+    },
+    {
+      "phrase": "impossible hair",
+      "tag": "impossible_hair"
+    },
+    {
+      "phrase": "impossible hair visible",
+      "tag": "impossible_hair"
+    },
+    {
+      "phrase": "showing impossible hair",
+      "tag": "impossible_hair"
+    },
+    {
+      "phrase": "with impossible hair",
+      "tag": "impossible_hair"
+    },
+    {
+      "phrase": "intertwined hair",
+      "tag": "intertwined_hair"
+    },
+    {
+      "phrase": "intertwined hair visible",
+      "tag": "intertwined_hair"
+    },
+    {
+      "phrase": "showing intertwined hair",
+      "tag": "intertwined_hair"
+    },
+    {
+      "phrase": "with intertwined hair",
+      "tag": "intertwined_hair"
+    },
+    {
+      "phrase": "inverted bob",
+      "tag": "inverted_bob"
+    },
+    {
+      "phrase": "inverted bob visible",
+      "tag": "inverted_bob"
+    },
+    {
+      "phrase": "showing inverted bob",
+      "tag": "inverted_bob"
+    },
+    {
+      "phrase": "with inverted bob",
+      "tag": "inverted_bob"
+    },
+    {
+      "phrase": "inward flipped hair",
+      "tag": "inward_flipped_hair"
+    },
+    {
+      "phrase": "inward flipped hair visible",
+      "tag": "inward_flipped_hair"
+    },
+    {
+      "phrase": "showing inward flipped hair",
+      "tag": "inward_flipped_hair"
+    },
+    {
+      "phrase": "with inward flipped hair",
+      "tag": "inward_flipped_hair"
+    },
+    {
+      "phrase": "iridescent hair",
+      "tag": "iridescent_hair"
+    },
+    {
+      "phrase": "iridescent hair visible",
+      "tag": "iridescent_hair"
+    },
+    {
+      "phrase": "showing iridescent hair",
+      "tag": "iridescent_hair"
+    },
+    {
+      "phrase": "with iridescent hair",
+      "tag": "iridescent_hair"
+    },
+    {
+      "phrase": "japari bun",
+      "tag": "japari_bun"
+    },
+    {
+      "phrase": "japari bun visible",
+      "tag": "japari_bun"
+    },
+    {
+      "phrase": "showing japari bun",
+      "tag": "japari_bun"
+    },
+    {
+      "phrase": "with japari bun",
+      "tag": "japari_bun"
+    },
+    {
+      "phrase": "jellyfish cut",
+      "tag": "jellyfish_cut"
+    },
+    {
+      "phrase": "jellyfish cut visible",
+      "tag": "jellyfish_cut"
+    },
+    {
+      "phrase": "showing jellyfish cut",
+      "tag": "jellyfish_cut"
+    },
+    {
+      "phrase": "with jellyfish cut",
+      "tag": "jellyfish_cut"
+    },
+    {
+      "phrase": "katsuyamamage",
+      "tag": "katsuyamamage"
+    },
+    {
+      "phrase": "katsuyamamage visible",
+      "tag": "katsuyamamage"
+    },
+    {
+      "phrase": "showing katsuyamamage",
+      "tag": "katsuyamamage"
+    },
+    {
+      "phrase": "with katsuyamamage",
+      "tag": "katsuyamamage"
+    },
+    {
+      "phrase": "kinky hair",
+      "tag": "kinky_hair"
+    },
+    {
+      "phrase": "kinky hair visible",
+      "tag": "kinky_hair"
+    },
+    {
+      "phrase": "showing kinky hair",
+      "tag": "kinky_hair"
+    },
+    {
+      "phrase": "with kinky hair",
+      "tag": "kinky_hair"
+    },
+    {
+      "phrase": "kishimen hair",
+      "tag": "kishimen_hair"
+    },
+    {
+      "phrase": "kishimen hair visible",
+      "tag": "kishimen_hair"
+    },
+    {
+      "phrase": "showing kishimen hair",
+      "tag": "kishimen_hair"
+    },
+    {
+      "phrase": "with kishimen hair",
+      "tag": "kishimen_hair"
+    },
+    {
+      "phrase": "lightning ahoge",
+      "tag": "lightning_ahoge"
+    },
+    {
+      "phrase": "lightning ahoge visible",
+      "tag": "lightning_ahoge"
+    },
+    {
+      "phrase": "showing lightning ahoge",
+      "tag": "lightning_ahoge"
+    },
+    {
+      "phrase": "with lightning ahoge",
+      "tag": "lightning_ahoge"
+    },
+    {
+      "phrase": "lion hair",
+      "tag": "lion_hair"
+    },
+    {
+      "phrase": "lion hair visible",
+      "tag": "lion_hair"
+    },
+    {
+      "phrase": "showing lion hair",
+      "tag": "lion_hair"
+    },
+    {
+      "phrase": "with lion hair",
+      "tag": "lion_hair"
+    },
+    {
+      "phrase": "lion mane",
+      "tag": "lion_mane"
+    },
+    {
+      "phrase": "lion mane visible",
+      "tag": "lion_mane"
+    },
+    {
+      "phrase": "showing lion mane",
+      "tag": "lion_mane"
+    },
+    {
+      "phrase": "with lion mane",
+      "tag": "lion_mane"
+    },
+    {
+      "phrase": "liquid hair",
+      "tag": "liquid_hair"
+    },
+    {
+      "phrase": "liquid hair visible",
+      "tag": "liquid_hair"
+    },
+    {
+      "phrase": "showing liquid hair",
+      "tag": "liquid_hair"
+    },
+    {
+      "phrase": "with liquid hair",
+      "tag": "liquid_hair"
+    },
+    {
+      "phrase": "living hair",
+      "tag": "living_hair"
+    },
+    {
+      "phrase": "living hair visible",
+      "tag": "living_hair"
+    },
+    {
+      "phrase": "showing living hair",
+      "tag": "living_hair"
+    },
+    {
+      "phrase": "with living hair",
+      "tag": "living_hair"
+    },
+    {
+      "phrase": "lone nape hair",
+      "tag": "lone_nape_hair"
+    },
+    {
+      "phrase": "lone nape hair visible",
+      "tag": "lone_nape_hair"
+    },
+    {
+      "phrase": "showing lone nape hair",
+      "tag": "lone_nape_hair"
+    },
+    {
+      "phrase": "with lone nape hair",
+      "tag": "lone_nape_hair"
+    },
+    {
+      "phrase": "long bangs",
+      "tag": "long_bangs"
+    },
+    {
+      "phrase": "long bangs visible",
+      "tag": "long_bangs"
+    },
+    {
+      "phrase": "showing long bangs",
+      "tag": "long_bangs"
+    },
+    {
+      "phrase": "with long bangs",
+      "tag": "long_bangs"
+    },
+    {
+      "phrase": "long braid",
+      "tag": "long_braid"
+    },
+    {
+      "phrase": "long braid visible",
+      "tag": "long_braid"
+    },
+    {
+      "phrase": "showing long braid",
+      "tag": "long_braid"
+    },
+    {
+      "phrase": "with long braid",
+      "tag": "long_braid"
+    },
+    {
+      "phrase": "long hair",
+      "tag": "long_hair"
+    },
+    {
+      "phrase": "long hair visible",
+      "tag": "long_hair"
+    },
+    {
+      "phrase": "showing long hair",
+      "tag": "long_hair"
+    },
+    {
+      "phrase": "with long hair",
+      "tag": "long_hair"
+    },
+    {
+      "phrase": "long sidelocks",
+      "tag": "long_sidelocks"
+    },
+    {
+      "phrase": "long sidelocks visible",
+      "tag": "long_sidelocks"
+    },
+    {
+      "phrase": "showing long sidelocks",
+      "tag": "long_sidelocks"
+    },
+    {
+      "phrase": "with long sidelocks",
+      "tag": "long_sidelocks"
+    },
+    {
+      "phrase": "longevity peach bun",
+      "tag": "longevity_peach_bun"
+    },
+    {
+      "phrase": "longevity peach bun visible",
+      "tag": "longevity_peach_bun"
+    },
+    {
+      "phrase": "showing longevity peach bun",
+      "tag": "longevity_peach_bun"
+    },
+    {
+      "phrase": "with longevity peach bun",
+      "tag": "longevity_peach_bun"
+    },
+    {
+      "phrase": "loose hair strand",
+      "tag": "loose_hair_strand"
+    },
+    {
+      "phrase": "loose hair strand visible",
+      "tag": "loose_hair_strand"
+    },
+    {
+      "phrase": "showing loose hair strand",
+      "tag": "loose_hair_strand"
+    },
+    {
+      "phrase": "with loose hair strand",
+      "tag": "loose_hair_strand"
+    },
+    {
+      "phrase": "loosely tucked bangs",
+      "tag": "loosely_tucked_bangs"
+    },
+    {
+      "phrase": "loosely tucked bangs visible",
+      "tag": "loosely_tucked_bangs"
+    },
+    {
+      "phrase": "showing loosely tucked bangs",
+      "tag": "loosely_tucked_bangs"
+    },
+    {
+      "phrase": "with loosely tucked bangs",
+      "tag": "loosely_tucked_bangs"
+    },
+    {
+      "phrase": "low-braided long hair",
+      "tag": "low-braided_long_hair"
+    },
+    {
+      "phrase": "low-braided long hair visible",
+      "tag": "low-braided_long_hair"
+    },
+    {
+      "phrase": "showing low-braided long hair",
+      "tag": "low-braided_long_hair"
+    },
+    {
+      "phrase": "with low-braided long hair",
+      "tag": "low-braided_long_hair"
+    },
+    {
+      "phrase": "low-tied long hair",
+      "tag": "low-tied_long_hair"
+    },
+    {
+      "phrase": "low-tied long hair visible",
+      "tag": "low-tied_long_hair"
+    },
+    {
+      "phrase": "showing low-tied long hair",
+      "tag": "low-tied_long_hair"
+    },
+    {
+      "phrase": "with low-tied long hair",
+      "tag": "low-tied_long_hair"
+    },
+    {
+      "phrase": "low-tied medium hair",
+      "tag": "low-tied_medium_hair"
+    },
+    {
+      "phrase": "low-tied medium hair visible",
+      "tag": "low-tied_medium_hair"
+    },
+    {
+      "phrase": "showing low-tied medium hair",
+      "tag": "low-tied_medium_hair"
+    },
+    {
+      "phrase": "with low-tied medium hair",
+      "tag": "low-tied_medium_hair"
+    },
+    {
+      "phrase": "low-tied sidelocks",
+      "tag": "low-tied_sidelocks"
+    },
+    {
+      "phrase": "low-tied sidelocks visible",
+      "tag": "low-tied_sidelocks"
+    },
+    {
+      "phrase": "showing low-tied sidelocks",
+      "tag": "low-tied_sidelocks"
+    },
+    {
+      "phrase": "with low-tied sidelocks",
+      "tag": "low-tied_sidelocks"
+    },
+    {
+      "phrase": "low drills",
+      "tag": "low_drills"
+    },
+    {
+      "phrase": "low drills visible",
+      "tag": "low_drills"
+    },
+    {
+      "phrase": "showing low drills",
+      "tag": "low_drills"
+    },
+    {
+      "phrase": "with low drills",
+      "tag": "low_drills"
+    },
+    {
+      "phrase": "low ponytail",
+      "tag": "low_ponytail"
+    },
+    {
+      "phrase": "low ponytail visible",
+      "tag": "low_ponytail"
+    },
+    {
+      "phrase": "showing low ponytail",
+      "tag": "low_ponytail"
+    },
+    {
+      "phrase": "with low ponytail",
+      "tag": "low_ponytail"
+    },
+    {
+      "phrase": "low side ponytail",
+      "tag": "low_side_ponytail"
+    },
+    {
+      "phrase": "low side ponytail visible",
+      "tag": "low_side_ponytail"
+    },
+    {
+      "phrase": "showing low side ponytail",
+      "tag": "low_side_ponytail"
+    },
+    {
+      "phrase": "with low side ponytail",
+      "tag": "low_side_ponytail"
+    },
+    {
+      "phrase": "low twin braids",
+      "tag": "low_twin_braids"
+    },
+    {
+      "phrase": "low twin braids visible",
+      "tag": "low_twin_braids"
+    },
+    {
+      "phrase": "showing low twin braids",
+      "tag": "low_twin_braids"
+    },
+    {
+      "phrase": "with low twin braids",
+      "tag": "low_twin_braids"
+    },
+    {
+      "phrase": "low twintails",
+      "tag": "low_twintails"
+    },
+    {
+      "phrase": "low twintails visible",
+      "tag": "low_twintails"
+    },
+    {
+      "phrase": "showing low twintails",
+      "tag": "low_twintails"
+    },
+    {
+      "phrase": "with low twintails",
+      "tag": "low_twintails"
+    },
+    {
+      "phrase": "mane",
+      "tag": "mane"
+    },
+    {
+      "phrase": "mane visible",
+      "tag": "mane"
+    },
+    {
+      "phrase": "showing mane",
+      "tag": "mane"
+    },
+    {
+      "phrase": "with mane",
+      "tag": "mane"
+    },
+    {
+      "phrase": "matching hairstyle",
+      "tag": "matching_hairstyle"
+    },
+    {
+      "phrase": "matching hairstyle visible",
+      "tag": "matching_hairstyle"
+    },
+    {
+      "phrase": "showing matching hairstyle",
+      "tag": "matching_hairstyle"
+    },
+    {
+      "phrase": "with matching hairstyle",
+      "tag": "matching_hairstyle"
+    },
+    {
+      "phrase": "meat hair",
+      "tag": "meat_hair"
+    },
+    {
+      "phrase": "meat hair visible",
+      "tag": "meat_hair"
+    },
+    {
+      "phrase": "showing meat hair",
+      "tag": "meat_hair"
+    },
+    {
+      "phrase": "with meat hair",
+      "tag": "meat_hair"
+    },
+    {
+      "phrase": "mechanical hair",
+      "tag": "mechanical_hair"
+    },
+    {
+      "phrase": "mechanical hair visible",
+      "tag": "mechanical_hair"
+    },
+    {
+      "phrase": "showing mechanical hair",
+      "tag": "mechanical_hair"
+    },
+    {
+      "phrase": "with mechanical hair",
+      "tag": "mechanical_hair"
+    },
+    {
+      "phrase": "medium hair",
+      "tag": "medium_hair"
+    },
+    {
+      "phrase": "medium hair visible",
+      "tag": "medium_hair"
+    },
+    {
+      "phrase": "showing medium hair",
+      "tag": "medium_hair"
+    },
+    {
+      "phrase": "with medium hair",
+      "tag": "medium_hair"
+    },
+    {
+      "phrase": "medium sidelocks",
+      "tag": "medium_sidelocks"
+    },
+    {
+      "phrase": "medium sidelocks visible",
+      "tag": "medium_sidelocks"
+    },
+    {
+      "phrase": "showing medium sidelocks",
+      "tag": "medium_sidelocks"
+    },
+    {
+      "phrase": "with medium sidelocks",
+      "tag": "medium_sidelocks"
+    },
+    {
+      "phrase": "messy bangs",
+      "tag": "messy_bangs"
+    },
+    {
+      "phrase": "messy bangs visible",
+      "tag": "messy_bangs"
+    },
+    {
+      "phrase": "showing messy bangs",
+      "tag": "messy_bangs"
+    },
+    {
+      "phrase": "with messy bangs",
+      "tag": "messy_bangs"
+    },
+    {
+      "phrase": "messy hair",
+      "tag": "messy_hair"
+    },
+    {
+      "phrase": "messy hair visible",
+      "tag": "messy_hair"
+    },
+    {
+      "phrase": "showing messy hair",
+      "tag": "messy_hair"
+    },
+    {
+      "phrase": "with messy hair",
+      "tag": "messy_hair"
+    },
+    {
+      "phrase": "metal hair",
+      "tag": "metal_hair"
+    },
+    {
+      "phrase": "metal hair visible",
+      "tag": "metal_hair"
+    },
+    {
+      "phrase": "showing metal hair",
+      "tag": "metal_hair"
+    },
+    {
+      "phrase": "with metal hair",
+      "tag": "metal_hair"
+    },
+    {
+      "phrase": "middle part",
+      "tag": "middle_part"
+    },
+    {
+      "phrase": "middle part visible",
+      "tag": "middle_part"
+    },
+    {
+      "phrase": "showing middle part",
+      "tag": "middle_part"
+    },
+    {
+      "phrase": "with middle part",
+      "tag": "middle_part"
+    },
+    {
+      "phrase": "mizura",
+      "tag": "mizura"
+    },
+    {
+      "phrase": "mizura visible",
+      "tag": "mizura"
+    },
+    {
+      "phrase": "showing mizura",
+      "tag": "mizura"
+    },
+    {
+      "phrase": "with mizura",
+      "tag": "mizura"
+    },
+    {
+      "phrase": "mohawk",
+      "tag": "mohawk"
+    },
+    {
+      "phrase": "mohawk visible",
+      "tag": "mohawk"
+    },
+    {
+      "phrase": "showing mohawk",
+      "tag": "mohawk"
+    },
+    {
+      "phrase": "with mohawk",
+      "tag": "mohawk"
+    },
+    {
+      "phrase": "mullet",
+      "tag": "mullet"
+    },
+    {
+      "phrase": "mullet visible",
+      "tag": "mullet"
+    },
+    {
+      "phrase": "showing mullet",
+      "tag": "mullet"
+    },
+    {
+      "phrase": "with mullet",
+      "tag": "mullet"
+    },
+    {
+      "phrase": "multi-tied hair",
+      "tag": "multi-tied_hair"
+    },
+    {
+      "phrase": "multi-tied hair visible",
+      "tag": "multi-tied_hair"
+    },
+    {
+      "phrase": "showing multi-tied hair",
+      "tag": "multi-tied_hair"
+    },
+    {
+      "phrase": "with multi-tied hair",
+      "tag": "multi-tied_hair"
+    },
+    {
+      "phrase": "multicolored hair",
+      "tag": "multicolored_hair"
+    },
+    {
+      "phrase": "multicolored hair visible",
+      "tag": "multicolored_hair"
+    },
+    {
+      "phrase": "showing multicolored hair",
+      "tag": "multicolored_hair"
+    },
+    {
+      "phrase": "with multicolored hair",
+      "tag": "multicolored_hair"
+    },
+    {
+      "phrase": "multicolored pubic hair",
+      "tag": "multicolored_pubic_hair"
+    },
+    {
+      "phrase": "multicolored pubic hair visible",
+      "tag": "multicolored_pubic_hair"
+    },
+    {
+      "phrase": "showing multicolored pubic hair",
+      "tag": "multicolored_pubic_hair"
+    },
+    {
+      "phrase": "with multicolored pubic hair",
+      "tag": "multicolored_pubic_hair"
+    },
+    {
+      "phrase": "multiple braids",
+      "tag": "multiple_braids"
+    },
+    {
+      "phrase": "multiple braids visible",
+      "tag": "multiple_braids"
+    },
+    {
+      "phrase": "showing multiple braids",
+      "tag": "multiple_braids"
+    },
+    {
+      "phrase": "with multiple braids",
+      "tag": "multiple_braids"
+    },
+    {
+      "phrase": "nape braid",
+      "tag": "nape_braid"
+    },
+    {
+      "phrase": "nape braid visible",
+      "tag": "nape_braid"
+    },
+    {
+      "phrase": "showing nape braid",
+      "tag": "nape_braid"
+    },
+    {
+      "phrase": "with nape braid",
+      "tag": "nape_braid"
+    },
+    {
+      "phrase": "nihongami",
+      "tag": "nihongami"
+    },
+    {
+      "phrase": "nihongami visible",
+      "tag": "nihongami"
+    },
+    {
+      "phrase": "showing nihongami",
+      "tag": "nihongami"
+    },
+    {
+      "phrase": "with nihongami",
+      "tag": "nihongami"
+    },
+    {
+      "phrase": "no ahoge",
+      "tag": "no_ahoge"
+    },
+    {
+      "phrase": "no ahoge visible",
+      "tag": "no_ahoge"
+    },
+    {
+      "phrase": "showing no ahoge",
+      "tag": "no_ahoge"
+    },
+    {
+      "phrase": "with no ahoge",
+      "tag": "no_ahoge"
+    },
+    {
+      "phrase": "official alternate hair color",
+      "tag": "official_alternate_hair_color"
+    },
+    {
+      "phrase": "official alternate hair color visible",
+      "tag": "official_alternate_hair_color"
+    },
+    {
+      "phrase": "showing official alternate hair color",
+      "tag": "official_alternate_hair_color"
+    },
+    {
+      "phrase": "with official alternate hair color",
+      "tag": "official_alternate_hair_color"
+    },
+    {
+      "phrase": "official alternate hairstyle",
+      "tag": "official_alternate_hairstyle"
+    },
+    {
+      "phrase": "official alternate hairstyle visible",
+      "tag": "official_alternate_hairstyle"
+    },
+    {
+      "phrase": "showing official alternate hairstyle",
+      "tag": "official_alternate_hairstyle"
+    },
+    {
+      "phrase": "with official alternate hairstyle",
+      "tag": "official_alternate_hairstyle"
+    },
+    {
+      "phrase": "one side up",
+      "tag": "one_side_up"
+    },
+    {
+      "phrase": "one side up visible",
+      "tag": "one_side_up"
+    },
+    {
+      "phrase": "showing one side up",
+      "tag": "one_side_up"
+    },
+    {
+      "phrase": "with one side up",
+      "tag": "one_side_up"
+    },
+    {
+      "phrase": "orange hair",
+      "tag": "orange_hair"
+    },
+    {
+      "phrase": "orange hair visible",
+      "tag": "orange_hair"
+    },
+    {
+      "phrase": "showing orange hair",
+      "tag": "orange_hair"
+    },
+    {
+      "phrase": "with orange hair",
+      "tag": "orange_hair"
+    },
+    {
+      "phrase": "parted bangs",
+      "tag": "parted_bangs"
+    },
+    {
+      "phrase": "parted bangs visible",
+      "tag": "parted_bangs"
+    },
+    {
+      "phrase": "showing parted bangs",
+      "tag": "parted_bangs"
+    },
+    {
+      "phrase": "with parted bangs",
+      "tag": "parted_bangs"
+    },
+    {
+      "phrase": "parted hair",
+      "tag": "parted_hair"
+    },
+    {
+      "phrase": "parted hair visible",
+      "tag": "parted_hair"
+    },
+    {
+      "phrase": "showing parted hair",
+      "tag": "parted_hair"
+    },
+    {
+      "phrase": "with parted hair",
+      "tag": "parted_hair"
+    },
+    {
+      "phrase": "patterned hair",
+      "tag": "patterned_hair"
+    },
+    {
+      "phrase": "patterned hair visible",
+      "tag": "patterned_hair"
+    },
+    {
+      "phrase": "showing patterned hair",
+      "tag": "patterned_hair"
+    },
+    {
+      "phrase": "with patterned hair",
+      "tag": "patterned_hair"
+    },
+    {
+      "phrase": "peacock hair",
+      "tag": "peacock_hair"
+    },
+    {
+      "phrase": "peacock hair visible",
+      "tag": "peacock_hair"
+    },
+    {
+      "phrase": "showing peacock hair",
+      "tag": "peacock_hair"
+    },
+    {
+      "phrase": "with peacock hair",
+      "tag": "peacock_hair"
+    },
+    {
+      "phrase": "pink hair",
+      "tag": "pink_hair"
+    },
+    {
+      "phrase": "pink hair visible",
+      "tag": "pink_hair"
+    },
+    {
+      "phrase": "showing pink hair",
+      "tag": "pink_hair"
+    },
+    {
+      "phrase": "with pink hair",
+      "tag": "pink_hair"
+    },
+    {
+      "phrase": "pink streaks",
+      "tag": "pink_streaks"
+    },
+    {
+      "phrase": "pink streaks visible",
+      "tag": "pink_streaks"
+    },
+    {
+      "phrase": "showing pink streaks",
+      "tag": "pink_streaks"
+    },
+    {
+      "phrase": "with pink streaks",
+      "tag": "pink_streaks"
+    },
+    {
+      "phrase": "pixie cut",
+      "tag": "pixie_cut"
+    },
+    {
+      "phrase": "pixie cut visible",
+      "tag": "pixie_cut"
+    },
+    {
+      "phrase": "showing pixie cut",
+      "tag": "pixie_cut"
+    },
+    {
+      "phrase": "with pixie cut",
+      "tag": "pixie_cut"
+    },
+    {
+      "phrase": "plant hair",
+      "tag": "plant_hair"
+    },
+    {
+      "phrase": "plant hair visible",
+      "tag": "plant_hair"
+    },
+    {
+      "phrase": "showing plant hair",
+      "tag": "plant_hair"
+    },
+    {
+      "phrase": "with plant hair",
+      "tag": "plant_hair"
+    },
+    {
+      "phrase": "pointed bangs",
+      "tag": "pointed_bangs"
+    },
+    {
+      "phrase": "pointed bangs visible",
+      "tag": "pointed_bangs"
+    },
+    {
+      "phrase": "showing pointed bangs",
+      "tag": "pointed_bangs"
+    },
+    {
+      "phrase": "with pointed bangs",
+      "tag": "pointed_bangs"
+    },
+    {
+      "phrase": "pointy hair",
+      "tag": "pointy_hair"
+    },
+    {
+      "phrase": "pointy hair visible",
+      "tag": "pointy_hair"
+    },
+    {
+      "phrase": "showing pointy hair",
+      "tag": "pointy_hair"
+    },
+    {
+      "phrase": "with pointy hair",
+      "tag": "pointy_hair"
+    },
+    {
+      "phrase": "polka dot hair",
+      "tag": "polka_dot_hair"
+    },
+    {
+      "phrase": "polka dot hair visible",
+      "tag": "polka_dot_hair"
+    },
+    {
+      "phrase": "showing polka dot hair",
+      "tag": "polka_dot_hair"
+    },
+    {
+      "phrase": "with polka dot hair",
+      "tag": "polka_dot_hair"
+    },
+    {
+      "phrase": "pompadour",
+      "tag": "pompadour"
+    },
+    {
+      "phrase": "pompadour visible",
+      "tag": "pompadour"
+    },
+    {
+      "phrase": "showing pompadour",
+      "tag": "pompadour"
+    },
+    {
+      "phrase": "with pompadour",
+      "tag": "pompadour"
+    },
+    {
+      "phrase": "ponytail",
+      "tag": "ponytail"
+    },
+    {
+      "phrase": "ponytail visible",
+      "tag": "ponytail"
+    },
+    {
+      "phrase": "showing ponytail",
+      "tag": "ponytail"
+    },
+    {
+      "phrase": "with ponytail",
+      "tag": "ponytail"
+    },
+    {
+      "phrase": "ponytail holder",
+      "tag": "ponytail_holder"
+    },
+    {
+      "phrase": "ponytail holder visible",
+      "tag": "ponytail_holder"
+    },
+    {
+      "phrase": "showing ponytail holder",
+      "tag": "ponytail_holder"
+    },
+    {
+      "phrase": "with ponytail holder",
+      "tag": "ponytail_holder"
+    },
+    {
+      "phrase": "ponytail with braided base",
+      "tag": "ponytail_with_braided_base"
+    },
+    {
+      "phrase": "ponytail with braided base visible",
+      "tag": "ponytail_with_braided_base"
+    },
+    {
+      "phrase": "showing ponytail with braided base",
+      "tag": "ponytail_with_braided_base"
+    },
+    {
+      "phrase": "with ponytail with braided base",
+      "tag": "ponytail_with_braided_base"
+    },
+    {
+      "phrase": "prehensile hair",
+      "tag": "prehensile_hair"
+    },
+    {
+      "phrase": "prehensile hair visible",
+      "tag": "prehensile_hair"
+    },
+    {
+      "phrase": "showing prehensile hair",
+      "tag": "prehensile_hair"
+    },
+    {
+      "phrase": "with prehensile hair",
+      "tag": "prehensile_hair"
+    },
+    {
+      "phrase": "purple hair",
+      "tag": "purple_hair"
+    },
+    {
+      "phrase": "purple hair visible",
+      "tag": "purple_hair"
+    },
+    {
+      "phrase": "showing purple hair",
+      "tag": "purple_hair"
+    },
+    {
+      "phrase": "with purple hair",
+      "tag": "purple_hair"
+    },
+    {
+      "phrase": "purple streaks",
+      "tag": "purple_streaks"
+    },
+    {
+      "phrase": "purple streaks visible",
+      "tag": "purple_streaks"
+    },
+    {
+      "phrase": "showing purple streaks",
+      "tag": "purple_streaks"
+    },
+    {
+      "phrase": "with purple streaks",
+      "tag": "purple_streaks"
+    },
+    {
+      "phrase": "quad braids",
+      "tag": "quad_braids"
+    },
+    {
+      "phrase": "quad braids visible",
+      "tag": "quad_braids"
+    },
+    {
+      "phrase": "showing quad braids",
+      "tag": "quad_braids"
+    },
+    {
+      "phrase": "with quad braids",
+      "tag": "quad_braids"
+    },
+    {
+      "phrase": "quad buns",
+      "tag": "quad_buns"
+    },
+    {
+      "phrase": "quad buns visible",
+      "tag": "quad_buns"
+    },
+    {
+      "phrase": "showing quad buns",
+      "tag": "quad_buns"
+    },
+    {
+      "phrase": "with quad buns",
+      "tag": "quad_buns"
+    },
+    {
+      "phrase": "quad drills",
+      "tag": "quad_drills"
+    },
+    {
+      "phrase": "quad drills visible",
+      "tag": "quad_drills"
+    },
+    {
+      "phrase": "showing quad drills",
+      "tag": "quad_drills"
+    },
+    {
+      "phrase": "with quad drills",
+      "tag": "quad_drills"
+    },
+    {
+      "phrase": "quad tails",
+      "tag": "quad_tails"
+    },
+    {
+      "phrase": "quad tails visible",
+      "tag": "quad_tails"
+    },
+    {
+      "phrase": "showing quad tails",
+      "tag": "quad_tails"
+    },
+    {
+      "phrase": "with quad tails",
+      "tag": "quad_tails"
+    },
+    {
+      "phrase": "question mark ahoge",
+      "tag": "question_mark_ahoge"
+    },
+    {
+      "phrase": "question mark ahoge visible",
+      "tag": "question_mark_ahoge"
+    },
+    {
+      "phrase": "showing question mark ahoge",
+      "tag": "question_mark_ahoge"
+    },
+    {
+      "phrase": "with question mark ahoge",
+      "tag": "question_mark_ahoge"
+    },
+    {
+      "phrase": "quiff",
+      "tag": "quiff"
+    },
+    {
+      "phrase": "quiff visible",
+      "tag": "quiff"
+    },
+    {
+      "phrase": "showing quiff",
+      "tag": "quiff"
+    },
+    {
+      "phrase": "with quiff",
+      "tag": "quiff"
+    },
+    {
+      "phrase": "rabbit hairstyle",
+      "tag": "rabbit_hairstyle"
+    },
+    {
+      "phrase": "rabbit hairstyle visible",
+      "tag": "rabbit_hairstyle"
+    },
+    {
+      "phrase": "showing rabbit hairstyle",
+      "tag": "rabbit_hairstyle"
+    },
+    {
+      "phrase": "with rabbit hairstyle",
+      "tag": "rabbit_hairstyle"
+    },
+    {
+      "phrase": "raccoon tails",
+      "tag": "raccoon_tails_(hairstyle)"
+    },
+    {
+      "phrase": "raccoon tails hairstyle",
+      "tag": "raccoon_tails_(hairstyle)"
+    },
+    {
+      "phrase": "raccoon tails visible",
+      "tag": "raccoon_tails_(hairstyle)"
+    },
+    {
+      "phrase": "showing raccoon tails",
+      "tag": "raccoon_tails_(hairstyle)"
+    },
+    {
+      "phrase": "with raccoon tails",
+      "tag": "raccoon_tails_(hairstyle)"
+    },
+    {
+      "phrase": "rainbow hair",
+      "tag": "rainbow_hair"
+    },
+    {
+      "phrase": "rainbow hair visible",
+      "tag": "rainbow_hair"
+    },
+    {
+      "phrase": "showing rainbow hair",
+      "tag": "rainbow_hair"
+    },
+    {
+      "phrase": "with rainbow hair",
+      "tag": "rainbow_hair"
+    },
+    {
+      "phrase": "receding hairline",
+      "tag": "receding_hairline"
+    },
+    {
+      "phrase": "receding hairline visible",
+      "tag": "receding_hairline"
+    },
+    {
+      "phrase": "showing receding hairline",
+      "tag": "receding_hairline"
+    },
+    {
+      "phrase": "with receding hairline",
+      "tag": "receding_hairline"
+    },
+    {
+      "phrase": "red hair",
+      "tag": "red_hair"
+    },
+    {
+      "phrase": "red hair visible",
+      "tag": "red_hair"
+    },
+    {
+      "phrase": "showing red hair",
+      "tag": "red_hair"
+    },
+    {
+      "phrase": "with red hair",
+      "tag": "red_hair"
+    },
+    {
+      "phrase": "red streaks",
+      "tag": "red_streaks"
+    },
+    {
+      "phrase": "red streaks visible",
+      "tag": "red_streaks"
+    },
+    {
+      "phrase": "showing red streaks",
+      "tag": "red_streaks"
+    },
+    {
+      "phrase": "with red streaks",
+      "tag": "red_streaks"
+    },
+    {
+      "phrase": "ring sidelocks",
+      "tag": "ring_sidelocks"
+    },
+    {
+      "phrase": "ring sidelocks visible",
+      "tag": "ring_sidelocks"
+    },
+    {
+      "phrase": "showing ring sidelocks",
+      "tag": "ring_sidelocks"
+    },
+    {
+      "phrase": "with ring sidelocks",
+      "tag": "ring_sidelocks"
+    },
+    {
+      "phrase": "ringlets",
+      "tag": "ringlets"
+    },
+    {
+      "phrase": "ringlets visible",
+      "tag": "ringlets"
+    },
+    {
+      "phrase": "showing ringlets",
+      "tag": "ringlets"
+    },
+    {
+      "phrase": "with ringlets",
+      "tag": "ringlets"
+    },
+    {
+      "phrase": "roots",
+      "tag": "roots_(hair)"
+    },
+    {
+      "phrase": "roots hair",
+      "tag": "roots_(hair)"
+    },
+    {
+      "phrase": "roots visible",
+      "tag": "roots_(hair)"
+    },
+    {
+      "phrase": "showing roots",
+      "tag": "roots_(hair)"
+    },
+    {
+      "phrase": "with roots",
+      "tag": "roots_(hair)"
+    },
+    {
+      "phrase": "rope braid",
+      "tag": "rope_braid"
+    },
+    {
+      "phrase": "rope braid visible",
+      "tag": "rope_braid"
+    },
+    {
+      "phrase": "showing rope braid",
+      "tag": "rope_braid"
+    },
+    {
+      "phrase": "with rope braid",
+      "tag": "rope_braid"
+    },
+    {
+      "phrase": "ruffling hair",
+      "tag": "ruffling_hair"
+    },
+    {
+      "phrase": "ruffling hair visible",
+      "tag": "ruffling_hair"
+    },
+    {
+      "phrase": "showing ruffling hair",
+      "tag": "ruffling_hair"
+    },
+    {
+      "phrase": "with ruffling hair",
+      "tag": "ruffling_hair"
+    },
+    {
+      "phrase": "scanline hair",
+      "tag": "scanline_hair"
+    },
+    {
+      "phrase": "scanline hair visible",
+      "tag": "scanline_hair"
+    },
+    {
+      "phrase": "showing scanline hair",
+      "tag": "scanline_hair"
+    },
+    {
+      "phrase": "with scanline hair",
+      "tag": "scanline_hair"
+    },
+    {
+      "phrase": "self-borrowed hairstyle",
+      "tag": "self-borrowed_hairstyle"
+    },
+    {
+      "phrase": "self-borrowed hairstyle visible",
+      "tag": "self-borrowed_hairstyle"
+    },
+    {
+      "phrase": "showing self-borrowed hairstyle",
+      "tag": "self-borrowed_hairstyle"
+    },
+    {
+      "phrase": "with self-borrowed hairstyle",
+      "tag": "self-borrowed_hairstyle"
+    },
+    {
+      "phrase": "severed hair",
+      "tag": "severed_hair"
+    },
+    {
+      "phrase": "severed hair visible",
+      "tag": "severed_hair"
+    },
+    {
+      "phrase": "showing severed hair",
+      "tag": "severed_hair"
+    },
+    {
+      "phrase": "with severed hair",
+      "tag": "severed_hair"
+    },
+    {
+      "phrase": "shaved head",
+      "tag": "shaved_head"
+    },
+    {
+      "phrase": "shaved head visible",
+      "tag": "shaved_head"
+    },
+    {
+      "phrase": "showing shaved head",
+      "tag": "shaved_head"
+    },
+    {
+      "phrase": "with shaved head",
+      "tag": "shaved_head"
+    },
+    {
+      "phrase": "short bangs",
+      "tag": "short_bangs"
+    },
+    {
+      "phrase": "short bangs visible",
+      "tag": "short_bangs"
+    },
+    {
+      "phrase": "showing short bangs",
+      "tag": "short_bangs"
+    },
+    {
+      "phrase": "with short bangs",
+      "tag": "short_bangs"
+    },
+    {
+      "phrase": "short braid",
+      "tag": "short_braid"
+    },
+    {
+      "phrase": "short braid visible",
+      "tag": "short_braid"
+    },
+    {
+      "phrase": "showing short braid",
+      "tag": "short_braid"
+    },
+    {
+      "phrase": "with short braid",
+      "tag": "short_braid"
+    },
+    {
+      "phrase": "short hair",
+      "tag": "short_hair"
+    },
+    {
+      "phrase": "short hair visible",
+      "tag": "short_hair"
+    },
+    {
+      "phrase": "showing short hair",
+      "tag": "short_hair"
+    },
+    {
+      "phrase": "with short hair",
+      "tag": "short_hair"
+    },
+    {
+      "phrase": "short hair with long locks",
+      "tag": "short_hair_with_long_locks"
+    },
+    {
+      "phrase": "short hair with long locks visible",
+      "tag": "short_hair_with_long_locks"
+    },
+    {
+      "phrase": "showing short hair with long locks",
+      "tag": "short_hair_with_long_locks"
+    },
+    {
+      "phrase": "with short hair with long locks",
+      "tag": "short_hair_with_long_locks"
+    },
+    {
+      "phrase": "short messy bangs",
+      "tag": "short_messy_bangs"
+    },
+    {
+      "phrase": "short messy bangs visible",
+      "tag": "short_messy_bangs"
+    },
+    {
+      "phrase": "showing short messy bangs",
+      "tag": "short_messy_bangs"
+    },
+    {
+      "phrase": "with short messy bangs",
+      "tag": "short_messy_bangs"
+    },
+    {
+      "phrase": "short ponytail",
+      "tag": "short_ponytail"
+    },
+    {
+      "phrase": "short ponytail visible",
+      "tag": "short_ponytail"
+    },
+    {
+      "phrase": "showing short ponytail",
+      "tag": "short_ponytail"
+    },
+    {
+      "phrase": "with short ponytail",
+      "tag": "short_ponytail"
+    },
+    {
+      "phrase": "short sideburns",
+      "tag": "short_sideburns"
+    },
+    {
+      "phrase": "short sideburns visible",
+      "tag": "short_sideburns"
+    },
+    {
+      "phrase": "showing short sideburns",
+      "tag": "short_sideburns"
+    },
+    {
+      "phrase": "with short sideburns",
+      "tag": "short_sideburns"
+    },
+    {
+      "phrase": "short sidetail",
+      "tag": "short_sidetail"
+    },
+    {
+      "phrase": "short sidetail visible",
+      "tag": "short_sidetail"
+    },
+    {
+      "phrase": "showing short sidetail",
+      "tag": "short_sidetail"
+    },
+    {
+      "phrase": "with short sidetail",
+      "tag": "short_sidetail"
+    },
+    {
+      "phrase": "short twintails",
+      "tag": "short_twintails"
+    },
+    {
+      "phrase": "short twintails visible",
+      "tag": "short_twintails"
+    },
+    {
+      "phrase": "showing short twintails",
+      "tag": "short_twintails"
+    },
+    {
+      "phrase": "with short twintails",
+      "tag": "short_twintails"
+    },
+    {
+      "phrase": "showing shuangyaji",
+      "tag": "shuangyaji"
+    },
+    {
+      "phrase": "shuangyaji",
+      "tag": "shuangyaji"
+    },
+    {
+      "phrase": "shuangyaji visible",
+      "tag": "shuangyaji"
+    },
+    {
+      "phrase": "with shuangyaji",
+      "tag": "shuangyaji"
+    },
+    {
+      "phrase": "showing side ahoge",
+      "tag": "side_ahoge"
+    },
+    {
+      "phrase": "side ahoge",
+      "tag": "side_ahoge"
+    },
+    {
+      "phrase": "side ahoge visible",
+      "tag": "side_ahoge"
+    },
+    {
+      "phrase": "with side ahoge",
+      "tag": "side_ahoge"
+    },
+    {
+      "phrase": "showing side braid",
+      "tag": "side_braid"
+    },
+    {
+      "phrase": "side braid",
+      "tag": "side_braid"
+    },
+    {
+      "phrase": "side braid visible",
+      "tag": "side_braid"
+    },
+    {
+      "phrase": "with side braid",
+      "tag": "side_braid"
+    },
+    {
+      "phrase": "showing side braids",
+      "tag": "side_braids"
+    },
+    {
+      "phrase": "side braids",
+      "tag": "side_braids"
+    },
+    {
+      "phrase": "side braids visible",
+      "tag": "side_braids"
+    },
+    {
+      "phrase": "with side braids",
+      "tag": "side_braids"
+    },
+    {
+      "phrase": "showing side drill",
+      "tag": "side_drill"
+    },
+    {
+      "phrase": "side drill",
+      "tag": "side_drill"
+    },
+    {
+      "phrase": "side drill visible",
+      "tag": "side_drill"
+    },
+    {
+      "phrase": "with side drill",
+      "tag": "side_drill"
+    },
+    {
+      "phrase": "showing side part",
+      "tag": "side_part"
+    },
+    {
+      "phrase": "side part",
+      "tag": "side_part"
+    },
+    {
+      "phrase": "side part visible",
+      "tag": "side_part"
+    },
+    {
+      "phrase": "with side part",
+      "tag": "side_part"
+    },
+    {
+      "phrase": "showing side ponytail",
+      "tag": "side_ponytail"
+    },
+    {
+      "phrase": "side ponytail",
+      "tag": "side_ponytail"
+    },
+    {
+      "phrase": "side ponytail visible",
+      "tag": "side_ponytail"
+    },
+    {
+      "phrase": "with side ponytail",
+      "tag": "side_ponytail"
+    },
+    {
+      "phrase": "showing side up bun",
+      "tag": "side_up_bun"
+    },
+    {
+      "phrase": "side up bun",
+      "tag": "side_up_bun"
+    },
+    {
+      "phrase": "side up bun visible",
+      "tag": "side_up_bun"
+    },
+    {
+      "phrase": "with side up bun",
+      "tag": "side_up_bun"
+    },
+    {
+      "phrase": "showing sidecut",
+      "tag": "sidecut"
+    },
+    {
+      "phrase": "sidecut",
+      "tag": "sidecut"
+    },
+    {
+      "phrase": "sidecut visible",
+      "tag": "sidecut"
+    },
+    {
+      "phrase": "with sidecut",
+      "tag": "sidecut"
+    },
+    {
+      "phrase": "showing sideless bangs",
+      "tag": "sideless_bangs"
+    },
+    {
+      "phrase": "sideless bangs",
+      "tag": "sideless_bangs"
+    },
+    {
+      "phrase": "sideless bangs visible",
+      "tag": "sideless_bangs"
+    },
+    {
+      "phrase": "with sideless bangs",
+      "tag": "sideless_bangs"
+    },
+    {
+      "phrase": "showing sidelocks",
+      "tag": "sidelocks"
+    },
+    {
+      "phrase": "sidelocks",
+      "tag": "sidelocks"
+    },
+    {
+      "phrase": "sidelocks visible",
+      "tag": "sidelocks"
+    },
+    {
+      "phrase": "with sidelocks",
+      "tag": "sidelocks"
+    },
+    {
+      "phrase": "showing sidelocks tied back",
+      "tag": "sidelocks_tied_back"
+    },
+    {
+      "phrase": "sidelocks tied back",
+      "tag": "sidelocks_tied_back"
+    },
+    {
+      "phrase": "sidelocks tied back visible",
+      "tag": "sidelocks_tied_back"
+    },
+    {
+      "phrase": "with sidelocks tied back",
+      "tag": "sidelocks_tied_back"
+    },
+    {
+      "phrase": "showing single bang",
+      "tag": "single_bang"
+    },
+    {
+      "phrase": "single bang",
+      "tag": "single_bang"
+    },
+    {
+      "phrase": "single bang visible",
+      "tag": "single_bang"
+    },
+    {
+      "phrase": "with single bang",
+      "tag": "single_bang"
+    },
+    {
+      "phrase": "showing single braid",
+      "tag": "single_braid"
+    },
+    {
+      "phrase": "single braid",
+      "tag": "single_braid"
+    },
+    {
+      "phrase": "single braid visible",
+      "tag": "single_braid"
+    },
+    {
+      "phrase": "with single braid",
+      "tag": "single_braid"
+    },
+    {
+      "phrase": "showing single hair bun",
+      "tag": "single_hair_bun"
+    },
+    {
+      "phrase": "single hair bun",
+      "tag": "single_hair_bun"
+    },
+    {
+      "phrase": "single hair bun visible",
+      "tag": "single_hair_bun"
+    },
+    {
+      "phrase": "with single hair bun",
+      "tag": "single_hair_bun"
+    },
+    {
+      "phrase": "showing single hair streak",
+      "tag": "single_hair_streak"
+    },
+    {
+      "phrase": "single hair streak",
+      "tag": "single_hair_streak"
+    },
+    {
+      "phrase": "single hair streak visible",
+      "tag": "single_hair_streak"
+    },
+    {
+      "phrase": "with single hair streak",
+      "tag": "single_hair_streak"
+    },
+    {
+      "phrase": "showing single sidelock",
+      "tag": "single_sidelock"
+    },
+    {
+      "phrase": "single sidelock",
+      "tag": "single_sidelock"
+    },
+    {
+      "phrase": "single sidelock visible",
+      "tag": "single_sidelock"
+    },
+    {
+      "phrase": "with single sidelock",
+      "tag": "single_sidelock"
+    },
+    {
+      "phrase": "showing slime hair",
+      "tag": "slime_hair"
+    },
+    {
+      "phrase": "slime hair",
+      "tag": "slime_hair"
+    },
+    {
+      "phrase": "slime hair visible",
+      "tag": "slime_hair"
+    },
+    {
+      "phrase": "with slime hair",
+      "tag": "slime_hair"
+    },
+    {
+      "phrase": "showing snake hair",
+      "tag": "snake_hair"
+    },
+    {
+      "phrase": "snake hair",
+      "tag": "snake_hair"
+    },
+    {
+      "phrase": "snake hair visible",
+      "tag": "snake_hair"
+    },
+    {
+      "phrase": "with snake hair",
+      "tag": "snake_hair"
+    },
+    {
+      "phrase": "showing spiked hair",
+      "tag": "spiked_hair"
+    },
+    {
+      "phrase": "spiked hair",
+      "tag": "spiked_hair"
+    },
+    {
+      "phrase": "spiked hair visible",
+      "tag": "spiked_hair"
+    },
+    {
+      "phrase": "with spiked hair",
+      "tag": "spiked_hair"
+    },
+    {
+      "phrase": "showing split-color hair",
+      "tag": "split-color_hair"
+    },
+    {
+      "phrase": "split-color hair",
+      "tag": "split-color_hair"
+    },
+    {
+      "phrase": "split-color hair visible",
+      "tag": "split-color_hair"
+    },
+    {
+      "phrase": "with split-color hair",
+      "tag": "split-color_hair"
+    },
+    {
+      "phrase": "showing split ponytail",
+      "tag": "split_ponytail"
+    },
+    {
+      "phrase": "split ponytail",
+      "tag": "split_ponytail"
+    },
+    {
+      "phrase": "split ponytail visible",
+      "tag": "split_ponytail"
+    },
+    {
+      "phrase": "with split ponytail",
+      "tag": "split_ponytail"
+    },
+    {
+      "phrase": "showing spotted hair",
+      "tag": "spotted_hair"
+    },
+    {
+      "phrase": "spotted hair",
+      "tag": "spotted_hair"
+    },
+    {
+      "phrase": "spotted hair visible",
+      "tag": "spotted_hair"
+    },
+    {
+      "phrase": "with spotted hair",
+      "tag": "spotted_hair"
+    },
+    {
+      "phrase": "showing star-shaped hair",
+      "tag": "star-shaped_hair"
+    },
+    {
+      "phrase": "star-shaped hair",
+      "tag": "star-shaped_hair"
+    },
+    {
+      "phrase": "star-shaped hair visible",
+      "tag": "star-shaped_hair"
+    },
+    {
+      "phrase": "with star-shaped hair",
+      "tag": "star-shaped_hair"
+    },
+    {
+      "phrase": "showing star ahoge",
+      "tag": "star_ahoge"
+    },
+    {
+      "phrase": "star ahoge",
+      "tag": "star_ahoge"
+    },
+    {
+      "phrase": "star ahoge visible",
+      "tag": "star_ahoge"
+    },
+    {
+      "phrase": "with star ahoge",
+      "tag": "star_ahoge"
+    },
+    {
+      "phrase": "showing star hair bun",
+      "tag": "star_hair_bun"
+    },
+    {
+      "phrase": "star hair bun",
+      "tag": "star_hair_bun"
+    },
+    {
+      "phrase": "star hair bun visible",
+      "tag": "star_hair_bun"
+    },
+    {
+      "phrase": "with star hair bun",
+      "tag": "star_hair_bun"
+    },
+    {
+      "phrase": "showing starry hair",
+      "tag": "starry_hair"
+    },
+    {
+      "phrase": "starry hair",
+      "tag": "starry_hair"
+    },
+    {
+      "phrase": "starry hair visible",
+      "tag": "starry_hair"
+    },
+    {
+      "phrase": "with starry hair",
+      "tag": "starry_hair"
+    },
+    {
+      "phrase": "showing steamed bun",
+      "tag": "steamed_bun"
+    },
+    {
+      "phrase": "steamed bun",
+      "tag": "steamed_bun"
+    },
+    {
+      "phrase": "steamed bun visible",
+      "tag": "steamed_bun"
+    },
+    {
+      "phrase": "with steamed bun",
+      "tag": "steamed_bun"
+    },
+    {
+      "phrase": "showing straight hair",
+      "tag": "straight_hair"
+    },
+    {
+      "phrase": "straight hair",
+      "tag": "straight_hair"
+    },
+    {
+      "phrase": "straight hair visible",
+      "tag": "straight_hair"
+    },
+    {
+      "phrase": "with straight hair",
+      "tag": "straight_hair"
+    },
+    {
+      "phrase": "showing stray hair",
+      "tag": "stray_hair"
+    },
+    {
+      "phrase": "stray hair",
+      "tag": "stray_hair"
+    },
+    {
+      "phrase": "stray hair visible",
+      "tag": "stray_hair"
+    },
+    {
+      "phrase": "with stray hair",
+      "tag": "stray_hair"
+    },
+    {
+      "phrase": "showing streaked hair",
+      "tag": "streaked_hair"
+    },
+    {
+      "phrase": "streaked hair",
+      "tag": "streaked_hair"
+    },
+    {
+      "phrase": "streaked hair visible",
+      "tag": "streaked_hair"
+    },
+    {
+      "phrase": "with streaked hair",
+      "tag": "streaked_hair"
+    },
+    {
+      "phrase": "showing strip hair",
+      "tag": "strip_hair"
+    },
+    {
+      "phrase": "strip hair",
+      "tag": "strip_hair"
+    },
+    {
+      "phrase": "strip hair visible",
+      "tag": "strip_hair"
+    },
+    {
+      "phrase": "with strip hair",
+      "tag": "strip_hair"
+    },
+    {
+      "phrase": "showing striped hair",
+      "tag": "striped_hair"
+    },
+    {
+      "phrase": "striped hair",
+      "tag": "striped_hair"
+    },
+    {
+      "phrase": "striped hair visible",
+      "tag": "striped_hair"
+    },
+    {
+      "phrase": "with striped hair",
+      "tag": "striped_hair"
+    },
+    {
+      "phrase": "showing swept bangs",
+      "tag": "swept_bangs"
+    },
+    {
+      "phrase": "swept bangs",
+      "tag": "swept_bangs"
+    },
+    {
+      "phrase": "swept bangs visible",
+      "tag": "swept_bangs"
+    },
+    {
+      "phrase": "with swept bangs",
+      "tag": "swept_bangs"
+    },
+    {
+      "phrase": "showing tall hair",
+      "tag": "tall_hair"
+    },
+    {
+      "phrase": "tall hair",
+      "tag": "tall_hair"
+    },
+    {
+      "phrase": "tall hair visible",
+      "tag": "tall_hair"
+    },
+    {
+      "phrase": "with tall hair",
+      "tag": "tall_hair"
+    },
+    {
+      "phrase": "showing temporal hairline",
+      "tag": "temporal_hairline"
+    },
+    {
+      "phrase": "temporal hairline",
+      "tag": "temporal_hairline"
+    },
+    {
+      "phrase": "temporal hairline visible",
+      "tag": "temporal_hairline"
+    },
+    {
+      "phrase": "with temporal hairline",
+      "tag": "temporal_hairline"
+    },
+    {
+      "phrase": "showing tentacle hair",
+      "tag": "tentacle_hair"
+    },
+    {
+      "phrase": "tentacle hair",
+      "tag": "tentacle_hair"
+    },
+    {
+      "phrase": "tentacle hair visible",
+      "tag": "tentacle_hair"
+    },
+    {
+      "phrase": "with tentacle hair",
+      "tag": "tentacle_hair"
+    },
+    {
+      "phrase": "showing topknot",
+      "tag": "topknot"
+    },
+    {
+      "phrase": "topknot",
+      "tag": "topknot"
+    },
+    {
+      "phrase": "topknot visible",
+      "tag": "topknot"
+    },
+    {
+      "phrase": "with topknot",
+      "tag": "topknot"
+    },
+    {
+      "phrase": "showing translucent hair",
+      "tag": "translucent_hair"
+    },
+    {
+      "phrase": "translucent hair",
+      "tag": "translucent_hair"
+    },
+    {
+      "phrase": "translucent hair visible",
+      "tag": "translucent_hair"
+    },
+    {
+      "phrase": "with translucent hair",
+      "tag": "translucent_hair"
+    },
+    {
+      "phrase": "showing tri braids",
+      "tag": "tri_braids"
+    },
+    {
+      "phrase": "tri braids",
+      "tag": "tri_braids"
+    },
+    {
+      "phrase": "tri braids visible",
+      "tag": "tri_braids"
+    },
+    {
+      "phrase": "with tri braids",
+      "tag": "tri_braids"
+    },
+    {
+      "phrase": "showing tri tails",
+      "tag": "tri_tails"
+    },
+    {
+      "phrase": "tri tails",
+      "tag": "tri_tails"
+    },
+    {
+      "phrase": "tri tails visible",
+      "tag": "tri_tails"
+    },
+    {
+      "phrase": "with tri tails",
+      "tag": "tri_tails"
+    },
+    {
+      "phrase": "showing triangle-shaped hair",
+      "tag": "triangle-shaped_hair"
+    },
+    {
+      "phrase": "triangle-shaped hair",
+      "tag": "triangle-shaped_hair"
+    },
+    {
+      "phrase": "triangle-shaped hair visible",
+      "tag": "triangle-shaped_hair"
+    },
+    {
+      "phrase": "with triangle-shaped hair",
+      "tag": "triangle-shaped_hair"
+    },
+    {
+      "phrase": "showing triple ahoge",
+      "tag": "triple_ahoge"
+    },
+    {
+      "phrase": "triple ahoge",
+      "tag": "triple_ahoge"
+    },
+    {
+      "phrase": "triple ahoge visible",
+      "tag": "triple_ahoge"
+    },
+    {
+      "phrase": "with triple ahoge",
+      "tag": "triple_ahoge"
+    },
+    {
+      "phrase": "showing triple bun",
+      "tag": "triple_bun"
+    },
+    {
+      "phrase": "triple bun",
+      "tag": "triple_bun"
+    },
+    {
+      "phrase": "triple bun visible",
+      "tag": "triple_bun"
+    },
+    {
+      "phrase": "with triple bun",
+      "tag": "triple_bun"
+    },
+    {
+      "phrase": "showing tupet",
+      "tag": "tupet"
+    },
+    {
+      "phrase": "tupet",
+      "tag": "tupet"
+    },
+    {
+      "phrase": "tupet visible",
+      "tag": "tupet"
+    },
+    {
+      "phrase": "with tupet",
+      "tag": "tupet"
+    },
+    {
+      "phrase": "showing twin braids",
+      "tag": "twin_braids"
+    },
+    {
+      "phrase": "twin braids",
+      "tag": "twin_braids"
+    },
+    {
+      "phrase": "twin braids visible",
+      "tag": "twin_braids"
+    },
+    {
+      "phrase": "with twin braids",
+      "tag": "twin_braids"
+    },
+    {
+      "phrase": "showing twin drills",
+      "tag": "twin_drills"
+    },
+    {
+      "phrase": "twin drills",
+      "tag": "twin_drills"
+    },
+    {
+      "phrase": "twin drills visible",
+      "tag": "twin_drills"
+    },
+    {
+      "phrase": "with twin drills",
+      "tag": "twin_drills"
+    },
+    {
+      "phrase": "showing twintails",
+      "tag": "twintails"
+    },
+    {
+      "phrase": "twintails",
+      "tag": "twintails"
+    },
+    {
+      "phrase": "twintails visible",
+      "tag": "twintails"
+    },
+    {
+      "phrase": "with twintails",
+      "tag": "twintails"
+    },
+    {
+      "phrase": "showing twintails with braided base",
+      "tag": "twintails_with_braided_base"
+    },
+    {
+      "phrase": "twintails with braided base",
+      "tag": "twintails_with_braided_base"
+    },
+    {
+      "phrase": "twintails with braided base visible",
+      "tag": "twintails_with_braided_base"
+    },
+    {
+      "phrase": "with twintails with braided base",
+      "tag": "twintails_with_braided_base"
+    },
+    {
+      "phrase": "showing twintails with hair base",
+      "tag": "twintails_with_hair_base"
+    },
+    {
+      "phrase": "twintails with hair base",
+      "tag": "twintails_with_hair_base"
+    },
+    {
+      "phrase": "twintails with hair base visible",
+      "tag": "twintails_with_hair_base"
+    },
+    {
+      "phrase": "with twintails with hair base",
+      "tag": "twintails_with_hair_base"
+    },
+    {
+      "phrase": "showing two-tone hair",
+      "tag": "two-tone_hair"
+    },
+    {
+      "phrase": "two-tone hair",
+      "tag": "two-tone_hair"
+    },
+    {
+      "phrase": "two-tone hair visible",
+      "tag": "two-tone_hair"
+    },
+    {
+      "phrase": "with two-tone hair",
+      "tag": "two-tone_hair"
+    },
+    {
+      "phrase": "showing two side up",
+      "tag": "two_side_up"
+    },
+    {
+      "phrase": "two side up",
+      "tag": "two_side_up"
+    },
+    {
+      "phrase": "two side up visible",
+      "tag": "two_side_up"
+    },
+    {
+      "phrase": "with two side up",
+      "tag": "two_side_up"
+    },
+    {
+      "phrase": "showing undercut",
+      "tag": "undercut"
+    },
+    {
+      "phrase": "undercut",
+      "tag": "undercut"
+    },
+    {
+      "phrase": "undercut visible",
+      "tag": "undercut"
+    },
+    {
+      "phrase": "with undercut",
+      "tag": "undercut"
+    },
+    {
+      "phrase": "showing uneven bangs",
+      "tag": "uneven_bangs"
+    },
+    {
+      "phrase": "uneven bangs",
+      "tag": "uneven_bangs"
+    },
+    {
+      "phrase": "uneven bangs visible",
+      "tag": "uneven_bangs"
+    },
+    {
+      "phrase": "with uneven bangs",
+      "tag": "uneven_bangs"
+    },
+    {
+      "phrase": "showing uneven twintails",
+      "tag": "uneven_twintails"
+    },
+    {
+      "phrase": "uneven twintails",
+      "tag": "uneven_twintails"
+    },
+    {
+      "phrase": "uneven twintails visible",
+      "tag": "uneven_twintails"
+    },
+    {
+      "phrase": "with uneven twintails",
+      "tag": "uneven_twintails"
+    },
+    {
+      "phrase": "showing updo",
+      "tag": "updo"
+    },
+    {
+      "phrase": "updo",
+      "tag": "updo"
+    },
+    {
+      "phrase": "updo visible",
+      "tag": "updo"
+    },
+    {
+      "phrase": "with updo",
+      "tag": "updo"
+    },
+    {
+      "phrase": "showing upright ahoge",
+      "tag": "upright_ahoge"
+    },
+    {
+      "phrase": "upright ahoge",
+      "tag": "upright_ahoge"
+    },
+    {
+      "phrase": "upright ahoge visible",
+      "tag": "upright_ahoge"
+    },
+    {
+      "phrase": "with upright ahoge",
+      "tag": "upright_ahoge"
+    },
+    {
+      "phrase": "showing upswept hair",
+      "tag": "upswept_hair"
+    },
+    {
+      "phrase": "upswept hair",
+      "tag": "upswept_hair"
+    },
+    {
+      "phrase": "upswept hair visible",
+      "tag": "upswept_hair"
+    },
+    {
+      "phrase": "with upswept hair",
+      "tag": "upswept_hair"
+    },
+    {
+      "phrase": "showing v-bangs",
+      "tag": "v-bangs"
+    },
+    {
+      "phrase": "v-bangs",
+      "tag": "v-bangs"
+    },
+    {
+      "phrase": "v-bangs visible",
+      "tag": "v-bangs"
+    },
+    {
+      "phrase": "with v-bangs",
+      "tag": "v-bangs"
+    },
+    {
+      "phrase": "showing very long hair",
+      "tag": "very_long_hair"
+    },
+    {
+      "phrase": "very long hair",
+      "tag": "very_long_hair"
+    },
+    {
+      "phrase": "very long hair visible",
+      "tag": "very_long_hair"
+    },
+    {
+      "phrase": "with very long hair",
+      "tag": "very_long_hair"
+    },
+    {
+      "phrase": "showing very long sidelocks",
+      "tag": "very_long_sidelocks"
+    },
+    {
+      "phrase": "very long sidelocks",
+      "tag": "very_long_sidelocks"
+    },
+    {
+      "phrase": "very long sidelocks visible",
+      "tag": "very_long_sidelocks"
+    },
+    {
+      "phrase": "with very long sidelocks",
+      "tag": "very_long_sidelocks"
+    },
+    {
+      "phrase": "showing very low bun",
+      "tag": "very_low_bun"
+    },
+    {
+      "phrase": "very low bun",
+      "tag": "very_low_bun"
+    },
+    {
+      "phrase": "very low bun visible",
+      "tag": "very_low_bun"
+    },
+    {
+      "phrase": "with very low bun",
+      "tag": "very_low_bun"
+    },
+    {
+      "phrase": "showing very short hair",
+      "tag": "very_short_hair"
+    },
+    {
+      "phrase": "very short hair",
+      "tag": "very_short_hair"
+    },
+    {
+      "phrase": "very short hair visible",
+      "tag": "very_short_hair"
+    },
+    {
+      "phrase": "with very short hair",
+      "tag": "very_short_hair"
+    },
+    {
+      "phrase": "showing victory rolls",
+      "tag": "victory_rolls"
+    },
+    {
+      "phrase": "victory rolls",
+      "tag": "victory_rolls"
+    },
+    {
+      "phrase": "victory rolls visible",
+      "tag": "victory_rolls"
+    },
+    {
+      "phrase": "with victory rolls",
+      "tag": "victory_rolls"
+    },
+    {
+      "phrase": "showing wavy hair",
+      "tag": "wavy_hair"
+    },
+    {
+      "phrase": "wavy hair",
+      "tag": "wavy_hair"
+    },
+    {
+      "phrase": "wavy hair visible",
+      "tag": "wavy_hair"
+    },
+    {
+      "phrase": "with wavy hair",
+      "tag": "wavy_hair"
+    },
+    {
+      "phrase": "showing wavy sidelocks",
+      "tag": "wavy_sidelocks"
+    },
+    {
+      "phrase": "wavy sidelocks",
+      "tag": "wavy_sidelocks"
+    },
+    {
+      "phrase": "wavy sidelocks visible",
+      "tag": "wavy_sidelocks"
+    },
+    {
+      "phrase": "with wavy sidelocks",
+      "tag": "wavy_sidelocks"
+    },
+    {
+      "phrase": "showing wet hair",
+      "tag": "wet_hair"
+    },
+    {
+      "phrase": "wet hair",
+      "tag": "wet_hair"
+    },
+    {
+      "phrase": "wet hair visible",
+      "tag": "wet_hair"
+    },
+    {
+      "phrase": "with wet hair",
+      "tag": "wet_hair"
+    },
+    {
+      "phrase": "showing white hair",
+      "tag": "white_hair"
+    },
+    {
+      "phrase": "white hair",
+      "tag": "white_hair"
+    },
+    {
+      "phrase": "white hair visible",
+      "tag": "white_hair"
+    },
+    {
+      "phrase": "with white hair",
+      "tag": "white_hair"
+    },
+    {
+      "phrase": "showing white streaks",
+      "tag": "white_streaks"
+    },
+    {
+      "phrase": "white streaks",
+      "tag": "white_streaks"
+    },
+    {
+      "phrase": "white streaks visible",
+      "tag": "white_streaks"
+    },
+    {
+      "phrase": "with white streaks",
+      "tag": "white_streaks"
+    },
+    {
+      "phrase": "showing wide ponytail",
+      "tag": "wide_ponytail"
+    },
+    {
+      "phrase": "wide ponytail",
+      "tag": "wide_ponytail"
+    },
+    {
+      "phrase": "wide ponytail visible",
+      "tag": "wide_ponytail"
+    },
+    {
+      "phrase": "with wide ponytail",
+      "tag": "wide_ponytail"
+    },
+    {
+      "phrase": "showing widow's peak",
+      "tag": "widow's_peak"
+    },
+    {
+      "phrase": "widow's peak",
+      "tag": "widow's_peak"
+    },
+    {
+      "phrase": "widow's peak visible",
+      "tag": "widow's_peak"
+    },
+    {
+      "phrase": "with widow's peak",
+      "tag": "widow's_peak"
+    },
+    {
+      "phrase": "showing wilted ahoge",
+      "tag": "wilted_ahoge"
+    },
+    {
+      "phrase": "wilted ahoge",
+      "tag": "wilted_ahoge"
+    },
+    {
+      "phrase": "wilted ahoge visible",
+      "tag": "wilted_ahoge"
+    },
+    {
+      "phrase": "with wilted ahoge",
+      "tag": "wilted_ahoge"
+    },
+    {
+      "phrase": "showing wing-shaped hair",
+      "tag": "wing-shaped_hair"
+    },
+    {
+      "phrase": "wing-shaped hair",
+      "tag": "wing-shaped_hair"
+    },
+    {
+      "phrase": "wing-shaped hair visible",
+      "tag": "wing-shaped_hair"
+    },
+    {
+      "phrase": "with wing-shaped hair",
+      "tag": "wing-shaped_hair"
+    },
+    {
+      "phrase": "showing winged hair tie",
+      "tag": "winged_hair_tie"
+    },
+    {
+      "phrase": "winged hair tie",
+      "tag": "winged_hair_tie"
+    },
+    {
+      "phrase": "winged hair tie visible",
+      "tag": "winged_hair_tie"
+    },
+    {
+      "phrase": "with winged hair tie",
+      "tag": "winged_hair_tie"
+    },
+    {
+      "phrase": "showing wispy bangs",
+      "tag": "wispy_bangs"
+    },
+    {
+      "phrase": "wispy bangs",
+      "tag": "wispy_bangs"
+    },
+    {
+      "phrase": "wispy bangs visible",
+      "tag": "wispy_bangs"
+    },
+    {
+      "phrase": "with wispy bangs",
+      "tag": "wispy_bangs"
+    },
+    {
+      "phrase": "showing wood gradient hair",
+      "tag": "wood_gradient_hair"
+    },
+    {
+      "phrase": "with wood gradient hair",
+      "tag": "wood_gradient_hair"
+    },
+    {
+      "phrase": "wood gradient hair",
+      "tag": "wood_gradient_hair"
+    },
+    {
+      "phrase": "wood gradient hair visible",
+      "tag": "wood_gradient_hair"
+    },
+    {
+      "phrase": "showing wrapped hair",
+      "tag": "wrapped_hair"
+    },
+    {
+      "phrase": "with wrapped hair",
+      "tag": "wrapped_hair"
+    },
+    {
+      "phrase": "wrapped hair",
+      "tag": "wrapped_hair"
+    },
+    {
+      "phrase": "wrapped hair visible",
+      "tag": "wrapped_hair"
+    }
+  ]
+}

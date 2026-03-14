@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "phrase": "at dawn",
+      "tag": "dawn"
+    },
+    {
+      "phrase": "dawn",
+      "tag": "dawn"
+    },
+    {
+      "phrase": "dawn scene",
+      "tag": "dawn"
+    },
+    {
+      "phrase": "at day",
+      "tag": "day"
+    },
+    {
+      "phrase": "day",
+      "tag": "day"
+    },
+    {
+      "phrase": "day scene",
+      "tag": "day"
+    },
+    {
+      "phrase": "at day and night",
+      "tag": "day_and_night"
+    },
+    {
+      "phrase": "day and night",
+      "tag": "day_and_night"
+    },
+    {
+      "phrase": "day and night scene",
+      "tag": "day_and_night"
+    },
+    {
+      "phrase": "at dusk",
+      "tag": "dusk"
+    },
+    {
+      "phrase": "dusk",
+      "tag": "dusk"
+    },
+    {
+      "phrase": "dusk scene",
+      "tag": "dusk"
+    },
+    {
+      "phrase": "at evening",
+      "tag": "evening"
+    },
+    {
+      "phrase": "evening",
+      "tag": "evening"
+    },
+    {
+      "phrase": "evening scene",
+      "tag": "evening"
+    },
+    {
+      "phrase": "at morning",
+      "tag": "morning"
+    },
+    {
+      "phrase": "morning",
+      "tag": "morning"
+    },
+    {
+      "phrase": "morning scene",
+      "tag": "morning"
+    },
+    {
+      "phrase": "at night",
+      "tag": "night"
+    },
+    {
+      "phrase": "night",
+      "tag": "night"
+    },
+    {
+      "phrase": "night scene",
+      "tag": "night"
+    },
+    {
+      "phrase": "at sunrise",
+      "tag": "sunrise"
+    },
+    {
+      "phrase": "sunrise",
+      "tag": "sunrise"
+    },
+    {
+      "phrase": "sunrise scene",
+      "tag": "sunrise"
+    },
+    {
+      "phrase": "at sunset",
+      "tag": "sunset"
+    },
+    {
+      "phrase": "sunset",
+      "tag": "sunset"
+    },
+    {
+      "phrase": "sunset scene",
+      "tag": "sunset"
+    },
+    {
+      "phrase": "at twilight",
+      "tag": "twilight"
+    },
+    {
+      "phrase": "twilight",
+      "tag": "twilight"
+    },
+    {
+      "phrase": "twilight scene",
+      "tag": "twilight"
+    }
+  ]
+}

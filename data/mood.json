@@ -1,0 +1,1240 @@
+{
+  "items": [
+    {
+      "phrase": "affectionate",
+      "tag": "affectionate"
+    },
+    {
+      "phrase": "affectionate expression",
+      "tag": "affectionate"
+    },
+    {
+      "phrase": "looking affectionate",
+      "tag": "affectionate"
+    },
+    {
+      "phrase": "amazed",
+      "tag": "amazed"
+    },
+    {
+      "phrase": "amazed expression",
+      "tag": "amazed"
+    },
+    {
+      "phrase": "looking amazed",
+      "tag": "amazed"
+    },
+    {
+      "phrase": "amused",
+      "tag": "amused"
+    },
+    {
+      "phrase": "amused expression",
+      "tag": "amused"
+    },
+    {
+      "phrase": "looking amused",
+      "tag": "amused"
+    },
+    {
+      "phrase": "anger vein",
+      "tag": "anger_vein"
+    },
+    {
+      "phrase": "anger vein expression",
+      "tag": "anger_vein"
+    },
+    {
+      "phrase": "looking anger vein",
+      "tag": "anger_vein"
+    },
+    {
+      "phrase": "angry",
+      "tag": "angry"
+    },
+    {
+      "phrase": "angry expression",
+      "tag": "angry"
+    },
+    {
+      "phrase": "looking angry",
+      "tag": "angry"
+    },
+    {
+      "phrase": "annoyed",
+      "tag": "annoyed"
+    },
+    {
+      "phrase": "annoyed expression",
+      "tag": "annoyed"
+    },
+    {
+      "phrase": "looking annoyed",
+      "tag": "annoyed"
+    },
+    {
+      "phrase": "anxious",
+      "tag": "anxious"
+    },
+    {
+      "phrase": "anxious expression",
+      "tag": "anxious"
+    },
+    {
+      "phrase": "looking anxious",
+      "tag": "anxious"
+    },
+    {
+      "phrase": "apathetic",
+      "tag": "apathetic"
+    },
+    {
+      "phrase": "apathetic expression",
+      "tag": "apathetic"
+    },
+    {
+      "phrase": "looking apathetic",
+      "tag": "apathetic"
+    },
+    {
+      "phrase": "ashamed",
+      "tag": "ashamed"
+    },
+    {
+      "phrase": "ashamed expression",
+      "tag": "ashamed"
+    },
+    {
+      "phrase": "looking ashamed",
+      "tag": "ashamed"
+    },
+    {
+      "phrase": "awed",
+      "tag": "awed"
+    },
+    {
+      "phrase": "awed expression",
+      "tag": "awed"
+    },
+    {
+      "phrase": "looking awed",
+      "tag": "awed"
+    },
+    {
+      "phrase": "bewildered",
+      "tag": "bewildered"
+    },
+    {
+      "phrase": "bewildered expression",
+      "tag": "bewildered"
+    },
+    {
+      "phrase": "looking bewildered",
+      "tag": "bewildered"
+    },
+    {
+      "phrase": "bitter",
+      "tag": "bitter"
+    },
+    {
+      "phrase": "bitter expression",
+      "tag": "bitter"
+    },
+    {
+      "phrase": "looking bitter",
+      "tag": "bitter"
+    },
+    {
+      "phrase": "blissful",
+      "tag": "blissful"
+    },
+    {
+      "phrase": "blissful expression",
+      "tag": "blissful"
+    },
+    {
+      "phrase": "looking blissful",
+      "tag": "blissful"
+    },
+    {
+      "phrase": "bored",
+      "tag": "bored"
+    },
+    {
+      "phrase": "bored expression",
+      "tag": "bored"
+    },
+    {
+      "phrase": "looking bored",
+      "tag": "bored"
+    },
+    {
+      "phrase": "calm",
+      "tag": "calm"
+    },
+    {
+      "phrase": "calm expression",
+      "tag": "calm"
+    },
+    {
+      "phrase": "looking calm",
+      "tag": "calm"
+    },
+    {
+      "phrase": "celebration",
+      "tag": "celebration"
+    },
+    {
+      "phrase": "celebration expression",
+      "tag": "celebration"
+    },
+    {
+      "phrase": "looking celebration",
+      "tag": "celebration"
+    },
+    {
+      "phrase": "cheerful",
+      "tag": "cheerful"
+    },
+    {
+      "phrase": "cheerful expression",
+      "tag": "cheerful"
+    },
+    {
+      "phrase": "looking cheerful",
+      "tag": "cheerful"
+    },
+    {
+      "phrase": "confident",
+      "tag": "confident"
+    },
+    {
+      "phrase": "confident expression",
+      "tag": "confident"
+    },
+    {
+      "phrase": "looking confident",
+      "tag": "confident"
+    },
+    {
+      "phrase": "confused",
+      "tag": "confused"
+    },
+    {
+      "phrase": "confused expression",
+      "tag": "confused"
+    },
+    {
+      "phrase": "looking confused",
+      "tag": "confused"
+    },
+    {
+      "phrase": "contemplative",
+      "tag": "contemplative"
+    },
+    {
+      "phrase": "contemplative expression",
+      "tag": "contemplative"
+    },
+    {
+      "phrase": "looking contemplative",
+      "tag": "contemplative"
+    },
+    {
+      "phrase": "content",
+      "tag": "content"
+    },
+    {
+      "phrase": "content expression",
+      "tag": "content"
+    },
+    {
+      "phrase": "looking content",
+      "tag": "content"
+    },
+    {
+      "phrase": "courageous",
+      "tag": "courageous"
+    },
+    {
+      "phrase": "courageous expression",
+      "tag": "courageous"
+    },
+    {
+      "phrase": "looking courageous",
+      "tag": "courageous"
+    },
+    {
+      "phrase": "curious",
+      "tag": "curious"
+    },
+    {
+      "phrase": "curious expression",
+      "tag": "curious"
+    },
+    {
+      "phrase": "looking curious",
+      "tag": "curious"
+    },
+    {
+      "phrase": "defeat",
+      "tag": "defeat"
+    },
+    {
+      "phrase": "defeat expression",
+      "tag": "defeat"
+    },
+    {
+      "phrase": "looking defeat",
+      "tag": "defeat"
+    },
+    {
+      "phrase": "dejected",
+      "tag": "dejected"
+    },
+    {
+      "phrase": "dejected expression",
+      "tag": "dejected"
+    },
+    {
+      "phrase": "looking dejected",
+      "tag": "dejected"
+    },
+    {
+      "phrase": "depressed",
+      "tag": "depressed"
+    },
+    {
+      "phrase": "depressed expression",
+      "tag": "depressed"
+    },
+    {
+      "phrase": "looking depressed",
+      "tag": "depressed"
+    },
+    {
+      "phrase": "despair",
+      "tag": "despair"
+    },
+    {
+      "phrase": "despair expression",
+      "tag": "despair"
+    },
+    {
+      "phrase": "looking despair",
+      "tag": "despair"
+    },
+    {
+      "phrase": "desperate",
+      "tag": "desperate"
+    },
+    {
+      "phrase": "desperate expression",
+      "tag": "desperate"
+    },
+    {
+      "phrase": "looking desperate",
+      "tag": "desperate"
+    },
+    {
+      "phrase": "determined",
+      "tag": "determined"
+    },
+    {
+      "phrase": "determined expression",
+      "tag": "determined"
+    },
+    {
+      "phrase": "looking determined",
+      "tag": "determined"
+    },
+    {
+      "phrase": "devastated",
+      "tag": "devastated"
+    },
+    {
+      "phrase": "devastated expression",
+      "tag": "devastated"
+    },
+    {
+      "phrase": "looking devastated",
+      "tag": "devastated"
+    },
+    {
+      "phrase": "disappointed",
+      "tag": "disappointed"
+    },
+    {
+      "phrase": "disappointed expression",
+      "tag": "disappointed"
+    },
+    {
+      "phrase": "looking disappointed",
+      "tag": "disappointed"
+    },
+    {
+      "phrase": "disgusted",
+      "tag": "disgusted"
+    },
+    {
+      "phrase": "disgusted expression",
+      "tag": "disgusted"
+    },
+    {
+      "phrase": "looking disgusted",
+      "tag": "disgusted"
+    },
+    {
+      "phrase": "distress",
+      "tag": "distress"
+    },
+    {
+      "phrase": "distress expression",
+      "tag": "distress"
+    },
+    {
+      "phrase": "looking distress",
+      "tag": "distress"
+    },
+    {
+      "phrase": "dramatic",
+      "tag": "dramatic"
+    },
+    {
+      "phrase": "dramatic expression",
+      "tag": "dramatic"
+    },
+    {
+      "phrase": "looking dramatic",
+      "tag": "dramatic"
+    },
+    {
+      "phrase": "ecstatic",
+      "tag": "ecstatic"
+    },
+    {
+      "phrase": "ecstatic expression",
+      "tag": "ecstatic"
+    },
+    {
+      "phrase": "looking ecstatic",
+      "tag": "ecstatic"
+    },
+    {
+      "phrase": "embarrassed",
+      "tag": "embarrassed"
+    },
+    {
+      "phrase": "embarrassed expression",
+      "tag": "embarrassed"
+    },
+    {
+      "phrase": "looking embarrassed",
+      "tag": "embarrassed"
+    },
+    {
+      "phrase": "envious",
+      "tag": "envious"
+    },
+    {
+      "phrase": "envious expression",
+      "tag": "envious"
+    },
+    {
+      "phrase": "looking envious",
+      "tag": "envious"
+    },
+    {
+      "phrase": "excited",
+      "tag": "excited"
+    },
+    {
+      "phrase": "excited expression",
+      "tag": "excited"
+    },
+    {
+      "phrase": "looking excited",
+      "tag": "excited"
+    },
+    {
+      "phrase": "exhaust",
+      "tag": "exhaust"
+    },
+    {
+      "phrase": "exhaust expression",
+      "tag": "exhaust"
+    },
+    {
+      "phrase": "looking exhaust",
+      "tag": "exhaust"
+    },
+    {
+      "phrase": "exhausted",
+      "tag": "exhausted"
+    },
+    {
+      "phrase": "exhausted expression",
+      "tag": "exhausted"
+    },
+    {
+      "phrase": "looking exhausted",
+      "tag": "exhausted"
+    },
+    {
+      "phrase": "fascinated",
+      "tag": "fascinated"
+    },
+    {
+      "phrase": "fascinated expression",
+      "tag": "fascinated"
+    },
+    {
+      "phrase": "looking fascinated",
+      "tag": "fascinated"
+    },
+    {
+      "phrase": "frustrated",
+      "tag": "frustrated"
+    },
+    {
+      "phrase": "frustrated expression",
+      "tag": "frustrated"
+    },
+    {
+      "phrase": "looking frustrated",
+      "tag": "frustrated"
+    },
+    {
+      "phrase": "grateful",
+      "tag": "grateful"
+    },
+    {
+      "phrase": "grateful expression",
+      "tag": "grateful"
+    },
+    {
+      "phrase": "looking grateful",
+      "tag": "grateful"
+    },
+    {
+      "phrase": "guilty",
+      "tag": "guilty"
+    },
+    {
+      "phrase": "guilty expression",
+      "tag": "guilty"
+    },
+    {
+      "phrase": "looking guilty",
+      "tag": "guilty"
+    },
+    {
+      "phrase": "happy",
+      "tag": "happy"
+    },
+    {
+      "phrase": "happy expression",
+      "tag": "happy"
+    },
+    {
+      "phrase": "looking happy",
+      "tag": "happy"
+    },
+    {
+      "phrase": "heartbroken",
+      "tag": "heartbroken"
+    },
+    {
+      "phrase": "heartbroken expression",
+      "tag": "heartbroken"
+    },
+    {
+      "phrase": "looking heartbroken",
+      "tag": "heartbroken"
+    },
+    {
+      "phrase": "helpless",
+      "tag": "helpless"
+    },
+    {
+      "phrase": "helpless expression",
+      "tag": "helpless"
+    },
+    {
+      "phrase": "looking helpless",
+      "tag": "helpless"
+    },
+    {
+      "phrase": "hopeful",
+      "tag": "hopeful"
+    },
+    {
+      "phrase": "hopeful expression",
+      "tag": "hopeful"
+    },
+    {
+      "phrase": "looking hopeful",
+      "tag": "hopeful"
+    },
+    {
+      "phrase": "horrified",
+      "tag": "horrified"
+    },
+    {
+      "phrase": "horrified expression",
+      "tag": "horrified"
+    },
+    {
+      "phrase": "looking horrified",
+      "tag": "horrified"
+    },
+    {
+      "phrase": "hot",
+      "tag": "hot"
+    },
+    {
+      "phrase": "hot expression",
+      "tag": "hot"
+    },
+    {
+      "phrase": "looking hot",
+      "tag": "hot"
+    },
+    {
+      "phrase": "humbled",
+      "tag": "humbled"
+    },
+    {
+      "phrase": "humbled expression",
+      "tag": "humbled"
+    },
+    {
+      "phrase": "looking humbled",
+      "tag": "humbled"
+    },
+    {
+      "phrase": "humiliated",
+      "tag": "humiliated"
+    },
+    {
+      "phrase": "humiliated expression",
+      "tag": "humiliated"
+    },
+    {
+      "phrase": "looking humiliated",
+      "tag": "humiliated"
+    },
+    {
+      "phrase": "hungry",
+      "tag": "hungry"
+    },
+    {
+      "phrase": "hungry expression",
+      "tag": "hungry"
+    },
+    {
+      "phrase": "looking hungry",
+      "tag": "hungry"
+    },
+    {
+      "phrase": "imagining",
+      "tag": "imagining"
+    },
+    {
+      "phrase": "imagining expression",
+      "tag": "imagining"
+    },
+    {
+      "phrase": "looking imagining",
+      "tag": "imagining"
+    },
+    {
+      "phrase": "imminent death",
+      "tag": "imminent_death"
+    },
+    {
+      "phrase": "imminent death expression",
+      "tag": "imminent_death"
+    },
+    {
+      "phrase": "looking imminent death",
+      "tag": "imminent_death"
+    },
+    {
+      "phrase": "impatient",
+      "tag": "impatient"
+    },
+    {
+      "phrase": "impatient expression",
+      "tag": "impatient"
+    },
+    {
+      "phrase": "looking impatient",
+      "tag": "impatient"
+    },
+    {
+      "phrase": "indifferent",
+      "tag": "indifferent"
+    },
+    {
+      "phrase": "indifferent expression",
+      "tag": "indifferent"
+    },
+    {
+      "phrase": "looking indifferent",
+      "tag": "indifferent"
+    },
+    {
+      "phrase": "inspired",
+      "tag": "inspired"
+    },
+    {
+      "phrase": "inspired expression",
+      "tag": "inspired"
+    },
+    {
+      "phrase": "looking inspired",
+      "tag": "inspired"
+    },
+    {
+      "phrase": "irritated",
+      "tag": "irritated"
+    },
+    {
+      "phrase": "irritated expression",
+      "tag": "irritated"
+    },
+    {
+      "phrase": "looking irritated",
+      "tag": "irritated"
+    },
+    {
+      "phrase": "jealous",
+      "tag": "jealous"
+    },
+    {
+      "phrase": "jealous expression",
+      "tag": "jealous"
+    },
+    {
+      "phrase": "looking jealous",
+      "tag": "jealous"
+    },
+    {
+      "phrase": "joyful",
+      "tag": "joyful"
+    },
+    {
+      "phrase": "joyful expression",
+      "tag": "joyful"
+    },
+    {
+      "phrase": "looking joyful",
+      "tag": "joyful"
+    },
+    {
+      "phrase": "lonely",
+      "tag": "lonely"
+    },
+    {
+      "phrase": "lonely expression",
+      "tag": "lonely"
+    },
+    {
+      "phrase": "looking lonely",
+      "tag": "lonely"
+    },
+    {
+      "phrase": "looking melancholic",
+      "tag": "melancholic"
+    },
+    {
+      "phrase": "melancholic",
+      "tag": "melancholic"
+    },
+    {
+      "phrase": "melancholic expression",
+      "tag": "melancholic"
+    },
+    {
+      "phrase": "looking mischievous",
+      "tag": "mischievous"
+    },
+    {
+      "phrase": "mischievous",
+      "tag": "mischievous"
+    },
+    {
+      "phrase": "mischievous expression",
+      "tag": "mischievous"
+    },
+    {
+      "phrase": "looking mourning",
+      "tag": "mourning"
+    },
+    {
+      "phrase": "mourning",
+      "tag": "mourning"
+    },
+    {
+      "phrase": "mourning expression",
+      "tag": "mourning"
+    },
+    {
+      "phrase": "looking nervous",
+      "tag": "nervous"
+    },
+    {
+      "phrase": "nervous",
+      "tag": "nervous"
+    },
+    {
+      "phrase": "nervous expression",
+      "tag": "nervous"
+    },
+    {
+      "phrase": "looking nightmare",
+      "tag": "nightmare"
+    },
+    {
+      "phrase": "nightmare",
+      "tag": "nightmare"
+    },
+    {
+      "phrase": "nightmare expression",
+      "tag": "nightmare"
+    },
+    {
+      "phrase": "looking nostalgic",
+      "tag": "nostalgic"
+    },
+    {
+      "phrase": "nostalgic",
+      "tag": "nostalgic"
+    },
+    {
+      "phrase": "nostalgic expression",
+      "tag": "nostalgic"
+    },
+    {
+      "phrase": "looking overwhelmed",
+      "tag": "overwhelmed"
+    },
+    {
+      "phrase": "overwhelmed",
+      "tag": "overwhelmed"
+    },
+    {
+      "phrase": "overwhelmed expression",
+      "tag": "overwhelmed"
+    },
+    {
+      "phrase": "looking pain",
+      "tag": "pain"
+    },
+    {
+      "phrase": "pain",
+      "tag": "pain"
+    },
+    {
+      "phrase": "pain expression",
+      "tag": "pain"
+    },
+    {
+      "phrase": "looking panicked",
+      "tag": "panicked"
+    },
+    {
+      "phrase": "panicked",
+      "tag": "panicked"
+    },
+    {
+      "phrase": "panicked expression",
+      "tag": "panicked"
+    },
+    {
+      "phrase": "looking peaceful",
+      "tag": "peaceful"
+    },
+    {
+      "phrase": "peaceful",
+      "tag": "peaceful"
+    },
+    {
+      "phrase": "peaceful expression",
+      "tag": "peaceful"
+    },
+    {
+      "phrase": "looking pensive",
+      "tag": "pensive"
+    },
+    {
+      "phrase": "pensive",
+      "tag": "pensive"
+    },
+    {
+      "phrase": "pensive expression",
+      "tag": "pensive"
+    },
+    {
+      "phrase": "looking perplexed",
+      "tag": "perplexed"
+    },
+    {
+      "phrase": "perplexed",
+      "tag": "perplexed"
+    },
+    {
+      "phrase": "perplexed expression",
+      "tag": "perplexed"
+    },
+    {
+      "phrase": "looking playful",
+      "tag": "playful"
+    },
+    {
+      "phrase": "playful",
+      "tag": "playful"
+    },
+    {
+      "phrase": "playful expression",
+      "tag": "playful"
+    },
+    {
+      "phrase": "looking pouch",
+      "tag": "pouch"
+    },
+    {
+      "phrase": "pouch",
+      "tag": "pouch"
+    },
+    {
+      "phrase": "pouch expression",
+      "tag": "pouch"
+    },
+    {
+      "phrase": "looking pout",
+      "tag": "pout"
+    },
+    {
+      "phrase": "pout",
+      "tag": "pout"
+    },
+    {
+      "phrase": "pout expression",
+      "tag": "pout"
+    },
+    {
+      "phrase": "looking proud",
+      "tag": "proud"
+    },
+    {
+      "phrase": "proud",
+      "tag": "proud"
+    },
+    {
+      "phrase": "proud expression",
+      "tag": "proud"
+    },
+    {
+      "phrase": "looking puzzled",
+      "tag": "puzzled"
+    },
+    {
+      "phrase": "puzzled",
+      "tag": "puzzled"
+    },
+    {
+      "phrase": "puzzled expression",
+      "tag": "puzzled"
+    },
+    {
+      "phrase": "looking reflective",
+      "tag": "reflective"
+    },
+    {
+      "phrase": "reflective",
+      "tag": "reflective"
+    },
+    {
+      "phrase": "reflective expression",
+      "tag": "reflective"
+    },
+    {
+      "phrase": "looking regretful",
+      "tag": "regretful"
+    },
+    {
+      "phrase": "regretful",
+      "tag": "regretful"
+    },
+    {
+      "phrase": "regretful expression",
+      "tag": "regretful"
+    },
+    {
+      "phrase": "looking relieved",
+      "tag": "relieved"
+    },
+    {
+      "phrase": "relieved",
+      "tag": "relieved"
+    },
+    {
+      "phrase": "relieved expression",
+      "tag": "relieved"
+    },
+    {
+      "phrase": "looking revenge",
+      "tag": "revenge"
+    },
+    {
+      "phrase": "revenge",
+      "tag": "revenge"
+    },
+    {
+      "phrase": "revenge expression",
+      "tag": "revenge"
+    },
+    {
+      "phrase": "looking revolted",
+      "tag": "revolted"
+    },
+    {
+      "phrase": "revolted",
+      "tag": "revolted"
+    },
+    {
+      "phrase": "revolted expression",
+      "tag": "revolted"
+    },
+    {
+      "phrase": "looking sad",
+      "tag": "sad"
+    },
+    {
+      "phrase": "sad",
+      "tag": "sad"
+    },
+    {
+      "phrase": "sad expression",
+      "tag": "sad"
+    },
+    {
+      "phrase": "looking scared",
+      "tag": "scared"
+    },
+    {
+      "phrase": "scared",
+      "tag": "scared"
+    },
+    {
+      "phrase": "scared expression",
+      "tag": "scared"
+    },
+    {
+      "phrase": "looking serious",
+      "tag": "serious"
+    },
+    {
+      "phrase": "serious",
+      "tag": "serious"
+    },
+    {
+      "phrase": "serious expression",
+      "tag": "serious"
+    },
+    {
+      "phrase": "looking shocked",
+      "tag": "shocked"
+    },
+    {
+      "phrase": "shocked",
+      "tag": "shocked"
+    },
+    {
+      "phrase": "shocked expression",
+      "tag": "shocked"
+    },
+    {
+      "phrase": "looking shy",
+      "tag": "shy"
+    },
+    {
+      "phrase": "shy",
+      "tag": "shy"
+    },
+    {
+      "phrase": "shy expression",
+      "tag": "shy"
+    },
+    {
+      "phrase": "looking sick",
+      "tag": "sick"
+    },
+    {
+      "phrase": "sick",
+      "tag": "sick"
+    },
+    {
+      "phrase": "sick expression",
+      "tag": "sick"
+    },
+    {
+      "phrase": "looking skeptical",
+      "tag": "skeptical"
+    },
+    {
+      "phrase": "skeptical",
+      "tag": "skeptical"
+    },
+    {
+      "phrase": "skeptical expression",
+      "tag": "skeptical"
+    },
+    {
+      "phrase": "looking sleepy",
+      "tag": "sleepy"
+    },
+    {
+      "phrase": "sleepy",
+      "tag": "sleepy"
+    },
+    {
+      "phrase": "sleepy expression",
+      "tag": "sleepy"
+    },
+    {
+      "phrase": "looking stressed",
+      "tag": "stressed"
+    },
+    {
+      "phrase": "stressed",
+      "tag": "stressed"
+    },
+    {
+      "phrase": "stressed expression",
+      "tag": "stressed"
+    },
+    {
+      "phrase": "looking surprised",
+      "tag": "surprised"
+    },
+    {
+      "phrase": "surprised",
+      "tag": "surprised"
+    },
+    {
+      "phrase": "surprised expression",
+      "tag": "surprised"
+    },
+    {
+      "phrase": "looking suspicious",
+      "tag": "suspicious"
+    },
+    {
+      "phrase": "suspicious",
+      "tag": "suspicious"
+    },
+    {
+      "phrase": "suspicious expression",
+      "tag": "suspicious"
+    },
+    {
+      "phrase": "looking sympathetic",
+      "tag": "sympathetic"
+    },
+    {
+      "phrase": "sympathetic",
+      "tag": "sympathetic"
+    },
+    {
+      "phrase": "sympathetic expression",
+      "tag": "sympathetic"
+    },
+    {
+      "phrase": "looking thinking",
+      "tag": "thinking"
+    },
+    {
+      "phrase": "thinking",
+      "tag": "thinking"
+    },
+    {
+      "phrase": "thinking expression",
+      "tag": "thinking"
+    },
+    {
+      "phrase": "looking thoughtful",
+      "tag": "thoughtful"
+    },
+    {
+      "phrase": "thoughtful",
+      "tag": "thoughtful"
+    },
+    {
+      "phrase": "thoughtful expression",
+      "tag": "thoughtful"
+    },
+    {
+      "phrase": "looking tired",
+      "tag": "tired"
+    },
+    {
+      "phrase": "tired",
+      "tag": "tired"
+    },
+    {
+      "phrase": "tired expression",
+      "tag": "tired"
+    },
+    {
+      "phrase": "looking triumphant",
+      "tag": "triumphant"
+    },
+    {
+      "phrase": "triumphant",
+      "tag": "triumphant"
+    },
+    {
+      "phrase": "triumphant expression",
+      "tag": "triumphant"
+    },
+    {
+      "phrase": "looking unconscious",
+      "tag": "unconscious"
+    },
+    {
+      "phrase": "unconscious",
+      "tag": "unconscious"
+    },
+    {
+      "phrase": "unconscious expression",
+      "tag": "unconscious"
+    },
+    {
+      "phrase": "looking unhappy",
+      "tag": "unhappy"
+    },
+    {
+      "phrase": "unhappy",
+      "tag": "unhappy"
+    },
+    {
+      "phrase": "unhappy expression",
+      "tag": "unhappy"
+    },
+    {
+      "phrase": "looking vindictive",
+      "tag": "vindictive"
+    },
+    {
+      "phrase": "vindictive",
+      "tag": "vindictive"
+    },
+    {
+      "phrase": "vindictive expression",
+      "tag": "vindictive"
+    }
+  ]
+}

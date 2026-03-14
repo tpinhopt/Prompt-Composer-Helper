@@ -1,0 +1,8304 @@
+{
+  "items": [
+    {
+      "phrase": "a-pose",
+      "tag": "a-pose"
+    },
+    {
+      "phrase": "a-pose stance",
+      "tag": "a-pose"
+    },
+    {
+      "phrase": "in a-pose",
+      "tag": "a-pose"
+    },
+    {
+      "phrase": "afloat",
+      "tag": "afloat"
+    },
+    {
+      "phrase": "in afloat position",
+      "tag": "afloat"
+    },
+    {
+      "phrase": "against bed",
+      "tag": "against_bed"
+    },
+    {
+      "phrase": "in against bed position",
+      "tag": "against_bed"
+    },
+    {
+      "phrase": "against chair",
+      "tag": "against_chair"
+    },
+    {
+      "phrase": "in against chair position",
+      "tag": "against_chair"
+    },
+    {
+      "phrase": "against door",
+      "tag": "against_door"
+    },
+    {
+      "phrase": "in against door position",
+      "tag": "against_door"
+    },
+    {
+      "phrase": "against fence",
+      "tag": "against_fence"
+    },
+    {
+      "phrase": "in against fence position",
+      "tag": "against_fence"
+    },
+    {
+      "phrase": "against glass",
+      "tag": "against_glass"
+    },
+    {
+      "phrase": "in against glass position",
+      "tag": "against_glass"
+    },
+    {
+      "phrase": "against mirror",
+      "tag": "against_mirror"
+    },
+    {
+      "phrase": "in against mirror position",
+      "tag": "against_mirror"
+    },
+    {
+      "phrase": "against railing",
+      "tag": "against_railing"
+    },
+    {
+      "phrase": "in against railing position",
+      "tag": "against_railing"
+    },
+    {
+      "phrase": "against rock",
+      "tag": "against_rock"
+    },
+    {
+      "phrase": "in against rock position",
+      "tag": "against_rock"
+    },
+    {
+      "phrase": "against table",
+      "tag": "against_table"
+    },
+    {
+      "phrase": "in against table position",
+      "tag": "against_table"
+    },
+    {
+      "phrase": "against tree",
+      "tag": "against_tree"
+    },
+    {
+      "phrase": "in against tree position",
+      "tag": "against_tree"
+    },
+    {
+      "phrase": "against wall",
+      "tag": "against_wall"
+    },
+    {
+      "phrase": "in against wall position",
+      "tag": "against_wall"
+    },
+    {
+      "phrase": "against window",
+      "tag": "against_window"
+    },
+    {
+      "phrase": "in against window position",
+      "tag": "against_window"
+    },
+    {
+      "phrase": "akira slide",
+      "tag": "akira_slide"
+    },
+    {
+      "phrase": "in akira slide position",
+      "tag": "akira_slide"
+    },
+    {
+      "phrase": "all fours",
+      "tag": "all_fours"
+    },
+    {
+      "phrase": "in all fours position",
+      "tag": "all_fours"
+    },
+    {
+      "phrase": "animal between breasts",
+      "tag": "animal_between_breasts"
+    },
+    {
+      "phrase": "in animal between breasts position",
+      "tag": "animal_between_breasts"
+    },
+    {
+      "phrase": "animal in mouth",
+      "tag": "animal_in_mouth"
+    },
+    {
+      "phrase": "in animal in mouth position",
+      "tag": "animal_in_mouth"
+    },
+    {
+      "phrase": "animal on ass",
+      "tag": "animal_on_ass"
+    },
+    {
+      "phrase": "in animal on ass position",
+      "tag": "animal_on_ass"
+    },
+    {
+      "phrase": "animal on stomach",
+      "tag": "animal_on_stomach"
+    },
+    {
+      "phrase": "in animal on stomach position",
+      "tag": "animal_on_stomach"
+    },
+    {
+      "phrase": "apple on head",
+      "tag": "apple_on_head"
+    },
+    {
+      "phrase": "in apple on head position",
+      "tag": "apple_on_head"
+    },
+    {
+      "phrase": "arabesque",
+      "tag": "arabesque_(pose)"
+    },
+    {
+      "phrase": "in arabesque position",
+      "tag": "arabesque_(pose)"
+    },
+    {
+      "phrase": "arched back",
+      "tag": "arched_back"
+    },
+    {
+      "phrase": "in arched back position",
+      "tag": "arched_back"
+    },
+    {
+      "phrase": "arm above head",
+      "tag": "arm_above_head"
+    },
+    {
+      "phrase": "in arm above head position",
+      "tag": "arm_above_head"
+    },
+    {
+      "phrase": "arm across chest",
+      "tag": "arm_across_chest"
+    },
+    {
+      "phrase": "in arm across chest position",
+      "tag": "arm_across_chest"
+    },
+    {
+      "phrase": "arm across waist",
+      "tag": "arm_across_waist"
+    },
+    {
+      "phrase": "in arm across waist position",
+      "tag": "arm_across_waist"
+    },
+    {
+      "phrase": "arm around back",
+      "tag": "arm_around_back"
+    },
+    {
+      "phrase": "in arm around back position",
+      "tag": "arm_around_back"
+    },
+    {
+      "phrase": "arm around leg",
+      "tag": "arm_around_leg"
+    },
+    {
+      "phrase": "in arm around leg position",
+      "tag": "arm_around_leg"
+    },
+    {
+      "phrase": "arm around waist",
+      "tag": "arm_around_waist"
+    },
+    {
+      "phrase": "in arm around waist position",
+      "tag": "arm_around_waist"
+    },
+    {
+      "phrase": "arm at side",
+      "tag": "arm_at_side"
+    },
+    {
+      "phrase": "in arm at side position",
+      "tag": "arm_at_side"
+    },
+    {
+      "phrase": "arm behind back",
+      "tag": "arm_behind_back"
+    },
+    {
+      "phrase": "in arm behind back position",
+      "tag": "arm_behind_back"
+    },
+    {
+      "phrase": "arm behind head",
+      "tag": "arm_behind_head"
+    },
+    {
+      "phrase": "in arm behind head position",
+      "tag": "arm_behind_head"
+    },
+    {
+      "phrase": "arm between breasts",
+      "tag": "arm_between_breasts"
+    },
+    {
+      "phrase": "in arm between breasts position",
+      "tag": "arm_between_breasts"
+    },
+    {
+      "phrase": "arm between legs",
+      "tag": "arm_between_legs"
+    },
+    {
+      "phrase": "in arm between legs position",
+      "tag": "arm_between_legs"
+    },
+    {
+      "phrase": "arm held back",
+      "tag": "arm_held_back"
+    },
+    {
+      "phrase": "in arm held back position",
+      "tag": "arm_held_back"
+    },
+    {
+      "phrase": "arm on knee",
+      "tag": "arm_on_knee"
+    },
+    {
+      "phrase": "in arm on knee position",
+      "tag": "arm_on_knee"
+    },
+    {
+      "phrase": "arm on own head",
+      "tag": "arm_on_own_head"
+    },
+    {
+      "phrase": "in arm on own head position",
+      "tag": "arm_on_own_head"
+    },
+    {
+      "phrase": "arm on own leg",
+      "tag": "arm_on_own_leg"
+    },
+    {
+      "phrase": "in arm on own leg position",
+      "tag": "arm_on_own_leg"
+    },
+    {
+      "phrase": "arm on table",
+      "tag": "arm_on_table"
+    },
+    {
+      "phrase": "in arm on table position",
+      "tag": "arm_on_table"
+    },
+    {
+      "phrase": "arm on thigh",
+      "tag": "arm_on_thigh"
+    },
+    {
+      "phrase": "in arm on thigh position",
+      "tag": "arm_on_thigh"
+    },
+    {
+      "phrase": "arm over head",
+      "tag": "arm_over_head"
+    },
+    {
+      "phrase": "in arm over head position",
+      "tag": "arm_over_head"
+    },
+    {
+      "phrase": "arm over shoulder",
+      "tag": "arm_over_shoulder"
+    },
+    {
+      "phrase": "in arm over shoulder position",
+      "tag": "arm_over_shoulder"
+    },
+    {
+      "phrase": "arm under breasts",
+      "tag": "arm_under_breasts"
+    },
+    {
+      "phrase": "in arm under breasts position",
+      "tag": "arm_under_breasts"
+    },
+    {
+      "phrase": "arm up",
+      "tag": "arm_up"
+    },
+    {
+      "phrase": "in arm up position",
+      "tag": "arm_up"
+    },
+    {
+      "phrase": "arms across body",
+      "tag": "arms_across_body"
+    },
+    {
+      "phrase": "in arms across body position",
+      "tag": "arms_across_body"
+    },
+    {
+      "phrase": "arms around back",
+      "tag": "arms_around_back"
+    },
+    {
+      "phrase": "in arms around back position",
+      "tag": "arms_around_back"
+    },
+    {
+      "phrase": "arms around waist",
+      "tag": "arms_around_waist"
+    },
+    {
+      "phrase": "in arms around waist position",
+      "tag": "arms_around_waist"
+    },
+    {
+      "phrase": "arms at sides",
+      "tag": "arms_at_sides"
+    },
+    {
+      "phrase": "in arms at sides position",
+      "tag": "arms_at_sides"
+    },
+    {
+      "phrase": "arms behind back",
+      "tag": "arms_behind_back"
+    },
+    {
+      "phrase": "in arms behind back position",
+      "tag": "arms_behind_back"
+    },
+    {
+      "phrase": "arms behind head",
+      "tag": "arms_behind_head"
+    },
+    {
+      "phrase": "in arms behind head position",
+      "tag": "arms_behind_head"
+    },
+    {
+      "phrase": "arms between legs",
+      "tag": "arms_between_legs"
+    },
+    {
+      "phrase": "in arms between legs position",
+      "tag": "arms_between_legs"
+    },
+    {
+      "phrase": "arms on another's shoulder",
+      "tag": "arms_on_another's_shoulder"
+    },
+    {
+      "phrase": "in arms on another's shoulder position",
+      "tag": "arms_on_another's_shoulder"
+    },
+    {
+      "phrase": "arms on head",
+      "tag": "arms_on_head"
+    },
+    {
+      "phrase": "in arms on head position",
+      "tag": "arms_on_head"
+    },
+    {
+      "phrase": "arms on knees",
+      "tag": "arms_on_knees"
+    },
+    {
+      "phrase": "in arms on knees position",
+      "tag": "arms_on_knees"
+    },
+    {
+      "phrase": "arms on table",
+      "tag": "arms_on_table"
+    },
+    {
+      "phrase": "in arms on table position",
+      "tag": "arms_on_table"
+    },
+    {
+      "phrase": "arms under breasts",
+      "tag": "arms_under_breasts"
+    },
+    {
+      "phrase": "in arms under breasts position",
+      "tag": "arms_under_breasts"
+    },
+    {
+      "phrase": "arms up",
+      "tag": "arms_up"
+    },
+    {
+      "phrase": "in arms up position",
+      "tag": "arms_up"
+    },
+    {
+      "phrase": "around corner",
+      "tag": "around_corner"
+    },
+    {
+      "phrase": "in around corner position",
+      "tag": "around_corner"
+    },
+    {
+      "phrase": "arrow in mouth",
+      "tag": "arrow_in_mouth"
+    },
+    {
+      "phrase": "in arrow in mouth position",
+      "tag": "arrow_in_mouth"
+    },
+    {
+      "phrase": "ass on glass",
+      "tag": "ass_on_glass"
+    },
+    {
+      "phrase": "in ass on glass position",
+      "tag": "ass_on_glass"
+    },
+    {
+      "phrase": "ass press",
+      "tag": "ass_press"
+    },
+    {
+      "phrase": "in ass press position",
+      "tag": "ass_press"
+    },
+    {
+      "phrase": "ass rest",
+      "tag": "ass_rest"
+    },
+    {
+      "phrase": "in ass rest position",
+      "tag": "ass_rest"
+    },
+    {
+      "phrase": "asymmetrical dual wielding",
+      "tag": "asymmetrical_dual_wielding"
+    },
+    {
+      "phrase": "in asymmetrical dual wielding position",
+      "tag": "asymmetrical_dual_wielding"
+    },
+    {
+      "phrase": "back-to-back",
+      "tag": "back-to-back"
+    },
+    {
+      "phrase": "in back-to-back position",
+      "tag": "back-to-back"
+    },
+    {
+      "phrase": "bag behind back",
+      "tag": "bag_behind_back"
+    },
+    {
+      "phrase": "in bag behind back position",
+      "tag": "bag_behind_back"
+    },
+    {
+      "phrase": "bag on head",
+      "tag": "bag_on_head"
+    },
+    {
+      "phrase": "in bag on head position",
+      "tag": "bag_on_head"
+    },
+    {
+      "phrase": "bag on lap",
+      "tag": "bag_on_lap"
+    },
+    {
+      "phrase": "in bag on lap position",
+      "tag": "bag_on_lap"
+    },
+    {
+      "phrase": "bag over head",
+      "tag": "bag_over_head"
+    },
+    {
+      "phrase": "in bag over head position",
+      "tag": "bag_over_head"
+    },
+    {
+      "phrase": "ballerina",
+      "tag": "ballerina"
+    },
+    {
+      "phrase": "in ballerina position",
+      "tag": "ballerina"
+    },
+    {
+      "phrase": "banana in mouth",
+      "tag": "banana_in_mouth"
+    },
+    {
+      "phrase": "in banana in mouth position",
+      "tag": "banana_in_mouth"
+    },
+    {
+      "phrase": "bandage in mouth",
+      "tag": "bandage_in_mouth"
+    },
+    {
+      "phrase": "in bandage in mouth position",
+      "tag": "bandage_in_mouth"
+    },
+    {
+      "phrase": "bandage over one eye",
+      "tag": "bandage_over_one_eye"
+    },
+    {
+      "phrase": "in bandage over one eye position",
+      "tag": "bandage_over_one_eye"
+    },
+    {
+      "phrase": "bandaged waist",
+      "tag": "bandaged_waist"
+    },
+    {
+      "phrase": "in bandaged waist position",
+      "tag": "bandaged_waist"
+    },
+    {
+      "phrase": "bandages over clothes",
+      "tag": "bandages_over_clothes"
+    },
+    {
+      "phrase": "in bandages over clothes position",
+      "tag": "bandages_over_clothes"
+    },
+    {
+      "phrase": "bandages over mouth",
+      "tag": "bandages_over_mouth"
+    },
+    {
+      "phrase": "in bandages over mouth position",
+      "tag": "bandages_over_mouth"
+    },
+    {
+      "phrase": "bandaid on ass",
+      "tag": "bandaid_on_ass"
+    },
+    {
+      "phrase": "in bandaid on ass position",
+      "tag": "bandaid_on_ass"
+    },
+    {
+      "phrase": "bandaid on eye",
+      "tag": "bandaid_on_eye"
+    },
+    {
+      "phrase": "in bandaid on eye position",
+      "tag": "bandaid_on_eye"
+    },
+    {
+      "phrase": "bandaid on hair",
+      "tag": "bandaid_on_hair"
+    },
+    {
+      "phrase": "in bandaid on hair position",
+      "tag": "bandaid_on_hair"
+    },
+    {
+      "phrase": "bandaid on hand",
+      "tag": "bandaid_on_hand"
+    },
+    {
+      "phrase": "in bandaid on hand position",
+      "tag": "bandaid_on_hand"
+    },
+    {
+      "phrase": "bandaid on tail",
+      "tag": "bandaid_on_tail"
+    },
+    {
+      "phrase": "in bandaid on tail position",
+      "tag": "bandaid_on_tail"
+    },
+    {
+      "phrase": "bandaids on nipples",
+      "tag": "bandaids_on_nipples"
+    },
+    {
+      "phrase": "in bandaids on nipples position",
+      "tag": "bandaids_on_nipples"
+    },
+    {
+      "phrase": "bandana over mouth",
+      "tag": "bandana_over_mouth"
+    },
+    {
+      "phrase": "in bandana over mouth position",
+      "tag": "bandana_over_mouth"
+    },
+    {
+      "phrase": "basket on head",
+      "tag": "basket_on_head"
+    },
+    {
+      "phrase": "in basket on head position",
+      "tag": "basket_on_head"
+    },
+    {
+      "phrase": "batting stance",
+      "tag": "batting_stance"
+    },
+    {
+      "phrase": "in batting stance position",
+      "tag": "batting_stance"
+    },
+    {
+      "phrase": "battoujutsu stance",
+      "tag": "battoujutsu_stance"
+    },
+    {
+      "phrase": "in battoujutsu stance position",
+      "tag": "battoujutsu_stance"
+    },
+    {
+      "phrase": "bear position",
+      "tag": "bear_position"
+    },
+    {
+      "phrase": "bear position stance",
+      "tag": "bear_position"
+    },
+    {
+      "phrase": "in bear position",
+      "tag": "bear_position"
+    },
+    {
+      "phrase": "bent",
+      "tag": "bent"
+    },
+    {
+      "phrase": "in bent position",
+      "tag": "bent"
+    },
+    {
+      "phrase": "bent back",
+      "tag": "bent_back"
+    },
+    {
+      "phrase": "in bent back position",
+      "tag": "bent_back"
+    },
+    {
+      "phrase": "bent over",
+      "tag": "bent_over"
+    },
+    {
+      "phrase": "in bent over position",
+      "tag": "bent_over"
+    },
+    {
+      "phrase": "bent over furniture",
+      "tag": "bent_over_furniture"
+    },
+    {
+      "phrase": "in bent over furniture position",
+      "tag": "bent_over_furniture"
+    },
+    {
+      "phrase": "bent spoon",
+      "tag": "bent_spoon"
+    },
+    {
+      "phrase": "in bent spoon position",
+      "tag": "bent_spoon"
+    },
+    {
+      "phrase": "bent v",
+      "tag": "bent_v"
+    },
+    {
+      "phrase": "in bent v position",
+      "tag": "bent_v"
+    },
+    {
+      "phrase": "bent w",
+      "tag": "bent_w"
+    },
+    {
+      "phrase": "in bent w position",
+      "tag": "bent_w"
+    },
+    {
+      "phrase": "between feet",
+      "tag": "between_feet"
+    },
+    {
+      "phrase": "in between feet position",
+      "tag": "between_feet"
+    },
+    {
+      "phrase": "between legs",
+      "tag": "between_legs"
+    },
+    {
+      "phrase": "in between legs position",
+      "tag": "between_legs"
+    },
+    {
+      "phrase": "between thighs",
+      "tag": "between_thighs"
+    },
+    {
+      "phrase": "in between thighs position",
+      "tag": "between_thighs"
+    },
+    {
+      "phrase": "between toes",
+      "tag": "between_toes"
+    },
+    {
+      "phrase": "in between toes position",
+      "tag": "between_toes"
+    },
+    {
+      "phrase": "bite mark on ass",
+      "tag": "bite_mark_on_ass"
+    },
+    {
+      "phrase": "in bite mark on ass position",
+      "tag": "bite_mark_on_ass"
+    },
+    {
+      "phrase": "blanket over legs",
+      "tag": "blanket_over_legs"
+    },
+    {
+      "phrase": "in blanket over legs position",
+      "tag": "blanket_over_legs"
+    },
+    {
+      "phrase": "bloomers around one leg",
+      "tag": "bloomers_around_one_leg"
+    },
+    {
+      "phrase": "in bloomers around one leg position",
+      "tag": "bloomers_around_one_leg"
+    },
+    {
+      "phrase": "bloomers on head",
+      "tag": "bloomers_on_head"
+    },
+    {
+      "phrase": "in bloomers on head position",
+      "tag": "bloomers_on_head"
+    },
+    {
+      "phrase": "blowing kiss",
+      "tag": "blowing_kiss"
+    },
+    {
+      "phrase": "in blowing kiss position",
+      "tag": "blowing_kiss"
+    },
+    {
+      "phrase": "body bridge",
+      "tag": "body_bridge"
+    },
+    {
+      "phrase": "in body bridge position",
+      "tag": "body_bridge"
+    },
+    {
+      "phrase": "bone in mouth",
+      "tag": "bone_in_mouth"
+    },
+    {
+      "phrase": "in bone in mouth position",
+      "tag": "bone_in_mouth"
+    },
+    {
+      "phrase": "book on breasts",
+      "tag": "book_on_breasts"
+    },
+    {
+      "phrase": "in book on breasts position",
+      "tag": "book_on_breasts"
+    },
+    {
+      "phrase": "book on head",
+      "tag": "book_on_head"
+    },
+    {
+      "phrase": "in book on head position",
+      "tag": "book_on_head"
+    },
+    {
+      "phrase": "bottle between breasts",
+      "tag": "bottle_between_breasts"
+    },
+    {
+      "phrase": "in bottle between breasts position",
+      "tag": "bottle_between_breasts"
+    },
+    {
+      "phrase": "bottle between thighs",
+      "tag": "bottle_between_thighs"
+    },
+    {
+      "phrase": "in bottle between thighs position",
+      "tag": "bottle_between_thighs"
+    },
+    {
+      "phrase": "bottle on head",
+      "tag": "bottle_on_head"
+    },
+    {
+      "phrase": "in bottle on head position",
+      "tag": "bottle_on_head"
+    },
+    {
+      "phrase": "bound knees",
+      "tag": "bound_knees"
+    },
+    {
+      "phrase": "in bound knees position",
+      "tag": "bound_knees"
+    },
+    {
+      "phrase": "bound legs",
+      "tag": "bound_legs"
+    },
+    {
+      "phrase": "in bound legs position",
+      "tag": "bound_legs"
+    },
+    {
+      "phrase": "bound wrists",
+      "tag": "bound_wrists"
+    },
+    {
+      "phrase": "in bound wrists position",
+      "tag": "bound_wrists"
+    },
+    {
+      "phrase": "bowlegged pose",
+      "tag": "bowlegged_pose"
+    },
+    {
+      "phrase": "bowlegged pose stance",
+      "tag": "bowlegged_pose"
+    },
+    {
+      "phrase": "in bowlegged pose",
+      "tag": "bowlegged_pose"
+    },
+    {
+      "phrase": "bowtie in mouth",
+      "tag": "bowtie_in_mouth"
+    },
+    {
+      "phrase": "in bowtie in mouth position",
+      "tag": "bowtie_in_mouth"
+    },
+    {
+      "phrase": "box on head",
+      "tag": "box_on_head"
+    },
+    {
+      "phrase": "in box on head position",
+      "tag": "box_on_head"
+    },
+    {
+      "phrase": "bra around one arm",
+      "tag": "bra_around_one_arm"
+    },
+    {
+      "phrase": "in bra around one arm position",
+      "tag": "bra_around_one_arm"
+    },
+    {
+      "phrase": "bra in mouth",
+      "tag": "bra_in_mouth"
+    },
+    {
+      "phrase": "in bra in mouth position",
+      "tag": "bra_in_mouth"
+    },
+    {
+      "phrase": "breasts in a box",
+      "tag": "breasts_in_a_box"
+    },
+    {
+      "phrase": "in breasts in a box position",
+      "tag": "breasts_in_a_box"
+    },
+    {
+      "phrase": "breasts on glass",
+      "tag": "breasts_on_glass"
+    },
+    {
+      "phrase": "in breasts on glass position",
+      "tag": "breasts_on_glass"
+    },
+    {
+      "phrase": "breasts on shoulders",
+      "tag": "breasts_on_shoulders"
+    },
+    {
+      "phrase": "in breasts on shoulders position",
+      "tag": "breasts_on_shoulders"
+    },
+    {
+      "phrase": "breasts on table",
+      "tag": "breasts_on_table"
+    },
+    {
+      "phrase": "in breasts on table position",
+      "tag": "breasts_on_table"
+    },
+    {
+      "phrase": "breasts on tray",
+      "tag": "breasts_on_tray"
+    },
+    {
+      "phrase": "in breasts on tray position",
+      "tag": "breasts_on_tray"
+    },
+    {
+      "phrase": "bruise on stomach",
+      "tag": "bruise_on_stomach"
+    },
+    {
+      "phrase": "in bruise on stomach position",
+      "tag": "bruise_on_stomach"
+    },
+    {
+      "phrase": "bucket on head",
+      "tag": "bucket_on_head"
+    },
+    {
+      "phrase": "in bucket on head position",
+      "tag": "bucket_on_head"
+    },
+    {
+      "phrase": "bullet in mouth",
+      "tag": "bullet_in_mouth"
+    },
+    {
+      "phrase": "in bullet in mouth position",
+      "tag": "bullet_in_mouth"
+    },
+    {
+      "phrase": "buried in sculpted sand",
+      "tag": "buried_in_sculpted_sand"
+    },
+    {
+      "phrase": "in buried in sculpted sand position",
+      "tag": "buried_in_sculpted_sand"
+    },
+    {
+      "phrase": "buruma around one leg",
+      "tag": "buruma_around_one_leg"
+    },
+    {
+      "phrase": "in buruma around one leg position",
+      "tag": "buruma_around_one_leg"
+    },
+    {
+      "phrase": "butterfly in eye",
+      "tag": "butterfly_in_eye"
+    },
+    {
+      "phrase": "in butterfly in eye position",
+      "tag": "butterfly_in_eye"
+    },
+    {
+      "phrase": "butterfly on hair",
+      "tag": "butterfly_on_hair"
+    },
+    {
+      "phrase": "in butterfly on hair position",
+      "tag": "butterfly_on_hair"
+    },
+    {
+      "phrase": "butterfly on mouth",
+      "tag": "butterfly_on_mouth"
+    },
+    {
+      "phrase": "in butterfly on mouth position",
+      "tag": "butterfly_on_mouth"
+    },
+    {
+      "phrase": "butterfly over eye",
+      "tag": "butterfly_over_eye"
+    },
+    {
+      "phrase": "in butterfly over eye position",
+      "tag": "butterfly_over_eye"
+    },
+    {
+      "phrase": "butterfly sitting",
+      "tag": "butterfly_sitting"
+    },
+    {
+      "phrase": "in butterfly sitting position",
+      "tag": "butterfly_sitting"
+    },
+    {
+      "phrase": "buttjob over clothes",
+      "tag": "buttjob_over_clothes"
+    },
+    {
+      "phrase": "in buttjob over clothes position",
+      "tag": "buttjob_over_clothes"
+    },
+    {
+      "phrase": "cake on head",
+      "tag": "cake_on_head"
+    },
+    {
+      "phrase": "in cake on head position",
+      "tag": "cake_on_head"
+    },
+    {
+      "phrase": "camera around neck",
+      "tag": "camera_around_neck"
+    },
+    {
+      "phrase": "in camera around neck position",
+      "tag": "camera_around_neck"
+    },
+    {
+      "phrase": "camisole over clothes",
+      "tag": "camisole_over_clothes"
+    },
+    {
+      "phrase": "in camisole over clothes position",
+      "tag": "camisole_over_clothes"
+    },
+    {
+      "phrase": "can between breasts",
+      "tag": "can_between_breasts"
+    },
+    {
+      "phrase": "in can between breasts position",
+      "tag": "can_between_breasts"
+    },
+    {
+      "phrase": "candle on head",
+      "tag": "candle_on_head"
+    },
+    {
+      "phrase": "in candle on head position",
+      "tag": "candle_on_head"
+    },
+    {
+      "phrase": "card between breasts",
+      "tag": "card_between_breasts"
+    },
+    {
+      "phrase": "in card between breasts position",
+      "tag": "card_between_breasts"
+    },
+    {
+      "phrase": "card between fingers",
+      "tag": "card_between_fingers"
+    },
+    {
+      "phrase": "in card between fingers position",
+      "tag": "card_between_fingers"
+    },
+    {
+      "phrase": "card in mouth",
+      "tag": "card_in_mouth"
+    },
+    {
+      "phrase": "in card in mouth position",
+      "tag": "card_in_mouth"
+    },
+    {
+      "phrase": "cardigan on shoulders",
+      "tag": "cardigan_on_shoulders"
+    },
+    {
+      "phrase": "in cardigan on shoulders position",
+      "tag": "cardigan_on_shoulders"
+    },
+    {
+      "phrase": "carrying over shoulder",
+      "tag": "carrying_over_shoulder"
+    },
+    {
+      "phrase": "in carrying over shoulder position",
+      "tag": "carrying_over_shoulder"
+    },
+    {
+      "phrase": "cat between legs",
+      "tag": "cat_between_legs"
+    },
+    {
+      "phrase": "in cat between legs position",
+      "tag": "cat_between_legs"
+    },
+    {
+      "phrase": "chain around arm",
+      "tag": "chain_around_arm"
+    },
+    {
+      "phrase": "in chain around arm position",
+      "tag": "chain_around_arm"
+    },
+    {
+      "phrase": "chain around neck",
+      "tag": "chain_around_neck"
+    },
+    {
+      "phrase": "in chain around neck position",
+      "tag": "chain_around_neck"
+    },
+    {
+      "phrase": "chain between breasts",
+      "tag": "chain_between_breasts"
+    },
+    {
+      "phrase": "in chain between breasts position",
+      "tag": "chain_between_breasts"
+    },
+    {
+      "phrase": "chained legs",
+      "tag": "chained_legs"
+    },
+    {
+      "phrase": "in chained legs position",
+      "tag": "chained_legs"
+    },
+    {
+      "phrase": "cheek on glass",
+      "tag": "cheek_on_glass"
+    },
+    {
+      "phrase": "in cheek on glass position",
+      "tag": "cheek_on_glass"
+    },
+    {
+      "phrase": "cheek rest",
+      "tag": "cheek_rest"
+    },
+    {
+      "phrase": "in cheek rest position",
+      "tag": "cheek_rest"
+    },
+    {
+      "phrase": "chest on pillow",
+      "tag": "chest_on_pillow"
+    },
+    {
+      "phrase": "in chest on pillow position",
+      "tag": "chest_on_pillow"
+    },
+    {
+      "phrase": "chibi on head",
+      "tag": "chibi_on_head"
+    },
+    {
+      "phrase": "in chibi on head position",
+      "tag": "chibi_on_head"
+    },
+    {
+      "phrase": "chocolate on ass",
+      "tag": "chocolate_on_ass"
+    },
+    {
+      "phrase": "in chocolate on ass position",
+      "tag": "chocolate_on_ass"
+    },
+    {
+      "phrase": "chocolate on body",
+      "tag": "chocolate_on_body"
+    },
+    {
+      "phrase": "in chocolate on body position",
+      "tag": "chocolate_on_body"
+    },
+    {
+      "phrase": "chocolate on breasts",
+      "tag": "chocolate_on_breasts"
+    },
+    {
+      "phrase": "in chocolate on breasts position",
+      "tag": "chocolate_on_breasts"
+    },
+    {
+      "phrase": "chocolate on hand",
+      "tag": "chocolate_on_hand"
+    },
+    {
+      "phrase": "in chocolate on hand position",
+      "tag": "chocolate_on_hand"
+    },
+    {
+      "phrase": "chocolate on legs",
+      "tag": "chocolate_on_legs"
+    },
+    {
+      "phrase": "in chocolate on legs position",
+      "tag": "chocolate_on_legs"
+    },
+    {
+      "phrase": "chocolate on nipples",
+      "tag": "chocolate_on_nipples"
+    },
+    {
+      "phrase": "in chocolate on nipples position",
+      "tag": "chocolate_on_nipples"
+    },
+    {
+      "phrase": "chocolate on tongue",
+      "tag": "chocolate_on_tongue"
+    },
+    {
+      "phrase": "in chocolate on tongue position",
+      "tag": "chocolate_on_tongue"
+    },
+    {
+      "phrase": "choker removed",
+      "tag": "choker_removed"
+    },
+    {
+      "phrase": "in choker removed position",
+      "tag": "choker_removed"
+    },
+    {
+      "phrase": "chopsticks in mouth",
+      "tag": "chopsticks_in_mouth"
+    },
+    {
+      "phrase": "in chopsticks in mouth position",
+      "tag": "chopsticks_in_mouth"
+    },
+    {
+      "phrase": "claw pose",
+      "tag": "claw_pose"
+    },
+    {
+      "phrase": "claw pose stance",
+      "tag": "claw_pose"
+    },
+    {
+      "phrase": "in claw pose",
+      "tag": "claw_pose"
+    },
+    {
+      "phrase": "clenched hands",
+      "tag": "clenched_hands"
+    },
+    {
+      "phrase": "in clenched hands position",
+      "tag": "clenched_hands"
+    },
+    {
+      "phrase": "climbing tree",
+      "tag": "climbing_tree"
+    },
+    {
+      "phrase": "in climbing tree position",
+      "tag": "climbing_tree"
+    },
+    {
+      "phrase": "clothes between breasts",
+      "tag": "clothes_between_breasts"
+    },
+    {
+      "phrase": "in clothes between breasts position",
+      "tag": "clothes_between_breasts"
+    },
+    {
+      "phrase": "clothes between thighs",
+      "tag": "clothes_between_thighs"
+    },
+    {
+      "phrase": "in clothes between thighs position",
+      "tag": "clothes_between_thighs"
+    },
+    {
+      "phrase": "clothes on shoulders",
+      "tag": "clothes_on_shoulders"
+    },
+    {
+      "phrase": "in clothes on shoulders position",
+      "tag": "clothes_on_shoulders"
+    },
+    {
+      "phrase": "clothes over shoulder",
+      "tag": "clothes_over_shoulder"
+    },
+    {
+      "phrase": "in clothes over shoulder position",
+      "tag": "clothes_over_shoulder"
+    },
+    {
+      "phrase": "cloud over head",
+      "tag": "cloud_over_head"
+    },
+    {
+      "phrase": "in cloud over head position",
+      "tag": "cloud_over_head"
+    },
+    {
+      "phrase": "clutching chest",
+      "tag": "clutching_chest"
+    },
+    {
+      "phrase": "in clutching chest position",
+      "tag": "clutching_chest"
+    },
+    {
+      "phrase": "coat over head",
+      "tag": "coat_over_head"
+    },
+    {
+      "phrase": "in coat over head position",
+      "tag": "coat_over_head"
+    },
+    {
+      "phrase": "coiled",
+      "tag": "coiled"
+    },
+    {
+      "phrase": "in coiled position",
+      "tag": "coiled"
+    },
+    {
+      "phrase": "comb over",
+      "tag": "comb_over"
+    },
+    {
+      "phrase": "in comb over position",
+      "tag": "comb_over"
+    },
+    {
+      "phrase": "compressed breasts",
+      "tag": "compressed_breasts"
+    },
+    {
+      "phrase": "in compressed breasts position",
+      "tag": "compressed_breasts"
+    },
+    {
+      "phrase": "contortion",
+      "tag": "contortion"
+    },
+    {
+      "phrase": "in contortion position",
+      "tag": "contortion"
+    },
+    {
+      "phrase": "contrapposto",
+      "tag": "contrapposto"
+    },
+    {
+      "phrase": "in contrapposto position",
+      "tag": "contrapposto"
+    },
+    {
+      "phrase": "controller between breasts",
+      "tag": "controller_between_breasts"
+    },
+    {
+      "phrase": "in controller between breasts position",
+      "tag": "controller_between_breasts"
+    },
+    {
+      "phrase": "convenient leg",
+      "tag": "convenient_leg"
+    },
+    {
+      "phrase": "in convenient leg position",
+      "tag": "convenient_leg"
+    },
+    {
+      "phrase": "covered face",
+      "tag": "covered_face"
+    },
+    {
+      "phrase": "in covered face position",
+      "tag": "covered_face"
+    },
+    {
+      "phrase": "covered navel",
+      "tag": "covered_navel"
+    },
+    {
+      "phrase": "in covered navel position",
+      "tag": "covered_navel"
+    },
+    {
+      "phrase": "covered nipples",
+      "tag": "covered_nipples"
+    },
+    {
+      "phrase": "in covered nipples position",
+      "tag": "covered_nipples"
+    },
+    {
+      "phrase": "covering crotch",
+      "tag": "covering_crotch"
+    },
+    {
+      "phrase": "in covering crotch position",
+      "tag": "covering_crotch"
+    },
+    {
+      "phrase": "covering face",
+      "tag": "covering_face"
+    },
+    {
+      "phrase": "in covering face position",
+      "tag": "covering_face"
+    },
+    {
+      "phrase": "covering nipples",
+      "tag": "covering_nipples"
+    },
+    {
+      "phrase": "in covering nipples position",
+      "tag": "covering_nipples"
+    },
+    {
+      "phrase": "covering one breast",
+      "tag": "covering_one_breast"
+    },
+    {
+      "phrase": "in covering one breast position",
+      "tag": "covering_one_breast"
+    },
+    {
+      "phrase": "covering one eye",
+      "tag": "covering_one_eye"
+    },
+    {
+      "phrase": "in covering one eye position",
+      "tag": "covering_one_eye"
+    },
+    {
+      "phrase": "covering own ears",
+      "tag": "covering_own_ears"
+    },
+    {
+      "phrase": "in covering own ears position",
+      "tag": "covering_own_ears"
+    },
+    {
+      "phrase": "covering own mouth",
+      "tag": "covering_own_mouth"
+    },
+    {
+      "phrase": "in covering own mouth position",
+      "tag": "covering_own_mouth"
+    },
+    {
+      "phrase": "covering stomach",
+      "tag": "covering_stomach"
+    },
+    {
+      "phrase": "in covering stomach position",
+      "tag": "covering_stomach"
+    },
+    {
+      "phrase": "cowering",
+      "tag": "cowering"
+    },
+    {
+      "phrase": "in cowering position",
+      "tag": "cowering"
+    },
+    {
+      "phrase": "crab walk",
+      "tag": "crab_walk"
+    },
+    {
+      "phrase": "in crab walk position",
+      "tag": "crab_walk"
+    },
+    {
+      "phrase": "cream on body",
+      "tag": "cream_on_body"
+    },
+    {
+      "phrase": "in cream on body position",
+      "tag": "cream_on_body"
+    },
+    {
+      "phrase": "cream on face",
+      "tag": "cream_on_face"
+    },
+    {
+      "phrase": "in cream on face position",
+      "tag": "cream_on_face"
+    },
+    {
+      "phrase": "cream on hands",
+      "tag": "cream_on_hands"
+    },
+    {
+      "phrase": "in cream on hands position",
+      "tag": "cream_on_hands"
+    },
+    {
+      "phrase": "cross-body stretch",
+      "tag": "cross-body_stretch"
+    },
+    {
+      "phrase": "in cross-body stretch position",
+      "tag": "cross-body_stretch"
+    },
+    {
+      "phrase": "crossed ankles",
+      "tag": "crossed_ankles"
+    },
+    {
+      "phrase": "in crossed ankles position",
+      "tag": "crossed_ankles"
+    },
+    {
+      "phrase": "crossed arms",
+      "tag": "crossed_arms"
+    },
+    {
+      "phrase": "in crossed arms position",
+      "tag": "crossed_arms"
+    },
+    {
+      "phrase": "crossed fingers",
+      "tag": "crossed_fingers"
+    },
+    {
+      "phrase": "in crossed fingers position",
+      "tag": "crossed_fingers"
+    },
+    {
+      "phrase": "crossed legs",
+      "tag": "crossed_legs"
+    },
+    {
+      "phrase": "in crossed legs position",
+      "tag": "crossed_legs"
+    },
+    {
+      "phrase": "crossed wrists",
+      "tag": "crossed_wrists"
+    },
+    {
+      "phrase": "in crossed wrists position",
+      "tag": "crossed_wrists"
+    },
+    {
+      "phrase": "crouching tiger",
+      "tag": "crouching_tiger"
+    },
+    {
+      "phrase": "in crouching tiger position",
+      "tag": "crouching_tiger"
+    },
+    {
+      "phrase": "cup on head",
+      "tag": "cup_on_head"
+    },
+    {
+      "phrase": "in cup on head position",
+      "tag": "cup_on_head"
+    },
+    {
+      "phrase": "cupping ears",
+      "tag": "cupping_ears"
+    },
+    {
+      "phrase": "in cupping ears position",
+      "tag": "cupping_ears"
+    },
+    {
+      "phrase": "cupping hand",
+      "tag": "cupping_hand"
+    },
+    {
+      "phrase": "in cupping hand position",
+      "tag": "cupping_hand"
+    },
+    {
+      "phrase": "cupping hands",
+      "tag": "cupping_hands"
+    },
+    {
+      "phrase": "in cupping hands position",
+      "tag": "cupping_hands"
+    },
+    {
+      "phrase": "curled up",
+      "tag": "curled_up"
+    },
+    {
+      "phrase": "in curled up position",
+      "tag": "curled_up"
+    },
+    {
+      "phrase": "dangling",
+      "tag": "dangling"
+    },
+    {
+      "phrase": "in dangling position",
+      "tag": "dangling"
+    },
+    {
+      "phrase": "diving mask around neck",
+      "tag": "diving_mask_around_neck"
+    },
+    {
+      "phrase": "in diving mask around neck position",
+      "tag": "diving_mask_around_neck"
+    },
+    {
+      "phrase": "diving mask removed",
+      "tag": "diving_mask_removed"
+    },
+    {
+      "phrase": "in diving mask removed position",
+      "tag": "diving_mask_removed"
+    },
+    {
+      "phrase": "dogeza",
+      "tag": "dogeza"
+    },
+    {
+      "phrase": "in dogeza position",
+      "tag": "dogeza"
+    },
+    {
+      "phrase": "dojikko pose",
+      "tag": "dojikko_pose"
+    },
+    {
+      "phrase": "dojikko pose stance",
+      "tag": "dojikko_pose"
+    },
+    {
+      "phrase": "in dojikko pose",
+      "tag": "dojikko_pose"
+    },
+    {
+      "phrase": "doll on head",
+      "tag": "doll_on_head"
+    },
+    {
+      "phrase": "in doll on head position",
+      "tag": "doll_on_head"
+    },
+    {
+      "phrase": "double \\m/",
+      "tag": "double_\\m/"
+    },
+    {
+      "phrase": "in double \\m/ position",
+      "tag": "double_\\m/"
+    },
+    {
+      "phrase": "double \\n/",
+      "tag": "double_\\n/"
+    },
+    {
+      "phrase": "in double \\n/ position",
+      "tag": "double_\\n/"
+    },
+    {
+      "phrase": "double \\||/",
+      "tag": "double_\\||/"
+    },
+    {
+      "phrase": "double \\||/ pose",
+      "tag": "double_\\||/"
+    },
+    {
+      "phrase": "double \\||/ position",
+      "tag": "double_\\||/"
+    },
+    {
+      "phrase": "in double \\||/ position",
+      "tag": "double_\\||/"
+    },
+    {
+      "phrase": "double biceps pose",
+      "tag": "double_biceps_pose"
+    },
+    {
+      "phrase": "double biceps pose stance",
+      "tag": "double_biceps_pose"
+    },
+    {
+      "phrase": "in double biceps pose",
+      "tag": "double_biceps_pose"
+    },
+    {
+      "phrase": "double finger gun",
+      "tag": "double_finger_gun"
+    },
+    {
+      "phrase": "in double finger gun position",
+      "tag": "double_finger_gun"
+    },
+    {
+      "phrase": "double finger heart",
+      "tag": "double_finger_heart"
+    },
+    {
+      "phrase": "in double finger heart position",
+      "tag": "double_finger_heart"
+    },
+    {
+      "phrase": "double inward v",
+      "tag": "double_inward_v"
+    },
+    {
+      "phrase": "in double inward v position",
+      "tag": "double_inward_v"
+    },
+    {
+      "phrase": "double middle finger",
+      "tag": "double_middle_finger"
+    },
+    {
+      "phrase": "in double middle finger position",
+      "tag": "double_middle_finger"
+    },
+    {
+      "phrase": "double thumbs up",
+      "tag": "double_thumbs_up"
+    },
+    {
+      "phrase": "in double thumbs up position",
+      "tag": "double_thumbs_up"
+    },
+    {
+      "phrase": "double v",
+      "tag": "double_v"
+    },
+    {
+      "phrase": "in double v position",
+      "tag": "double_v"
+    },
+    {
+      "phrase": "dress in mouth",
+      "tag": "dress_in_mouth"
+    },
+    {
+      "phrase": "in dress in mouth position",
+      "tag": "dress_in_mouth"
+    },
+    {
+      "phrase": "drinking straw in mouth",
+      "tag": "drinking_straw_in_mouth"
+    },
+    {
+      "phrase": "in drinking straw in mouth position",
+      "tag": "drinking_straw_in_mouth"
+    },
+    {
+      "phrase": "dynamic pose",
+      "tag": "dynamic_pose"
+    },
+    {
+      "phrase": "dynamic pose stance",
+      "tag": "dynamic_pose"
+    },
+    {
+      "phrase": "in dynamic pose",
+      "tag": "dynamic_pose"
+    },
+    {
+      "phrase": "ears back",
+      "tag": "ears_back"
+    },
+    {
+      "phrase": "in ears back position",
+      "tag": "ears_back"
+    },
+    {
+      "phrase": "ears down",
+      "tag": "ears_down"
+    },
+    {
+      "phrase": "in ears down position",
+      "tag": "ears_down"
+    },
+    {
+      "phrase": "ears perk",
+      "tag": "ears_perk"
+    },
+    {
+      "phrase": "in ears perk position",
+      "tag": "ears_perk"
+    },
+    {
+      "phrase": "ears up",
+      "tag": "ears_up"
+    },
+    {
+      "phrase": "in ears up position",
+      "tag": "ears_up"
+    },
+    {
+      "phrase": "elbow on arm",
+      "tag": "elbow_on_arm"
+    },
+    {
+      "phrase": "in elbow on arm position",
+      "tag": "elbow_on_arm"
+    },
+    {
+      "phrase": "elbow on knee",
+      "tag": "elbow_on_knee"
+    },
+    {
+      "phrase": "in elbow on knee position",
+      "tag": "elbow_on_knee"
+    },
+    {
+      "phrase": "elbow on leg",
+      "tag": "elbow_on_leg"
+    },
+    {
+      "phrase": "in elbow on leg position",
+      "tag": "elbow_on_leg"
+    },
+    {
+      "phrase": "elbow on table",
+      "tag": "elbow_on_table"
+    },
+    {
+      "phrase": "in elbow on table position",
+      "tag": "elbow_on_table"
+    },
+    {
+      "phrase": "elbow on thigh",
+      "tag": "elbow_on_thigh"
+    },
+    {
+      "phrase": "in elbow on thigh position",
+      "tag": "elbow_on_thigh"
+    },
+    {
+      "phrase": "elbow rest",
+      "tag": "elbow_rest"
+    },
+    {
+      "phrase": "in elbow rest position",
+      "tag": "elbow_rest"
+    },
+    {
+      "phrase": "elbows on knees",
+      "tag": "elbows_on_knees"
+    },
+    {
+      "phrase": "in elbows on knees position",
+      "tag": "elbows_on_knees"
+    },
+    {
+      "phrase": "elbows on table",
+      "tag": "elbows_on_table"
+    },
+    {
+      "phrase": "in elbows on table position",
+      "tag": "elbows_on_table"
+    },
+    {
+      "phrase": "en pointe",
+      "tag": "en_pointe"
+    },
+    {
+      "phrase": "in en pointe position",
+      "tag": "en_pointe"
+    },
+    {
+      "phrase": "extreme dangling",
+      "tag": "extreme_dangling"
+    },
+    {
+      "phrase": "in extreme dangling position",
+      "tag": "extreme_dangling"
+    },
+    {
+      "phrase": "eye in mouth",
+      "tag": "eye_in_mouth"
+    },
+    {
+      "phrase": "in eye in mouth position",
+      "tag": "eye_in_mouth"
+    },
+    {
+      "phrase": "eyes over blush",
+      "tag": "eyes_over_blush"
+    },
+    {
+      "phrase": "in eyes over blush position",
+      "tag": "eyes_over_blush"
+    },
+    {
+      "phrase": "eyewear in mouth",
+      "tag": "eyewear_in_mouth"
+    },
+    {
+      "phrase": "in eyewear in mouth position",
+      "tag": "eyewear_in_mouth"
+    },
+    {
+      "phrase": "eyewear on head",
+      "tag": "eyewear_on_head"
+    },
+    {
+      "phrase": "in eyewear on head position",
+      "tag": "eyewear_on_head"
+    },
+    {
+      "phrase": "face-to-face",
+      "tag": "face-to-face"
+    },
+    {
+      "phrase": "in face-to-face position",
+      "tag": "face-to-face"
+    },
+    {
+      "phrase": "face down",
+      "tag": "face_down"
+    },
+    {
+      "phrase": "in face down position",
+      "tag": "face_down"
+    },
+    {
+      "phrase": "face in hands",
+      "tag": "face_in_hands"
+    },
+    {
+      "phrase": "in face in hands position",
+      "tag": "face_in_hands"
+    },
+    {
+      "phrase": "facing ahead",
+      "tag": "facing_ahead"
+    },
+    {
+      "phrase": "in facing ahead position",
+      "tag": "facing_ahead"
+    },
+    {
+      "phrase": "facing back",
+      "tag": "facing_back"
+    },
+    {
+      "phrase": "in facing back position",
+      "tag": "facing_back"
+    },
+    {
+      "phrase": "facing down",
+      "tag": "facing_down"
+    },
+    {
+      "phrase": "in facing down position",
+      "tag": "facing_down"
+    },
+    {
+      "phrase": "facing up",
+      "tag": "facing_up"
+    },
+    {
+      "phrase": "in facing up position",
+      "tag": "facing_up"
+    },
+    {
+      "phrase": "fan between breasts",
+      "tag": "fan_between_breasts"
+    },
+    {
+      "phrase": "in fan between breasts position",
+      "tag": "fan_between_breasts"
+    },
+    {
+      "phrase": "fan over face",
+      "tag": "fan_over_face"
+    },
+    {
+      "phrase": "in fan over face position",
+      "tag": "fan_over_face"
+    },
+    {
+      "phrase": "feather in mouth",
+      "tag": "feather_in_mouth"
+    },
+    {
+      "phrase": "in feather in mouth position",
+      "tag": "feather_in_mouth"
+    },
+    {
+      "phrase": "feet above head",
+      "tag": "feet_above_head"
+    },
+    {
+      "phrase": "in feet above head position",
+      "tag": "feet_above_head"
+    },
+    {
+      "phrase": "feet against wall",
+      "tag": "feet_against_wall"
+    },
+    {
+      "phrase": "in feet against wall position",
+      "tag": "feet_against_wall"
+    },
+    {
+      "phrase": "feet in food",
+      "tag": "feet_in_food"
+    },
+    {
+      "phrase": "in feet in food position",
+      "tag": "feet_in_food"
+    },
+    {
+      "phrase": "feet on chair",
+      "tag": "feet_on_chair"
+    },
+    {
+      "phrase": "in feet on chair position",
+      "tag": "feet_on_chair"
+    },
+    {
+      "phrase": "feet on desk",
+      "tag": "feet_on_desk"
+    },
+    {
+      "phrase": "in feet on desk position",
+      "tag": "feet_on_desk"
+    },
+    {
+      "phrase": "feet on table",
+      "tag": "feet_on_table"
+    },
+    {
+      "phrase": "in feet on table position",
+      "tag": "feet_on_table"
+    },
+    {
+      "phrase": "feet up",
+      "tag": "feet_up"
+    },
+    {
+      "phrase": "in feet up position",
+      "tag": "feet_up"
+    },
+    {
+      "phrase": "fetal position",
+      "tag": "fetal_position"
+    },
+    {
+      "phrase": "fetal position stance",
+      "tag": "fetal_position"
+    },
+    {
+      "phrase": "in fetal position",
+      "tag": "fetal_position"
+    },
+    {
+      "phrase": "fifth position of the arms",
+      "tag": "fifth_position_of_the_arms"
+    },
+    {
+      "phrase": "in fifth position of the arms position",
+      "tag": "fifth_position_of_the_arms"
+    },
+    {
+      "phrase": "fig sign",
+      "tag": "fig_sign"
+    },
+    {
+      "phrase": "in fig sign position",
+      "tag": "fig_sign"
+    },
+    {
+      "phrase": "fighting stance",
+      "tag": "fighting_stance"
+    },
+    {
+      "phrase": "in fighting stance position",
+      "tag": "fighting_stance"
+    },
+    {
+      "phrase": "figure four sitting",
+      "tag": "figure_four_sitting"
+    },
+    {
+      "phrase": "in figure four sitting position",
+      "tag": "figure_four_sitting"
+    },
+    {
+      "phrase": "finger between breasts",
+      "tag": "finger_between_breasts"
+    },
+    {
+      "phrase": "in finger between breasts position",
+      "tag": "finger_between_breasts"
+    },
+    {
+      "phrase": "finger counting",
+      "tag": "finger_counting"
+    },
+    {
+      "phrase": "in finger counting position",
+      "tag": "finger_counting"
+    },
+    {
+      "phrase": "finger frame",
+      "tag": "finger_frame"
+    },
+    {
+      "phrase": "in finger frame position",
+      "tag": "finger_frame"
+    },
+    {
+      "phrase": "finger frame over eye",
+      "tag": "finger_frame_over_eye"
+    },
+    {
+      "phrase": "in finger frame over eye position",
+      "tag": "finger_frame_over_eye"
+    },
+    {
+      "phrase": "finger gun",
+      "tag": "finger_gun"
+    },
+    {
+      "phrase": "in finger gun position",
+      "tag": "finger_gun"
+    },
+    {
+      "phrase": "finger gun to head",
+      "tag": "finger_gun_to_head"
+    },
+    {
+      "phrase": "in finger gun to head position",
+      "tag": "finger_gun_to_head"
+    },
+    {
+      "phrase": "finger heart",
+      "tag": "finger_heart"
+    },
+    {
+      "phrase": "in finger heart position",
+      "tag": "finger_heart"
+    },
+    {
+      "phrase": "finger in own mouth",
+      "tag": "finger_in_own_mouth"
+    },
+    {
+      "phrase": "in finger in own mouth position",
+      "tag": "finger_in_own_mouth"
+    },
+    {
+      "phrase": "finger on forehead",
+      "tag": "finger_on_forehead"
+    },
+    {
+      "phrase": "in finger on forehead position",
+      "tag": "finger_on_forehead"
+    },
+    {
+      "phrase": "finger on hat",
+      "tag": "finger_on_hat"
+    },
+    {
+      "phrase": "in finger on hat position",
+      "tag": "finger_on_hat"
+    },
+    {
+      "phrase": "finger on nipple",
+      "tag": "finger_on_nipple"
+    },
+    {
+      "phrase": "in finger on nipple position",
+      "tag": "finger_on_nipple"
+    },
+    {
+      "phrase": "finger to cheek",
+      "tag": "finger_to_cheek"
+    },
+    {
+      "phrase": "in finger to cheek position",
+      "tag": "finger_to_cheek"
+    },
+    {
+      "phrase": "finger to eye",
+      "tag": "finger_to_eye"
+    },
+    {
+      "phrase": "in finger to eye position",
+      "tag": "finger_to_eye"
+    },
+    {
+      "phrase": "finger to face",
+      "tag": "finger_to_face"
+    },
+    {
+      "phrase": "in finger to face position",
+      "tag": "finger_to_face"
+    },
+    {
+      "phrase": "finger to head",
+      "tag": "finger_to_head"
+    },
+    {
+      "phrase": "in finger to head position",
+      "tag": "finger_to_head"
+    },
+    {
+      "phrase": "finger to mouth",
+      "tag": "finger_to_mouth"
+    },
+    {
+      "phrase": "in finger to mouth position",
+      "tag": "finger_to_mouth"
+    },
+    {
+      "phrase": "finger to own chin",
+      "tag": "finger_to_own_chin"
+    },
+    {
+      "phrase": "in finger to own chin position",
+      "tag": "finger_to_own_chin"
+    },
+    {
+      "phrase": "fingers between toes",
+      "tag": "fingers_between_toes"
+    },
+    {
+      "phrase": "in fingers between toes position",
+      "tag": "fingers_between_toes"
+    },
+    {
+      "phrase": "fingers to cheeks",
+      "tag": "fingers_to_cheeks"
+    },
+    {
+      "phrase": "in fingers to cheeks position",
+      "tag": "fingers_to_cheeks"
+    },
+    {
+      "phrase": "fingers to mouth",
+      "tag": "fingers_to_mouth"
+    },
+    {
+      "phrase": "in fingers to mouth position",
+      "tag": "fingers_to_mouth"
+    },
+    {
+      "phrase": "fingersmile",
+      "tag": "fingersmile"
+    },
+    {
+      "phrase": "in fingersmile position",
+      "tag": "fingersmile"
+    },
+    {
+      "phrase": "fish in mouth",
+      "tag": "fish_in_mouth"
+    },
+    {
+      "phrase": "in fish in mouth position",
+      "tag": "fish_in_mouth"
+    },
+    {
+      "phrase": "fist in hand",
+      "tag": "fist_in_hand"
+    },
+    {
+      "phrase": "in fist in hand position",
+      "tag": "fist_in_hand"
+    },
+    {
+      "phrase": "fist pump",
+      "tag": "fist_pump"
+    },
+    {
+      "phrase": "in fist pump position",
+      "tag": "fist_pump"
+    },
+    {
+      "phrase": "flexing pectorals",
+      "tag": "flexing_pectorals"
+    },
+    {
+      "phrase": "in flexing pectorals position",
+      "tag": "flexing_pectorals"
+    },
+    {
+      "phrase": "flower in eye",
+      "tag": "flower_in_eye"
+    },
+    {
+      "phrase": "in flower in eye position",
+      "tag": "flower_in_eye"
+    },
+    {
+      "phrase": "flower in mouth",
+      "tag": "flower_in_mouth"
+    },
+    {
+      "phrase": "in flower in mouth position",
+      "tag": "flower_in_mouth"
+    },
+    {
+      "phrase": "flower on head",
+      "tag": "flower_on_head"
+    },
+    {
+      "phrase": "in flower on head position",
+      "tag": "flower_on_head"
+    },
+    {
+      "phrase": "flower on mouth",
+      "tag": "flower_on_mouth"
+    },
+    {
+      "phrase": "in flower on mouth position",
+      "tag": "flower_on_mouth"
+    },
+    {
+      "phrase": "flower on shoulder",
+      "tag": "flower_on_shoulder"
+    },
+    {
+      "phrase": "in flower on shoulder position",
+      "tag": "flower_on_shoulder"
+    },
+    {
+      "phrase": "flower over eye",
+      "tag": "flower_over_eye"
+    },
+    {
+      "phrase": "in flower over eye position",
+      "tag": "flower_over_eye"
+    },
+    {
+      "phrase": "flower over mouth",
+      "tag": "flower_over_mouth"
+    },
+    {
+      "phrase": "in flower over mouth position",
+      "tag": "flower_over_mouth"
+    },
+    {
+      "phrase": "folded",
+      "tag": "folded"
+    },
+    {
+      "phrase": "in folded position",
+      "tag": "folded"
+    },
+    {
+      "phrase": "food as ears",
+      "tag": "food_as_ears"
+    },
+    {
+      "phrase": "in food as ears position",
+      "tag": "food_as_ears"
+    },
+    {
+      "phrase": "food between breasts",
+      "tag": "food_between_breasts"
+    },
+    {
+      "phrase": "in food between breasts position",
+      "tag": "food_between_breasts"
+    },
+    {
+      "phrase": "food in ass",
+      "tag": "food_in_ass"
+    },
+    {
+      "phrase": "in food in ass position",
+      "tag": "food_in_ass"
+    },
+    {
+      "phrase": "food in mouth",
+      "tag": "food_in_mouth"
+    },
+    {
+      "phrase": "in food in mouth position",
+      "tag": "food_in_mouth"
+    },
+    {
+      "phrase": "food on body",
+      "tag": "food_on_body"
+    },
+    {
+      "phrase": "in food on body position",
+      "tag": "food_on_body"
+    },
+    {
+      "phrase": "food on breasts",
+      "tag": "food_on_breasts"
+    },
+    {
+      "phrase": "in food on breasts position",
+      "tag": "food_on_breasts"
+    },
+    {
+      "phrase": "food on face",
+      "tag": "food_on_face"
+    },
+    {
+      "phrase": "in food on face position",
+      "tag": "food_on_face"
+    },
+    {
+      "phrase": "food on foot",
+      "tag": "food_on_foot"
+    },
+    {
+      "phrase": "in food on foot position",
+      "tag": "food_on_foot"
+    },
+    {
+      "phrase": "food on hand",
+      "tag": "food_on_hand"
+    },
+    {
+      "phrase": "in food on hand position",
+      "tag": "food_on_hand"
+    },
+    {
+      "phrase": "food on head",
+      "tag": "food_on_head"
+    },
+    {
+      "phrase": "in food on head position",
+      "tag": "food_on_head"
+    },
+    {
+      "phrase": "food on legs",
+      "tag": "food_on_legs"
+    },
+    {
+      "phrase": "in food on legs position",
+      "tag": "food_on_legs"
+    },
+    {
+      "phrase": "food on pectorals",
+      "tag": "food_on_pectorals"
+    },
+    {
+      "phrase": "in food on pectorals position",
+      "tag": "food_on_pectorals"
+    },
+    {
+      "phrase": "food on tail",
+      "tag": "food_on_tail"
+    },
+    {
+      "phrase": "in food on tail position",
+      "tag": "food_on_tail"
+    },
+    {
+      "phrase": "foot against wall",
+      "tag": "foot_against_wall"
+    },
+    {
+      "phrase": "in foot against wall position",
+      "tag": "foot_against_wall"
+    },
+    {
+      "phrase": "foot dangle",
+      "tag": "foot_dangle"
+    },
+    {
+      "phrase": "in foot dangle position",
+      "tag": "foot_dangle"
+    },
+    {
+      "phrase": "foot on breast",
+      "tag": "foot_on_breast"
+    },
+    {
+      "phrase": "in foot on breast position",
+      "tag": "foot_on_breast"
+    },
+    {
+      "phrase": "foot on head",
+      "tag": "foot_on_head"
+    },
+    {
+      "phrase": "in foot on head position",
+      "tag": "foot_on_head"
+    },
+    {
+      "phrase": "foot on weapon",
+      "tag": "foot_on_weapon"
+    },
+    {
+      "phrase": "in foot on weapon position",
+      "tag": "foot_on_weapon"
+    },
+    {
+      "phrase": "foot up",
+      "tag": "foot_up"
+    },
+    {
+      "phrase": "in foot up position",
+      "tag": "foot_up"
+    },
+    {
+      "phrase": "footjob over clothes",
+      "tag": "footjob_over_clothes"
+    },
+    {
+      "phrase": "in footjob over clothes position",
+      "tag": "footjob_over_clothes"
+    },
+    {
+      "phrase": "four-finger heart hands",
+      "tag": "four-finger_heart_hands"
+    },
+    {
+      "phrase": "in four-finger heart hands position",
+      "tag": "four-finger_heart_hands"
+    },
+    {
+      "phrase": "fourth position of the arms",
+      "tag": "fourth_position_of_the_arms"
+    },
+    {
+      "phrase": "in fourth position of the arms position",
+      "tag": "fourth_position_of_the_arms"
+    },
+    {
+      "phrase": "frieren blowing a kiss",
+      "tag": "frieren_blowing_a_kiss"
+    },
+    {
+      "phrase": "in frieren blowing a kiss position",
+      "tag": "frieren_blowing_a_kiss"
+    },
+    {
+      "phrase": "front sitting split",
+      "tag": "front_sitting_split"
+    },
+    {
+      "phrase": "in front sitting split position",
+      "tag": "front_sitting_split"
+    },
+    {
+      "phrase": "frontbend",
+      "tag": "frontbend"
+    },
+    {
+      "phrase": "in frontbend position",
+      "tag": "frontbend"
+    },
+    {
+      "phrase": "fruit on head",
+      "tag": "fruit_on_head"
+    },
+    {
+      "phrase": "in fruit on head position",
+      "tag": "fruit_on_head"
+    },
+    {
+      "phrase": "gagged",
+      "tag": "gagged"
+    },
+    {
+      "phrase": "in gagged position",
+      "tag": "gagged"
+    },
+    {
+      "phrase": "game over",
+      "tag": "game_over"
+    },
+    {
+      "phrase": "in game over position",
+      "tag": "game_over"
+    },
+    {
+      "phrase": "ganbaru pose",
+      "tag": "ganbaru_pose"
+    },
+    {
+      "phrase": "ganbaru pose stance",
+      "tag": "ganbaru_pose"
+    },
+    {
+      "phrase": "in ganbaru pose",
+      "tag": "ganbaru_pose"
+    },
+    {
+      "phrase": "gauze on cheek",
+      "tag": "gauze_on_cheek"
+    },
+    {
+      "phrase": "in gauze on cheek position",
+      "tag": "gauze_on_cheek"
+    },
+    {
+      "phrase": "gauze on nose",
+      "tag": "gauze_on_nose"
+    },
+    {
+      "phrase": "in gauze on nose position",
+      "tag": "gauze_on_nose"
+    },
+    {
+      "phrase": "gauze over eye",
+      "tag": "gauze_over_eye"
+    },
+    {
+      "phrase": "in gauze over eye position",
+      "tag": "gauze_over_eye"
+    },
+    {
+      "phrase": "gendou pose",
+      "tag": "gendou_pose"
+    },
+    {
+      "phrase": "gendou pose stance",
+      "tag": "gendou_pose"
+    },
+    {
+      "phrase": "in gendou pose",
+      "tag": "gendou_pose"
+    },
+    {
+      "phrase": "gesture",
+      "tag": "gesture"
+    },
+    {
+      "phrase": "in gesture position",
+      "tag": "gesture"
+    },
+    {
+      "phrase": "get over it. pose",
+      "tag": "get_over_it._(project_sekai)"
+    },
+    {
+      "phrase": "get over it. position",
+      "tag": "get_over_it._(project_sekai)"
+    },
+    {
+      "phrase": "get over it. project sekai",
+      "tag": "get_over_it._(project_sekai)"
+    },
+    {
+      "phrase": "in get over it. position",
+      "tag": "get_over_it._(project_sekai)"
+    },
+    {
+      "phrase": "ghost pose",
+      "tag": "ghost_pose"
+    },
+    {
+      "phrase": "ghost pose stance",
+      "tag": "ghost_pose"
+    },
+    {
+      "phrase": "in ghost pose",
+      "tag": "ghost_pose"
+    },
+    {
+      "phrase": "gift between breasts",
+      "tag": "gift_between_breasts"
+    },
+    {
+      "phrase": "in gift between breasts position",
+      "tag": "gift_between_breasts"
+    },
+    {
+      "phrase": "ginyu force pose",
+      "tag": "ginyu_force_pose"
+    },
+    {
+      "phrase": "ginyu force pose stance",
+      "tag": "ginyu_force_pose"
+    },
+    {
+      "phrase": "in ginyu force pose",
+      "tag": "ginyu_force_pose"
+    },
+    {
+      "phrase": "glove in mouth",
+      "tag": "glove_in_mouth"
+    },
+    {
+      "phrase": "in glove in mouth position",
+      "tag": "glove_in_mouth"
+    },
+    {
+      "phrase": "goggles around arm",
+      "tag": "goggles_around_arm"
+    },
+    {
+      "phrase": "in goggles around arm position",
+      "tag": "goggles_around_arm"
+    },
+    {
+      "phrase": "goggles around breasts",
+      "tag": "goggles_around_breasts"
+    },
+    {
+      "phrase": "in goggles around breasts position",
+      "tag": "goggles_around_breasts"
+    },
+    {
+      "phrase": "goggles around neck",
+      "tag": "goggles_around_neck"
+    },
+    {
+      "phrase": "in goggles around neck position",
+      "tag": "goggles_around_neck"
+    },
+    {
+      "phrase": "goggles on head",
+      "tag": "goggles_on_head"
+    },
+    {
+      "phrase": "in goggles on head position",
+      "tag": "goggles_on_head"
+    },
+    {
+      "phrase": "grabbing own stomach",
+      "tag": "grabbing_own_stomach"
+    },
+    {
+      "phrase": "in grabbing own stomach position",
+      "tag": "grabbing_own_stomach"
+    },
+    {
+      "phrase": "grenade pin in mouth",
+      "tag": "grenade_pin_in_mouth"
+    },
+    {
+      "phrase": "in grenade pin in mouth position",
+      "tag": "grenade_pin_in_mouth"
+    },
+    {
+      "phrase": "group pose",
+      "tag": "group_pose"
+    },
+    {
+      "phrase": "group pose stance",
+      "tag": "group_pose"
+    },
+    {
+      "phrase": "in group pose",
+      "tag": "group_pose"
+    },
+    {
+      "phrase": "gun in mouth",
+      "tag": "gun_in_mouth"
+    },
+    {
+      "phrase": "in gun in mouth position",
+      "tag": "gun_in_mouth"
+    },
+    {
+      "phrase": "gun on back",
+      "tag": "gun_on_back"
+    },
+    {
+      "phrase": "in gun on back position",
+      "tag": "gun_on_back"
+    },
+    {
+      "phrase": "gunbuster pose",
+      "tag": "gunbuster_pose"
+    },
+    {
+      "phrase": "gunbuster pose stance",
+      "tag": "gunbuster_pose"
+    },
+    {
+      "phrase": "in gunbuster pose",
+      "tag": "gunbuster_pose"
+    },
+    {
+      "phrase": "hair between breasts",
+      "tag": "hair_between_breasts"
+    },
+    {
+      "phrase": "in hair between breasts position",
+      "tag": "hair_between_breasts"
+    },
+    {
+      "phrase": "hair between horns",
+      "tag": "hair_between_horns"
+    },
+    {
+      "phrase": "in hair between horns position",
+      "tag": "hair_between_horns"
+    },
+    {
+      "phrase": "hair in own mouth",
+      "tag": "hair_in_own_mouth"
+    },
+    {
+      "phrase": "in hair in own mouth position",
+      "tag": "hair_in_own_mouth"
+    },
+    {
+      "phrase": "hair over breasts",
+      "tag": "hair_over_breasts"
+    },
+    {
+      "phrase": "in hair over breasts position",
+      "tag": "hair_over_breasts"
+    },
+    {
+      "phrase": "hair over mouth",
+      "tag": "hair_over_mouth"
+    },
+    {
+      "phrase": "in hair over mouth position",
+      "tag": "hair_over_mouth"
+    },
+    {
+      "phrase": "hair over one breast",
+      "tag": "hair_over_one_breast"
+    },
+    {
+      "phrase": "in hair over one breast position",
+      "tag": "hair_over_one_breast"
+    },
+    {
+      "phrase": "hair tie in mouth",
+      "tag": "hair_tie_in_mouth"
+    },
+    {
+      "phrase": "in hair tie in mouth position",
+      "tag": "hair_tie_in_mouth"
+    },
+    {
+      "phrase": "half-heart hands",
+      "tag": "half-heart_hands"
+    },
+    {
+      "phrase": "in half-heart hands position",
+      "tag": "half-heart_hands"
+    },
+    {
+      "phrase": "hand around waist",
+      "tag": "hand_around_waist"
+    },
+    {
+      "phrase": "in hand around waist position",
+      "tag": "hand_around_waist"
+    },
+    {
+      "phrase": "hand between thighs",
+      "tag": "hand_between_thighs"
+    },
+    {
+      "phrase": "in hand between thighs position",
+      "tag": "hand_between_thighs"
+    },
+    {
+      "phrase": "hand in clothes",
+      "tag": "hand_in_clothes"
+    },
+    {
+      "phrase": "in hand in clothes position",
+      "tag": "hand_in_clothes"
+    },
+    {
+      "phrase": "hand in mouth",
+      "tag": "hand_in_mouth"
+    },
+    {
+      "phrase": "in hand in mouth position",
+      "tag": "hand_in_mouth"
+    },
+    {
+      "phrase": "hand in own hair",
+      "tag": "hand_in_own_hair"
+    },
+    {
+      "phrase": "in hand in own hair position",
+      "tag": "hand_in_own_hair"
+    },
+    {
+      "phrase": "hand in pocket",
+      "tag": "hand_in_pocket"
+    },
+    {
+      "phrase": "in hand in pocket position",
+      "tag": "hand_in_pocket"
+    },
+    {
+      "phrase": "hand on ankle",
+      "tag": "hand_on_ankle"
+    },
+    {
+      "phrase": "in hand on ankle position",
+      "tag": "hand_on_ankle"
+    },
+    {
+      "phrase": "hand on bed",
+      "tag": "hand_on_bed"
+    },
+    {
+      "phrase": "in hand on bed position",
+      "tag": "hand_on_bed"
+    },
+    {
+      "phrase": "hand on belt",
+      "tag": "hand_on_belt"
+    },
+    {
+      "phrase": "in hand on belt position",
+      "tag": "hand_on_belt"
+    },
+    {
+      "phrase": "hand on bench",
+      "tag": "hand_on_bench"
+    },
+    {
+      "phrase": "in hand on bench position",
+      "tag": "hand_on_bench"
+    },
+    {
+      "phrase": "hand on blade",
+      "tag": "hand_on_blade"
+    },
+    {
+      "phrase": "in hand on blade position",
+      "tag": "hand_on_blade"
+    },
+    {
+      "phrase": "hand on book",
+      "tag": "hand_on_book"
+    },
+    {
+      "phrase": "in hand on book position",
+      "tag": "hand_on_book"
+    },
+    {
+      "phrase": "hand on breasts",
+      "tag": "hand_on_breasts"
+    },
+    {
+      "phrase": "in hand on breasts position",
+      "tag": "hand_on_breasts"
+    },
+    {
+      "phrase": "hand on cane",
+      "tag": "hand_on_cane"
+    },
+    {
+      "phrase": "in hand on cane position",
+      "tag": "hand_on_cane"
+    },
+    {
+      "phrase": "hand on chair",
+      "tag": "hand_on_chair"
+    },
+    {
+      "phrase": "in hand on chair position",
+      "tag": "hand_on_chair"
+    },
+    {
+      "phrase": "hand on floor",
+      "tag": "hand_on_floor"
+    },
+    {
+      "phrase": "in hand on floor position",
+      "tag": "hand_on_floor"
+    },
+    {
+      "phrase": "hand on glass",
+      "tag": "hand_on_glass"
+    },
+    {
+      "phrase": "in hand on glass position",
+      "tag": "hand_on_glass"
+    },
+    {
+      "phrase": "hand on ground",
+      "tag": "hand_on_ground"
+    },
+    {
+      "phrase": "in hand on ground position",
+      "tag": "hand_on_ground"
+    },
+    {
+      "phrase": "hand on handle",
+      "tag": "hand_on_handle"
+    },
+    {
+      "phrase": "in hand on handle position",
+      "tag": "hand_on_handle"
+    },
+    {
+      "phrase": "hand on headset",
+      "tag": "hand_on_headset"
+    },
+    {
+      "phrase": "in hand on headset position",
+      "tag": "hand_on_headset"
+    },
+    {
+      "phrase": "hand on helmet",
+      "tag": "hand_on_helmet"
+    },
+    {
+      "phrase": "in hand on helmet position",
+      "tag": "hand_on_helmet"
+    },
+    {
+      "phrase": "hand on hilt",
+      "tag": "hand_on_hilt"
+    },
+    {
+      "phrase": "in hand on hilt position",
+      "tag": "hand_on_hilt"
+    },
+    {
+      "phrase": "hand on knees",
+      "tag": "hand_on_knees"
+    },
+    {
+      "phrase": "in hand on knees position",
+      "tag": "hand_on_knees"
+    },
+    {
+      "phrase": "hand on lap",
+      "tag": "hand_on_lap"
+    },
+    {
+      "phrase": "in hand on lap position",
+      "tag": "hand_on_lap"
+    },
+    {
+      "phrase": "hand on mirror",
+      "tag": "hand_on_mirror"
+    },
+    {
+      "phrase": "in hand on mirror position",
+      "tag": "hand_on_mirror"
+    },
+    {
+      "phrase": "hand on own ankle",
+      "tag": "hand_on_own_ankle"
+    },
+    {
+      "phrase": "in hand on own ankle position",
+      "tag": "hand_on_own_ankle"
+    },
+    {
+      "phrase": "hand on own arm",
+      "tag": "hand_on_own_arm"
+    },
+    {
+      "phrase": "in hand on own arm position",
+      "tag": "hand_on_own_arm"
+    },
+    {
+      "phrase": "hand on own back",
+      "tag": "hand_on_own_back"
+    },
+    {
+      "phrase": "in hand on own back position",
+      "tag": "hand_on_own_back"
+    },
+    {
+      "phrase": "hand on own cheek",
+      "tag": "hand_on_own_cheek"
+    },
+    {
+      "phrase": "in hand on own cheek position",
+      "tag": "hand_on_own_cheek"
+    },
+    {
+      "phrase": "hand on own chest",
+      "tag": "hand_on_own_chest"
+    },
+    {
+      "phrase": "in hand on own chest position",
+      "tag": "hand_on_own_chest"
+    },
+    {
+      "phrase": "hand on own chin",
+      "tag": "hand_on_own_chin"
+    },
+    {
+      "phrase": "in hand on own chin position",
+      "tag": "hand_on_own_chin"
+    },
+    {
+      "phrase": "hand on own crotch",
+      "tag": "hand_on_own_crotch"
+    },
+    {
+      "phrase": "in hand on own crotch position",
+      "tag": "hand_on_own_crotch"
+    },
+    {
+      "phrase": "hand on own ear",
+      "tag": "hand_on_own_ear"
+    },
+    {
+      "phrase": "in hand on own ear position",
+      "tag": "hand_on_own_ear"
+    },
+    {
+      "phrase": "hand on own elbow",
+      "tag": "hand_on_own_elbow"
+    },
+    {
+      "phrase": "in hand on own elbow position",
+      "tag": "hand_on_own_elbow"
+    },
+    {
+      "phrase": "hand on own face",
+      "tag": "hand_on_own_face"
+    },
+    {
+      "phrase": "in hand on own face position",
+      "tag": "hand_on_own_face"
+    },
+    {
+      "phrase": "hand on own foot",
+      "tag": "hand_on_own_foot"
+    },
+    {
+      "phrase": "in hand on own foot position",
+      "tag": "hand_on_own_foot"
+    },
+    {
+      "phrase": "hand on own forehead",
+      "tag": "hand_on_own_forehead"
+    },
+    {
+      "phrase": "in hand on own forehead position",
+      "tag": "hand_on_own_forehead"
+    },
+    {
+      "phrase": "hand on own hat",
+      "tag": "hand_on_own_hat"
+    },
+    {
+      "phrase": "in hand on own hat position",
+      "tag": "hand_on_own_hat"
+    },
+    {
+      "phrase": "hand on own head",
+      "tag": "hand_on_own_head"
+    },
+    {
+      "phrase": "in hand on own head position",
+      "tag": "hand_on_own_head"
+    },
+    {
+      "phrase": "hand on own hip",
+      "tag": "hand_on_own_hip"
+    },
+    {
+      "phrase": "in hand on own hip position",
+      "tag": "hand_on_own_hip"
+    },
+    {
+      "phrase": "hand on own neck",
+      "tag": "hand_on_own_neck"
+    },
+    {
+      "phrase": "in hand on own neck position",
+      "tag": "hand_on_own_neck"
+    },
+    {
+      "phrase": "hand on own opposite hip",
+      "tag": "hand_on_own_opposite_hip"
+    },
+    {
+      "phrase": "in hand on own opposite hip position",
+      "tag": "hand_on_own_opposite_hip"
+    },
+    {
+      "phrase": "hand on own shoulder",
+      "tag": "hand_on_own_shoulder"
+    },
+    {
+      "phrase": "in hand on own shoulder position",
+      "tag": "hand_on_own_shoulder"
+    },
+    {
+      "phrase": "hand on own stomach",
+      "tag": "hand_on_own_stomach"
+    },
+    {
+      "phrase": "in hand on own stomach position",
+      "tag": "hand_on_own_stomach"
+    },
+    {
+      "phrase": "hand on own tail",
+      "tag": "hand_on_own_tail"
+    },
+    {
+      "phrase": "in hand on own tail position",
+      "tag": "hand_on_own_tail"
+    },
+    {
+      "phrase": "hand on own thigh",
+      "tag": "hand_on_own_thigh"
+    },
+    {
+      "phrase": "in hand on own thigh position",
+      "tag": "hand_on_own_thigh"
+    },
+    {
+      "phrase": "hand on own wrist",
+      "tag": "hand_on_own_wrist"
+    },
+    {
+      "phrase": "in hand on own wrist position",
+      "tag": "hand_on_own_wrist"
+    },
+    {
+      "phrase": "hand on railing",
+      "tag": "hand_on_railing"
+    },
+    {
+      "phrase": "in hand on railing position",
+      "tag": "hand_on_railing"
+    },
+    {
+      "phrase": "hand on sheath",
+      "tag": "hand_on_sheath"
+    },
+    {
+      "phrase": "in hand on sheath position",
+      "tag": "hand_on_sheath"
+    },
+    {
+      "phrase": "hand on table",
+      "tag": "hand_on_table"
+    },
+    {
+      "phrase": "in hand on table position",
+      "tag": "hand_on_table"
+    },
+    {
+      "phrase": "hand on wall",
+      "tag": "hand_on_wall"
+    },
+    {
+      "phrase": "in hand on wall position",
+      "tag": "hand_on_wall"
+    },
+    {
+      "phrase": "hand on weapon",
+      "tag": "hand_on_weapon"
+    },
+    {
+      "phrase": "in hand on weapon position",
+      "tag": "hand_on_weapon"
+    },
+    {
+      "phrase": "hand on window",
+      "tag": "hand_on_window"
+    },
+    {
+      "phrase": "in hand on window position",
+      "tag": "hand_on_window"
+    },
+    {
+      "phrase": "hand over another's mouth",
+      "tag": "hand_over_another's_mouth"
+    },
+    {
+      "phrase": "in hand over another's mouth position",
+      "tag": "hand_over_another's_mouth"
+    },
+    {
+      "phrase": "hand over eye",
+      "tag": "hand_over_eye"
+    },
+    {
+      "phrase": "in hand over eye position",
+      "tag": "hand_over_eye"
+    },
+    {
+      "phrase": "hand over face",
+      "tag": "hand_over_face"
+    },
+    {
+      "phrase": "in hand over face position",
+      "tag": "hand_over_face"
+    },
+    {
+      "phrase": "hand over heart",
+      "tag": "hand_over_heart"
+    },
+    {
+      "phrase": "in hand over heart position",
+      "tag": "hand_over_heart"
+    },
+    {
+      "phrase": "hand over own mouth",
+      "tag": "hand_over_own_mouth"
+    },
+    {
+      "phrase": "in hand over own mouth position",
+      "tag": "hand_over_own_mouth"
+    },
+    {
+      "phrase": "hand rest",
+      "tag": "hand_rest"
+    },
+    {
+      "phrase": "in hand rest position",
+      "tag": "hand_rest"
+    },
+    {
+      "phrase": "hand to forehead",
+      "tag": "hand_to_forehead"
+    },
+    {
+      "phrase": "in hand to forehead position",
+      "tag": "hand_to_forehead"
+    },
+    {
+      "phrase": "hand to head",
+      "tag": "hand_to_head"
+    },
+    {
+      "phrase": "in hand to head position",
+      "tag": "hand_to_head"
+    },
+    {
+      "phrase": "hand to own mouth",
+      "tag": "hand_to_own_mouth"
+    },
+    {
+      "phrase": "in hand to own mouth position",
+      "tag": "hand_to_own_mouth"
+    },
+    {
+      "phrase": "hand under clothes",
+      "tag": "hand_under_clothes"
+    },
+    {
+      "phrase": "in hand under clothes position",
+      "tag": "hand_under_clothes"
+    },
+    {
+      "phrase": "hand under pillow",
+      "tag": "hand_under_pillow"
+    },
+    {
+      "phrase": "in hand under pillow position",
+      "tag": "hand_under_pillow"
+    },
+    {
+      "phrase": "hand up",
+      "tag": "hand_up"
+    },
+    {
+      "phrase": "in hand up position",
+      "tag": "hand_up"
+    },
+    {
+      "phrase": "handjob over clothes",
+      "tag": "handjob_over_clothes"
+    },
+    {
+      "phrase": "in handjob over clothes position",
+      "tag": "handjob_over_clothes"
+    },
+    {
+      "phrase": "hands clasped in delight",
+      "tag": "hands_clasped_in_delight"
+    },
+    {
+      "phrase": "in hands clasped in delight position",
+      "tag": "hands_clasped_in_delight"
+    },
+    {
+      "phrase": "hands in own hair",
+      "tag": "hands_in_own_hair"
+    },
+    {
+      "phrase": "in hands in own hair position",
+      "tag": "hands_in_own_hair"
+    },
+    {
+      "phrase": "hands in pocket",
+      "tag": "hands_in_pocket"
+    },
+    {
+      "phrase": "in hands in pocket position",
+      "tag": "hands_in_pocket"
+    },
+    {
+      "phrase": "hands in pockets",
+      "tag": "hands_in_pockets"
+    },
+    {
+      "phrase": "in hands in pockets position",
+      "tag": "hands_in_pockets"
+    },
+    {
+      "phrase": "hands on bed",
+      "tag": "hands_on_bed"
+    },
+    {
+      "phrase": "in hands on bed position",
+      "tag": "hands_on_bed"
+    },
+    {
+      "phrase": "hands on eyewear",
+      "tag": "hands_on_eyewear"
+    },
+    {
+      "phrase": "in hands on eyewear position",
+      "tag": "hands_on_eyewear"
+    },
+    {
+      "phrase": "hands on feet",
+      "tag": "hands_on_feet"
+    },
+    {
+      "phrase": "in hands on feet position",
+      "tag": "hands_on_feet"
+    },
+    {
+      "phrase": "hands on floor",
+      "tag": "hands_on_floor"
+    },
+    {
+      "phrase": "in hands on floor position",
+      "tag": "hands_on_floor"
+    },
+    {
+      "phrase": "hands on ground",
+      "tag": "hands_on_ground"
+    },
+    {
+      "phrase": "in hands on ground position",
+      "tag": "hands_on_ground"
+    },
+    {
+      "phrase": "hands on headphones",
+      "tag": "hands_on_headphones"
+    },
+    {
+      "phrase": "in hands on headphones position",
+      "tag": "hands_on_headphones"
+    },
+    {
+      "phrase": "hands on headwear",
+      "tag": "hands_on_headwear"
+    },
+    {
+      "phrase": "in hands on headwear position",
+      "tag": "hands_on_headwear"
+    },
+    {
+      "phrase": "hands on hilt",
+      "tag": "hands_on_hilt"
+    },
+    {
+      "phrase": "in hands on hilt position",
+      "tag": "hands_on_hilt"
+    },
+    {
+      "phrase": "hands on lap",
+      "tag": "hands_on_lap"
+    },
+    {
+      "phrase": "in hands on lap position",
+      "tag": "hands_on_lap"
+    },
+    {
+      "phrase": "hands on own arms",
+      "tag": "hands_on_own_arms"
+    },
+    {
+      "phrase": "in hands on own arms position",
+      "tag": "hands_on_own_arms"
+    },
+    {
+      "phrase": "hands on own ass",
+      "tag": "hands_on_own_ass"
+    },
+    {
+      "phrase": "in hands on own ass position",
+      "tag": "hands_on_own_ass"
+    },
+    {
+      "phrase": "hands on own back",
+      "tag": "hands_on_own_back"
+    },
+    {
+      "phrase": "in hands on own back position",
+      "tag": "hands_on_own_back"
+    },
+    {
+      "phrase": "hands on own cheeks",
+      "tag": "hands_on_own_cheeks"
+    },
+    {
+      "phrase": "in hands on own cheeks position",
+      "tag": "hands_on_own_cheeks"
+    },
+    {
+      "phrase": "hands on own chest",
+      "tag": "hands_on_own_chest"
+    },
+    {
+      "phrase": "in hands on own chest position",
+      "tag": "hands_on_own_chest"
+    },
+    {
+      "phrase": "hands on own chin",
+      "tag": "hands_on_own_chin"
+    },
+    {
+      "phrase": "in hands on own chin position",
+      "tag": "hands_on_own_chin"
+    },
+    {
+      "phrase": "hands on own crotch",
+      "tag": "hands_on_own_crotch"
+    },
+    {
+      "phrase": "in hands on own crotch position",
+      "tag": "hands_on_own_crotch"
+    },
+    {
+      "phrase": "hands on own face",
+      "tag": "hands_on_own_face"
+    },
+    {
+      "phrase": "in hands on own face position",
+      "tag": "hands_on_own_face"
+    },
+    {
+      "phrase": "hands on own feet",
+      "tag": "hands_on_own_feet"
+    },
+    {
+      "phrase": "in hands on own feet position",
+      "tag": "hands_on_own_feet"
+    },
+    {
+      "phrase": "hands on own hips",
+      "tag": "hands_on_own_hips"
+    },
+    {
+      "phrase": "in hands on own hips position",
+      "tag": "hands_on_own_hips"
+    },
+    {
+      "phrase": "hands on own knee",
+      "tag": "hands_on_own_knee"
+    },
+    {
+      "phrase": "in hands on own knee position",
+      "tag": "hands_on_own_knee"
+    },
+    {
+      "phrase": "hands on own knees",
+      "tag": "hands_on_own_knees"
+    },
+    {
+      "phrase": "in hands on own knees position",
+      "tag": "hands_on_own_knees"
+    },
+    {
+      "phrase": "hands on own leg",
+      "tag": "hands_on_own_leg"
+    },
+    {
+      "phrase": "in hands on own leg position",
+      "tag": "hands_on_own_leg"
+    },
+    {
+      "phrase": "hands on own neck",
+      "tag": "hands_on_own_neck"
+    },
+    {
+      "phrase": "in hands on own neck position",
+      "tag": "hands_on_own_neck"
+    },
+    {
+      "phrase": "hands on own shoulders",
+      "tag": "hands_on_own_shoulders"
+    },
+    {
+      "phrase": "in hands on own shoulders position",
+      "tag": "hands_on_own_shoulders"
+    },
+    {
+      "phrase": "hands on own stomach",
+      "tag": "hands_on_own_stomach"
+    },
+    {
+      "phrase": "in hands on own stomach position",
+      "tag": "hands_on_own_stomach"
+    },
+    {
+      "phrase": "hands on own thighs",
+      "tag": "hands_on_own_thighs"
+    },
+    {
+      "phrase": "in hands on own thighs position",
+      "tag": "hands_on_own_thighs"
+    },
+    {
+      "phrase": "hands on table",
+      "tag": "hands_on_table"
+    },
+    {
+      "phrase": "in hands on table position",
+      "tag": "hands_on_table"
+    },
+    {
+      "phrase": "hands under legs",
+      "tag": "hands_under_legs"
+    },
+    {
+      "phrase": "in hands under legs position",
+      "tag": "hands_under_legs"
+    },
+    {
+      "phrase": "hands up",
+      "tag": "hands_up"
+    },
+    {
+      "phrase": "in hands up position",
+      "tag": "hands_up"
+    },
+    {
+      "phrase": "handstand",
+      "tag": "handstand"
+    },
+    {
+      "phrase": "in handstand position",
+      "tag": "handstand"
+    },
+    {
+      "phrase": "hanging legs",
+      "tag": "hanging_legs"
+    },
+    {
+      "phrase": "in hanging legs position",
+      "tag": "hanging_legs"
+    },
+    {
+      "phrase": "hat on back",
+      "tag": "hat_on_back"
+    },
+    {
+      "phrase": "in hat on back position",
+      "tag": "hat_on_back"
+    },
+    {
+      "phrase": "hat on face",
+      "tag": "hat_on_face"
+    },
+    {
+      "phrase": "in hat on face position",
+      "tag": "hat_on_face"
+    },
+    {
+      "phrase": "hat on horn",
+      "tag": "hat_on_horn"
+    },
+    {
+      "phrase": "in hat on horn position",
+      "tag": "hat_on_horn"
+    },
+    {
+      "phrase": "hat on lap",
+      "tag": "hat_on_lap"
+    },
+    {
+      "phrase": "in hat on lap position",
+      "tag": "hat_on_lap"
+    },
+    {
+      "phrase": "hat over one eye",
+      "tag": "hat_over_one_eye"
+    },
+    {
+      "phrase": "in hat over one eye position",
+      "tag": "hat_over_one_eye"
+    },
+    {
+      "phrase": "head back",
+      "tag": "head_back"
+    },
+    {
+      "phrase": "in head back position",
+      "tag": "head_back"
+    },
+    {
+      "phrase": "head between pecs",
+      "tag": "head_between_pecs"
+    },
+    {
+      "phrase": "in head between pecs position",
+      "tag": "head_between_pecs"
+    },
+    {
+      "phrase": "head down",
+      "tag": "head_down"
+    },
+    {
+      "phrase": "in head down position",
+      "tag": "head_down"
+    },
+    {
+      "phrase": "head on arm",
+      "tag": "head_on_arm"
+    },
+    {
+      "phrase": "in head on arm position",
+      "tag": "head_on_arm"
+    },
+    {
+      "phrase": "head on ground",
+      "tag": "head_on_ground"
+    },
+    {
+      "phrase": "in head on ground position",
+      "tag": "head_on_ground"
+    },
+    {
+      "phrase": "head on hand",
+      "tag": "head_on_hand"
+    },
+    {
+      "phrase": "in head on hand position",
+      "tag": "head_on_hand"
+    },
+    {
+      "phrase": "head on hands",
+      "tag": "head_on_hands"
+    },
+    {
+      "phrase": "in head on hands position",
+      "tag": "head_on_hands"
+    },
+    {
+      "phrase": "head on knee",
+      "tag": "head_on_knee"
+    },
+    {
+      "phrase": "in head on knee position",
+      "tag": "head_on_knee"
+    },
+    {
+      "phrase": "head on knees",
+      "tag": "head_on_knees"
+    },
+    {
+      "phrase": "in head on knees position",
+      "tag": "head_on_knees"
+    },
+    {
+      "phrase": "head on table",
+      "tag": "head_on_table"
+    },
+    {
+      "phrase": "in head on table position",
+      "tag": "head_on_table"
+    },
+    {
+      "phrase": "head tilt",
+      "tag": "head_tilt"
+    },
+    {
+      "phrase": "in head tilt position",
+      "tag": "head_tilt"
+    },
+    {
+      "phrase": "headdress removed",
+      "tag": "headdress_removed"
+    },
+    {
+      "phrase": "in headdress removed position",
+      "tag": "headdress_removed"
+    },
+    {
+      "phrase": "headphones around neck",
+      "tag": "headphones_around_neck"
+    },
+    {
+      "phrase": "in headphones around neck position",
+      "tag": "headphones_around_neck"
+    },
+    {
+      "phrase": "headphones removed",
+      "tag": "headphones_removed"
+    },
+    {
+      "phrase": "in headphones removed position",
+      "tag": "headphones_removed"
+    },
+    {
+      "phrase": "heads together",
+      "tag": "heads_together"
+    },
+    {
+      "phrase": "in heads together position",
+      "tag": "heads_together"
+    },
+    {
+      "phrase": "heart arms duo",
+      "tag": "heart_arms_duo"
+    },
+    {
+      "phrase": "in heart arms duo position",
+      "tag": "heart_arms_duo"
+    },
+    {
+      "phrase": "heart arms failure",
+      "tag": "heart_arms_failure"
+    },
+    {
+      "phrase": "in heart arms failure position",
+      "tag": "heart_arms_failure"
+    },
+    {
+      "phrase": "heart arms trio",
+      "tag": "heart_arms_trio"
+    },
+    {
+      "phrase": "in heart arms trio position",
+      "tag": "heart_arms_trio"
+    },
+    {
+      "phrase": "heart hands",
+      "tag": "heart_hands"
+    },
+    {
+      "phrase": "in heart hands position",
+      "tag": "heart_hands"
+    },
+    {
+      "phrase": "heart hands over eye",
+      "tag": "heart_hands_over_eye"
+    },
+    {
+      "phrase": "in heart hands over eye position",
+      "tag": "heart_hands_over_eye"
+    },
+    {
+      "phrase": "heart hands over stomach",
+      "tag": "heart_hands_over_stomach"
+    },
+    {
+      "phrase": "in heart hands over stomach position",
+      "tag": "heart_hands_over_stomach"
+    },
+    {
+      "phrase": "heel pop",
+      "tag": "heel_pop"
+    },
+    {
+      "phrase": "in heel pop position",
+      "tag": "heel_pop"
+    },
+    {
+      "phrase": "heel up",
+      "tag": "heel_up"
+    },
+    {
+      "phrase": "in heel up position",
+      "tag": "heel_up"
+    },
+    {
+      "phrase": "held up",
+      "tag": "held_up"
+    },
+    {
+      "phrase": "in held up position",
+      "tag": "held_up"
+    },
+    {
+      "phrase": "henshin pose",
+      "tag": "henshin_pose"
+    },
+    {
+      "phrase": "henshin pose stance",
+      "tag": "henshin_pose"
+    },
+    {
+      "phrase": "in henshin pose",
+      "tag": "henshin_pose"
+    },
+    {
+      "phrase": "hips in air",
+      "tag": "hips_in_air"
+    },
+    {
+      "phrase": "in hips in air position",
+      "tag": "hips_in_air"
+    },
+    {
+      "phrase": "hood over one eye",
+      "tag": "hood_over_one_eye"
+    },
+    {
+      "phrase": "in hood over one eye position",
+      "tag": "hood_over_one_eye"
+    },
+    {
+      "phrase": "horns pose",
+      "tag": "horns_pose"
+    },
+    {
+      "phrase": "horns pose stance",
+      "tag": "horns_pose"
+    },
+    {
+      "phrase": "in horns pose",
+      "tag": "horns_pose"
+    },
+    {
+      "phrase": "hose between breasts",
+      "tag": "hose_between_breasts"
+    },
+    {
+      "phrase": "in hose between breasts position",
+      "tag": "hose_between_breasts"
+    },
+    {
+      "phrase": "hoshino ai's pose",
+      "tag": "hoshino_ai's_pose"
+    },
+    {
+      "phrase": "hoshino ai's pose stance",
+      "tag": "hoshino_ai's_pose"
+    },
+    {
+      "phrase": "in hoshino ai's pose",
+      "tag": "hoshino_ai's_pose"
+    },
+    {
+      "phrase": "hover hand",
+      "tag": "hover_hand"
+    },
+    {
+      "phrase": "in hover hand position",
+      "tag": "hover_hand"
+    },
+    {
+      "phrase": "hugging own legs",
+      "tag": "hugging_own_legs"
+    },
+    {
+      "phrase": "in hugging own legs position",
+      "tag": "hugging_own_legs"
+    },
+    {
+      "phrase": "human stacking",
+      "tag": "human_stacking"
+    },
+    {
+      "phrase": "in human stacking position",
+      "tag": "human_stacking"
+    },
+    {
+      "phrase": "human tower",
+      "tag": "human_tower"
+    },
+    {
+      "phrase": "in human tower position",
+      "tag": "human_tower"
+    },
+    {
+      "phrase": "hunched over",
+      "tag": "hunched_over"
+    },
+    {
+      "phrase": "in hunched over position",
+      "tag": "hunched_over"
+    },
+    {
+      "phrase": "ice cream cone on head",
+      "tag": "ice_cream_cone_on_head"
+    },
+    {
+      "phrase": "in ice cream cone on head position",
+      "tag": "ice_cream_cone_on_head"
+    },
+    {
+      "phrase": "ice cream on face",
+      "tag": "ice_cream_on_face"
+    },
+    {
+      "phrase": "in ice cream on face position",
+      "tag": "ice_cream_on_face"
+    },
+    {
+      "phrase": "in bucket",
+      "tag": "in_bucket"
+    },
+    {
+      "phrase": "in in bucket position",
+      "tag": "in_bucket"
+    },
+    {
+      "phrase": "in palm",
+      "tag": "in_palm"
+    },
+    {
+      "phrase": "in palm position",
+      "tag": "in_palm"
+    },
+    {
+      "phrase": "in tree",
+      "tag": "in_tree"
+    },
+    {
+      "phrase": "in tree position",
+      "tag": "in_tree"
+    },
+    {
+      "phrase": "index finger raised",
+      "tag": "index_finger_raised"
+    },
+    {
+      "phrase": "index finger raised position",
+      "tag": "index_finger_raised"
+    },
+    {
+      "phrase": "index fingers raised",
+      "tag": "index_fingers_raised"
+    },
+    {
+      "phrase": "index fingers raised position",
+      "tag": "index_fingers_raised"
+    },
+    {
+      "phrase": "index fingers together",
+      "tag": "index_fingers_together"
+    },
+    {
+      "phrase": "index fingers together position",
+      "tag": "index_fingers_together"
+    },
+    {
+      "phrase": "in indian style",
+      "tag": "indian_style"
+    },
+    {
+      "phrase": "indian style",
+      "tag": "indian_style"
+    },
+    {
+      "phrase": "indian style stance",
+      "tag": "indian_style"
+    },
+    {
+      "phrase": "interlocked fingers",
+      "tag": "interlocked_fingers"
+    },
+    {
+      "phrase": "interlocked fingers position",
+      "tag": "interlocked_fingers"
+    },
+    {
+      "phrase": "in inugami-ke no ichizoku pose",
+      "tag": "inugami-ke_no_ichizoku_pose"
+    },
+    {
+      "phrase": "inugami-ke no ichizoku pose",
+      "tag": "inugami-ke_no_ichizoku_pose"
+    },
+    {
+      "phrase": "inugami-ke no ichizoku pose stance",
+      "tag": "inugami-ke_no_ichizoku_pose"
+    },
+    {
+      "phrase": "inward v",
+      "tag": "inward_v"
+    },
+    {
+      "phrase": "inward v position",
+      "tag": "inward_v"
+    },
+    {
+      "phrase": "jacket over head",
+      "tag": "jacket_over_head"
+    },
+    {
+      "phrase": "jacket over head position",
+      "tag": "jacket_over_head"
+    },
+    {
+      "phrase": "jacket over shoulder",
+      "tag": "jacket_over_shoulder"
+    },
+    {
+      "phrase": "jacket over shoulder position",
+      "tag": "jacket_over_shoulder"
+    },
+    {
+      "phrase": "jacket over swimsuit",
+      "tag": "jacket_over_swimsuit"
+    },
+    {
+      "phrase": "jacket over swimsuit position",
+      "tag": "jacket_over_swimsuit"
+    },
+    {
+      "phrase": "jockey",
+      "tag": "jockey"
+    },
+    {
+      "phrase": "jockey position",
+      "tag": "jockey"
+    },
+    {
+      "phrase": "in jojo pose",
+      "tag": "jojo_pose"
+    },
+    {
+      "phrase": "jojo pose",
+      "tag": "jojo_pose"
+    },
+    {
+      "phrase": "jojo pose stance",
+      "tag": "jojo_pose"
+    },
+    {
+      "phrase": "knee to chest",
+      "tag": "knee_to_chest"
+    },
+    {
+      "phrase": "knee to chest position",
+      "tag": "knee_to_chest"
+    },
+    {
+      "phrase": "knee up",
+      "tag": "knee_up"
+    },
+    {
+      "phrase": "knee up position",
+      "tag": "knee_up"
+    },
+    {
+      "phrase": "kneeling",
+      "tag": "kneeling"
+    },
+    {
+      "phrase": "kneeling position",
+      "tag": "kneeling"
+    },
+    {
+      "phrase": "kneeling on liquid",
+      "tag": "kneeling_on_liquid"
+    },
+    {
+      "phrase": "kneeling on liquid position",
+      "tag": "kneeling_on_liquid"
+    },
+    {
+      "phrase": "knees apart feet together",
+      "tag": "knees_apart_feet_together"
+    },
+    {
+      "phrase": "knees apart feet together position",
+      "tag": "knees_apart_feet_together"
+    },
+    {
+      "phrase": "knees to chest",
+      "tag": "knees_to_chest"
+    },
+    {
+      "phrase": "knees to chest position",
+      "tag": "knees_to_chest"
+    },
+    {
+      "phrase": "knees together feet apart",
+      "tag": "knees_together_feet_apart"
+    },
+    {
+      "phrase": "knees together feet apart position",
+      "tag": "knees_together_feet_apart"
+    },
+    {
+      "phrase": "knees up",
+      "tag": "knees_up"
+    },
+    {
+      "phrase": "knees up position",
+      "tag": "knees_up"
+    },
+    {
+      "phrase": "knife in mouth",
+      "tag": "knife_in_mouth"
+    },
+    {
+      "phrase": "knife in mouth position",
+      "tag": "knife_in_mouth"
+    },
+    {
+      "phrase": "in kujo jotaro's pose",
+      "tag": "kujo_jotaro's_pose_(jojo)"
+    },
+    {
+      "phrase": "kujo jotaro's pose",
+      "tag": "kujo_jotaro's_pose_(jojo)"
+    },
+    {
+      "phrase": "kujo jotaro's pose jojo",
+      "tag": "kujo_jotaro's_pose_(jojo)"
+    },
+    {
+      "phrase": "kujo jotaro's pose stance",
+      "tag": "kujo_jotaro's_pose_(jojo)"
+    },
+    {
+      "phrase": "leaf in mouth",
+      "tag": "leaf_in_mouth"
+    },
+    {
+      "phrase": "leaf in mouth position",
+      "tag": "leaf_in_mouth"
+    },
+    {
+      "phrase": "leaf on head",
+      "tag": "leaf_on_head"
+    },
+    {
+      "phrase": "leaf on head position",
+      "tag": "leaf_on_head"
+    },
+    {
+      "phrase": "leaning",
+      "tag": "leaning"
+    },
+    {
+      "phrase": "leaning position",
+      "tag": "leaning"
+    },
+    {
+      "phrase": "leaning against motorcycle",
+      "tag": "leaning_against_motorcycle"
+    },
+    {
+      "phrase": "leaning against motorcycle position",
+      "tag": "leaning_against_motorcycle"
+    },
+    {
+      "phrase": "leaning back",
+      "tag": "leaning_back"
+    },
+    {
+      "phrase": "leaning back position",
+      "tag": "leaning_back"
+    },
+    {
+      "phrase": "leaning forward",
+      "tag": "leaning_forward"
+    },
+    {
+      "phrase": "leaning forward position",
+      "tag": "leaning_forward"
+    },
+    {
+      "phrase": "leaning in",
+      "tag": "leaning_in"
+    },
+    {
+      "phrase": "leaning in position",
+      "tag": "leaning_in"
+    },
+    {
+      "phrase": "leaning on ball",
+      "tag": "leaning_on_ball"
+    },
+    {
+      "phrase": "leaning on ball position",
+      "tag": "leaning_on_ball"
+    },
+    {
+      "phrase": "leaning on broom",
+      "tag": "leaning_on_broom"
+    },
+    {
+      "phrase": "leaning on broom position",
+      "tag": "leaning_on_broom"
+    },
+    {
+      "phrase": "leaning on object",
+      "tag": "leaning_on_object"
+    },
+    {
+      "phrase": "leaning on object position",
+      "tag": "leaning_on_object"
+    },
+    {
+      "phrase": "leaning on self",
+      "tag": "leaning_on_self"
+    },
+    {
+      "phrase": "leaning on self position",
+      "tag": "leaning_on_self"
+    },
+    {
+      "phrase": "leaning on table",
+      "tag": "leaning_on_table"
+    },
+    {
+      "phrase": "leaning on table position",
+      "tag": "leaning_on_table"
+    },
+    {
+      "phrase": "leaning on weapon",
+      "tag": "leaning_on_weapon"
+    },
+    {
+      "phrase": "leaning on weapon position",
+      "tag": "leaning_on_weapon"
+    },
+    {
+      "phrase": "leaning out of window",
+      "tag": "leaning_out_of_window"
+    },
+    {
+      "phrase": "leaning out of window position",
+      "tag": "leaning_out_of_window"
+    },
+    {
+      "phrase": "leaning to the side",
+      "tag": "leaning_to_the_side"
+    },
+    {
+      "phrase": "leaning to the side position",
+      "tag": "leaning_to_the_side"
+    },
+    {
+      "phrase": "leash between breasts",
+      "tag": "leash_between_breasts"
+    },
+    {
+      "phrase": "leash between breasts position",
+      "tag": "leash_between_breasts"
+    },
+    {
+      "phrase": "leash in mouth",
+      "tag": "leash_in_mouth"
+    },
+    {
+      "phrase": "leash in mouth position",
+      "tag": "leash_in_mouth"
+    },
+    {
+      "phrase": "left-hand drive",
+      "tag": "left-hand_drive"
+    },
+    {
+      "phrase": "left-hand drive position",
+      "tag": "left-hand_drive"
+    },
+    {
+      "phrase": "leg grab",
+      "tag": "leg_grab"
+    },
+    {
+      "phrase": "leg grab position",
+      "tag": "leg_grab"
+    },
+    {
+      "phrase": "leg lift",
+      "tag": "leg_lift"
+    },
+    {
+      "phrase": "leg lift position",
+      "tag": "leg_lift"
+    },
+    {
+      "phrase": "leg up",
+      "tag": "leg_up"
+    },
+    {
+      "phrase": "leg up position",
+      "tag": "leg_up"
+    },
+    {
+      "phrase": "legs apart",
+      "tag": "legs_apart"
+    },
+    {
+      "phrase": "legs apart position",
+      "tag": "legs_apart"
+    },
+    {
+      "phrase": "legs back",
+      "tag": "legs_back"
+    },
+    {
+      "phrase": "legs back position",
+      "tag": "legs_back"
+    },
+    {
+      "phrase": "legs behind head",
+      "tag": "legs_behind_head"
+    },
+    {
+      "phrase": "legs behind head position",
+      "tag": "legs_behind_head"
+    },
+    {
+      "phrase": "legs folded",
+      "tag": "legs_folded"
+    },
+    {
+      "phrase": "legs folded position",
+      "tag": "legs_folded"
+    },
+    {
+      "phrase": "legs grab",
+      "tag": "legs_grab"
+    },
+    {
+      "phrase": "legs grab position",
+      "tag": "legs_grab"
+    },
+    {
+      "phrase": "legs on another's lap",
+      "tag": "legs_on_another's_lap"
+    },
+    {
+      "phrase": "legs on another's lap position",
+      "tag": "legs_on_another's_lap"
+    },
+    {
+      "phrase": "legs on another's shoulders",
+      "tag": "legs_on_another's_shoulders"
+    },
+    {
+      "phrase": "legs on another's shoulders position",
+      "tag": "legs_on_another's_shoulders"
+    },
+    {
+      "phrase": "legs on table",
+      "tag": "legs_on_table"
+    },
+    {
+      "phrase": "legs on table position",
+      "tag": "legs_on_table"
+    },
+    {
+      "phrase": "legs over head",
+      "tag": "legs_over_head"
+    },
+    {
+      "phrase": "legs over head position",
+      "tag": "legs_over_head"
+    },
+    {
+      "phrase": "legs together",
+      "tag": "legs_together"
+    },
+    {
+      "phrase": "legs together position",
+      "tag": "legs_together"
+    },
+    {
+      "phrase": "legs up",
+      "tag": "legs_up"
+    },
+    {
+      "phrase": "legs up position",
+      "tag": "legs_up"
+    },
+    {
+      "phrase": "locked arms",
+      "tag": "locked_arms"
+    },
+    {
+      "phrase": "locked arms position",
+      "tag": "locked_arms"
+    },
+    {
+      "phrase": "in log pose",
+      "tag": "log_pose"
+    },
+    {
+      "phrase": "log pose",
+      "tag": "log_pose"
+    },
+    {
+      "phrase": "log pose stance",
+      "tag": "log_pose"
+    },
+    {
+      "phrase": "lollipop in mouth",
+      "tag": "lollipop_in_mouth"
+    },
+    {
+      "phrase": "lollipop in mouth position",
+      "tag": "lollipop_in_mouth"
+    },
+    {
+      "phrase": "lotus",
+      "tag": "lotus"
+    },
+    {
+      "phrase": "lotus position",
+      "tag": "lotus"
+    },
+    {
+      "phrase": "lounging",
+      "tag": "lounging"
+    },
+    {
+      "phrase": "lounging position",
+      "tag": "lounging"
+    },
+    {
+      "phrase": "lube on breasts",
+      "tag": "lube_on_breasts"
+    },
+    {
+      "phrase": "lube on breasts position",
+      "tag": "lube_on_breasts"
+    },
+    {
+      "phrase": "lying",
+      "tag": "lying"
+    },
+    {
+      "phrase": "lying position",
+      "tag": "lying"
+    },
+    {
+      "phrase": "lying on animal",
+      "tag": "lying_on_animal"
+    },
+    {
+      "phrase": "lying on animal position",
+      "tag": "lying_on_animal"
+    },
+    {
+      "phrase": "lying on another",
+      "tag": "lying_on_another"
+    },
+    {
+      "phrase": "lying on another position",
+      "tag": "lying_on_another"
+    },
+    {
+      "phrase": "lying on ball",
+      "tag": "lying_on_ball"
+    },
+    {
+      "phrase": "lying on ball position",
+      "tag": "lying_on_ball"
+    },
+    {
+      "phrase": "lying on branch",
+      "tag": "lying_on_branch"
+    },
+    {
+      "phrase": "lying on branch position",
+      "tag": "lying_on_branch"
+    },
+    {
+      "phrase": "lying on clothes",
+      "tag": "lying_on_clothes"
+    },
+    {
+      "phrase": "lying on clothes position",
+      "tag": "lying_on_clothes"
+    },
+    {
+      "phrase": "lying on water",
+      "tag": "lying_on_water"
+    },
+    {
+      "phrase": "lying on water position",
+      "tag": "lying_on_water"
+    },
+    {
+      "phrase": "magic circle floating ahead hand",
+      "tag": "magic_circle_floating_ahead_hand"
+    },
+    {
+      "phrase": "magic circle floating ahead hand position",
+      "tag": "magic_circle_floating_ahead_hand"
+    },
+    {
+      "phrase": "mask around neck",
+      "tag": "mask_around_neck"
+    },
+    {
+      "phrase": "mask around neck position",
+      "tag": "mask_around_neck"
+    },
+    {
+      "phrase": "mask around one ear",
+      "tag": "mask_around_one_ear"
+    },
+    {
+      "phrase": "mask around one ear position",
+      "tag": "mask_around_one_ear"
+    },
+    {
+      "phrase": "mask on breasts",
+      "tag": "mask_on_breasts"
+    },
+    {
+      "phrase": "mask on breasts position",
+      "tag": "mask_on_breasts"
+    },
+    {
+      "phrase": "mask on head",
+      "tag": "mask_on_head"
+    },
+    {
+      "phrase": "mask on head position",
+      "tag": "mask_on_head"
+    },
+    {
+      "phrase": "mask on shoulder",
+      "tag": "mask_on_shoulder"
+    },
+    {
+      "phrase": "mask on shoulder position",
+      "tag": "mask_on_shoulder"
+    },
+    {
+      "phrase": "mask over one eye",
+      "tag": "mask_over_one_eye"
+    },
+    {
+      "phrase": "mask over one eye position",
+      "tag": "mask_over_one_eye"
+    },
+    {
+      "phrase": "in mesugaki pose",
+      "tag": "mesugaki_pose"
+    },
+    {
+      "phrase": "mesugaki pose",
+      "tag": "mesugaki_pose"
+    },
+    {
+      "phrase": "mesugaki pose stance",
+      "tag": "mesugaki_pose"
+    },
+    {
+      "phrase": "mexican standoff",
+      "tag": "mexican_standoff"
+    },
+    {
+      "phrase": "mexican standoff position",
+      "tag": "mexican_standoff"
+    },
+    {
+      "phrase": "microphone between breasts",
+      "tag": "microphone_between_breasts"
+    },
+    {
+      "phrase": "microphone between breasts position",
+      "tag": "microphone_between_breasts"
+    },
+    {
+      "phrase": "microphone stand between breasts",
+      "tag": "microphone_stand_between_breasts"
+    },
+    {
+      "phrase": "microphone stand between breasts position",
+      "tag": "microphone_stand_between_breasts"
+    },
+    {
+      "phrase": "mid-stride",
+      "tag": "mid-stride"
+    },
+    {
+      "phrase": "mid-stride position",
+      "tag": "mid-stride"
+    },
+    {
+      "phrase": "midair",
+      "tag": "midair"
+    },
+    {
+      "phrase": "midair position",
+      "tag": "midair"
+    },
+    {
+      "phrase": "middle finger",
+      "tag": "middle_finger"
+    },
+    {
+      "phrase": "middle finger position",
+      "tag": "middle_finger"
+    },
+    {
+      "phrase": "money between breasts",
+      "tag": "money_between_breasts"
+    },
+    {
+      "phrase": "money between breasts position",
+      "tag": "money_between_breasts"
+    },
+    {
+      "phrase": "money gesture",
+      "tag": "money_gesture"
+    },
+    {
+      "phrase": "money gesture position",
+      "tag": "money_gesture"
+    },
+    {
+      "phrase": "money in mouth",
+      "tag": "money_in_mouth"
+    },
+    {
+      "phrase": "money in mouth position",
+      "tag": "money_in_mouth"
+    },
+    {
+      "phrase": "in most muscular pose",
+      "tag": "most_muscular_pose"
+    },
+    {
+      "phrase": "most muscular pose",
+      "tag": "most_muscular_pose"
+    },
+    {
+      "phrase": "most muscular pose stance",
+      "tag": "most_muscular_pose"
+    },
+    {
+      "phrase": "mushroom on head",
+      "tag": "mushroom_on_head"
+    },
+    {
+      "phrase": "mushroom on head position",
+      "tag": "mushroom_on_head"
+    },
+    {
+      "phrase": "neck ribbon removed",
+      "tag": "neck_ribbon_removed"
+    },
+    {
+      "phrase": "neck ribbon removed position",
+      "tag": "neck_ribbon_removed"
+    },
+    {
+      "phrase": "neckerchief between breasts",
+      "tag": "neckerchief_between_breasts"
+    },
+    {
+      "phrase": "neckerchief between breasts position",
+      "tag": "neckerchief_between_breasts"
+    },
+    {
+      "phrase": "neckerchief in mouth",
+      "tag": "neckerchief_in_mouth"
+    },
+    {
+      "phrase": "neckerchief in mouth position",
+      "tag": "neckerchief_in_mouth"
+    },
+    {
+      "phrase": "necklace between breasts",
+      "tag": "necklace_between_breasts"
+    },
+    {
+      "phrase": "necklace between breasts position",
+      "tag": "necklace_between_breasts"
+    },
+    {
+      "phrase": "necklace between pecs",
+      "tag": "necklace_between_pecs"
+    },
+    {
+      "phrase": "necklace between pecs position",
+      "tag": "necklace_between_pecs"
+    },
+    {
+      "phrase": "necklace in mouth",
+      "tag": "necklace_in_mouth"
+    },
+    {
+      "phrase": "necklace in mouth position",
+      "tag": "necklace_in_mouth"
+    },
+    {
+      "phrase": "necktie between breasts",
+      "tag": "necktie_between_breasts"
+    },
+    {
+      "phrase": "necktie between breasts position",
+      "tag": "necktie_between_breasts"
+    },
+    {
+      "phrase": "necktie in mouth",
+      "tag": "necktie_in_mouth"
+    },
+    {
+      "phrase": "necktie in mouth position",
+      "tag": "necktie_in_mouth"
+    },
+    {
+      "phrase": "necktie on mouth",
+      "tag": "necktie_on_mouth"
+    },
+    {
+      "phrase": "necktie on mouth position",
+      "tag": "necktie_on_mouth"
+    },
+    {
+      "phrase": "necktie over shoulder",
+      "tag": "necktie_over_shoulder"
+    },
+    {
+      "phrase": "necktie over shoulder position",
+      "tag": "necktie_over_shoulder"
+    },
+    {
+      "phrase": "no hands",
+      "tag": "no_hands"
+    },
+    {
+      "phrase": "no hands position",
+      "tag": "no_hands"
+    },
+    {
+      "phrase": "object on breast",
+      "tag": "object_on_breast"
+    },
+    {
+      "phrase": "object on breast position",
+      "tag": "object_on_breast"
+    },
+    {
+      "phrase": "object on bulge",
+      "tag": "object_on_bulge"
+    },
+    {
+      "phrase": "object on bulge position",
+      "tag": "object_on_bulge"
+    },
+    {
+      "phrase": "object on lap",
+      "tag": "object_on_lap"
+    },
+    {
+      "phrase": "object on lap position",
+      "tag": "object_on_lap"
+    },
+    {
+      "phrase": "object on tongue",
+      "tag": "object_on_tongue"
+    },
+    {
+      "phrase": "object on tongue position",
+      "tag": "object_on_tongue"
+    },
+    {
+      "phrase": "offering hand",
+      "tag": "offering_hand"
+    },
+    {
+      "phrase": "offering hand position",
+      "tag": "offering_hand"
+    },
+    {
+      "phrase": "ofuda over one eye",
+      "tag": "ofuda_over_one_eye"
+    },
+    {
+      "phrase": "ofuda over one eye position",
+      "tag": "ofuda_over_one_eye"
+    },
+    {
+      "phrase": "in ojou-sama pose",
+      "tag": "ojou-sama_pose"
+    },
+    {
+      "phrase": "ojou-sama pose",
+      "tag": "ojou-sama_pose"
+    },
+    {
+      "phrase": "ojou-sama pose stance",
+      "tag": "ojou-sama_pose"
+    },
+    {
+      "phrase": "ok sign over eye",
+      "tag": "ok_sign_over_eye"
+    },
+    {
+      "phrase": "ok sign over eye position",
+      "tag": "ok_sign_over_eye"
+    },
+    {
+      "phrase": "on airplane",
+      "tag": "on_airplane"
+    },
+    {
+      "phrase": "on airplane position",
+      "tag": "on_airplane"
+    },
+    {
+      "phrase": "on all-terrain vehicle",
+      "tag": "on_all-terrain_vehicle"
+    },
+    {
+      "phrase": "on all-terrain vehicle position",
+      "tag": "on_all-terrain_vehicle"
+    },
+    {
+      "phrase": "on animal",
+      "tag": "on_animal"
+    },
+    {
+      "phrase": "on animal position",
+      "tag": "on_animal"
+    },
+    {
+      "phrase": "on back",
+      "tag": "on_back"
+    },
+    {
+      "phrase": "on back position",
+      "tag": "on_back"
+    },
+    {
+      "phrase": "on ball",
+      "tag": "on_ball"
+    },
+    {
+      "phrase": "on ball position",
+      "tag": "on_ball"
+    },
+    {
+      "phrase": "on banana",
+      "tag": "on_banana"
+    },
+    {
+      "phrase": "on banana position",
+      "tag": "on_banana"
+    },
+    {
+      "phrase": "on barrel",
+      "tag": "on_barrel"
+    },
+    {
+      "phrase": "on barrel position",
+      "tag": "on_barrel"
+    },
+    {
+      "phrase": "on bed",
+      "tag": "on_bed"
+    },
+    {
+      "phrase": "on bed position",
+      "tag": "on_bed"
+    },
+    {
+      "phrase": "on bench",
+      "tag": "on_bench"
+    },
+    {
+      "phrase": "on bench position",
+      "tag": "on_bench"
+    },
+    {
+      "phrase": "on blanket",
+      "tag": "on_blanket"
+    },
+    {
+      "phrase": "on blanket position",
+      "tag": "on_blanket"
+    },
+    {
+      "phrase": "on boat",
+      "tag": "on_boat"
+    },
+    {
+      "phrase": "on boat position",
+      "tag": "on_boat"
+    },
+    {
+      "phrase": "on book",
+      "tag": "on_book"
+    },
+    {
+      "phrase": "on book position",
+      "tag": "on_book"
+    },
+    {
+      "phrase": "on box",
+      "tag": "on_box"
+    },
+    {
+      "phrase": "on box position",
+      "tag": "on_box"
+    },
+    {
+      "phrase": "on branch",
+      "tag": "on_branch"
+    },
+    {
+      "phrase": "on branch position",
+      "tag": "on_branch"
+    },
+    {
+      "phrase": "on building",
+      "tag": "on_building"
+    },
+    {
+      "phrase": "on building position",
+      "tag": "on_building"
+    },
+    {
+      "phrase": "on bus",
+      "tag": "on_bus"
+    },
+    {
+      "phrase": "on bus position",
+      "tag": "on_bus"
+    },
+    {
+      "phrase": "on car",
+      "tag": "on_car"
+    },
+    {
+      "phrase": "on car position",
+      "tag": "on_car"
+    },
+    {
+      "phrase": "on ceiling",
+      "tag": "on_ceiling"
+    },
+    {
+      "phrase": "on ceiling position",
+      "tag": "on_ceiling"
+    },
+    {
+      "phrase": "on chair",
+      "tag": "on_chair"
+    },
+    {
+      "phrase": "on chair position",
+      "tag": "on_chair"
+    },
+    {
+      "phrase": "on cloud",
+      "tag": "on_cloud"
+    },
+    {
+      "phrase": "on cloud position",
+      "tag": "on_cloud"
+    },
+    {
+      "phrase": "on couch",
+      "tag": "on_couch"
+    },
+    {
+      "phrase": "on couch position",
+      "tag": "on_couch"
+    },
+    {
+      "phrase": "on counter",
+      "tag": "on_counter"
+    },
+    {
+      "phrase": "on counter position",
+      "tag": "on_counter"
+    },
+    {
+      "phrase": "on creature",
+      "tag": "on_creature"
+    },
+    {
+      "phrase": "on creature position",
+      "tag": "on_creature"
+    },
+    {
+      "phrase": "on crescent",
+      "tag": "on_crescent"
+    },
+    {
+      "phrase": "on crescent position",
+      "tag": "on_crescent"
+    },
+    {
+      "phrase": "on cushion",
+      "tag": "on_cushion"
+    },
+    {
+      "phrase": "on cushion position",
+      "tag": "on_cushion"
+    },
+    {
+      "phrase": "on desk",
+      "tag": "on_desk"
+    },
+    {
+      "phrase": "on desk position",
+      "tag": "on_desk"
+    },
+    {
+      "phrase": "on fence",
+      "tag": "on_fence"
+    },
+    {
+      "phrase": "on fence position",
+      "tag": "on_fence"
+    },
+    {
+      "phrase": "on finger",
+      "tag": "on_finger"
+    },
+    {
+      "phrase": "on finger position",
+      "tag": "on_finger"
+    },
+    {
+      "phrase": "on floor",
+      "tag": "on_floor"
+    },
+    {
+      "phrase": "on floor position",
+      "tag": "on_floor"
+    },
+    {
+      "phrase": "on flower",
+      "tag": "on_flower"
+    },
+    {
+      "phrase": "on flower position",
+      "tag": "on_flower"
+    },
+    {
+      "phrase": "on food",
+      "tag": "on_food"
+    },
+    {
+      "phrase": "on food position",
+      "tag": "on_food"
+    },
+    {
+      "phrase": "on gold",
+      "tag": "on_gold"
+    },
+    {
+      "phrase": "on gold position",
+      "tag": "on_gold"
+    },
+    {
+      "phrase": "on grass",
+      "tag": "on_grass"
+    },
+    {
+      "phrase": "on grass position",
+      "tag": "on_grass"
+    },
+    {
+      "phrase": "on ground",
+      "tag": "on_ground"
+    },
+    {
+      "phrase": "on ground position",
+      "tag": "on_ground"
+    },
+    {
+      "phrase": "on hammock",
+      "tag": "on_hammock"
+    },
+    {
+      "phrase": "on hammock position",
+      "tag": "on_hammock"
+    },
+    {
+      "phrase": "on head",
+      "tag": "on_head"
+    },
+    {
+      "phrase": "on head position",
+      "tag": "on_head"
+    },
+    {
+      "phrase": "on horn",
+      "tag": "on_horn"
+    },
+    {
+      "phrase": "on horn position",
+      "tag": "on_horn"
+    },
+    {
+      "phrase": "on ice",
+      "tag": "on_ice"
+    },
+    {
+      "phrase": "on ice position",
+      "tag": "on_ice"
+    },
+    {
+      "phrase": "on innertube",
+      "tag": "on_innertube"
+    },
+    {
+      "phrase": "on innertube position",
+      "tag": "on_innertube"
+    },
+    {
+      "phrase": "on jet ski",
+      "tag": "on_jet_ski"
+    },
+    {
+      "phrase": "on jet ski position",
+      "tag": "on_jet_ski"
+    },
+    {
+      "phrase": "on ladder",
+      "tag": "on_ladder"
+    },
+    {
+      "phrase": "on ladder position",
+      "tag": "on_ladder"
+    },
+    {
+      "phrase": "on lap",
+      "tag": "on_lap"
+    },
+    {
+      "phrase": "on lap position",
+      "tag": "on_lap"
+    },
+    {
+      "phrase": "on leaf",
+      "tag": "on_leaf"
+    },
+    {
+      "phrase": "on leaf position",
+      "tag": "on_leaf"
+    },
+    {
+      "phrase": "on liquid",
+      "tag": "on_liquid"
+    },
+    {
+      "phrase": "on liquid position",
+      "tag": "on_liquid"
+    },
+    {
+      "phrase": "on mecha",
+      "tag": "on_mecha"
+    },
+    {
+      "phrase": "on mecha position",
+      "tag": "on_mecha"
+    },
+    {
+      "phrase": "on mini planet",
+      "tag": "on_mini_planet"
+    },
+    {
+      "phrase": "on mini planet position",
+      "tag": "on_mini_planet"
+    },
+    {
+      "phrase": "on monowheel",
+      "tag": "on_monowheel"
+    },
+    {
+      "phrase": "on monowheel position",
+      "tag": "on_monowheel"
+    },
+    {
+      "phrase": "on moon",
+      "tag": "on_moon"
+    },
+    {
+      "phrase": "on moon position",
+      "tag": "on_moon"
+    },
+    {
+      "phrase": "on motorcycle",
+      "tag": "on_motorcycle"
+    },
+    {
+      "phrase": "on motorcycle position",
+      "tag": "on_motorcycle"
+    },
+    {
+      "phrase": "on mushroom",
+      "tag": "on_mushroom"
+    },
+    {
+      "phrase": "on mushroom position",
+      "tag": "on_mushroom"
+    },
+    {
+      "phrase": "on nose",
+      "tag": "on_nose"
+    },
+    {
+      "phrase": "on nose position",
+      "tag": "on_nose"
+    },
+    {
+      "phrase": "on one knee",
+      "tag": "on_one_knee"
+    },
+    {
+      "phrase": "on one knee position",
+      "tag": "on_one_knee"
+    },
+    {
+      "phrase": "on person",
+      "tag": "on_person"
+    },
+    {
+      "phrase": "on person position",
+      "tag": "on_person"
+    },
+    {
+      "phrase": "on piano",
+      "tag": "on_piano"
+    },
+    {
+      "phrase": "on piano position",
+      "tag": "on_piano"
+    },
+    {
+      "phrase": "on pillow",
+      "tag": "on_pillow"
+    },
+    {
+      "phrase": "on pillow position",
+      "tag": "on_pillow"
+    },
+    {
+      "phrase": "on plate",
+      "tag": "on_plate"
+    },
+    {
+      "phrase": "on plate position",
+      "tag": "on_plate"
+    },
+    {
+      "phrase": "on pumpkin",
+      "tag": "on_pumpkin"
+    },
+    {
+      "phrase": "on pumpkin position",
+      "tag": "on_pumpkin"
+    },
+    {
+      "phrase": "on railing",
+      "tag": "on_railing"
+    },
+    {
+      "phrase": "on railing position",
+      "tag": "on_railing"
+    },
+    {
+      "phrase": "on railroad tracks",
+      "tag": "on_railroad_tracks"
+    },
+    {
+      "phrase": "on railroad tracks position",
+      "tag": "on_railroad_tracks"
+    },
+    {
+      "phrase": "on rock",
+      "tag": "on_rock"
+    },
+    {
+      "phrase": "on rock position",
+      "tag": "on_rock"
+    },
+    {
+      "phrase": "on roof",
+      "tag": "on_roof"
+    },
+    {
+      "phrase": "on roof position",
+      "tag": "on_roof"
+    },
+    {
+      "phrase": "on rooftop",
+      "tag": "on_rooftop"
+    },
+    {
+      "phrase": "on rooftop position",
+      "tag": "on_rooftop"
+    },
+    {
+      "phrase": "on scooter",
+      "tag": "on_scooter"
+    },
+    {
+      "phrase": "on scooter position",
+      "tag": "on_scooter"
+    },
+    {
+      "phrase": "on shelf",
+      "tag": "on_shelf"
+    },
+    {
+      "phrase": "on shelf position",
+      "tag": "on_shelf"
+    },
+    {
+      "phrase": "on ship",
+      "tag": "on_ship"
+    },
+    {
+      "phrase": "on ship position",
+      "tag": "on_ship"
+    },
+    {
+      "phrase": "on shoulder",
+      "tag": "on_shoulder"
+    },
+    {
+      "phrase": "on shoulder position",
+      "tag": "on_shoulder"
+    },
+    {
+      "phrase": "on side",
+      "tag": "on_side"
+    },
+    {
+      "phrase": "on side position",
+      "tag": "on_side"
+    },
+    {
+      "phrase": "on stairs",
+      "tag": "on_stairs"
+    },
+    {
+      "phrase": "on stairs position",
+      "tag": "on_stairs"
+    },
+    {
+      "phrase": "on stomach",
+      "tag": "on_stomach"
+    },
+    {
+      "phrase": "on stomach position",
+      "tag": "on_stomach"
+    },
+    {
+      "phrase": "on stool",
+      "tag": "on_stool"
+    },
+    {
+      "phrase": "on stool position",
+      "tag": "on_stool"
+    },
+    {
+      "phrase": "on suitcase",
+      "tag": "on_suitcase"
+    },
+    {
+      "phrase": "on suitcase position",
+      "tag": "on_suitcase"
+    },
+    {
+      "phrase": "on swing",
+      "tag": "on_swing"
+    },
+    {
+      "phrase": "on swing position",
+      "tag": "on_swing"
+    },
+    {
+      "phrase": "on table",
+      "tag": "on_table"
+    },
+    {
+      "phrase": "on table position",
+      "tag": "on_table"
+    },
+    {
+      "phrase": "on tank",
+      "tag": "on_tank"
+    },
+    {
+      "phrase": "on tank position",
+      "tag": "on_tank"
+    },
+    {
+      "phrase": "on toilet",
+      "tag": "on_toilet"
+    },
+    {
+      "phrase": "on toilet position",
+      "tag": "on_toilet"
+    },
+    {
+      "phrase": "on top of pole",
+      "tag": "on_top_of_pole"
+    },
+    {
+      "phrase": "on top of pole position",
+      "tag": "on_top_of_pole"
+    },
+    {
+      "phrase": "on tractor",
+      "tag": "on_tractor"
+    },
+    {
+      "phrase": "on tractor position",
+      "tag": "on_tractor"
+    },
+    {
+      "phrase": "on train",
+      "tag": "on_train"
+    },
+    {
+      "phrase": "on train position",
+      "tag": "on_train"
+    },
+    {
+      "phrase": "on tree",
+      "tag": "on_tree"
+    },
+    {
+      "phrase": "on tree position",
+      "tag": "on_tree"
+    },
+    {
+      "phrase": "on tree stump",
+      "tag": "on_tree_stump"
+    },
+    {
+      "phrase": "on tree stump position",
+      "tag": "on_tree_stump"
+    },
+    {
+      "phrase": "on truck",
+      "tag": "on_truck"
+    },
+    {
+      "phrase": "on truck position",
+      "tag": "on_truck"
+    },
+    {
+      "phrase": "on umbrella",
+      "tag": "on_umbrella"
+    },
+    {
+      "phrase": "on umbrella position",
+      "tag": "on_umbrella"
+    },
+    {
+      "phrase": "on van",
+      "tag": "on_van"
+    },
+    {
+      "phrase": "on van position",
+      "tag": "on_van"
+    },
+    {
+      "phrase": "on wall",
+      "tag": "on_wall"
+    },
+    {
+      "phrase": "on wall position",
+      "tag": "on_wall"
+    },
+    {
+      "phrase": "on water",
+      "tag": "on_water"
+    },
+    {
+      "phrase": "on water position",
+      "tag": "on_water"
+    },
+    {
+      "phrase": "on weapon",
+      "tag": "on_weapon"
+    },
+    {
+      "phrase": "on weapon position",
+      "tag": "on_weapon"
+    },
+    {
+      "phrase": "on windowsill",
+      "tag": "on_windowsill"
+    },
+    {
+      "phrase": "on windowsill position",
+      "tag": "on_windowsill"
+    },
+    {
+      "phrase": "one arm handstand",
+      "tag": "one_arm_handstand"
+    },
+    {
+      "phrase": "one arm handstand position",
+      "tag": "one_arm_handstand"
+    },
+    {
+      "phrase": "open hand",
+      "tag": "open_hand"
+    },
+    {
+      "phrase": "open hand position",
+      "tag": "open_hand"
+    },
+    {
+      "phrase": "open hands",
+      "tag": "open_hands"
+    },
+    {
+      "phrase": "open hands position",
+      "tag": "open_hands"
+    },
+    {
+      "phrase": "open robe",
+      "tag": "open_robe"
+    },
+    {
+      "phrase": "open robe position",
+      "tag": "open_robe"
+    },
+    {
+      "phrase": "outstretched arm",
+      "tag": "outstretched_arm"
+    },
+    {
+      "phrase": "outstretched arm position",
+      "tag": "outstretched_arm"
+    },
+    {
+      "phrase": "outstretched arms",
+      "tag": "outstretched_arms"
+    },
+    {
+      "phrase": "outstretched arms position",
+      "tag": "outstretched_arms"
+    },
+    {
+      "phrase": "outstretched crossed arms",
+      "tag": "outstretched_crossed_arms"
+    },
+    {
+      "phrase": "outstretched crossed arms position",
+      "tag": "outstretched_crossed_arms"
+    },
+    {
+      "phrase": "outstretched foot",
+      "tag": "outstretched_foot"
+    },
+    {
+      "phrase": "outstretched foot position",
+      "tag": "outstretched_foot"
+    },
+    {
+      "phrase": "outstretched hand",
+      "tag": "outstretched_hand"
+    },
+    {
+      "phrase": "outstretched hand position",
+      "tag": "outstretched_hand"
+    },
+    {
+      "phrase": "outstretched leg",
+      "tag": "outstretched_leg"
+    },
+    {
+      "phrase": "outstretched leg position",
+      "tag": "outstretched_leg"
+    },
+    {
+      "phrase": "outstretched legs",
+      "tag": "outstretched_legs"
+    },
+    {
+      "phrase": "outstretched legs position",
+      "tag": "outstretched_legs"
+    },
+    {
+      "phrase": "in over rad squad!! position",
+      "tag": "over_rad_squad!!_(project_sekai)"
+    },
+    {
+      "phrase": "over rad squad!! pose",
+      "tag": "over_rad_squad!!_(project_sekai)"
+    },
+    {
+      "phrase": "over rad squad!! position",
+      "tag": "over_rad_squad!!_(project_sekai)"
+    },
+    {
+      "phrase": "over rad squad!! project sekai",
+      "tag": "over_rad_squad!!_(project_sekai)"
+    },
+    {
+      "phrase": "over shoulder",
+      "tag": "over_shoulder"
+    },
+    {
+      "phrase": "over shoulder position",
+      "tag": "over_shoulder"
+    },
+    {
+      "phrase": "over the knee",
+      "tag": "over_the_knee"
+    },
+    {
+      "phrase": "over the knee position",
+      "tag": "over_the_knee"
+    },
+    {
+      "phrase": "over the mouth gag",
+      "tag": "over_the_mouth_gag"
+    },
+    {
+      "phrase": "over the mouth gag position",
+      "tag": "over_the_mouth_gag"
+    },
+    {
+      "phrase": "over the nose gag",
+      "tag": "over_the_nose_gag"
+    },
+    {
+      "phrase": "over the nose gag position",
+      "tag": "over_the_nose_gag"
+    },
+    {
+      "phrase": "own hands clasped",
+      "tag": "own_hands_clasped"
+    },
+    {
+      "phrase": "own hands clasped position",
+      "tag": "own_hands_clasped"
+    },
+    {
+      "phrase": "own hands together",
+      "tag": "own_hands_together"
+    },
+    {
+      "phrase": "own hands together position",
+      "tag": "own_hands_together"
+    },
+    {
+      "phrase": "paint on body",
+      "tag": "paint_on_body"
+    },
+    {
+      "phrase": "paint on body position",
+      "tag": "paint_on_body"
+    },
+    {
+      "phrase": "palmar flexion",
+      "tag": "palmar_flexion"
+    },
+    {
+      "phrase": "palmar flexion position",
+      "tag": "palmar_flexion"
+    },
+    {
+      "phrase": "palms together",
+      "tag": "palms_together"
+    },
+    {
+      "phrase": "palms together position",
+      "tag": "palms_together"
+    },
+    {
+      "phrase": "panties around feet",
+      "tag": "panties_around_feet"
+    },
+    {
+      "phrase": "panties around feet position",
+      "tag": "panties_around_feet"
+    },
+    {
+      "phrase": "panties around one finger",
+      "tag": "panties_around_one_finger"
+    },
+    {
+      "phrase": "panties around one finger position",
+      "tag": "panties_around_one_finger"
+    },
+    {
+      "phrase": "panties around thighs",
+      "tag": "panties_around_thighs"
+    },
+    {
+      "phrase": "panties around thighs position",
+      "tag": "panties_around_thighs"
+    },
+    {
+      "phrase": "panties on breasts",
+      "tag": "panties_on_breasts"
+    },
+    {
+      "phrase": "panties on breasts position",
+      "tag": "panties_on_breasts"
+    },
+    {
+      "phrase": "panties over garter belt",
+      "tag": "panties_over_garter_belt"
+    },
+    {
+      "phrase": "panties over garter belt position",
+      "tag": "panties_over_garter_belt"
+    },
+    {
+      "phrase": "panties over pantyhose",
+      "tag": "panties_over_pantyhose"
+    },
+    {
+      "phrase": "panties over pantyhose position",
+      "tag": "panties_over_pantyhose"
+    },
+    {
+      "phrase": "panty bulge",
+      "tag": "panty_bulge"
+    },
+    {
+      "phrase": "panty bulge position",
+      "tag": "panty_bulge"
+    },
+    {
+      "phrase": "paper in mouth",
+      "tag": "paper_in_mouth"
+    },
+    {
+      "phrase": "paper in mouth position",
+      "tag": "paper_in_mouth"
+    },
+    {
+      "phrase": "paper on head",
+      "tag": "paper_on_head"
+    },
+    {
+      "phrase": "paper on head position",
+      "tag": "paper_on_head"
+    },
+    {
+      "phrase": "partially immersed",
+      "tag": "partially_immersed"
+    },
+    {
+      "phrase": "partially immersed position",
+      "tag": "partially_immersed"
+    },
+    {
+      "phrase": "partially submerged",
+      "tag": "partially_submerged"
+    },
+    {
+      "phrase": "partially submerged position",
+      "tag": "partially_submerged"
+    },
+    {
+      "phrase": "in paw pose",
+      "tag": "paw_pose"
+    },
+    {
+      "phrase": "paw pose",
+      "tag": "paw_pose"
+    },
+    {
+      "phrase": "paw pose stance",
+      "tag": "paw_pose"
+    },
+    {
+      "phrase": "pectorals on glass",
+      "tag": "pectorals_on_glass"
+    },
+    {
+      "phrase": "pectorals on glass position",
+      "tag": "pectorals_on_glass"
+    },
+    {
+      "phrase": "peeking out",
+      "tag": "peeking_out"
+    },
+    {
+      "phrase": "peeking out position",
+      "tag": "peeking_out"
+    },
+    {
+      "phrase": "peeking through fingers",
+      "tag": "peeking_through_fingers"
+    },
+    {
+      "phrase": "peeking through fingers position",
+      "tag": "peeking_through_fingers"
+    },
+    {
+      "phrase": "pen in mouth",
+      "tag": "pen_in_mouth"
+    },
+    {
+      "phrase": "pen in mouth position",
+      "tag": "pen_in_mouth"
+    },
+    {
+      "phrase": "pencil as mustache",
+      "tag": "pencil_as_mustache"
+    },
+    {
+      "phrase": "pencil as mustache position",
+      "tag": "pencil_as_mustache"
+    },
+    {
+      "phrase": "petal in mouth",
+      "tag": "petal_in_mouth"
+    },
+    {
+      "phrase": "petal in mouth position",
+      "tag": "petal_in_mouth"
+    },
+    {
+      "phrase": "petal on head",
+      "tag": "petal_on_head"
+    },
+    {
+      "phrase": "petal on head position",
+      "tag": "petal_on_head"
+    },
+    {
+      "phrase": "phone between breasts",
+      "tag": "phone_between_breasts"
+    },
+    {
+      "phrase": "phone between breasts position",
+      "tag": "phone_between_breasts"
+    },
+    {
+      "phrase": "phone over face",
+      "tag": "phone_over_face"
+    },
+    {
+      "phrase": "phone over face position",
+      "tag": "phone_over_face"
+    },
+    {
+      "phrase": "pigeon-toed",
+      "tag": "pigeon-toed"
+    },
+    {
+      "phrase": "pigeon-toed position",
+      "tag": "pigeon-toed"
+    },
+    {
+      "phrase": "pill in mouth",
+      "tag": "pill_in_mouth"
+    },
+    {
+      "phrase": "pill in mouth position",
+      "tag": "pill_in_mouth"
+    },
+    {
+      "phrase": "pill on tongue",
+      "tag": "pill_on_tongue"
+    },
+    {
+      "phrase": "pill on tongue position",
+      "tag": "pill_on_tongue"
+    },
+    {
+      "phrase": "pillow hug",
+      "tag": "pillow_hug"
+    },
+    {
+      "phrase": "pillow hug position",
+      "tag": "pillow_hug"
+    },
+    {
+      "phrase": "pillow straddling",
+      "tag": "pillow_straddling"
+    },
+    {
+      "phrase": "pillow straddling position",
+      "tag": "pillow_straddling"
+    },
+    {
+      "phrase": "pinky out",
+      "tag": "pinky_out"
+    },
+    {
+      "phrase": "pinky out position",
+      "tag": "pinky_out"
+    },
+    {
+      "phrase": "pipe in mouth",
+      "tag": "pipe_in_mouth"
+    },
+    {
+      "phrase": "pipe in mouth position",
+      "tag": "pipe_in_mouth"
+    },
+    {
+      "phrase": "plank",
+      "tag": "plank"
+    },
+    {
+      "phrase": "plank position",
+      "tag": "plank"
+    },
+    {
+      "phrase": "plant on head",
+      "tag": "plant_on_head"
+    },
+    {
+      "phrase": "plant on head position",
+      "tag": "plant_on_head"
+    },
+    {
+      "phrase": "planted",
+      "tag": "planted"
+    },
+    {
+      "phrase": "planted position",
+      "tag": "planted"
+    },
+    {
+      "phrase": "plectrum in mouth",
+      "tag": "plectrum_in_mouth"
+    },
+    {
+      "phrase": "plectrum in mouth position",
+      "tag": "plectrum_in_mouth"
+    },
+    {
+      "phrase": "pocky in mouth",
+      "tag": "pocky_in_mouth"
+    },
+    {
+      "phrase": "pocky in mouth position",
+      "tag": "pocky_in_mouth"
+    },
+    {
+      "phrase": "pointing at object",
+      "tag": "pointing_at_object"
+    },
+    {
+      "phrase": "pointing at object position",
+      "tag": "pointing_at_object"
+    },
+    {
+      "phrase": "pointing at viewer",
+      "tag": "pointing_at_viewer"
+    },
+    {
+      "phrase": "pointing at viewer position",
+      "tag": "pointing_at_viewer"
+    },
+    {
+      "phrase": "pointing backward",
+      "tag": "pointing_backward"
+    },
+    {
+      "phrase": "pointing backward position",
+      "tag": "pointing_backward"
+    },
+    {
+      "phrase": "pointing down",
+      "tag": "pointing_down"
+    },
+    {
+      "phrase": "pointing down position",
+      "tag": "pointing_down"
+    },
+    {
+      "phrase": "pointing forward",
+      "tag": "pointing_forward"
+    },
+    {
+      "phrase": "pointing forward position",
+      "tag": "pointing_forward"
+    },
+    {
+      "phrase": "pointing to the side",
+      "tag": "pointing_to_the_side"
+    },
+    {
+      "phrase": "pointing to the side position",
+      "tag": "pointing_to_the_side"
+    },
+    {
+      "phrase": "pointing with thumb",
+      "tag": "pointing_with_thumb"
+    },
+    {
+      "phrase": "pointing with thumb position",
+      "tag": "pointing_with_thumb"
+    },
+    {
+      "phrase": "popsicle in mouth",
+      "tag": "popsicle_in_mouth"
+    },
+    {
+      "phrase": "popsicle in mouth position",
+      "tag": "popsicle_in_mouth"
+    },
+    {
+      "phrase": "pose imitation",
+      "tag": "pose_imitation"
+    },
+    {
+      "phrase": "pose imitation position",
+      "tag": "pose_imitation"
+    },
+    {
+      "phrase": "pot on head",
+      "tag": "pot_on_head"
+    },
+    {
+      "phrase": "pot on head position",
+      "tag": "pot_on_head"
+    },
+    {
+      "phrase": "armpit presented",
+      "tag": "presenting_armpit"
+    },
+    {
+      "phrase": "presenting armpit",
+      "tag": "presenting_armpit"
+    },
+    {
+      "phrase": "presenting armpit pose",
+      "tag": "presenting_armpit"
+    },
+    {
+      "phrase": "presenting armpit position",
+      "tag": "presenting_armpit"
+    },
+    {
+      "phrase": "showing armpit",
+      "tag": "presenting_armpit"
+    },
+    {
+      "phrase": "prostration",
+      "tag": "prostration"
+    },
+    {
+      "phrase": "prostration position",
+      "tag": "prostration"
+    },
+    {
+      "phrase": "quadruple wielding",
+      "tag": "quadruple_wielding"
+    },
+    {
+      "phrase": "quadruple wielding position",
+      "tag": "quadruple_wielding"
+    },
+    {
+      "phrase": "in rabbit pose",
+      "tag": "rabbit_pose"
+    },
+    {
+      "phrase": "rabbit pose",
+      "tag": "rabbit_pose"
+    },
+    {
+      "phrase": "rabbit pose stance",
+      "tag": "rabbit_pose"
+    },
+    {
+      "phrase": "raised fist",
+      "tag": "raised_fist"
+    },
+    {
+      "phrase": "raised fist position",
+      "tag": "raised_fist"
+    },
+    {
+      "phrase": "raised fists",
+      "tag": "raised_fists"
+    },
+    {
+      "phrase": "raised fists position",
+      "tag": "raised_fists"
+    },
+    {
+      "phrase": "reclining",
+      "tag": "reclining"
+    },
+    {
+      "phrase": "reclining position",
+      "tag": "reclining"
+    },
+    {
+      "phrase": "reverse-jointed legs",
+      "tag": "reverse-jointed_legs"
+    },
+    {
+      "phrase": "reverse-jointed legs position",
+      "tag": "reverse-jointed_legs"
+    },
+    {
+      "phrase": "reverse grip",
+      "tag": "reverse_grip"
+    },
+    {
+      "phrase": "reverse grip position",
+      "tag": "reverse_grip"
+    },
+    {
+      "phrase": "reverse prayer",
+      "tag": "reverse_prayer"
+    },
+    {
+      "phrase": "reverse prayer position",
+      "tag": "reverse_prayer"
+    },
+    {
+      "phrase": "ribbon around body",
+      "tag": "ribbon_around_body"
+    },
+    {
+      "phrase": "ribbon around body position",
+      "tag": "ribbon_around_body"
+    },
+    {
+      "phrase": "ribbon between breasts",
+      "tag": "ribbon_between_breasts"
+    },
+    {
+      "phrase": "ribbon between breasts position",
+      "tag": "ribbon_between_breasts"
+    },
+    {
+      "phrase": "ribbon in mouth",
+      "tag": "ribbon_in_mouth"
+    },
+    {
+      "phrase": "ribbon in mouth position",
+      "tag": "ribbon_in_mouth"
+    },
+    {
+      "phrase": "rope around waist",
+      "tag": "rope_around_waist"
+    },
+    {
+      "phrase": "rope around waist position",
+      "tag": "rope_around_waist"
+    },
+    {
+      "phrase": "run over",
+      "tag": "run_over"
+    },
+    {
+      "phrase": "run over position",
+      "tag": "run_over"
+    },
+    {
+      "phrase": "running towards viewer",
+      "tag": "running_towards_viewer"
+    },
+    {
+      "phrase": "running towards viewer position",
+      "tag": "running_towards_viewer"
+    },
+    {
+      "phrase": "in sailor moon pose",
+      "tag": "sailor_moon_pose"
+    },
+    {
+      "phrase": "sailor moon pose",
+      "tag": "sailor_moon_pose"
+    },
+    {
+      "phrase": "sailor moon pose stance",
+      "tag": "sailor_moon_pose"
+    },
+    {
+      "phrase": "salute",
+      "tag": "salute"
+    },
+    {
+      "phrase": "salute position",
+      "tag": "salute"
+    },
+    {
+      "phrase": "scarf on head",
+      "tag": "scarf_on_head"
+    },
+    {
+      "phrase": "scarf on head position",
+      "tag": "scarf_on_head"
+    },
+    {
+      "phrase": "scarf over mouth",
+      "tag": "scarf_over_mouth"
+    },
+    {
+      "phrase": "scarf over mouth position",
+      "tag": "scarf_over_mouth"
+    },
+    {
+      "phrase": "scars all over",
+      "tag": "scars_all_over"
+    },
+    {
+      "phrase": "scars all over position",
+      "tag": "scars_all_over"
+    },
+    {
+      "phrase": "seiza",
+      "tag": "seiza"
+    },
+    {
+      "phrase": "seiza position",
+      "tag": "seiza"
+    },
+    {
+      "phrase": "self hug",
+      "tag": "self_hug"
+    },
+    {
+      "phrase": "self hug position",
+      "tag": "self_hug"
+    },
+    {
+      "phrase": "separated arms",
+      "tag": "separated_arms"
+    },
+    {
+      "phrase": "separated arms position",
+      "tag": "separated_arms"
+    },
+    {
+      "phrase": "separated legs",
+      "tag": "separated_legs"
+    },
+    {
+      "phrase": "separated legs position",
+      "tag": "separated_legs"
+    },
+    {
+      "phrase": "shaka sign",
+      "tag": "shaka_sign"
+    },
+    {
+      "phrase": "shaka sign position",
+      "tag": "shaka_sign"
+    },
+    {
+      "phrase": "shared bed",
+      "tag": "shared_bed"
+    },
+    {
+      "phrase": "shared bed position",
+      "tag": "shared_bed"
+    },
+    {
+      "phrase": "shell to ear",
+      "tag": "shell_to_ear"
+    },
+    {
+      "phrase": "shell to ear position",
+      "tag": "shell_to_ear"
+    },
+    {
+      "phrase": "shibari over clothes",
+      "tag": "shibari_over_clothes"
+    },
+    {
+      "phrase": "shibari over clothes position",
+      "tag": "shibari_over_clothes"
+    },
+    {
+      "phrase": "shield on back",
+      "tag": "shield_on_back"
+    },
+    {
+      "phrase": "shield on back position",
+      "tag": "shield_on_back"
+    },
+    {
+      "phrase": "shirt over dress",
+      "tag": "shirt_over_dress"
+    },
+    {
+      "phrase": "shirt over dress position",
+      "tag": "shirt_over_dress"
+    },
+    {
+      "phrase": "shirt over head",
+      "tag": "shirt_over_head"
+    },
+    {
+      "phrase": "shirt over head position",
+      "tag": "shirt_over_head"
+    },
+    {
+      "phrase": "shrugging",
+      "tag": "shrugging"
+    },
+    {
+      "phrase": "shrugging position",
+      "tag": "shrugging"
+    },
+    {
+      "phrase": "side-by-side",
+      "tag": "side-by-side"
+    },
+    {
+      "phrase": "side-by-side position",
+      "tag": "side-by-side"
+    },
+    {
+      "phrase": "in side chest pose",
+      "tag": "side_chest_pose"
+    },
+    {
+      "phrase": "side chest pose",
+      "tag": "side_chest_pose"
+    },
+    {
+      "phrase": "side chest pose stance",
+      "tag": "side_chest_pose"
+    },
+    {
+      "phrase": "side sitting split",
+      "tag": "side_sitting_split"
+    },
+    {
+      "phrase": "side sitting split position",
+      "tag": "side_sitting_split"
+    },
+    {
+      "phrase": "sidesaddle",
+      "tag": "sidesaddle"
+    },
+    {
+      "phrase": "sidesaddle position",
+      "tag": "sidesaddle"
+    },
+    {
+      "phrase": "sideways",
+      "tag": "sideways"
+    },
+    {
+      "phrase": "sideways position",
+      "tag": "sideways"
+    },
+    {
+      "phrase": "in sideways sitting pose",
+      "tag": "sideways_sitting_pose_(han-0v0)"
+    },
+    {
+      "phrase": "sideways sitting pose",
+      "tag": "sideways_sitting_pose_(han-0v0)"
+    },
+    {
+      "phrase": "sideways sitting pose han-0v0",
+      "tag": "sideways_sitting_pose_(han-0v0)"
+    },
+    {
+      "phrase": "sideways sitting pose stance",
+      "tag": "sideways_sitting_pose_(han-0v0)"
+    },
+    {
+      "phrase": "single ear down",
+      "tag": "single_ear_down"
+    },
+    {
+      "phrase": "single ear down position",
+      "tag": "single_ear_down"
+    },
+    {
+      "phrase": "sitting",
+      "tag": "sitting"
+    },
+    {
+      "phrase": "sitting position",
+      "tag": "sitting"
+    },
+    {
+      "phrase": "sitting against vehicle",
+      "tag": "sitting_against_vehicle"
+    },
+    {
+      "phrase": "sitting against vehicle position",
+      "tag": "sitting_against_vehicle"
+    },
+    {
+      "phrase": "sitting backwards",
+      "tag": "sitting_backwards"
+    },
+    {
+      "phrase": "sitting backwards position",
+      "tag": "sitting_backwards"
+    },
+    {
+      "phrase": "sitting between lap",
+      "tag": "sitting_between_lap"
+    },
+    {
+      "phrase": "sitting between lap position",
+      "tag": "sitting_between_lap"
+    },
+    {
+      "phrase": "sitting in corner",
+      "tag": "sitting_in_corner"
+    },
+    {
+      "phrase": "sitting in corner position",
+      "tag": "sitting_in_corner"
+    },
+    {
+      "phrase": "sitting in shadow",
+      "tag": "sitting_in_shadow"
+    },
+    {
+      "phrase": "sitting in shadow position",
+      "tag": "sitting_in_shadow"
+    },
+    {
+      "phrase": "sitting in tree",
+      "tag": "sitting_in_tree"
+    },
+    {
+      "phrase": "sitting in tree position",
+      "tag": "sitting_in_tree"
+    },
+    {
+      "phrase": "sitting in window",
+      "tag": "sitting_in_window"
+    },
+    {
+      "phrase": "sitting in window position",
+      "tag": "sitting_in_window"
+    },
+    {
+      "phrase": "sitting on arm",
+      "tag": "sitting_on_arm"
+    },
+    {
+      "phrase": "sitting on arm position",
+      "tag": "sitting_on_arm"
+    },
+    {
+      "phrase": "sitting on ball",
+      "tag": "sitting_on_ball"
+    },
+    {
+      "phrase": "sitting on ball position",
+      "tag": "sitting_on_ball"
+    },
+    {
+      "phrase": "sitting on bar",
+      "tag": "sitting_on_bar"
+    },
+    {
+      "phrase": "sitting on bar position",
+      "tag": "sitting_on_bar"
+    },
+    {
+      "phrase": "sitting on book",
+      "tag": "sitting_on_book"
+    },
+    {
+      "phrase": "sitting on book position",
+      "tag": "sitting_on_book"
+    },
+    {
+      "phrase": "sitting on books",
+      "tag": "sitting_on_books"
+    },
+    {
+      "phrase": "sitting on books position",
+      "tag": "sitting_on_books"
+    },
+    {
+      "phrase": "sitting on box",
+      "tag": "sitting_on_box"
+    },
+    {
+      "phrase": "sitting on box position",
+      "tag": "sitting_on_box"
+    },
+    {
+      "phrase": "sitting on branch",
+      "tag": "sitting_on_branch"
+    },
+    {
+      "phrase": "sitting on branch position",
+      "tag": "sitting_on_branch"
+    },
+    {
+      "phrase": "sitting on breasts",
+      "tag": "sitting_on_breasts"
+    },
+    {
+      "phrase": "sitting on breasts position",
+      "tag": "sitting_on_breasts"
+    },
+    {
+      "phrase": "sitting on drum",
+      "tag": "sitting_on_drum"
+    },
+    {
+      "phrase": "sitting on drum position",
+      "tag": "sitting_on_drum"
+    },
+    {
+      "phrase": "sitting on face",
+      "tag": "sitting_on_face"
+    },
+    {
+      "phrase": "sitting on face position",
+      "tag": "sitting_on_face"
+    },
+    {
+      "phrase": "sitting on fence",
+      "tag": "sitting_on_fence"
+    },
+    {
+      "phrase": "sitting on fence position",
+      "tag": "sitting_on_fence"
+    },
+    {
+      "phrase": "sitting on food",
+      "tag": "sitting_on_food"
+    },
+    {
+      "phrase": "sitting on food position",
+      "tag": "sitting_on_food"
+    },
+    {
+      "phrase": "sitting on hand",
+      "tag": "sitting_on_hand"
+    },
+    {
+      "phrase": "sitting on hand position",
+      "tag": "sitting_on_hand"
+    },
+    {
+      "phrase": "sitting on head",
+      "tag": "sitting_on_head"
+    },
+    {
+      "phrase": "sitting on head position",
+      "tag": "sitting_on_head"
+    },
+    {
+      "phrase": "sitting on leg",
+      "tag": "sitting_on_leg"
+    },
+    {
+      "phrase": "sitting on leg position",
+      "tag": "sitting_on_leg"
+    },
+    {
+      "phrase": "sitting on liquid",
+      "tag": "sitting_on_liquid"
+    },
+    {
+      "phrase": "sitting on liquid position",
+      "tag": "sitting_on_liquid"
+    },
+    {
+      "phrase": "sitting on log",
+      "tag": "sitting_on_log"
+    },
+    {
+      "phrase": "sitting on log position",
+      "tag": "sitting_on_log"
+    },
+    {
+      "phrase": "sitting on magic circle",
+      "tag": "sitting_on_magic_circle"
+    },
+    {
+      "phrase": "sitting on magic circle position",
+      "tag": "sitting_on_magic_circle"
+    },
+    {
+      "phrase": "sitting on mecha",
+      "tag": "sitting_on_mecha"
+    },
+    {
+      "phrase": "sitting on mecha position",
+      "tag": "sitting_on_mecha"
+    },
+    {
+      "phrase": "sitting on mushroom",
+      "tag": "sitting_on_mushroom"
+    },
+    {
+      "phrase": "sitting on mushroom position",
+      "tag": "sitting_on_mushroom"
+    },
+    {
+      "phrase": "sitting on object",
+      "tag": "sitting_on_object"
+    },
+    {
+      "phrase": "sitting on object position",
+      "tag": "sitting_on_object"
+    },
+    {
+      "phrase": "sitting on own tail",
+      "tag": "sitting_on_own_tail"
+    },
+    {
+      "phrase": "sitting on own tail position",
+      "tag": "sitting_on_own_tail"
+    },
+    {
+      "phrase": "sitting on person",
+      "tag": "sitting_on_person"
+    },
+    {
+      "phrase": "sitting on person position",
+      "tag": "sitting_on_person"
+    },
+    {
+      "phrase": "sitting on piano",
+      "tag": "sitting_on_piano"
+    },
+    {
+      "phrase": "sitting on piano position",
+      "tag": "sitting_on_piano"
+    },
+    {
+      "phrase": "sitting on pillow",
+      "tag": "sitting_on_pillow"
+    },
+    {
+      "phrase": "sitting on pillow position",
+      "tag": "sitting_on_pillow"
+    },
+    {
+      "phrase": "sitting on pokemon",
+      "tag": "sitting_on_pokemon"
+    },
+    {
+      "phrase": "sitting on pokemon position",
+      "tag": "sitting_on_pokemon"
+    },
+    {
+      "phrase": "sitting on robot",
+      "tag": "sitting_on_robot"
+    },
+    {
+      "phrase": "sitting on robot position",
+      "tag": "sitting_on_robot"
+    },
+    {
+      "phrase": "sitting on roof",
+      "tag": "sitting_on_roof"
+    },
+    {
+      "phrase": "sitting on roof position",
+      "tag": "sitting_on_roof"
+    },
+    {
+      "phrase": "sitting on stairs",
+      "tag": "sitting_on_stairs"
+    },
+    {
+      "phrase": "sitting on stairs position",
+      "tag": "sitting_on_stairs"
+    },
+    {
+      "phrase": "sitting on table",
+      "tag": "sitting_on_table"
+    },
+    {
+      "phrase": "sitting on table position",
+      "tag": "sitting_on_table"
+    },
+    {
+      "phrase": "sitting on tail",
+      "tag": "sitting_on_tail"
+    },
+    {
+      "phrase": "sitting on tail position",
+      "tag": "sitting_on_tail"
+    },
+    {
+      "phrase": "sitting on tentacle",
+      "tag": "sitting_on_tentacle"
+    },
+    {
+      "phrase": "sitting on tentacle position",
+      "tag": "sitting_on_tentacle"
+    },
+    {
+      "phrase": "sitting on throne",
+      "tag": "sitting_on_throne"
+    },
+    {
+      "phrase": "sitting on throne position",
+      "tag": "sitting_on_throne"
+    },
+    {
+      "phrase": "sitting on torii",
+      "tag": "sitting_on_torii"
+    },
+    {
+      "phrase": "sitting on torii position",
+      "tag": "sitting_on_torii"
+    },
+    {
+      "phrase": "sitting on wall",
+      "tag": "sitting_on_wall"
+    },
+    {
+      "phrase": "sitting on wall position",
+      "tag": "sitting_on_wall"
+    },
+    {
+      "phrase": "sitting on water",
+      "tag": "sitting_on_water"
+    },
+    {
+      "phrase": "sitting on water position",
+      "tag": "sitting_on_water"
+    },
+    {
+      "phrase": "sitting on weapon",
+      "tag": "sitting_on_weapon"
+    },
+    {
+      "phrase": "sitting on weapon position",
+      "tag": "sitting_on_weapon"
+    },
+    {
+      "phrase": "sitting sideways",
+      "tag": "sitting_sideways"
+    },
+    {
+      "phrase": "sitting sideways position",
+      "tag": "sitting_sideways"
+    },
+    {
+      "phrase": "sitting split",
+      "tag": "sitting_split"
+    },
+    {
+      "phrase": "sitting split position",
+      "tag": "sitting_split"
+    },
+    {
+      "phrase": "skirt around one ankle",
+      "tag": "skirt_around_one_ankle"
+    },
+    {
+      "phrase": "skirt around one ankle position",
+      "tag": "skirt_around_one_ankle"
+    },
+    {
+      "phrase": "skirt in mouth",
+      "tag": "skirt_in_mouth"
+    },
+    {
+      "phrase": "skirt in mouth position",
+      "tag": "skirt_in_mouth"
+    },
+    {
+      "phrase": "skirt tied over head",
+      "tag": "skirt_tied_over_head"
+    },
+    {
+      "phrase": "skirt tied over head position",
+      "tag": "skirt_tied_over_head"
+    },
+    {
+      "phrase": "skull on head",
+      "tag": "skull_on_head"
+    },
+    {
+      "phrase": "skull on head position",
+      "tag": "skull_on_head"
+    },
+    {
+      "phrase": "slav squatting",
+      "tag": "slav_squatting"
+    },
+    {
+      "phrase": "slav squatting position",
+      "tag": "slav_squatting"
+    },
+    {
+      "phrase": "sleeping upright",
+      "tag": "sleeping_upright"
+    },
+    {
+      "phrase": "sleeping upright position",
+      "tag": "sleeping_upright"
+    },
+    {
+      "phrase": "slipping on banana peel",
+      "tag": "slipping_on_banana_peel"
+    },
+    {
+      "phrase": "slipping on banana peel position",
+      "tag": "slipping_on_banana_peel"
+    },
+    {
+      "phrase": "slouching",
+      "tag": "slouching"
+    },
+    {
+      "phrase": "slouching position",
+      "tag": "slouching"
+    },
+    {
+      "phrase": "smegma in mouth",
+      "tag": "smegma_in_mouth"
+    },
+    {
+      "phrase": "smegma in mouth position",
+      "tag": "smegma_in_mouth"
+    },
+    {
+      "phrase": "snake mouth",
+      "tag": "snake_mouth"
+    },
+    {
+      "phrase": "snake mouth position",
+      "tag": "snake_mouth"
+    },
+    {
+      "phrase": "snorkel in mouth",
+      "tag": "snorkel_in_mouth"
+    },
+    {
+      "phrase": "snorkel in mouth position",
+      "tag": "snorkel_in_mouth"
+    },
+    {
+      "phrase": "snowflake in eye",
+      "tag": "snowflake_in_eye"
+    },
+    {
+      "phrase": "snowflake in eye position",
+      "tag": "snowflake_in_eye"
+    },
+    {
+      "phrase": "soaking feet",
+      "tag": "soaking_feet"
+    },
+    {
+      "phrase": "soaking feet position",
+      "tag": "soaking_feet"
+    },
+    {
+      "phrase": "sock in mouth",
+      "tag": "sock_in_mouth"
+    },
+    {
+      "phrase": "sock in mouth position",
+      "tag": "sock_in_mouth"
+    },
+    {
+      "phrase": "socks over thighhighs",
+      "tag": "socks_over_thighhighs"
+    },
+    {
+      "phrase": "socks over thighhighs position",
+      "tag": "socks_over_thighhighs"
+    },
+    {
+      "phrase": "soles together",
+      "tag": "soles_together"
+    },
+    {
+      "phrase": "soles together position",
+      "tag": "soles_together"
+    },
+    {
+      "phrase": "split",
+      "tag": "split"
+    },
+    {
+      "phrase": "split position",
+      "tag": "split"
+    },
+    {
+      "phrase": "armpit spread",
+      "tag": "spread_armpit"
+    },
+    {
+      "phrase": "spread armpit",
+      "tag": "spread_armpit"
+    },
+    {
+      "phrase": "spread armpit pose",
+      "tag": "spread_armpit"
+    },
+    {
+      "phrase": "spread armpit position",
+      "tag": "spread_armpit"
+    },
+    {
+      "phrase": "with armpit spread",
+      "tag": "spread_armpit"
+    },
+    {
+      "phrase": "arms spread",
+      "tag": "spread_arms"
+    },
+    {
+      "phrase": "spread arms",
+      "tag": "spread_arms"
+    },
+    {
+      "phrase": "spread arms pose",
+      "tag": "spread_arms"
+    },
+    {
+      "phrase": "spread arms position",
+      "tag": "spread_arms"
+    },
+    {
+      "phrase": "with arms spread",
+      "tag": "spread_arms"
+    },
+    {
+      "phrase": "eagle position spread",
+      "tag": "spread_eagle_position"
+    },
+    {
+      "phrase": "in spread eagle position",
+      "tag": "spread_eagle_position"
+    },
+    {
+      "phrase": "spread eagle position",
+      "tag": "spread_eagle_position"
+    },
+    {
+      "phrase": "spread eagle position stance",
+      "tag": "spread_eagle_position"
+    },
+    {
+      "phrase": "with eagle position spread",
+      "tag": "spread_eagle_position"
+    },
+    {
+      "phrase": "fingers spread",
+      "tag": "spread_fingers"
+    },
+    {
+      "phrase": "spread fingers",
+      "tag": "spread_fingers"
+    },
+    {
+      "phrase": "spread fingers pose",
+      "tag": "spread_fingers"
+    },
+    {
+      "phrase": "spread fingers position",
+      "tag": "spread_fingers"
+    },
+    {
+      "phrase": "with fingers spread",
+      "tag": "spread_fingers"
+    },
+    {
+      "phrase": "legs open",
+      "tag": "spread_legs"
+    },
+    {
+      "phrase": "legs spread",
+      "tag": "spread_legs"
+    },
+    {
+      "phrase": "spread legs",
+      "tag": "spread_legs"
+    },
+    {
+      "phrase": "with legs open",
+      "tag": "spread_legs"
+    },
+    {
+      "phrase": "with legs spread",
+      "tag": "spread_legs"
+    },
+    {
+      "phrase": "navel spread",
+      "tag": "spread_navel"
+    },
+    {
+      "phrase": "spread navel",
+      "tag": "spread_navel"
+    },
+    {
+      "phrase": "spread navel pose",
+      "tag": "spread_navel"
+    },
+    {
+      "phrase": "spread navel position",
+      "tag": "spread_navel"
+    },
+    {
+      "phrase": "with navel spread",
+      "tag": "spread_navel"
+    },
+    {
+      "phrase": "spread toes",
+      "tag": "spread_toes"
+    },
+    {
+      "phrase": "spread toes pose",
+      "tag": "spread_toes"
+    },
+    {
+      "phrase": "spread toes position",
+      "tag": "spread_toes"
+    },
+    {
+      "phrase": "toes spread",
+      "tag": "spread_toes"
+    },
+    {
+      "phrase": "with toes spread",
+      "tag": "spread_toes"
+    },
+    {
+      "phrase": "squatting",
+      "tag": "squatting"
+    },
+    {
+      "phrase": "squatting position",
+      "tag": "squatting"
+    },
+    {
+      "phrase": "in squatting v pose",
+      "tag": "squatting_v_pose_(han-0v0)"
+    },
+    {
+      "phrase": "squatting v pose",
+      "tag": "squatting_v_pose_(han-0v0)"
+    },
+    {
+      "phrase": "squatting v pose han-0v0",
+      "tag": "squatting_v_pose_(han-0v0)"
+    },
+    {
+      "phrase": "squatting v pose stance",
+      "tag": "squatting_v_pose_(han-0v0)"
+    },
+    {
+      "phrase": "stalk in mouth",
+      "tag": "stalk_in_mouth"
+    },
+    {
+      "phrase": "stalk in mouth position",
+      "tag": "stalk_in_mouth"
+    },
+    {
+      "phrase": "in stance position",
+      "tag": "stance_(vehicle)"
+    },
+    {
+      "phrase": "stance",
+      "tag": "stance_(vehicle)"
+    },
+    {
+      "phrase": "stance pose",
+      "tag": "stance_(vehicle)"
+    },
+    {
+      "phrase": "stance position",
+      "tag": "stance_(vehicle)"
+    },
+    {
+      "phrase": "stance vehicle",
+      "tag": "stance_(vehicle)"
+    },
+    {
+      "phrase": "standing pose",
+      "tag": "standing"
+    },
+    {
+      "phrase": "standing position",
+      "tag": "standing"
+    },
+    {
+      "phrase": "standing anilingus",
+      "tag": "standing_anilingus"
+    },
+    {
+      "phrase": "standing anilingus position",
+      "tag": "standing_anilingus"
+    },
+    {
+      "phrase": "standing at attention",
+      "tag": "standing_at_attention"
+    },
+    {
+      "phrase": "standing at attention position",
+      "tag": "standing_at_attention"
+    },
+    {
+      "phrase": "standing leg lock",
+      "tag": "standing_leg_lock"
+    },
+    {
+      "phrase": "standing leg lock position",
+      "tag": "standing_leg_lock"
+    },
+    {
+      "phrase": "standing missionary",
+      "tag": "standing_missionary"
+    },
+    {
+      "phrase": "standing missionary position",
+      "tag": "standing_missionary"
+    },
+    {
+      "phrase": "standing on bed",
+      "tag": "standing_on_bed"
+    },
+    {
+      "phrase": "standing on bed position",
+      "tag": "standing_on_bed"
+    },
+    {
+      "phrase": "standing on box",
+      "tag": "standing_on_box"
+    },
+    {
+      "phrase": "standing on box position",
+      "tag": "standing_on_box"
+    },
+    {
+      "phrase": "standing on branch",
+      "tag": "standing_on_branch"
+    },
+    {
+      "phrase": "standing on branch position",
+      "tag": "standing_on_branch"
+    },
+    {
+      "phrase": "standing on chair",
+      "tag": "standing_on_chair"
+    },
+    {
+      "phrase": "standing on chair position",
+      "tag": "standing_on_chair"
+    },
+    {
+      "phrase": "standing on desk",
+      "tag": "standing_on_desk"
+    },
+    {
+      "phrase": "standing on desk position",
+      "tag": "standing_on_desk"
+    },
+    {
+      "phrase": "standing on liquid",
+      "tag": "standing_on_liquid"
+    },
+    {
+      "phrase": "standing on liquid position",
+      "tag": "standing_on_liquid"
+    },
+    {
+      "phrase": "standing on magic circle",
+      "tag": "standing_on_magic_circle"
+    },
+    {
+      "phrase": "standing on magic circle position",
+      "tag": "standing_on_magic_circle"
+    },
+    {
+      "phrase": "standing on object",
+      "tag": "standing_on_object"
+    },
+    {
+      "phrase": "standing on object position",
+      "tag": "standing_on_object"
+    },
+    {
+      "phrase": "standing on one leg",
+      "tag": "standing_on_one_leg"
+    },
+    {
+      "phrase": "standing on one leg position",
+      "tag": "standing_on_one_leg"
+    },
+    {
+      "phrase": "standing on person",
+      "tag": "standing_on_person"
+    },
+    {
+      "phrase": "standing on person position",
+      "tag": "standing_on_person"
+    },
+    {
+      "phrase": "standing on raft",
+      "tag": "standing_on_raft"
+    },
+    {
+      "phrase": "standing on raft position",
+      "tag": "standing_on_raft"
+    },
+    {
+      "phrase": "standing on rock",
+      "tag": "standing_on_rock"
+    },
+    {
+      "phrase": "standing on rock position",
+      "tag": "standing_on_rock"
+    },
+    {
+      "phrase": "standing on roof",
+      "tag": "standing_on_roof"
+    },
+    {
+      "phrase": "standing on roof position",
+      "tag": "standing_on_roof"
+    },
+    {
+      "phrase": "standing on swing",
+      "tag": "standing_on_swing"
+    },
+    {
+      "phrase": "standing on swing position",
+      "tag": "standing_on_swing"
+    },
+    {
+      "phrase": "standing on sword",
+      "tag": "standing_on_sword"
+    },
+    {
+      "phrase": "standing on sword position",
+      "tag": "standing_on_sword"
+    },
+    {
+      "phrase": "standing on three legs",
+      "tag": "standing_on_three_legs"
+    },
+    {
+      "phrase": "standing on three legs position",
+      "tag": "standing_on_three_legs"
+    },
+    {
+      "phrase": "standing on torii",
+      "tag": "standing_on_torii"
+    },
+    {
+      "phrase": "standing on torii position",
+      "tag": "standing_on_torii"
+    },
+    {
+      "phrase": "standing on weapon",
+      "tag": "standing_on_weapon"
+    },
+    {
+      "phrase": "standing on weapon position",
+      "tag": "standing_on_weapon"
+    },
+    {
+      "phrase": "standing restraints",
+      "tag": "standing_restraints"
+    },
+    {
+      "phrase": "standing restraints position",
+      "tag": "standing_restraints"
+    },
+    {
+      "phrase": "standing split",
+      "tag": "standing_split"
+    },
+    {
+      "phrase": "standing split position",
+      "tag": "standing_split"
+    },
+    {
+      "phrase": "standing up",
+      "tag": "standing_up"
+    },
+    {
+      "phrase": "standing up position",
+      "tag": "standing_up"
+    },
+    {
+      "phrase": "star in mouth",
+      "tag": "star_in_mouth"
+    },
+    {
+      "phrase": "star in mouth position",
+      "tag": "star_in_mouth"
+    },
+    {
+      "phrase": "steepled fingers",
+      "tag": "steepled_fingers"
+    },
+    {
+      "phrase": "steepled fingers position",
+      "tag": "steepled_fingers"
+    },
+    {
+      "phrase": "stethoscope between breasts",
+      "tag": "stethoscope_between_breasts"
+    },
+    {
+      "phrase": "stethoscope between breasts position",
+      "tag": "stethoscope_between_breasts"
+    },
+    {
+      "phrase": "straddling",
+      "tag": "straddling"
+    },
+    {
+      "phrase": "straddling position",
+      "tag": "straddling"
+    },
+    {
+      "phrase": "string in mouth",
+      "tag": "string_in_mouth"
+    },
+    {
+      "phrase": "string in mouth position",
+      "tag": "string_in_mouth"
+    },
+    {
+      "phrase": "stuck in a box",
+      "tag": "stuck_in_a_box"
+    },
+    {
+      "phrase": "stuck in a box position",
+      "tag": "stuck_in_a_box"
+    },
+    {
+      "phrase": "sunrise stance",
+      "tag": "sunrise_stance"
+    },
+    {
+      "phrase": "sunrise stance position",
+      "tag": "sunrise_stance"
+    },
+    {
+      "phrase": "superhero landing",
+      "tag": "superhero_landing"
+    },
+    {
+      "phrase": "superhero landing position",
+      "tag": "superhero_landing"
+    },
+    {
+      "phrase": "swaying hip",
+      "tag": "swaying_hip"
+    },
+    {
+      "phrase": "swaying hip position",
+      "tag": "swaying_hip"
+    },
+    {
+      "phrase": "swimsuit around one leg",
+      "tag": "swimsuit_around_one_leg"
+    },
+    {
+      "phrase": "swimsuit around one leg position",
+      "tag": "swimsuit_around_one_leg"
+    },
+    {
+      "phrase": "sword between breasts",
+      "tag": "sword_between_breasts"
+    },
+    {
+      "phrase": "sword between breasts position",
+      "tag": "sword_between_breasts"
+    },
+    {
+      "phrase": "sword between thighs",
+      "tag": "sword_between_thighs"
+    },
+    {
+      "phrase": "sword between thighs position",
+      "tag": "sword_between_thighs"
+    },
+    {
+      "phrase": "sword in mouth",
+      "tag": "sword_in_mouth"
+    },
+    {
+      "phrase": "sword in mouth position",
+      "tag": "sword_in_mouth"
+    },
+    {
+      "phrase": "sword on back",
+      "tag": "sword_on_back"
+    },
+    {
+      "phrase": "sword on back position",
+      "tag": "sword_on_back"
+    },
+    {
+      "phrase": "sword over shoulder",
+      "tag": "sword_over_shoulder"
+    },
+    {
+      "phrase": "sword over shoulder position",
+      "tag": "sword_over_shoulder"
+    },
+    {
+      "phrase": "in symmetrical hand pose",
+      "tag": "symmetrical_hand_pose"
+    },
+    {
+      "phrase": "symmetrical hand pose",
+      "tag": "symmetrical_hand_pose"
+    },
+    {
+      "phrase": "symmetrical hand pose stance",
+      "tag": "symmetrical_hand_pose"
+    },
+    {
+      "phrase": "in symmetrical pose",
+      "tag": "symmetrical_pose"
+    },
+    {
+      "phrase": "symmetrical pose",
+      "tag": "symmetrical_pose"
+    },
+    {
+      "phrase": "symmetrical pose stance",
+      "tag": "symmetrical_pose"
+    },
+    {
+      "phrase": "in t-pose",
+      "tag": "t-pose"
+    },
+    {
+      "phrase": "t-pose",
+      "tag": "t-pose"
+    },
+    {
+      "phrase": "t-pose stance",
+      "tag": "t-pose"
+    },
+    {
+      "phrase": "tail around arm",
+      "tag": "tail_around_arm"
+    },
+    {
+      "phrase": "tail around arm position",
+      "tag": "tail_around_arm"
+    },
+    {
+      "phrase": "tail around own leg",
+      "tag": "tail_around_own_leg"
+    },
+    {
+      "phrase": "tail around own leg position",
+      "tag": "tail_around_own_leg"
+    },
+    {
+      "phrase": "tail around own waist",
+      "tag": "tail_around_own_waist"
+    },
+    {
+      "phrase": "tail around own waist position",
+      "tag": "tail_around_own_waist"
+    },
+    {
+      "phrase": "tail between breasts",
+      "tag": "tail_between_breasts"
+    },
+    {
+      "phrase": "tail between breasts position",
+      "tag": "tail_between_breasts"
+    },
+    {
+      "phrase": "tail between legs",
+      "tag": "tail_between_legs"
+    },
+    {
+      "phrase": "tail between legs position",
+      "tag": "tail_between_legs"
+    },
+    {
+      "phrase": "tail in ass",
+      "tag": "tail_in_ass"
+    },
+    {
+      "phrase": "tail in ass position",
+      "tag": "tail_in_ass"
+    },
+    {
+      "phrase": "tail on face",
+      "tag": "tail_on_face"
+    },
+    {
+      "phrase": "tail on face position",
+      "tag": "tail_on_face"
+    },
+    {
+      "phrase": "tail support",
+      "tag": "tail_support"
+    },
+    {
+      "phrase": "tail support position",
+      "tag": "tail_support"
+    },
+    {
+      "phrase": "tail under clothes",
+      "tag": "tail_under_clothes"
+    },
+    {
+      "phrase": "tail under clothes position",
+      "tag": "tail_under_clothes"
+    },
+    {
+      "phrase": "tail wagging",
+      "tag": "tail_wagging"
+    },
+    {
+      "phrase": "tail wagging position",
+      "tag": "tail_wagging"
+    },
+    {
+      "phrase": "take it over",
+      "tag": "take_it_over_(love_live!)"
+    },
+    {
+      "phrase": "take it over position",
+      "tag": "take_it_over_(love_live!)"
+    },
+    {
+      "phrase": "tape on nipples",
+      "tag": "tape_on_nipples"
+    },
+    {
+      "phrase": "tape on nipples position",
+      "tag": "tape_on_nipples"
+    },
+    {
+      "phrase": "taped arms",
+      "tag": "taped_arms"
+    },
+    {
+      "phrase": "taped arms position",
+      "tag": "taped_arms"
+    },
+    {
+      "phrase": "tentacle between breasts",
+      "tag": "tentacle_between_breasts"
+    },
+    {
+      "phrase": "tentacle between breasts position",
+      "tag": "tentacle_between_breasts"
+    },
+    {
+      "phrase": "tentacle in mouth",
+      "tag": "tentacle_in_mouth"
+    },
+    {
+      "phrase": "tentacle in mouth position",
+      "tag": "tentacle_in_mouth"
+    },
+    {
+      "phrase": "thermometer in mouth",
+      "tag": "thermometer_in_mouth"
+    },
+    {
+      "phrase": "thermometer in mouth position",
+      "tag": "thermometer_in_mouth"
+    },
+    {
+      "phrase": "through ground",
+      "tag": "through_ground"
+    },
+    {
+      "phrase": "through ground position",
+      "tag": "through_ground"
+    },
+    {
+      "phrase": "thumb in beltline",
+      "tag": "thumb_in_beltline"
+    },
+    {
+      "phrase": "thumb in beltline position",
+      "tag": "thumb_in_beltline"
+    },
+    {
+      "phrase": "thumb in pocket",
+      "tag": "thumb_in_pocket"
+    },
+    {
+      "phrase": "thumb in pocket position",
+      "tag": "thumb_in_pocket"
+    },
+    {
+      "phrase": "thumbs down",
+      "tag": "thumbs_down"
+    },
+    {
+      "phrase": "thumbs down position",
+      "tag": "thumbs_down"
+    },
+    {
+      "phrase": "thumbs in pockets",
+      "tag": "thumbs_in_pockets"
+    },
+    {
+      "phrase": "thumbs in pockets position",
+      "tag": "thumbs_in_pockets"
+    },
+    {
+      "phrase": "thumbs up",
+      "tag": "thumbs_up"
+    },
+    {
+      "phrase": "thumbs up position",
+      "tag": "thumbs_up"
+    },
+    {
+      "phrase": "tied ears",
+      "tag": "tied_ears"
+    },
+    {
+      "phrase": "tied ears position",
+      "tag": "tied_ears"
+    },
+    {
+      "phrase": "tiptoes",
+      "tag": "tiptoes"
+    },
+    {
+      "phrase": "tiptoes position",
+      "tag": "tiptoes"
+    },
+    {
+      "phrase": "toast in mouth",
+      "tag": "toast_in_mouth"
+    },
+    {
+      "phrase": "toast in mouth position",
+      "tag": "toast_in_mouth"
+    },
+    {
+      "phrase": "toe scrunch",
+      "tag": "toe_scrunch"
+    },
+    {
+      "phrase": "toe scrunch position",
+      "tag": "toe_scrunch"
+    },
+    {
+      "phrase": "toes up",
+      "tag": "toes_up"
+    },
+    {
+      "phrase": "toes up position",
+      "tag": "toes_up"
+    },
+    {
+      "phrase": "tongue stuck frozen",
+      "tag": "tongue_stuck_frozen"
+    },
+    {
+      "phrase": "tongue stuck frozen position",
+      "tag": "tongue_stuck_frozen"
+    },
+    {
+      "phrase": "too many in mouth",
+      "tag": "too_many_in_mouth"
+    },
+    {
+      "phrase": "too many in mouth position",
+      "tag": "too_many_in_mouth"
+    },
+    {
+      "phrase": "toothbrush in mouth",
+      "tag": "toothbrush_in_mouth"
+    },
+    {
+      "phrase": "toothbrush in mouth position",
+      "tag": "toothbrush_in_mouth"
+    },
+    {
+      "phrase": "touching toes",
+      "tag": "touching_toes"
+    },
+    {
+      "phrase": "touching toes position",
+      "tag": "touching_toes"
+    },
+    {
+      "phrase": "towel around waist",
+      "tag": "towel_around_waist"
+    },
+    {
+      "phrase": "towel around waist position",
+      "tag": "towel_around_waist"
+    },
+    {
+      "phrase": "towel on arm",
+      "tag": "towel_on_arm"
+    },
+    {
+      "phrase": "towel on arm position",
+      "tag": "towel_on_arm"
+    },
+    {
+      "phrase": "towel on head",
+      "tag": "towel_on_head"
+    },
+    {
+      "phrase": "towel on head position",
+      "tag": "towel_on_head"
+    },
+    {
+      "phrase": "towel on legs",
+      "tag": "towel_on_legs"
+    },
+    {
+      "phrase": "towel on legs position",
+      "tag": "towel_on_legs"
+    },
+    {
+      "phrase": "towel on one shoulder",
+      "tag": "towel_on_one_shoulder"
+    },
+    {
+      "phrase": "towel on one shoulder position",
+      "tag": "towel_on_one_shoulder"
+    },
+    {
+      "phrase": "traffic cone on head",
+      "tag": "traffic_cone_on_head"
+    },
+    {
+      "phrase": "traffic cone on head position",
+      "tag": "traffic_cone_on_head"
+    },
+    {
+      "phrase": "turning head",
+      "tag": "turning_head"
+    },
+    {
+      "phrase": "turning head position",
+      "tag": "turning_head"
+    },
+    {
+      "phrase": "twisted torso",
+      "tag": "twisted_torso"
+    },
+    {
+      "phrase": "twisted torso position",
+      "tag": "twisted_torso"
+    },
+    {
+      "phrase": "two-finger salute",
+      "tag": "two-finger_salute"
+    },
+    {
+      "phrase": "two-finger salute position",
+      "tag": "two-finger_salute"
+    },
+    {
+      "phrase": "umbrella on arm",
+      "tag": "umbrella_on_arm"
+    },
+    {
+      "phrase": "umbrella on arm position",
+      "tag": "umbrella_on_arm"
+    },
+    {
+      "phrase": "umbrella over shoulder",
+      "tag": "umbrella_over_shoulder"
+    },
+    {
+      "phrase": "umbrella over shoulder position",
+      "tag": "umbrella_over_shoulder"
+    },
+    {
+      "phrase": "under covers",
+      "tag": "under_covers"
+    },
+    {
+      "phrase": "under covers position",
+      "tag": "under_covers"
+    },
+    {
+      "phrase": "under tree",
+      "tag": "under_tree"
+    },
+    {
+      "phrase": "under tree position",
+      "tag": "under_tree"
+    },
+    {
+      "phrase": "underwear around one leg",
+      "tag": "underwear_around_one_leg"
+    },
+    {
+      "phrase": "underwear around one leg position",
+      "tag": "underwear_around_one_leg"
+    },
+    {
+      "phrase": "unlit cigarette in mouth",
+      "tag": "unlit_cigarette_in_mouth"
+    },
+    {
+      "phrase": "unlit cigarette in mouth position",
+      "tag": "unlit_cigarette_in_mouth"
+    },
+    {
+      "phrase": "upside-down",
+      "tag": "upside-down"
+    },
+    {
+      "phrase": "upside-down position",
+      "tag": "upside-down"
+    },
+    {
+      "phrase": "utensil in mouth",
+      "tag": "utensil_in_mouth"
+    },
+    {
+      "phrase": "utensil in mouth position",
+      "tag": "utensil_in_mouth"
+    },
+    {
+      "phrase": "v arms",
+      "tag": "v_arms"
+    },
+    {
+      "phrase": "v arms position",
+      "tag": "v_arms"
+    },
+    {
+      "phrase": "v over eye",
+      "tag": "v_over_eye"
+    },
+    {
+      "phrase": "v over eye position",
+      "tag": "v_over_eye"
+    },
+    {
+      "phrase": "v over head",
+      "tag": "v_over_head"
+    },
+    {
+      "phrase": "v over head position",
+      "tag": "v_over_head"
+    },
+    {
+      "phrase": "v over mouth",
+      "tag": "v_over_mouth"
+    },
+    {
+      "phrase": "v over mouth position",
+      "tag": "v_over_mouth"
+    },
+    {
+      "phrase": "veil over one eye",
+      "tag": "veil_over_one_eye"
+    },
+    {
+      "phrase": "veil over one eye position",
+      "tag": "veil_over_one_eye"
+    },
+    {
+      "phrase": "vibrator on clitoris",
+      "tag": "vibrator_on_clitoris"
+    },
+    {
+      "phrase": "vibrator on clitoris position",
+      "tag": "vibrator_on_clitoris"
+    },
+    {
+      "phrase": "vibrator over clothes",
+      "tag": "vibrator_over_clothes"
+    },
+    {
+      "phrase": "vibrator over clothes position",
+      "tag": "vibrator_over_clothes"
+    },
+    {
+      "phrase": "in victory pose",
+      "tag": "victory_pose"
+    },
+    {
+      "phrase": "victory pose",
+      "tag": "victory_pose"
+    },
+    {
+      "phrase": "victory pose stance",
+      "tag": "victory_pose"
+    },
+    {
+      "phrase": "vitarka mudra",
+      "tag": "vitarka_mudra"
+    },
+    {
+      "phrase": "vitarka mudra position",
+      "tag": "vitarka_mudra"
+    },
+    {
+      "phrase": "in vocaloid boxart pose",
+      "tag": "vocaloid_boxart_pose"
+    },
+    {
+      "phrase": "vocaloid boxart pose",
+      "tag": "vocaloid_boxart_pose"
+    },
+    {
+      "phrase": "vocaloid boxart pose stance",
+      "tag": "vocaloid_boxart_pose"
+    },
+    {
+      "phrase": "vulcan salute",
+      "tag": "vulcan_salute"
+    },
+    {
+      "phrase": "vulcan salute position",
+      "tag": "vulcan_salute"
+    },
+    {
+      "phrase": "w",
+      "tag": "w"
+    },
+    {
+      "phrase": "w position",
+      "tag": "w"
+    },
+    {
+      "phrase": "w arms",
+      "tag": "w_arms"
+    },
+    {
+      "phrase": "w arms position",
+      "tag": "w_arms"
+    },
+    {
+      "phrase": "w over eye",
+      "tag": "w_over_eye"
+    },
+    {
+      "phrase": "w over eye position",
+      "tag": "w_over_eye"
+    },
+    {
+      "phrase": "w over head",
+      "tag": "w_over_head"
+    },
+    {
+      "phrase": "w over head position",
+      "tag": "w_over_head"
+    },
+    {
+      "phrase": "w over mouth",
+      "tag": "w_over_mouth"
+    },
+    {
+      "phrase": "w over mouth position",
+      "tag": "w_over_mouth"
+    },
+    {
+      "phrase": "waist hold",
+      "tag": "waist_hold"
+    },
+    {
+      "phrase": "waist hold position",
+      "tag": "waist_hold"
+    },
+    {
+      "phrase": "walking in line",
+      "tag": "walking_in_line"
+    },
+    {
+      "phrase": "walking in line position",
+      "tag": "walking_in_line"
+    },
+    {
+      "phrase": "wariza",
+      "tag": "wariza"
+    },
+    {
+      "phrase": "wariza position",
+      "tag": "wariza"
+    },
+    {
+      "phrase": "watermelon between thighs",
+      "tag": "watermelon_between_thighs"
+    },
+    {
+      "phrase": "watermelon between thighs position",
+      "tag": "watermelon_between_thighs"
+    },
+    {
+      "phrase": "waving arm",
+      "tag": "waving_arm"
+    },
+    {
+      "phrase": "waving arm position",
+      "tag": "waving_arm"
+    },
+    {
+      "phrase": "weapon across shoulders",
+      "tag": "weapon_across_shoulders"
+    },
+    {
+      "phrase": "weapon across shoulders position",
+      "tag": "weapon_across_shoulders"
+    },
+    {
+      "phrase": "weapon between buttocks",
+      "tag": "weapon_between_buttocks"
+    },
+    {
+      "phrase": "weapon between buttocks position",
+      "tag": "weapon_between_buttocks"
+    },
+    {
+      "phrase": "weapon between legs",
+      "tag": "weapon_between_legs"
+    },
+    {
+      "phrase": "weapon between legs position",
+      "tag": "weapon_between_legs"
+    },
+    {
+      "phrase": "weapon in mouth",
+      "tag": "weapon_in_mouth"
+    },
+    {
+      "phrase": "weapon in mouth position",
+      "tag": "weapon_in_mouth"
+    },
+    {
+      "phrase": "weapon on back",
+      "tag": "weapon_on_back"
+    },
+    {
+      "phrase": "weapon on back position",
+      "tag": "weapon_on_back"
+    },
+    {
+      "phrase": "weapon over shoulder",
+      "tag": "weapon_over_shoulder"
+    },
+    {
+      "phrase": "weapon over shoulder position",
+      "tag": "weapon_over_shoulder"
+    },
+    {
+      "phrase": "wide spread legs",
+      "tag": "wide_spread_legs"
+    },
+    {
+      "phrase": "wide spread legs position",
+      "tag": "wide_spread_legs"
+    },
+    {
+      "phrase": "wiping mouth",
+      "tag": "wiping_mouth"
+    },
+    {
+      "phrase": "wiping mouth position",
+      "tag": "wiping_mouth"
+    },
+    {
+      "phrase": "wrapped in blanket",
+      "tag": "wrapped_in_blanket"
+    },
+    {
+      "phrase": "wrapped in blanket position",
+      "tag": "wrapped_in_blanket"
+    },
+    {
+      "phrase": "wrists extended",
+      "tag": "wrists_extended"
+    },
+    {
+      "phrase": "wrists extended position",
+      "tag": "wrists_extended"
+    },
+    {
+      "phrase": "x fingers",
+      "tag": "x_fingers"
+    },
+    {
+      "phrase": "x fingers position",
+      "tag": "x_fingers"
+    },
+    {
+      "phrase": "yokozuwari",
+      "tag": "yokozuwari"
+    },
+    {
+      "phrase": "yokozuwari position",
+      "tag": "yokozuwari"
+    },
+    {
+      "phrase": "in yotsubato! pose",
+      "tag": "yotsubato!_pose"
+    },
+    {
+      "phrase": "yotsubato! pose",
+      "tag": "yotsubato!_pose"
+    },
+    {
+      "phrase": "yotsubato! pose stance",
+      "tag": "yotsubato!_pose"
+    },
+    {
+      "phrase": "in z-move trainer pose",
+      "tag": "z-move_trainer_pose"
+    },
+    {
+      "phrase": "z-move trainer pose",
+      "tag": "z-move_trainer_pose"
+    },
+    {
+      "phrase": "z-move trainer pose stance",
+      "tag": "z-move_trainer_pose"
+    },
+    {
+      "phrase": "in zombie pose",
+      "tag": "zombie_pose"
+    },
+    {
+      "phrase": "zombie pose",
+      "tag": "zombie_pose"
+    },
+    {
+      "phrase": "zombie pose stance",
+      "tag": "zombie_pose"
+    }
+  ]
+}

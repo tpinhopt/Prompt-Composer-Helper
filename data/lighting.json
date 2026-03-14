@@ -1,0 +1,872 @@
+{
+  "items": [
+    {
+      "phrase": "ambient soft glow",
+      "tag": "ambient_soft_glow"
+    },
+    {
+      "phrase": "ambient soft glow lighting",
+      "tag": "ambient_soft_glow"
+    },
+    {
+      "phrase": "with ambient soft glow",
+      "tag": "ambient_soft_glow"
+    },
+    {
+      "phrase": "backlighting",
+      "tag": "backlighting"
+    },
+    {
+      "phrase": "backlighting lighting",
+      "tag": "backlighting"
+    },
+    {
+      "phrase": "with backlighting",
+      "tag": "backlighting"
+    },
+    {
+      "phrase": "bioluminescence",
+      "tag": "bioluminescence"
+    },
+    {
+      "phrase": "bioluminescence lighting",
+      "tag": "bioluminescence"
+    },
+    {
+      "phrase": "with bioluminescence",
+      "tag": "bioluminescence"
+    },
+    {
+      "phrase": "blue light",
+      "tag": "blue_light"
+    },
+    {
+      "phrase": "blue light lighting",
+      "tag": "blue_light"
+    },
+    {
+      "phrase": "with blue light",
+      "tag": "blue_light"
+    },
+    {
+      "phrase": "candlelight",
+      "tag": "candlelight"
+    },
+    {
+      "phrase": "candlelight lighting",
+      "tag": "candlelight"
+    },
+    {
+      "phrase": "with candlelight",
+      "tag": "candlelight"
+    },
+    {
+      "phrase": "caustics",
+      "tag": "caustics"
+    },
+    {
+      "phrase": "caustics lighting",
+      "tag": "caustics"
+    },
+    {
+      "phrase": "with caustics",
+      "tag": "caustics"
+    },
+    {
+      "phrase": "ceiling light",
+      "tag": "ceiling_light"
+    },
+    {
+      "phrase": "ceiling light lighting",
+      "tag": "ceiling_light"
+    },
+    {
+      "phrase": "with ceiling light",
+      "tag": "ceiling_light"
+    },
+    {
+      "phrase": "colored shadow",
+      "tag": "colored_shadow"
+    },
+    {
+      "phrase": "colored shadow lighting",
+      "tag": "colored_shadow"
+    },
+    {
+      "phrase": "with colored shadow",
+      "tag": "colored_shadow"
+    },
+    {
+      "phrase": "crack of light",
+      "tag": "crack_of_light"
+    },
+    {
+      "phrase": "crack of light lighting",
+      "tag": "crack_of_light"
+    },
+    {
+      "phrase": "with crack of light",
+      "tag": "crack_of_light"
+    },
+    {
+      "phrase": "dappled sunlight",
+      "tag": "dappled_sunlight"
+    },
+    {
+      "phrase": "dappled sunlight lighting",
+      "tag": "dappled_sunlight"
+    },
+    {
+      "phrase": "with dappled sunlight",
+      "tag": "dappled_sunlight"
+    },
+    {
+      "phrase": "darkness",
+      "tag": "darkness"
+    },
+    {
+      "phrase": "darkness lighting",
+      "tag": "darkness"
+    },
+    {
+      "phrase": "with darkness",
+      "tag": "darkness"
+    },
+    {
+      "phrase": "different shadow",
+      "tag": "different_shadow"
+    },
+    {
+      "phrase": "different shadow lighting",
+      "tag": "different_shadow"
+    },
+    {
+      "phrase": "with different shadow",
+      "tag": "different_shadow"
+    },
+    {
+      "phrase": "diffused sunset hue",
+      "tag": "diffused_sunset_hue"
+    },
+    {
+      "phrase": "diffused sunset hue lighting",
+      "tag": "diffused_sunset_hue"
+    },
+    {
+      "phrase": "with diffused sunset hue",
+      "tag": "diffused_sunset_hue"
+    },
+    {
+      "phrase": "dim lighting",
+      "tag": "dim_lighting"
+    },
+    {
+      "phrase": "dim lighting lighting",
+      "tag": "dim_lighting"
+    },
+    {
+      "phrase": "with dim lighting",
+      "tag": "dim_lighting"
+    },
+    {
+      "phrase": "drop shadow",
+      "tag": "drop_shadow"
+    },
+    {
+      "phrase": "drop shadow lighting",
+      "tag": "drop_shadow"
+    },
+    {
+      "phrase": "with drop shadow",
+      "tag": "drop_shadow"
+    },
+    {
+      "phrase": "eyed shadow",
+      "tag": "eyed_shadow"
+    },
+    {
+      "phrase": "eyed shadow lighting",
+      "tag": "eyed_shadow"
+    },
+    {
+      "phrase": "with eyed shadow",
+      "tag": "eyed_shadow"
+    },
+    {
+      "phrase": "eyes in shadow",
+      "tag": "eyes_in_shadow"
+    },
+    {
+      "phrase": "eyes in shadow lighting",
+      "tag": "eyes_in_shadow"
+    },
+    {
+      "phrase": "with eyes in shadow",
+      "tag": "eyes_in_shadow"
+    },
+    {
+      "phrase": "face in shadow",
+      "tag": "face_in_shadow"
+    },
+    {
+      "phrase": "face in shadow lighting",
+      "tag": "face_in_shadow"
+    },
+    {
+      "phrase": "with face in shadow",
+      "tag": "face_in_shadow"
+    },
+    {
+      "phrase": "flashing light",
+      "tag": "flashing_light"
+    },
+    {
+      "phrase": "flashing light lighting",
+      "tag": "flashing_light"
+    },
+    {
+      "phrase": "with flashing light",
+      "tag": "flashing_light"
+    },
+    {
+      "phrase": "fluorescent lamp",
+      "tag": "fluorescent_lamp"
+    },
+    {
+      "phrase": "fluorescent lamp lighting",
+      "tag": "fluorescent_lamp"
+    },
+    {
+      "phrase": "with fluorescent lamp",
+      "tag": "fluorescent_lamp"
+    },
+    {
+      "phrase": "green light",
+      "tag": "green_light"
+    },
+    {
+      "phrase": "green light lighting",
+      "tag": "green_light"
+    },
+    {
+      "phrase": "with green light",
+      "tag": "green_light"
+    },
+    {
+      "phrase": "hanging light",
+      "tag": "hanging_light"
+    },
+    {
+      "phrase": "hanging light lighting",
+      "tag": "hanging_light"
+    },
+    {
+      "phrase": "with hanging light",
+      "tag": "hanging_light"
+    },
+    {
+      "phrase": "heavy lens flare",
+      "tag": "heavy_lens_flare"
+    },
+    {
+      "phrase": "heavy lens flare lighting",
+      "tag": "heavy_lens_flare"
+    },
+    {
+      "phrase": "with heavy lens flare",
+      "tag": "heavy_lens_flare"
+    },
+    {
+      "phrase": "in shadow",
+      "tag": "in_shadow"
+    },
+    {
+      "phrase": "in shadow lighting",
+      "tag": "in_shadow"
+    },
+    {
+      "phrase": "with in shadow",
+      "tag": "in_shadow"
+    },
+    {
+      "phrase": "intricate",
+      "tag": "intricate"
+    },
+    {
+      "phrase": "intricate lighting",
+      "tag": "intricate"
+    },
+    {
+      "phrase": "with intricate",
+      "tag": "intricate"
+    },
+    {
+      "phrase": "lambent light",
+      "tag": "lambent_light"
+    },
+    {
+      "phrase": "lambent light lighting",
+      "tag": "lambent_light"
+    },
+    {
+      "phrase": "with lambent light",
+      "tag": "lambent_light"
+    },
+    {
+      "phrase": "light areolae",
+      "tag": "light_areolae"
+    },
+    {
+      "phrase": "light areolae lighting",
+      "tag": "light_areolae"
+    },
+    {
+      "phrase": "with light areolae",
+      "tag": "light_areolae"
+    },
+    {
+      "phrase": "light particles",
+      "tag": "light_particles"
+    },
+    {
+      "phrase": "light particles lighting",
+      "tag": "light_particles"
+    },
+    {
+      "phrase": "with light particles",
+      "tag": "light_particles"
+    },
+    {
+      "phrase": "light rays",
+      "tag": "light_rays"
+    },
+    {
+      "phrase": "light rays lighting",
+      "tag": "light_rays"
+    },
+    {
+      "phrase": "with light rays",
+      "tag": "light_rays"
+    },
+    {
+      "phrase": "light reflection",
+      "tag": "light_reflection_(water)"
+    },
+    {
+      "phrase": "light reflection lighting",
+      "tag": "light_reflection_(water)"
+    },
+    {
+      "phrase": "light reflection water",
+      "tag": "light_reflection_(water)"
+    },
+    {
+      "phrase": "with light reflection",
+      "tag": "light_reflection_(water)"
+    },
+    {
+      "phrase": "light trail",
+      "tag": "light_trail"
+    },
+    {
+      "phrase": "light trail lighting",
+      "tag": "light_trail"
+    },
+    {
+      "phrase": "with light trail",
+      "tag": "light_trail"
+    },
+    {
+      "phrase": "lightning glare",
+      "tag": "lightning_glare"
+    },
+    {
+      "phrase": "lightning glare lighting",
+      "tag": "lightning_glare"
+    },
+    {
+      "phrase": "with lightning glare",
+      "tag": "lightning_glare"
+    },
+    {
+      "phrase": "living shadow",
+      "tag": "living_shadow"
+    },
+    {
+      "phrase": "living shadow lighting",
+      "tag": "living_shadow"
+    },
+    {
+      "phrase": "with living shadow",
+      "tag": "living_shadow"
+    },
+    {
+      "phrase": "long shadow",
+      "tag": "long_shadow"
+    },
+    {
+      "phrase": "long shadow lighting",
+      "tag": "long_shadow"
+    },
+    {
+      "phrase": "with long shadow",
+      "tag": "long_shadow"
+    },
+    {
+      "phrase": "luminous glow",
+      "tag": "luminous_glow"
+    },
+    {
+      "phrase": "luminous glow lighting",
+      "tag": "luminous_glow"
+    },
+    {
+      "phrase": "with luminous glow",
+      "tag": "luminous_glow"
+    },
+    {
+      "phrase": "moonlight",
+      "tag": "moonlight"
+    },
+    {
+      "phrase": "moonlight lighting",
+      "tag": "moonlight"
+    },
+    {
+      "phrase": "with moonlight",
+      "tag": "moonlight"
+    },
+    {
+      "phrase": "neon lights",
+      "tag": "neon_lights"
+    },
+    {
+      "phrase": "neon lights lighting",
+      "tag": "neon_lights"
+    },
+    {
+      "phrase": "with neon lights",
+      "tag": "neon_lights"
+    },
+    {
+      "phrase": "neon palette",
+      "tag": "neon_palette"
+    },
+    {
+      "phrase": "neon palette lighting",
+      "tag": "neon_palette"
+    },
+    {
+      "phrase": "with neon palette",
+      "tag": "neon_palette"
+    },
+    {
+      "phrase": "neon sign",
+      "tag": "neon_sign"
+    },
+    {
+      "phrase": "neon sign lighting",
+      "tag": "neon_sign"
+    },
+    {
+      "phrase": "with neon sign",
+      "tag": "neon_sign"
+    },
+    {
+      "phrase": "neon trim",
+      "tag": "neon_trim"
+    },
+    {
+      "phrase": "neon trim lighting",
+      "tag": "neon_trim"
+    },
+    {
+      "phrase": "with neon trim",
+      "tag": "neon_trim"
+    },
+    {
+      "phrase": "night light",
+      "tag": "night_light"
+    },
+    {
+      "phrase": "night light lighting",
+      "tag": "night_light"
+    },
+    {
+      "phrase": "with night light",
+      "tag": "night_light"
+    },
+    {
+      "phrase": "non-circular lens flare",
+      "tag": "non-circular_lens_flare"
+    },
+    {
+      "phrase": "non-circular lens flare lighting",
+      "tag": "non-circular_lens_flare"
+    },
+    {
+      "phrase": "with non-circular lens flare",
+      "tag": "non-circular_lens_flare"
+    },
+    {
+      "phrase": "ominous shadow",
+      "tag": "ominous_shadow"
+    },
+    {
+      "phrase": "ominous shadow lighting",
+      "tag": "ominous_shadow"
+    },
+    {
+      "phrase": "with ominous shadow",
+      "tag": "ominous_shadow"
+    },
+    {
+      "phrase": "orange light",
+      "tag": "orange_light"
+    },
+    {
+      "phrase": "orange light lighting",
+      "tag": "orange_light"
+    },
+    {
+      "phrase": "with orange light",
+      "tag": "orange_light"
+    },
+    {
+      "phrase": "outer glow",
+      "tag": "outer_glow"
+    },
+    {
+      "phrase": "outer glow lighting",
+      "tag": "outer_glow"
+    },
+    {
+      "phrase": "with outer glow",
+      "tag": "outer_glow"
+    },
+    {
+      "phrase": "overcast",
+      "tag": "overcast"
+    },
+    {
+      "phrase": "overcast lighting",
+      "tag": "overcast"
+    },
+    {
+      "phrase": "with overcast",
+      "tag": "overcast"
+    },
+    {
+      "phrase": "partially shaded face",
+      "tag": "partially_shaded_face"
+    },
+    {
+      "phrase": "partially shaded face lighting",
+      "tag": "partially_shaded_face"
+    },
+    {
+      "phrase": "with partially shaded face",
+      "tag": "partially_shaded_face"
+    },
+    {
+      "phrase": "pillar of light",
+      "tag": "pillar_of_light"
+    },
+    {
+      "phrase": "pillar of light lighting",
+      "tag": "pillar_of_light"
+    },
+    {
+      "phrase": "with pillar of light",
+      "tag": "pillar_of_light"
+    },
+    {
+      "phrase": "pink light",
+      "tag": "pink_light"
+    },
+    {
+      "phrase": "pink light lighting",
+      "tag": "pink_light"
+    },
+    {
+      "phrase": "with pink light",
+      "tag": "pink_light"
+    },
+    {
+      "phrase": "polka dot shadow",
+      "tag": "polka_dot_shadow"
+    },
+    {
+      "phrase": "polka dot shadow lighting",
+      "tag": "polka_dot_shadow"
+    },
+    {
+      "phrase": "with polka dot shadow",
+      "tag": "polka_dot_shadow"
+    },
+    {
+      "phrase": "pov shadow",
+      "tag": "pov_shadow"
+    },
+    {
+      "phrase": "pov shadow lighting",
+      "tag": "pov_shadow"
+    },
+    {
+      "phrase": "with pov shadow",
+      "tag": "pov_shadow"
+    },
+    {
+      "phrase": "purple light",
+      "tag": "purple_light"
+    },
+    {
+      "phrase": "purple light lighting",
+      "tag": "purple_light"
+    },
+    {
+      "phrase": "with purple light",
+      "tag": "purple_light"
+    },
+    {
+      "phrase": "radiant light",
+      "tag": "radiant_light"
+    },
+    {
+      "phrase": "radiant light lighting",
+      "tag": "radiant_light"
+    },
+    {
+      "phrase": "with radiant light",
+      "tag": "radiant_light"
+    },
+    {
+      "phrase": "red light",
+      "tag": "red_light"
+    },
+    {
+      "phrase": "red light lighting",
+      "tag": "red_light"
+    },
+    {
+      "phrase": "with red light",
+      "tag": "red_light"
+    },
+    {
+      "phrase": "refraction",
+      "tag": "refraction"
+    },
+    {
+      "phrase": "refraction lighting",
+      "tag": "refraction"
+    },
+    {
+      "phrase": "with refraction",
+      "tag": "refraction"
+    },
+    {
+      "phrase": "ring light",
+      "tag": "ring_light"
+    },
+    {
+      "phrase": "ring light lighting",
+      "tag": "ring_light"
+    },
+    {
+      "phrase": "with ring light",
+      "tag": "ring_light"
+    },
+    {
+      "phrase": "ring light reflection",
+      "tag": "ring_light_reflection"
+    },
+    {
+      "phrase": "ring light reflection lighting",
+      "tag": "ring_light_reflection"
+    },
+    {
+      "phrase": "with ring light reflection",
+      "tag": "ring_light_reflection"
+    },
+    {
+      "phrase": "rotating light",
+      "tag": "rotating_light"
+    },
+    {
+      "phrase": "rotating light lighting",
+      "tag": "rotating_light"
+    },
+    {
+      "phrase": "with rotating light",
+      "tag": "rotating_light"
+    },
+    {
+      "phrase": "screen light",
+      "tag": "screen_light"
+    },
+    {
+      "phrase": "screen light lighting",
+      "tag": "screen_light"
+    },
+    {
+      "phrase": "with screen light",
+      "tag": "screen_light"
+    },
+    {
+      "phrase": "shadow",
+      "tag": "shadow"
+    },
+    {
+      "phrase": "shadow lighting",
+      "tag": "shadow"
+    },
+    {
+      "phrase": "with shadow",
+      "tag": "shadow"
+    },
+    {
+      "phrase": "sharp neon streaks",
+      "tag": "sharp_neon_streaks"
+    },
+    {
+      "phrase": "sharp neon streaks lighting",
+      "tag": "sharp_neon_streaks"
+    },
+    {
+      "phrase": "with sharp neon streaks",
+      "tag": "sharp_neon_streaks"
+    },
+    {
+      "phrase": "sidelighting",
+      "tag": "sidelighting"
+    },
+    {
+      "phrase": "sidelighting lighting",
+      "tag": "sidelighting"
+    },
+    {
+      "phrase": "with sidelighting",
+      "tag": "sidelighting"
+    },
+    {
+      "phrase": "spotlight",
+      "tag": "spotlight"
+    },
+    {
+      "phrase": "spotlight lighting",
+      "tag": "spotlight"
+    },
+    {
+      "phrase": "with spotlight",
+      "tag": "spotlight"
+    },
+    {
+      "phrase": "stage lights",
+      "tag": "stage_lights"
+    },
+    {
+      "phrase": "stage lights lighting",
+      "tag": "stage_lights"
+    },
+    {
+      "phrase": "with stage lights",
+      "tag": "stage_lights"
+    },
+    {
+      "phrase": "sun glare",
+      "tag": "sun_glare"
+    },
+    {
+      "phrase": "sun glare lighting",
+      "tag": "sun_glare"
+    },
+    {
+      "phrase": "with sun glare",
+      "tag": "sun_glare"
+    },
+    {
+      "phrase": "sunlight",
+      "tag": "sunlight"
+    },
+    {
+      "phrase": "sunlight lighting",
+      "tag": "sunlight"
+    },
+    {
+      "phrase": "with sunlight",
+      "tag": "sunlight"
+    },
+    {
+      "phrase": "surgical light",
+      "tag": "surgical_light"
+    },
+    {
+      "phrase": "surgical light lighting",
+      "tag": "surgical_light"
+    },
+    {
+      "phrase": "with surgical light",
+      "tag": "surgical_light"
+    },
+    {
+      "phrase": "ultraviolet light",
+      "tag": "ultraviolet_light"
+    },
+    {
+      "phrase": "ultraviolet light lighting",
+      "tag": "ultraviolet_light"
+    },
+    {
+      "phrase": "with ultraviolet light",
+      "tag": "ultraviolet_light"
+    },
+    {
+      "phrase": "underlighting",
+      "tag": "underlighting"
+    },
+    {
+      "phrase": "underlighting lighting",
+      "tag": "underlighting"
+    },
+    {
+      "phrase": "with underlighting",
+      "tag": "underlighting"
+    },
+    {
+      "phrase": "vignetting",
+      "tag": "vignetting"
+    },
+    {
+      "phrase": "vignetting lighting",
+      "tag": "vignetting"
+    },
+    {
+      "phrase": "with vignetting",
+      "tag": "vignetting"
+    },
+    {
+      "phrase": "window light",
+      "tag": "window_light"
+    },
+    {
+      "phrase": "window light lighting",
+      "tag": "window_light"
+    },
+    {
+      "phrase": "with window light",
+      "tag": "window_light"
+    },
+    {
+      "phrase": "with yellow light",
+      "tag": "yellow_light"
+    },
+    {
+      "phrase": "yellow light",
+      "tag": "yellow_light"
+    },
+    {
+      "phrase": "yellow light lighting",
+      "tag": "yellow_light"
+    }
+  ]
+}

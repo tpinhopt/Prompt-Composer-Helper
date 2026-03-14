@@ -1,0 +1,4692 @@
+{
+  "items": [
+    {
+      "phrase": "3d",
+      "tag": "3d"
+    },
+    {
+      "phrase": "showing 3d",
+      "tag": "3d"
+    },
+    {
+      "phrase": "with 3d",
+      "tag": "3d"
+    },
+    {
+      "phrase": "abandoned",
+      "tag": "Abandoned"
+    },
+    {
+      "phrase": "showing abandoned",
+      "tag": "Abandoned"
+    },
+    {
+      "phrase": "with abandoned",
+      "tag": "Abandoned"
+    },
+    {
+      "phrase": "abbreviated karakusa",
+      "tag": "abbreviated_karakusa"
+    },
+    {
+      "phrase": "abbreviated karakusa detail",
+      "tag": "abbreviated_karakusa"
+    },
+    {
+      "phrase": "with abbreviated karakusa",
+      "tag": "abbreviated_karakusa"
+    },
+    {
+      "phrase": "aerial fireworks",
+      "tag": "aerial_fireworks"
+    },
+    {
+      "phrase": "aerial fireworks detail",
+      "tag": "aerial_fireworks"
+    },
+    {
+      "phrase": "with aerial fireworks",
+      "tag": "aerial_fireworks"
+    },
+    {
+      "phrase": "afterimage",
+      "tag": "afterimage"
+    },
+    {
+      "phrase": "showing afterimage",
+      "tag": "afterimage"
+    },
+    {
+      "phrase": "with afterimage",
+      "tag": "afterimage"
+    },
+    {
+      "phrase": "ai ai gasa",
+      "tag": "ai_ai_gasa"
+    },
+    {
+      "phrase": "ai ai gasa detail",
+      "tag": "ai_ai_gasa"
+    },
+    {
+      "phrase": "with ai ai gasa",
+      "tag": "ai_ai_gasa"
+    },
+    {
+      "phrase": "alternate color",
+      "tag": "alternate_color"
+    },
+    {
+      "phrase": "alternate color detail",
+      "tag": "alternate_color"
+    },
+    {
+      "phrase": "with alternate color",
+      "tag": "alternate_color"
+    },
+    {
+      "phrase": "amesuku gyaru",
+      "tag": "amesuku_gyaru"
+    },
+    {
+      "phrase": "amesuku gyaru detail",
+      "tag": "amesuku_gyaru"
+    },
+    {
+      "phrase": "with amesuku gyaru",
+      "tag": "amesuku_gyaru"
+    },
+    {
+      "phrase": "analogous colors",
+      "tag": "analogous_colors"
+    },
+    {
+      "phrase": "analogous colors detail",
+      "tag": "analogous_colors"
+    },
+    {
+      "phrase": "with analogous colors",
+      "tag": "analogous_colors"
+    },
+    {
+      "phrase": "anchor symbol",
+      "tag": "anchor_symbol"
+    },
+    {
+      "phrase": "anchor symbol detail",
+      "tag": "anchor_symbol"
+    },
+    {
+      "phrase": "with anchor symbol",
+      "tag": "anchor_symbol"
+    },
+    {
+      "phrase": "aoki ume",
+      "tag": "aoki_ume_(style)"
+    },
+    {
+      "phrase": "aoki ume detail",
+      "tag": "aoki_ume_(style)"
+    },
+    {
+      "phrase": "aoki ume style",
+      "tag": "aoki_ume_(style)"
+    },
+    {
+      "phrase": "with aoki ume",
+      "tag": "aoki_ume_(style)"
+    },
+    {
+      "phrase": "aqua feathers",
+      "tag": "aqua_feathers"
+    },
+    {
+      "phrase": "aqua feathers detail",
+      "tag": "aqua_feathers"
+    },
+    {
+      "phrase": "with aqua feathers",
+      "tag": "aqua_feathers"
+    },
+    {
+      "phrase": "aqua outline",
+      "tag": "aqua_outline"
+    },
+    {
+      "phrase": "aqua outline detail",
+      "tag": "aqua_outline"
+    },
+    {
+      "phrase": "with aqua outline",
+      "tag": "aqua_outline"
+    },
+    {
+      "phrase": "aqua theme",
+      "tag": "aqua_theme"
+    },
+    {
+      "phrase": "aqua theme detail",
+      "tag": "aqua_theme"
+    },
+    {
+      "phrase": "with aqua theme",
+      "tag": "aqua_theme"
+    },
+    {
+      "phrase": "araki hirohiko",
+      "tag": "araki_hirohiko_(style)"
+    },
+    {
+      "phrase": "araki hirohiko detail",
+      "tag": "araki_hirohiko_(style)"
+    },
+    {
+      "phrase": "araki hirohiko style",
+      "tag": "araki_hirohiko_(style)"
+    },
+    {
+      "phrase": "with araki hirohiko",
+      "tag": "araki_hirohiko_(style)"
+    },
+    {
+      "phrase": "arawi keiichi",
+      "tag": "arawi_keiichi_(style)"
+    },
+    {
+      "phrase": "arawi keiichi detail",
+      "tag": "arawi_keiichi_(style)"
+    },
+    {
+      "phrase": "arawi keiichi style",
+      "tag": "arawi_keiichi_(style)"
+    },
+    {
+      "phrase": "with arawi keiichi",
+      "tag": "arawi_keiichi_(style)"
+    },
+    {
+      "phrase": "architecture",
+      "tag": "architecture"
+    },
+    {
+      "phrase": "showing architecture",
+      "tag": "architecture"
+    },
+    {
+      "phrase": "with architecture",
+      "tag": "architecture"
+    },
+    {
+      "phrase": "art nouveau",
+      "tag": "art_nouveau"
+    },
+    {
+      "phrase": "art nouveau detail",
+      "tag": "art_nouveau"
+    },
+    {
+      "phrase": "with art nouveau",
+      "tag": "art_nouveau"
+    },
+    {
+      "phrase": "asa no ha",
+      "tag": "asa_no_ha_(pattern)"
+    },
+    {
+      "phrase": "asa no ha detail",
+      "tag": "asa_no_ha_(pattern)"
+    },
+    {
+      "phrase": "asa no ha pattern",
+      "tag": "asa_no_ha_(pattern)"
+    },
+    {
+      "phrase": "with asa no ha",
+      "tag": "asa_no_ha_(pattern)"
+    },
+    {
+      "phrase": "atmospheric perspective",
+      "tag": "atmospheric_perspective"
+    },
+    {
+      "phrase": "atmospheric perspective detail",
+      "tag": "atmospheric_perspective"
+    },
+    {
+      "phrase": "with atmospheric perspective",
+      "tag": "atmospheric_perspective"
+    },
+    {
+      "phrase": "attack trail",
+      "tag": "attack_trail"
+    },
+    {
+      "phrase": "attack trail detail",
+      "tag": "attack_trail"
+    },
+    {
+      "phrase": "with attack trail",
+      "tag": "attack_trail"
+    },
+    {
+      "phrase": "aura",
+      "tag": "aura"
+    },
+    {
+      "phrase": "showing aura",
+      "tag": "aura"
+    },
+    {
+      "phrase": "with aura",
+      "tag": "aura"
+    },
+    {
+      "phrase": "bikkuriman",
+      "tag": "bikkuriman_(style)"
+    },
+    {
+      "phrase": "bikkuriman style",
+      "tag": "bikkuriman_(style)"
+    },
+    {
+      "phrase": "showing bikkuriman",
+      "tag": "bikkuriman_(style)"
+    },
+    {
+      "phrase": "with bikkuriman",
+      "tag": "bikkuriman_(style)"
+    },
+    {
+      "phrase": "bishie sparkle",
+      "tag": "bishie_sparkle"
+    },
+    {
+      "phrase": "bishie sparkle detail",
+      "tag": "bishie_sparkle"
+    },
+    {
+      "phrase": "with bishie sparkle",
+      "tag": "bishie_sparkle"
+    },
+    {
+      "phrase": "bkub",
+      "tag": "bkub_(style)"
+    },
+    {
+      "phrase": "bkub style",
+      "tag": "bkub_(style)"
+    },
+    {
+      "phrase": "showing bkub",
+      "tag": "bkub_(style)"
+    },
+    {
+      "phrase": "with bkub",
+      "tag": "bkub_(style)"
+    },
+    {
+      "phrase": "black feathers",
+      "tag": "black_feathers"
+    },
+    {
+      "phrase": "black feathers detail",
+      "tag": "black_feathers"
+    },
+    {
+      "phrase": "with black feathers",
+      "tag": "black_feathers"
+    },
+    {
+      "phrase": "black fire",
+      "tag": "black_fire"
+    },
+    {
+      "phrase": "black fire detail",
+      "tag": "black_fire"
+    },
+    {
+      "phrase": "with black fire",
+      "tag": "black_fire"
+    },
+    {
+      "phrase": "black petals",
+      "tag": "black_petals"
+    },
+    {
+      "phrase": "black petals detail",
+      "tag": "black_petals"
+    },
+    {
+      "phrase": "with black petals",
+      "tag": "black_petals"
+    },
+    {
+      "phrase": "black smoke",
+      "tag": "black_smoke"
+    },
+    {
+      "phrase": "black smoke detail",
+      "tag": "black_smoke"
+    },
+    {
+      "phrase": "with black smoke",
+      "tag": "black_smoke"
+    },
+    {
+      "phrase": "black theme",
+      "tag": "black_theme"
+    },
+    {
+      "phrase": "black theme detail",
+      "tag": "black_theme"
+    },
+    {
+      "phrase": "with black theme",
+      "tag": "black_theme"
+    },
+    {
+      "phrase": "blue feathers",
+      "tag": "blue_feathers"
+    },
+    {
+      "phrase": "blue feathers detail",
+      "tag": "blue_feathers"
+    },
+    {
+      "phrase": "with blue feathers",
+      "tag": "blue_feathers"
+    },
+    {
+      "phrase": "blue fire",
+      "tag": "blue_fire"
+    },
+    {
+      "phrase": "blue fire detail",
+      "tag": "blue_fire"
+    },
+    {
+      "phrase": "with blue fire",
+      "tag": "blue_fire"
+    },
+    {
+      "phrase": "blue petals",
+      "tag": "blue_petals"
+    },
+    {
+      "phrase": "blue petals detail",
+      "tag": "blue_petals"
+    },
+    {
+      "phrase": "with blue petals",
+      "tag": "blue_petals"
+    },
+    {
+      "phrase": "bokeh",
+      "tag": "bokeh"
+    },
+    {
+      "phrase": "showing bokeh",
+      "tag": "bokeh"
+    },
+    {
+      "phrase": "with bokeh",
+      "tag": "bokeh"
+    },
+    {
+      "phrase": "brown feathers",
+      "tag": "brown_feathers"
+    },
+    {
+      "phrase": "brown feathers detail",
+      "tag": "brown_feathers"
+    },
+    {
+      "phrase": "with brown feathers",
+      "tag": "brown_feathers"
+    },
+    {
+      "phrase": "brown outline",
+      "tag": "brown_outline"
+    },
+    {
+      "phrase": "brown outline detail",
+      "tag": "brown_outline"
+    },
+    {
+      "phrase": "with brown outline",
+      "tag": "brown_outline"
+    },
+    {
+      "phrase": "brown theme",
+      "tag": "brown_theme"
+    },
+    {
+      "phrase": "brown theme detail",
+      "tag": "brown_theme"
+    },
+    {
+      "phrase": "with brown theme",
+      "tag": "brown_theme"
+    },
+    {
+      "phrase": "brush stroke",
+      "tag": "brush_stroke"
+    },
+    {
+      "phrase": "brush stroke detail",
+      "tag": "brush_stroke"
+    },
+    {
+      "phrase": "with brush stroke",
+      "tag": "brush_stroke"
+    },
+    {
+      "phrase": "bush",
+      "tag": "bush"
+    },
+    {
+      "phrase": "showing bush",
+      "tag": "bush"
+    },
+    {
+      "phrase": "with bush",
+      "tag": "bush"
+    },
+    {
+      "phrase": "calico",
+      "tag": "calico_(pattern)"
+    },
+    {
+      "phrase": "calico pattern",
+      "tag": "calico_(pattern)"
+    },
+    {
+      "phrase": "showing calico",
+      "tag": "calico_(pattern)"
+    },
+    {
+      "phrase": "with calico",
+      "tag": "calico_(pattern)"
+    },
+    {
+      "phrase": "canvas texture",
+      "tag": "canvas_texture"
+    },
+    {
+      "phrase": "canvas texture detail",
+      "tag": "canvas_texture"
+    },
+    {
+      "phrase": "with canvas texture",
+      "tag": "canvas_texture"
+    },
+    {
+      "phrase": "caramel",
+      "tag": "caramel"
+    },
+    {
+      "phrase": "showing caramel",
+      "tag": "caramel"
+    },
+    {
+      "phrase": "with caramel",
+      "tag": "caramel"
+    },
+    {
+      "phrase": "cardiogram",
+      "tag": "cardiogram"
+    },
+    {
+      "phrase": "showing cardiogram",
+      "tag": "cardiogram"
+    },
+    {
+      "phrase": "with cardiogram",
+      "tag": "cardiogram"
+    },
+    {
+      "phrase": "cartoonized",
+      "tag": "cartoonized"
+    },
+    {
+      "phrase": "showing cartoonized",
+      "tag": "cartoonized"
+    },
+    {
+      "phrase": "with cartoonized",
+      "tag": "cartoonized"
+    },
+    {
+      "phrase": "cel rendering",
+      "tag": "cel_rendering"
+    },
+    {
+      "phrase": "cel rendering detail",
+      "tag": "cel_rendering"
+    },
+    {
+      "phrase": "with cel rendering",
+      "tag": "cel_rendering"
+    },
+    {
+      "phrase": "celtic knot",
+      "tag": "celtic_knot"
+    },
+    {
+      "phrase": "celtic knot detail",
+      "tag": "celtic_knot"
+    },
+    {
+      "phrase": "with celtic knot",
+      "tag": "celtic_knot"
+    },
+    {
+      "phrase": "channel",
+      "tag": "channel_(caststation)_(style)"
+    },
+    {
+      "phrase": "channel caststation style",
+      "tag": "channel_(caststation)_(style)"
+    },
+    {
+      "phrase": "showing channel",
+      "tag": "channel_(caststation)_(style)"
+    },
+    {
+      "phrase": "with channel",
+      "tag": "channel_(caststation)_(style)"
+    },
+    {
+      "phrase": "charles schulz",
+      "tag": "charles_schulz_(style)"
+    },
+    {
+      "phrase": "charles schulz detail",
+      "tag": "charles_schulz_(style)"
+    },
+    {
+      "phrase": "charles schulz style",
+      "tag": "charles_schulz_(style)"
+    },
+    {
+      "phrase": "with charles schulz",
+      "tag": "charles_schulz_(style)"
+    },
+    {
+      "phrase": "chiaroscuro",
+      "tag": "chiaroscuro"
+    },
+    {
+      "phrase": "showing chiaroscuro",
+      "tag": "chiaroscuro"
+    },
+    {
+      "phrase": "with chiaroscuro",
+      "tag": "chiaroscuro"
+    },
+    {
+      "phrase": "chibi",
+      "tag": "chibi"
+    },
+    {
+      "phrase": "showing chibi",
+      "tag": "chibi"
+    },
+    {
+      "phrase": "with chibi",
+      "tag": "chibi"
+    },
+    {
+      "phrase": "chromatic aberration",
+      "tag": "chromatic_aberration"
+    },
+    {
+      "phrase": "chromatic aberration detail",
+      "tag": "chromatic_aberration"
+    },
+    {
+      "phrase": "with chromatic aberration",
+      "tag": "chromatic_aberration"
+    },
+    {
+      "phrase": "clamp",
+      "tag": "clamp_(circle)_(style)"
+    },
+    {
+      "phrase": "clamp circle style",
+      "tag": "clamp_(circle)_(style)"
+    },
+    {
+      "phrase": "showing clamp",
+      "tag": "clamp_(circle)_(style)"
+    },
+    {
+      "phrase": "with clamp",
+      "tag": "clamp_(circle)_(style)"
+    },
+    {
+      "phrase": "classic lolita",
+      "tag": "classic_lolita"
+    },
+    {
+      "phrase": "classic lolita detail",
+      "tag": "classic_lolita"
+    },
+    {
+      "phrase": "with classic lolita",
+      "tag": "classic_lolita"
+    },
+    {
+      "phrase": "clockwork",
+      "tag": "clockwork"
+    },
+    {
+      "phrase": "showing clockwork",
+      "tag": "clockwork"
+    },
+    {
+      "phrase": "with clockwork",
+      "tag": "clockwork"
+    },
+    {
+      "phrase": "color-coded",
+      "tag": "color-coded"
+    },
+    {
+      "phrase": "showing color-coded",
+      "tag": "color-coded"
+    },
+    {
+      "phrase": "with color-coded",
+      "tag": "color-coded"
+    },
+    {
+      "phrase": "color coordination",
+      "tag": "color_coordination"
+    },
+    {
+      "phrase": "color coordination detail",
+      "tag": "color_coordination"
+    },
+    {
+      "phrase": "with color coordination",
+      "tag": "color_coordination"
+    },
+    {
+      "phrase": "color drain",
+      "tag": "color_drain"
+    },
+    {
+      "phrase": "color drain detail",
+      "tag": "color_drain"
+    },
+    {
+      "phrase": "with color drain",
+      "tag": "color_drain"
+    },
+    {
+      "phrase": "color switch",
+      "tag": "color_switch"
+    },
+    {
+      "phrase": "color switch detail",
+      "tag": "color_switch"
+    },
+    {
+      "phrase": "with color switch",
+      "tag": "color_switch"
+    },
+    {
+      "phrase": "colored smoke",
+      "tag": "colored_smoke"
+    },
+    {
+      "phrase": "colored smoke detail",
+      "tag": "colored_smoke"
+    },
+    {
+      "phrase": "with colored smoke",
+      "tag": "colored_smoke"
+    },
+    {
+      "phrase": "colored stripes",
+      "tag": "colored_stripes"
+    },
+    {
+      "phrase": "colored stripes detail",
+      "tag": "colored_stripes"
+    },
+    {
+      "phrase": "with colored stripes",
+      "tag": "colored_stripes"
+    },
+    {
+      "phrase": "colorful",
+      "tag": "colorful"
+    },
+    {
+      "phrase": "showing colorful",
+      "tag": "colorful"
+    },
+    {
+      "phrase": "with colorful",
+      "tag": "colorful"
+    },
+    {
+      "phrase": "cool colored",
+      "tag": "cool_colored"
+    },
+    {
+      "phrase": "cool colored detail",
+      "tag": "cool_colored"
+    },
+    {
+      "phrase": "with cool colored",
+      "tag": "cool_colored"
+    },
+    {
+      "phrase": "cow print",
+      "tag": "cow_print"
+    },
+    {
+      "phrase": "cow print detail",
+      "tag": "cow_print"
+    },
+    {
+      "phrase": "with cow print",
+      "tag": "cow_print"
+    },
+    {
+      "phrase": "cowboy western",
+      "tag": "cowboy_western"
+    },
+    {
+      "phrase": "cowboy western detail",
+      "tag": "cowboy_western"
+    },
+    {
+      "phrase": "with cowboy western",
+      "tag": "cowboy_western"
+    },
+    {
+      "phrase": "crayon drawing",
+      "tag": "crayon_drawing"
+    },
+    {
+      "phrase": "crayon drawing detail",
+      "tag": "crayon_drawing"
+    },
+    {
+      "phrase": "with crayon drawing",
+      "tag": "crayon_drawing"
+    },
+    {
+      "phrase": "crescent",
+      "tag": "crescent"
+    },
+    {
+      "phrase": "showing crescent",
+      "tag": "crescent"
+    },
+    {
+      "phrase": "with crescent",
+      "tag": "crescent"
+    },
+    {
+      "phrase": "cross-section",
+      "tag": "cross-section"
+    },
+    {
+      "phrase": "showing cross-section",
+      "tag": "cross-section"
+    },
+    {
+      "phrase": "with cross-section",
+      "tag": "cross-section"
+    },
+    {
+      "phrase": "cyber fashion",
+      "tag": "cyber_fashion"
+    },
+    {
+      "phrase": "cyber fashion detail",
+      "tag": "cyber_fashion"
+    },
+    {
+      "phrase": "with cyber fashion",
+      "tag": "cyber_fashion"
+    },
+    {
+      "phrase": "cyberpunk",
+      "tag": "cyberpunk"
+    },
+    {
+      "phrase": "showing cyberpunk",
+      "tag": "cyberpunk"
+    },
+    {
+      "phrase": "with cyberpunk",
+      "tag": "cyberpunk"
+    },
+    {
+      "phrase": "dark aura",
+      "tag": "dark_aura"
+    },
+    {
+      "phrase": "dark aura detail",
+      "tag": "dark_aura"
+    },
+    {
+      "phrase": "with dark aura",
+      "tag": "dark_aura"
+    },
+    {
+      "phrase": "decora",
+      "tag": "decora"
+    },
+    {
+      "phrase": "showing decora",
+      "tag": "decora"
+    },
+    {
+      "phrase": "with decora",
+      "tag": "decora"
+    },
+    {
+      "phrase": "diamond",
+      "tag": "diamond_(shape)"
+    },
+    {
+      "phrase": "diamond shape",
+      "tag": "diamond_(shape)"
+    },
+    {
+      "phrase": "showing diamond",
+      "tag": "diamond_(shape)"
+    },
+    {
+      "phrase": "with diamond",
+      "tag": "diamond_(shape)"
+    },
+    {
+      "phrase": "digital camouflage",
+      "tag": "digital_camouflage"
+    },
+    {
+      "phrase": "digital camouflage detail",
+      "tag": "digital_camouflage"
+    },
+    {
+      "phrase": "with digital camouflage",
+      "tag": "digital_camouflage"
+    },
+    {
+      "phrase": "dilapidated",
+      "tag": "dilapidated"
+    },
+    {
+      "phrase": "showing dilapidated",
+      "tag": "dilapidated"
+    },
+    {
+      "phrase": "with dilapidated",
+      "tag": "dilapidated"
+    },
+    {
+      "phrase": "dots",
+      "tag": "dots"
+    },
+    {
+      "phrase": "showing dots",
+      "tag": "dots"
+    },
+    {
+      "phrase": "with dots",
+      "tag": "dots"
+    },
+    {
+      "phrase": "dragon print",
+      "tag": "dragon_print"
+    },
+    {
+      "phrase": "dragon print detail",
+      "tag": "dragon_print"
+    },
+    {
+      "phrase": "with dragon print",
+      "tag": "dragon_print"
+    },
+    {
+      "phrase": "drawn bow",
+      "tag": "drawn_bow"
+    },
+    {
+      "phrase": "drawn bow detail",
+      "tag": "drawn_bow"
+    },
+    {
+      "phrase": "with drawn bow",
+      "tag": "drawn_bow"
+    },
+    {
+      "phrase": "drawn ears",
+      "tag": "drawn_ears"
+    },
+    {
+      "phrase": "drawn ears detail",
+      "tag": "drawn_ears"
+    },
+    {
+      "phrase": "with drawn ears",
+      "tag": "drawn_ears"
+    },
+    {
+      "phrase": "egasumi",
+      "tag": "egasumi"
+    },
+    {
+      "phrase": "showing egasumi",
+      "tag": "egasumi"
+    },
+    {
+      "phrase": "with egasumi",
+      "tag": "egasumi"
+    },
+    {
+      "phrase": "egyptian art",
+      "tag": "egyptian_art"
+    },
+    {
+      "phrase": "egyptian art detail",
+      "tag": "egyptian_art"
+    },
+    {
+      "phrase": "with egyptian art",
+      "tag": "egyptian_art"
+    },
+    {
+      "phrase": "electricity",
+      "tag": "electricity"
+    },
+    {
+      "phrase": "showing electricity",
+      "tag": "electricity"
+    },
+    {
+      "phrase": "with electricity",
+      "tag": "electricity"
+    },
+    {
+      "phrase": "emblem",
+      "tag": "emblem"
+    },
+    {
+      "phrase": "showing emblem",
+      "tag": "emblem"
+    },
+    {
+      "phrase": "with emblem",
+      "tag": "emblem"
+    },
+    {
+      "phrase": "embroidery",
+      "tag": "embroidery"
+    },
+    {
+      "phrase": "showing embroidery",
+      "tag": "embroidery"
+    },
+    {
+      "phrase": "with embroidery",
+      "tag": "embroidery"
+    },
+    {
+      "phrase": "emo fashion",
+      "tag": "emo_fashion"
+    },
+    {
+      "phrase": "emo fashion detail",
+      "tag": "emo_fashion"
+    },
+    {
+      "phrase": "with emo fashion",
+      "tag": "emo_fashion"
+    },
+    {
+      "phrase": "european architecture",
+      "tag": "european_architecture"
+    },
+    {
+      "phrase": "european architecture detail",
+      "tag": "european_architecture"
+    },
+    {
+      "phrase": "with european architecture",
+      "tag": "european_architecture"
+    },
+    {
+      "phrase": "eye glitter",
+      "tag": "eye_glitter"
+    },
+    {
+      "phrase": "eye glitter detail",
+      "tag": "eye_glitter"
+    },
+    {
+      "phrase": "with eye glitter",
+      "tag": "eye_glitter"
+    },
+    {
+      "phrase": "fake transparency",
+      "tag": "fake_transparency"
+    },
+    {
+      "phrase": "fake transparency detail",
+      "tag": "fake_transparency"
+    },
+    {
+      "phrase": "with fake transparency",
+      "tag": "fake_transparency"
+    },
+    {
+      "phrase": "falling feathers",
+      "tag": "falling_feathers"
+    },
+    {
+      "phrase": "falling feathers detail",
+      "tag": "falling_feathers"
+    },
+    {
+      "phrase": "with falling feathers",
+      "tag": "falling_feathers"
+    },
+    {
+      "phrase": "falling petals",
+      "tag": "falling_petals"
+    },
+    {
+      "phrase": "falling petals detail",
+      "tag": "falling_petals"
+    },
+    {
+      "phrase": "with falling petals",
+      "tag": "falling_petals"
+    },
+    {
+      "phrase": "fashion",
+      "tag": "fashion"
+    },
+    {
+      "phrase": "showing fashion",
+      "tag": "fashion"
+    },
+    {
+      "phrase": "with fashion",
+      "tag": "fashion"
+    },
+    {
+      "phrase": "faux retro artstyle",
+      "tag": "faux_retro_artstyle"
+    },
+    {
+      "phrase": "faux retro artstyle detail",
+      "tag": "faux_retro_artstyle"
+    },
+    {
+      "phrase": "with faux retro artstyle",
+      "tag": "faux_retro_artstyle"
+    },
+    {
+      "phrase": "faux traditional media",
+      "tag": "faux_traditional_media"
+    },
+    {
+      "phrase": "faux traditional media detail",
+      "tag": "faux_traditional_media"
+    },
+    {
+      "phrase": "with faux traditional media",
+      "tag": "faux_traditional_media"
+    },
+    {
+      "phrase": "feathers",
+      "tag": "feathers"
+    },
+    {
+      "phrase": "showing feathers",
+      "tag": "feathers"
+    },
+    {
+      "phrase": "with feathers",
+      "tag": "feathers"
+    },
+    {
+      "phrase": "film grain",
+      "tag": "film_grain"
+    },
+    {
+      "phrase": "film grain detail",
+      "tag": "film_grain"
+    },
+    {
+      "phrase": "with film grain",
+      "tag": "film_grain"
+    },
+    {
+      "phrase": "fine fabric emphasis",
+      "tag": "fine_fabric_emphasis"
+    },
+    {
+      "phrase": "fine fabric emphasis detail",
+      "tag": "fine_fabric_emphasis"
+    },
+    {
+      "phrase": "with fine fabric emphasis",
+      "tag": "fine_fabric_emphasis"
+    },
+    {
+      "phrase": "fire",
+      "tag": "fire"
+    },
+    {
+      "phrase": "showing fire",
+      "tag": "fire"
+    },
+    {
+      "phrase": "with fire",
+      "tag": "fire"
+    },
+    {
+      "phrase": "fire body",
+      "tag": "fire_body"
+    },
+    {
+      "phrase": "fire body detail",
+      "tag": "fire_body"
+    },
+    {
+      "phrase": "with fire body",
+      "tag": "fire_body"
+    },
+    {
+      "phrase": "fire elemental",
+      "tag": "fire_elemental"
+    },
+    {
+      "phrase": "fire elemental detail",
+      "tag": "fire_elemental"
+    },
+    {
+      "phrase": "with fire elemental",
+      "tag": "fire_elemental"
+    },
+    {
+      "phrase": "fire flower",
+      "tag": "fire_flower"
+    },
+    {
+      "phrase": "fire flower detail",
+      "tag": "fire_flower"
+    },
+    {
+      "phrase": "with fire flower",
+      "tag": "fire_flower"
+    },
+    {
+      "phrase": "fire halo",
+      "tag": "fire_halo"
+    },
+    {
+      "phrase": "fire halo detail",
+      "tag": "fire_halo"
+    },
+    {
+      "phrase": "with fire halo",
+      "tag": "fire_halo"
+    },
+    {
+      "phrase": "fire light",
+      "tag": "fire_light"
+    },
+    {
+      "phrase": "fire light detail",
+      "tag": "fire_light"
+    },
+    {
+      "phrase": "with fire light",
+      "tag": "fire_light"
+    },
+    {
+      "phrase": "fire on chest",
+      "tag": "fire_on_chest"
+    },
+    {
+      "phrase": "fire on chest detail",
+      "tag": "fire_on_chest"
+    },
+    {
+      "phrase": "with fire on chest",
+      "tag": "fire_on_chest"
+    },
+    {
+      "phrase": "fire stone",
+      "tag": "fire_stone"
+    },
+    {
+      "phrase": "fire stone detail",
+      "tag": "fire_stone"
+    },
+    {
+      "phrase": "with fire stone",
+      "tag": "fire_stone"
+    },
+    {
+      "phrase": "food-themed creature",
+      "tag": "food-themed_creature"
+    },
+    {
+      "phrase": "food-themed creature detail",
+      "tag": "food-themed_creature"
+    },
+    {
+      "phrase": "with food-themed creature",
+      "tag": "food-themed_creature"
+    },
+    {
+      "phrase": "frutiger aero",
+      "tag": "frutiger_aero"
+    },
+    {
+      "phrase": "frutiger aero detail",
+      "tag": "frutiger_aero"
+    },
+    {
+      "phrase": "with frutiger aero",
+      "tag": "frutiger_aero"
+    },
+    {
+      "phrase": "frutiger metro",
+      "tag": "frutiger_metro"
+    },
+    {
+      "phrase": "frutiger metro detail",
+      "tag": "frutiger_metro"
+    },
+    {
+      "phrase": "with frutiger metro",
+      "tag": "frutiger_metro"
+    },
+    {
+      "phrase": "fujiko f fujio",
+      "tag": "fujiko_f_fujio_(style)"
+    },
+    {
+      "phrase": "fujiko f fujio detail",
+      "tag": "fujiko_f_fujio_(style)"
+    },
+    {
+      "phrase": "fujiko f fujio style",
+      "tag": "fujiko_f_fujio_(style)"
+    },
+    {
+      "phrase": "with fujiko f fujio",
+      "tag": "fujiko_f_fujio_(style)"
+    },
+    {
+      "phrase": "fujimoto tatsuki",
+      "tag": "fujimoto_tatsuki_(style)"
+    },
+    {
+      "phrase": "fujimoto tatsuki detail",
+      "tag": "fujimoto_tatsuki_(style)"
+    },
+    {
+      "phrase": "fujimoto tatsuki style",
+      "tag": "fujimoto_tatsuki_(style)"
+    },
+    {
+      "phrase": "with fujimoto tatsuki",
+      "tag": "fujimoto_tatsuki_(style)"
+    },
+    {
+      "phrase": "fukumoto nobuyuki",
+      "tag": "fukumoto_nobuyuki_(style)"
+    },
+    {
+      "phrase": "fukumoto nobuyuki detail",
+      "tag": "fukumoto_nobuyuki_(style)"
+    },
+    {
+      "phrase": "fukumoto nobuyuki style",
+      "tag": "fukumoto_nobuyuki_(style)"
+    },
+    {
+      "phrase": "with fukumoto nobuyuki",
+      "tag": "fukumoto_nobuyuki_(style)"
+    },
+    {
+      "phrase": "ganguro",
+      "tag": "ganguro"
+    },
+    {
+      "phrase": "showing ganguro",
+      "tag": "ganguro"
+    },
+    {
+      "phrase": "with ganguro",
+      "tag": "ganguro"
+    },
+    {
+      "phrase": "gingham",
+      "tag": "gingham"
+    },
+    {
+      "phrase": "showing gingham",
+      "tag": "gingham"
+    },
+    {
+      "phrase": "with gingham",
+      "tag": "gingham"
+    },
+    {
+      "phrase": "glint",
+      "tag": "glint"
+    },
+    {
+      "phrase": "showing glint",
+      "tag": "glint"
+    },
+    {
+      "phrase": "with glint",
+      "tag": "glint"
+    },
+    {
+      "phrase": "glitch",
+      "tag": "glitch"
+    },
+    {
+      "phrase": "showing glitch",
+      "tag": "glitch"
+    },
+    {
+      "phrase": "with glitch",
+      "tag": "glitch"
+    },
+    {
+      "phrase": "glitter",
+      "tag": "glitter"
+    },
+    {
+      "phrase": "showing glitter",
+      "tag": "glitter"
+    },
+    {
+      "phrase": "with glitter",
+      "tag": "glitter"
+    },
+    {
+      "phrase": "glitter makeup",
+      "tag": "glitter_makeup"
+    },
+    {
+      "phrase": "glitter makeup detail",
+      "tag": "glitter_makeup"
+    },
+    {
+      "phrase": "with glitter makeup",
+      "tag": "glitter_makeup"
+    },
+    {
+      "phrase": "glowing",
+      "tag": "glowing"
+    },
+    {
+      "phrase": "showing glowing",
+      "tag": "glowing"
+    },
+    {
+      "phrase": "with glowing",
+      "tag": "glowing"
+    },
+    {
+      "phrase": "glowing antlers",
+      "tag": "glowing_antlers"
+    },
+    {
+      "phrase": "glowing antlers detail",
+      "tag": "glowing_antlers"
+    },
+    {
+      "phrase": "with glowing antlers",
+      "tag": "glowing_antlers"
+    },
+    {
+      "phrase": "glowing cracks",
+      "tag": "glowing_cracks"
+    },
+    {
+      "phrase": "glowing cracks detail",
+      "tag": "glowing_cracks"
+    },
+    {
+      "phrase": "with glowing cracks",
+      "tag": "glowing_cracks"
+    },
+    {
+      "phrase": "glowing crystal",
+      "tag": "glowing_crystal"
+    },
+    {
+      "phrase": "glowing crystal detail",
+      "tag": "glowing_crystal"
+    },
+    {
+      "phrase": "with glowing crystal",
+      "tag": "glowing_crystal"
+    },
+    {
+      "phrase": "glowing feather",
+      "tag": "glowing_feather"
+    },
+    {
+      "phrase": "glowing feather detail",
+      "tag": "glowing_feather"
+    },
+    {
+      "phrase": "with glowing feather",
+      "tag": "glowing_feather"
+    },
+    {
+      "phrase": "glowing flower",
+      "tag": "glowing_flower"
+    },
+    {
+      "phrase": "glowing flower detail",
+      "tag": "glowing_flower"
+    },
+    {
+      "phrase": "with glowing flower",
+      "tag": "glowing_flower"
+    },
+    {
+      "phrase": "glowing gem",
+      "tag": "glowing_gem"
+    },
+    {
+      "phrase": "glowing gem detail",
+      "tag": "glowing_gem"
+    },
+    {
+      "phrase": "with glowing gem",
+      "tag": "glowing_gem"
+    },
+    {
+      "phrase": "glowing halo",
+      "tag": "glowing_halo"
+    },
+    {
+      "phrase": "glowing halo detail",
+      "tag": "glowing_halo"
+    },
+    {
+      "phrase": "with glowing halo",
+      "tag": "glowing_halo"
+    },
+    {
+      "phrase": "glowing heart",
+      "tag": "glowing_heart"
+    },
+    {
+      "phrase": "glowing heart detail",
+      "tag": "glowing_heart"
+    },
+    {
+      "phrase": "with glowing heart",
+      "tag": "glowing_heart"
+    },
+    {
+      "phrase": "glowing hot",
+      "tag": "glowing_hot"
+    },
+    {
+      "phrase": "glowing hot detail",
+      "tag": "glowing_hot"
+    },
+    {
+      "phrase": "with glowing hot",
+      "tag": "glowing_hot"
+    },
+    {
+      "phrase": "glowing leaves",
+      "tag": "glowing_leaves"
+    },
+    {
+      "phrase": "glowing leaves detail",
+      "tag": "glowing_leaves"
+    },
+    {
+      "phrase": "with glowing leaves",
+      "tag": "glowing_leaves"
+    },
+    {
+      "phrase": "glowing markings",
+      "tag": "glowing_markings"
+    },
+    {
+      "phrase": "glowing markings detail",
+      "tag": "glowing_markings"
+    },
+    {
+      "phrase": "with glowing markings",
+      "tag": "glowing_markings"
+    },
+    {
+      "phrase": "glowing mouth",
+      "tag": "glowing_mouth"
+    },
+    {
+      "phrase": "glowing mouth detail",
+      "tag": "glowing_mouth"
+    },
+    {
+      "phrase": "with glowing mouth",
+      "tag": "glowing_mouth"
+    },
+    {
+      "phrase": "glowing mushroom",
+      "tag": "glowing_mushroom"
+    },
+    {
+      "phrase": "glowing mushroom detail",
+      "tag": "glowing_mushroom"
+    },
+    {
+      "phrase": "with glowing mushroom",
+      "tag": "glowing_mushroom"
+    },
+    {
+      "phrase": "glowing petals",
+      "tag": "glowing_petals"
+    },
+    {
+      "phrase": "glowing petals detail",
+      "tag": "glowing_petals"
+    },
+    {
+      "phrase": "with glowing petals",
+      "tag": "glowing_petals"
+    },
+    {
+      "phrase": "glowing snowflake",
+      "tag": "glowing_snowflake"
+    },
+    {
+      "phrase": "glowing snowflake detail",
+      "tag": "glowing_snowflake"
+    },
+    {
+      "phrase": "with glowing snowflake",
+      "tag": "glowing_snowflake"
+    },
+    {
+      "phrase": "glowing symbol",
+      "tag": "glowing_symbol"
+    },
+    {
+      "phrase": "glowing symbol detail",
+      "tag": "glowing_symbol"
+    },
+    {
+      "phrase": "with glowing symbol",
+      "tag": "glowing_symbol"
+    },
+    {
+      "phrase": "glowing tree",
+      "tag": "glowing_tree"
+    },
+    {
+      "phrase": "glowing tree detail",
+      "tag": "glowing_tree"
+    },
+    {
+      "phrase": "with glowing tree",
+      "tag": "glowing_tree"
+    },
+    {
+      "phrase": "glowing trim",
+      "tag": "glowing_trim"
+    },
+    {
+      "phrase": "glowing trim detail",
+      "tag": "glowing_trim"
+    },
+    {
+      "phrase": "with glowing trim",
+      "tag": "glowing_trim"
+    },
+    {
+      "phrase": "glowing weapon",
+      "tag": "glowing_weapon"
+    },
+    {
+      "phrase": "glowing weapon detail",
+      "tag": "glowing_weapon"
+    },
+    {
+      "phrase": "with glowing weapon",
+      "tag": "glowing_weapon"
+    },
+    {
+      "phrase": "glowing windows",
+      "tag": "glowing_windows"
+    },
+    {
+      "phrase": "glowing windows detail",
+      "tag": "glowing_windows"
+    },
+    {
+      "phrase": "with glowing windows",
+      "tag": "glowing_windows"
+    },
+    {
+      "phrase": "gold",
+      "tag": "gold"
+    },
+    {
+      "phrase": "showing gold",
+      "tag": "gold"
+    },
+    {
+      "phrase": "with gold",
+      "tag": "gold"
+    },
+    {
+      "phrase": "gold petals",
+      "tag": "gold_petals"
+    },
+    {
+      "phrase": "gold petals detail",
+      "tag": "gold_petals"
+    },
+    {
+      "phrase": "with gold petals",
+      "tag": "gold_petals"
+    },
+    {
+      "phrase": "goth fashion",
+      "tag": "goth_fashion"
+    },
+    {
+      "phrase": "goth fashion detail",
+      "tag": "goth_fashion"
+    },
+    {
+      "phrase": "with goth fashion",
+      "tag": "goth_fashion"
+    },
+    {
+      "phrase": "gradient feathers",
+      "tag": "gradient_feathers"
+    },
+    {
+      "phrase": "gradient feathers detail",
+      "tag": "gradient_feathers"
+    },
+    {
+      "phrase": "with gradient feathers",
+      "tag": "gradient_feathers"
+    },
+    {
+      "phrase": "green fire",
+      "tag": "green_fire"
+    },
+    {
+      "phrase": "green fire detail",
+      "tag": "green_fire"
+    },
+    {
+      "phrase": "with green fire",
+      "tag": "green_fire"
+    },
+    {
+      "phrase": "green outline",
+      "tag": "green_outline"
+    },
+    {
+      "phrase": "green outline detail",
+      "tag": "green_outline"
+    },
+    {
+      "phrase": "with green outline",
+      "tag": "green_outline"
+    },
+    {
+      "phrase": "green petals",
+      "tag": "green_petals"
+    },
+    {
+      "phrase": "green petals detail",
+      "tag": "green_petals"
+    },
+    {
+      "phrase": "with green petals",
+      "tag": "green_petals"
+    },
+    {
+      "phrase": "green theme",
+      "tag": "green_theme"
+    },
+    {
+      "phrase": "green theme detail",
+      "tag": "green_theme"
+    },
+    {
+      "phrase": "with green theme",
+      "tag": "green_theme"
+    },
+    {
+      "phrase": "grey feathers",
+      "tag": "grey_feathers"
+    },
+    {
+      "phrase": "grey feathers detail",
+      "tag": "grey_feathers"
+    },
+    {
+      "phrase": "with grey feathers",
+      "tag": "grey_feathers"
+    },
+    {
+      "phrase": "grey outline",
+      "tag": "grey_outline"
+    },
+    {
+      "phrase": "grey outline detail",
+      "tag": "grey_outline"
+    },
+    {
+      "phrase": "with grey outline",
+      "tag": "grey_outline"
+    },
+    {
+      "phrase": "grey theme",
+      "tag": "grey_theme"
+    },
+    {
+      "phrase": "grey theme detail",
+      "tag": "grey_theme"
+    },
+    {
+      "phrase": "with grey theme",
+      "tag": "grey_theme"
+    },
+    {
+      "phrase": "greyscale",
+      "tag": "greyscale"
+    },
+    {
+      "phrase": "showing greyscale",
+      "tag": "greyscale"
+    },
+    {
+      "phrase": "with greyscale",
+      "tag": "greyscale"
+    },
+    {
+      "phrase": "gyari",
+      "tag": "gyari_(imagesdawn)_(style)"
+    },
+    {
+      "phrase": "gyari imagesdawn style",
+      "tag": "gyari_(imagesdawn)_(style)"
+    },
+    {
+      "phrase": "showing gyari",
+      "tag": "gyari_(imagesdawn)_(style)"
+    },
+    {
+      "phrase": "with gyari",
+      "tag": "gyari_(imagesdawn)_(style)"
+    },
+    {
+      "phrase": "gyaru v",
+      "tag": "gyaru_v"
+    },
+    {
+      "phrase": "gyaru v detail",
+      "tag": "gyaru_v"
+    },
+    {
+      "phrase": "with gyaru v",
+      "tag": "gyaru_v"
+    },
+    {
+      "phrase": "gyaruo",
+      "tag": "gyaruo"
+    },
+    {
+      "phrase": "showing gyaruo",
+      "tag": "gyaruo"
+    },
+    {
+      "phrase": "with gyaruo",
+      "tag": "gyaruo"
+    },
+    {
+      "phrase": "halftone",
+      "tag": "halftone"
+    },
+    {
+      "phrase": "showing halftone",
+      "tag": "halftone"
+    },
+    {
+      "phrase": "with halftone",
+      "tag": "halftone"
+    },
+    {
+      "phrase": "happy aura",
+      "tag": "happy_aura"
+    },
+    {
+      "phrase": "happy aura detail",
+      "tag": "happy_aura"
+    },
+    {
+      "phrase": "with happy aura",
+      "tag": "happy_aura"
+    },
+    {
+      "phrase": "hara tetsuo",
+      "tag": "hara_tetsuo_(style)"
+    },
+    {
+      "phrase": "hara tetsuo detail",
+      "tag": "hara_tetsuo_(style)"
+    },
+    {
+      "phrase": "hara tetsuo style",
+      "tag": "hara_tetsuo_(style)"
+    },
+    {
+      "phrase": "with hara tetsuo",
+      "tag": "hara_tetsuo_(style)"
+    },
+    {
+      "phrase": "harukawa moe",
+      "tag": "harukawa_moe_(style)"
+    },
+    {
+      "phrase": "harukawa moe detail",
+      "tag": "harukawa_moe_(style)"
+    },
+    {
+      "phrase": "harukawa moe style",
+      "tag": "harukawa_moe_(style)"
+    },
+    {
+      "phrase": "with harukawa moe",
+      "tag": "harukawa_moe_(style)"
+    },
+    {
+      "phrase": "hasu no daisankaku",
+      "tag": "hasu_no_daisankaku"
+    },
+    {
+      "phrase": "hasu no daisankaku detail",
+      "tag": "hasu_no_daisankaku"
+    },
+    {
+      "phrase": "with hasu no daisankaku",
+      "tag": "hasu_no_daisankaku"
+    },
+    {
+      "phrase": "hasu no shousankaku",
+      "tag": "hasu_no_shousankaku"
+    },
+    {
+      "phrase": "hasu no shousankaku detail",
+      "tag": "hasu_no_shousankaku"
+    },
+    {
+      "phrase": "with hasu no shousankaku",
+      "tag": "hasu_no_shousankaku"
+    },
+    {
+      "phrase": "hatching",
+      "tag": "hatching"
+    },
+    {
+      "phrase": "showing hatching",
+      "tag": "hatching"
+    },
+    {
+      "phrase": "with hatching",
+      "tag": "hatching"
+    },
+    {
+      "phrase": "hatching",
+      "tag": "hatching_(texture)"
+    },
+    {
+      "phrase": "hatching texture",
+      "tag": "hatching_(texture)"
+    },
+    {
+      "phrase": "showing hatching",
+      "tag": "hatching_(texture)"
+    },
+    {
+      "phrase": "with hatching",
+      "tag": "hatching_(texture)"
+    },
+    {
+      "phrase": "hazard stripes",
+      "tag": "hazard_stripes"
+    },
+    {
+      "phrase": "hazard stripes detail",
+      "tag": "hazard_stripes"
+    },
+    {
+      "phrase": "with hazard stripes",
+      "tag": "hazard_stripes"
+    },
+    {
+      "phrase": "head steam",
+      "tag": "head_steam"
+    },
+    {
+      "phrase": "head steam detail",
+      "tag": "head_steam"
+    },
+    {
+      "phrase": "with head steam",
+      "tag": "head_steam"
+    },
+    {
+      "phrase": "heart-shaped petals",
+      "tag": "heart-shaped_petals"
+    },
+    {
+      "phrase": "heart-shaped petals detail",
+      "tag": "heart-shaped_petals"
+    },
+    {
+      "phrase": "with heart-shaped petals",
+      "tag": "heart-shaped_petals"
+    },
+    {
+      "phrase": "heart of string",
+      "tag": "heart_of_string"
+    },
+    {
+      "phrase": "heart of string detail",
+      "tag": "heart_of_string"
+    },
+    {
+      "phrase": "with heart of string",
+      "tag": "heart_of_string"
+    },
+    {
+      "phrase": "heavy film grain",
+      "tag": "heavy_film_grain"
+    },
+    {
+      "phrase": "heavy film grain detail",
+      "tag": "heavy_film_grain"
+    },
+    {
+      "phrase": "with heavy film grain",
+      "tag": "heavy_film_grain"
+    },
+    {
+      "phrase": "heisei retro",
+      "tag": "heisei_retro"
+    },
+    {
+      "phrase": "heisei retro detail",
+      "tag": "heisei_retro"
+    },
+    {
+      "phrase": "with heisei retro",
+      "tag": "heisei_retro"
+    },
+    {
+      "phrase": "heterochromia",
+      "tag": "heterochromia"
+    },
+    {
+      "phrase": "showing heterochromia",
+      "tag": "heterochromia"
+    },
+    {
+      "phrase": "with heterochromia",
+      "tag": "heterochromia"
+    },
+    {
+      "phrase": "high contrast",
+      "tag": "high_contrast"
+    },
+    {
+      "phrase": "high contrast detail",
+      "tag": "high_contrast"
+    },
+    {
+      "phrase": "with high contrast",
+      "tag": "high_contrast"
+    },
+    {
+      "phrase": "himekaji",
+      "tag": "himekaji"
+    },
+    {
+      "phrase": "showing himekaji",
+      "tag": "himekaji"
+    },
+    {
+      "phrase": "with himekaji",
+      "tag": "himekaji"
+    },
+    {
+      "phrase": "hitachi magic wand",
+      "tag": "hitachi_magic_wand"
+    },
+    {
+      "phrase": "hitachi magic wand detail",
+      "tag": "hitachi_magic_wand"
+    },
+    {
+      "phrase": "with hitachi magic wand",
+      "tag": "hitachi_magic_wand"
+    },
+    {
+      "phrase": "hologram",
+      "tag": "hologram"
+    },
+    {
+      "phrase": "showing hologram",
+      "tag": "hologram"
+    },
+    {
+      "phrase": "with hologram",
+      "tag": "hologram"
+    },
+    {
+      "phrase": "holographic clothing",
+      "tag": "holographic_clothing"
+    },
+    {
+      "phrase": "holographic clothing detail",
+      "tag": "holographic_clothing"
+    },
+    {
+      "phrase": "with holographic clothing",
+      "tag": "holographic_clothing"
+    },
+    {
+      "phrase": "holographic interface",
+      "tag": "holographic_interface"
+    },
+    {
+      "phrase": "holographic interface detail",
+      "tag": "holographic_interface"
+    },
+    {
+      "phrase": "with holographic interface",
+      "tag": "holographic_interface"
+    },
+    {
+      "phrase": "honeycomb",
+      "tag": "honeycomb_(pattern)"
+    },
+    {
+      "phrase": "honeycomb pattern",
+      "tag": "honeycomb_(pattern)"
+    },
+    {
+      "phrase": "showing honeycomb",
+      "tag": "honeycomb_(pattern)"
+    },
+    {
+      "phrase": "with honeycomb",
+      "tag": "honeycomb_(pattern)"
+    },
+    {
+      "phrase": "houndstooth",
+      "tag": "houndstooth"
+    },
+    {
+      "phrase": "showing houndstooth",
+      "tag": "houndstooth"
+    },
+    {
+      "phrase": "with houndstooth",
+      "tag": "houndstooth"
+    },
+    {
+      "phrase": "huadian",
+      "tag": "huadian"
+    },
+    {
+      "phrase": "showing huadian",
+      "tag": "huadian"
+    },
+    {
+      "phrase": "with huadian",
+      "tag": "huadian"
+    },
+    {
+      "phrase": "hue shifting",
+      "tag": "hue_shifting"
+    },
+    {
+      "phrase": "hue shifting detail",
+      "tag": "hue_shifting"
+    },
+    {
+      "phrase": "with hue shifting",
+      "tag": "hue_shifting"
+    },
+    {
+      "phrase": "imageboard colors",
+      "tag": "imageboard_colors"
+    },
+    {
+      "phrase": "imageboard colors detail",
+      "tag": "imageboard_colors"
+    },
+    {
+      "phrase": "with imageboard colors",
+      "tag": "imageboard_colors"
+    },
+    {
+      "phrase": "impact",
+      "tag": "impact_(font)"
+    },
+    {
+      "phrase": "impact font",
+      "tag": "impact_(font)"
+    },
+    {
+      "phrase": "showing impact",
+      "tag": "impact_(font)"
+    },
+    {
+      "phrase": "with impact",
+      "tag": "impact_(font)"
+    },
+    {
+      "phrase": "impasto",
+      "tag": "impasto"
+    },
+    {
+      "phrase": "showing impasto",
+      "tag": "impasto"
+    },
+    {
+      "phrase": "with impasto",
+      "tag": "impasto"
+    },
+    {
+      "phrase": "implied invisibility",
+      "tag": "implied_invisibility"
+    },
+    {
+      "phrase": "implied invisibility detail",
+      "tag": "implied_invisibility"
+    },
+    {
+      "phrase": "with implied invisibility",
+      "tag": "implied_invisibility"
+    },
+    {
+      "phrase": "impressionism",
+      "tag": "impressionism"
+    },
+    {
+      "phrase": "showing impressionism",
+      "tag": "impressionism"
+    },
+    {
+      "phrase": "with impressionism",
+      "tag": "impressionism"
+    },
+    {
+      "phrase": "industrial",
+      "tag": "industrial"
+    },
+    {
+      "phrase": "showing industrial",
+      "tag": "industrial"
+    },
+    {
+      "phrase": "with industrial",
+      "tag": "industrial"
+    },
+    {
+      "phrase": "ink wash painting",
+      "tag": "ink_wash_painting"
+    },
+    {
+      "phrase": "ink wash painting detail",
+      "tag": "ink_wash_painting"
+    },
+    {
+      "phrase": "with ink wash painting",
+      "tag": "ink_wash_painting"
+    },
+    {
+      "phrase": "inverted colors",
+      "tag": "inverted_colors"
+    },
+    {
+      "phrase": "inverted colors detail",
+      "tag": "inverted_colors"
+    },
+    {
+      "phrase": "with inverted colors",
+      "tag": "inverted_colors"
+    },
+    {
+      "phrase": "iridescent",
+      "tag": "iridescent"
+    },
+    {
+      "phrase": "showing iridescent",
+      "tag": "iridescent"
+    },
+    {
+      "phrase": "with iridescent",
+      "tag": "iridescent"
+    },
+    {
+      "phrase": "ishikei",
+      "tag": "ishikei_(style)"
+    },
+    {
+      "phrase": "ishikei style",
+      "tag": "ishikei_(style)"
+    },
+    {
+      "phrase": "showing ishikei",
+      "tag": "ishikei_(style)"
+    },
+    {
+      "phrase": "with ishikei",
+      "tag": "ishikei_(style)"
+    },
+    {
+      "phrase": "itou ikuko",
+      "tag": "itou_ikuko_(style)"
+    },
+    {
+      "phrase": "itou ikuko detail",
+      "tag": "itou_ikuko_(style)"
+    },
+    {
+      "phrase": "itou ikuko style",
+      "tag": "itou_ikuko_(style)"
+    },
+    {
+      "phrase": "with itou ikuko",
+      "tag": "itou_ikuko_(style)"
+    },
+    {
+      "phrase": "jirai kei",
+      "tag": "jirai_kei"
+    },
+    {
+      "phrase": "jirai kei detail",
+      "tag": "jirai_kei"
+    },
+    {
+      "phrase": "with jirai kei",
+      "tag": "jirai_kei"
+    },
+    {
+      "phrase": "kanoko",
+      "tag": "kanoko_(pattern)"
+    },
+    {
+      "phrase": "kanoko pattern",
+      "tag": "kanoko_(pattern)"
+    },
+    {
+      "phrase": "showing kanoko",
+      "tag": "kanoko_(pattern)"
+    },
+    {
+      "phrase": "with kanoko",
+      "tag": "kanoko_(pattern)"
+    },
+    {
+      "phrase": "kantoku",
+      "tag": "kantoku_(style)"
+    },
+    {
+      "phrase": "kantoku style",
+      "tag": "kantoku_(style)"
+    },
+    {
+      "phrase": "showing kantoku",
+      "tag": "kantoku_(style)"
+    },
+    {
+      "phrase": "with kantoku",
+      "tag": "kantoku_(style)"
+    },
+    {
+      "phrase": "karakusa",
+      "tag": "karakusa_(pattern)"
+    },
+    {
+      "phrase": "karakusa pattern",
+      "tag": "karakusa_(pattern)"
+    },
+    {
+      "phrase": "showing karakusa",
+      "tag": "karakusa_(pattern)"
+    },
+    {
+      "phrase": "with karakusa",
+      "tag": "karakusa_(pattern)"
+    },
+    {
+      "phrase": "keikenchi",
+      "tag": "keikenchi_(style)"
+    },
+    {
+      "phrase": "keikenchi style",
+      "tag": "keikenchi_(style)"
+    },
+    {
+      "phrase": "showing keikenchi",
+      "tag": "keikenchi_(style)"
+    },
+    {
+      "phrase": "with keikenchi",
+      "tag": "keikenchi_(style)"
+    },
+    {
+      "phrase": "kikkoumon",
+      "tag": "kikkoumon"
+    },
+    {
+      "phrase": "showing kikkoumon",
+      "tag": "kikkoumon"
+    },
+    {
+      "phrase": "with kikkoumon",
+      "tag": "kikkoumon"
+    },
+    {
+      "phrase": "komatsuzaki rui",
+      "tag": "komatsuzaki_rui_(style)"
+    },
+    {
+      "phrase": "komatsuzaki rui detail",
+      "tag": "komatsuzaki_rui_(style)"
+    },
+    {
+      "phrase": "komatsuzaki rui style",
+      "tag": "komatsuzaki_rui_(style)"
+    },
+    {
+      "phrase": "with komatsuzaki rui",
+      "tag": "komatsuzaki_rui_(style)"
+    },
+    {
+      "phrase": "korean fire noodles",
+      "tag": "korean_fire_noodles"
+    },
+    {
+      "phrase": "korean fire noodles detail",
+      "tag": "korean_fire_noodles"
+    },
+    {
+      "phrase": "with korean fire noodles",
+      "tag": "korean_fire_noodles"
+    },
+    {
+      "phrase": "kubo tite",
+      "tag": "kubo_tite_(style)"
+    },
+    {
+      "phrase": "kubo tite detail",
+      "tag": "kubo_tite_(style)"
+    },
+    {
+      "phrase": "kubo tite style",
+      "tag": "kubo_tite_(style)"
+    },
+    {
+      "phrase": "with kubo tite",
+      "tag": "kubo_tite_(style)"
+    },
+    {
+      "phrase": "latte art",
+      "tag": "latte_art"
+    },
+    {
+      "phrase": "latte art detail",
+      "tag": "latte_art"
+    },
+    {
+      "phrase": "with latte art",
+      "tag": "latte_art"
+    },
+    {
+      "phrase": "length markings",
+      "tag": "length_markings"
+    },
+    {
+      "phrase": "length markings detail",
+      "tag": "length_markings"
+    },
+    {
+      "phrase": "with length markings",
+      "tag": "length_markings"
+    },
+    {
+      "phrase": "light in heart",
+      "tag": "light_in_heart"
+    },
+    {
+      "phrase": "light in heart detail",
+      "tag": "light_in_heart"
+    },
+    {
+      "phrase": "with light in heart",
+      "tag": "light_in_heart"
+    },
+    {
+      "phrase": "ligne claire",
+      "tag": "ligne_claire"
+    },
+    {
+      "phrase": "ligne claire detail",
+      "tag": "ligne_claire"
+    },
+    {
+      "phrase": "with ligne claire",
+      "tag": "ligne_claire"
+    },
+    {
+      "phrase": "limited palette",
+      "tag": "limited_palette"
+    },
+    {
+      "phrase": "limited palette detail",
+      "tag": "limited_palette"
+    },
+    {
+      "phrase": "with limited palette",
+      "tag": "limited_palette"
+    },
+    {
+      "phrase": "lineart",
+      "tag": "lineart"
+    },
+    {
+      "phrase": "showing lineart",
+      "tag": "lineart"
+    },
+    {
+      "phrase": "with lineart",
+      "tag": "lineart"
+    },
+    {
+      "phrase": "loving aura",
+      "tag": "loving_aura"
+    },
+    {
+      "phrase": "loving aura detail",
+      "tag": "loving_aura"
+    },
+    {
+      "phrase": "with loving aura",
+      "tag": "loving_aura"
+    },
+    {
+      "phrase": "magic",
+      "tag": "magic"
+    },
+    {
+      "phrase": "showing magic",
+      "tag": "magic"
+    },
+    {
+      "phrase": "with magic",
+      "tag": "magic"
+    },
+    {
+      "phrase": "magic circle",
+      "tag": "magic_circle"
+    },
+    {
+      "phrase": "magic circle detail",
+      "tag": "magic_circle"
+    },
+    {
+      "phrase": "with magic circle",
+      "tag": "magic_circle"
+    },
+    {
+      "phrase": "magic circuit",
+      "tag": "magic_circuit"
+    },
+    {
+      "phrase": "magic circuit detail",
+      "tag": "magic_circuit"
+    },
+    {
+      "phrase": "with magic circuit",
+      "tag": "magic_circuit"
+    },
+    {
+      "phrase": "magic trick",
+      "tag": "magic_trick"
+    },
+    {
+      "phrase": "magic trick detail",
+      "tag": "magic_trick"
+    },
+    {
+      "phrase": "with magic trick",
+      "tag": "magic_trick"
+    },
+    {
+      "phrase": "masanori sato",
+      "tag": "masanori_sato_(style)"
+    },
+    {
+      "phrase": "masanori sato detail",
+      "tag": "masanori_sato_(style)"
+    },
+    {
+      "phrase": "masanori sato style",
+      "tag": "masanori_sato_(style)"
+    },
+    {
+      "phrase": "with masanori sato",
+      "tag": "masanori_sato_(style)"
+    },
+    {
+      "phrase": "meandros",
+      "tag": "meandros"
+    },
+    {
+      "phrase": "showing meandros",
+      "tag": "meandros"
+    },
+    {
+      "phrase": "with meandros",
+      "tag": "meandros"
+    },
+    {
+      "phrase": "middle eastern architecture",
+      "tag": "middle_eastern_architecture"
+    },
+    {
+      "phrase": "middle eastern architecture detail",
+      "tag": "middle_eastern_architecture"
+    },
+    {
+      "phrase": "with middle eastern architecture",
+      "tag": "middle_eastern_architecture"
+    },
+    {
+      "phrase": "minecraft",
+      "tag": "minecraft_(style)"
+    },
+    {
+      "phrase": "minecraft style",
+      "tag": "minecraft_(style)"
+    },
+    {
+      "phrase": "showing minecraft",
+      "tag": "minecraft_(style)"
+    },
+    {
+      "phrase": "with minecraft",
+      "tag": "minecraft_(style)"
+    },
+    {
+      "phrase": "minimalism",
+      "tag": "minimalism"
+    },
+    {
+      "phrase": "showing minimalism",
+      "tag": "minimalism"
+    },
+    {
+      "phrase": "with minimalism",
+      "tag": "minimalism"
+    },
+    {
+      "phrase": "moire",
+      "tag": "moire"
+    },
+    {
+      "phrase": "showing moire",
+      "tag": "moire"
+    },
+    {
+      "phrase": "with moire",
+      "tag": "moire"
+    },
+    {
+      "phrase": "monochrome",
+      "tag": "monochrome"
+    },
+    {
+      "phrase": "showing monochrome",
+      "tag": "monochrome"
+    },
+    {
+      "phrase": "with monochrome",
+      "tag": "monochrome"
+    },
+    {
+      "phrase": "multicolored feathers",
+      "tag": "multicolored_feathers"
+    },
+    {
+      "phrase": "multicolored feathers detail",
+      "tag": "multicolored_feathers"
+    },
+    {
+      "phrase": "with multicolored feathers",
+      "tag": "multicolored_feathers"
+    },
+    {
+      "phrase": "multicolored fire",
+      "tag": "multicolored_fire"
+    },
+    {
+      "phrase": "multicolored fire detail",
+      "tag": "multicolored_fire"
+    },
+    {
+      "phrase": "with multicolored fire",
+      "tag": "multicolored_fire"
+    },
+    {
+      "phrase": "multicolored polka dots",
+      "tag": "multicolored_polka_dots"
+    },
+    {
+      "phrase": "multicolored polka dots detail",
+      "tag": "multicolored_polka_dots"
+    },
+    {
+      "phrase": "with multicolored polka dots",
+      "tag": "multicolored_polka_dots"
+    },
+    {
+      "phrase": "multicolored stripes",
+      "tag": "multicolored_stripes"
+    },
+    {
+      "phrase": "multicolored stripes detail",
+      "tag": "multicolored_stripes"
+    },
+    {
+      "phrase": "with multicolored stripes",
+      "tag": "multicolored_stripes"
+    },
+    {
+      "phrase": "multiple monochrome",
+      "tag": "multiple_monochrome"
+    },
+    {
+      "phrase": "multiple monochrome detail",
+      "tag": "multiple_monochrome"
+    },
+    {
+      "phrase": "with multiple monochrome",
+      "tag": "multiple_monochrome"
+    },
+    {
+      "phrase": "multiple theme colors",
+      "tag": "multiple_theme_colors"
+    },
+    {
+      "phrase": "multiple theme colors detail",
+      "tag": "multiple_theme_colors"
+    },
+    {
+      "phrase": "with multiple theme colors",
+      "tag": "multiple_theme_colors"
+    },
+    {
+      "phrase": "muted color",
+      "tag": "muted_color"
+    },
+    {
+      "phrase": "muted color detail",
+      "tag": "muted_color"
+    },
+    {
+      "phrase": "with muted color",
+      "tag": "muted_color"
+    },
+    {
+      "phrase": "newtype flash",
+      "tag": "newtype_flash"
+    },
+    {
+      "phrase": "newtype flash detail",
+      "tag": "newtype_flash"
+    },
+    {
+      "phrase": "with newtype flash",
+      "tag": "newtype_flash"
+    },
+    {
+      "phrase": "nihonga",
+      "tag": "nihonga"
+    },
+    {
+      "phrase": "showing nihonga",
+      "tag": "nihonga"
+    },
+    {
+      "phrase": "with nihonga",
+      "tag": "nihonga"
+    },
+    {
+      "phrase": "no heterochromia",
+      "tag": "no_heterochromia"
+    },
+    {
+      "phrase": "no heterochromia detail",
+      "tag": "no_heterochromia"
+    },
+    {
+      "phrase": "with no heterochromia",
+      "tag": "no_heterochromia"
+    },
+    {
+      "phrase": "no lineart",
+      "tag": "no_lineart"
+    },
+    {
+      "phrase": "no lineart detail",
+      "tag": "no_lineart"
+    },
+    {
+      "phrase": "with no lineart",
+      "tag": "no_lineart"
+    },
+    {
+      "phrase": "nose art",
+      "tag": "nose_art"
+    },
+    {
+      "phrase": "nose art detail",
+      "tag": "nose_art"
+    },
+    {
+      "phrase": "with nose art",
+      "tag": "nose_art"
+    },
+    {
+      "phrase": "octagram",
+      "tag": "octagram"
+    },
+    {
+      "phrase": "showing octagram",
+      "tag": "octagram"
+    },
+    {
+      "phrase": "with octagram",
+      "tag": "octagram"
+    },
+    {
+      "phrase": "oda eiichirou",
+      "tag": "oda_eiichirou_(style)"
+    },
+    {
+      "phrase": "oda eiichirou detail",
+      "tag": "oda_eiichirou_(style)"
+    },
+    {
+      "phrase": "oda eiichirou style",
+      "tag": "oda_eiichirou_(style)"
+    },
+    {
+      "phrase": "with oda eiichirou",
+      "tag": "oda_eiichirou_(style)"
+    },
+    {
+      "phrase": "in official style",
+      "tag": "official_style"
+    },
+    {
+      "phrase": "official style",
+      "tag": "official_style"
+    },
+    {
+      "phrase": "official style detail",
+      "tag": "official_style"
+    },
+    {
+      "phrase": "official style position",
+      "tag": "official_style"
+    },
+    {
+      "phrase": "with official style",
+      "tag": "official_style"
+    },
+    {
+      "phrase": "ohisashiburi",
+      "tag": "ohisashiburi_(style)"
+    },
+    {
+      "phrase": "ohisashiburi style",
+      "tag": "ohisashiburi_(style)"
+    },
+    {
+      "phrase": "showing ohisashiburi",
+      "tag": "ohisashiburi_(style)"
+    },
+    {
+      "phrase": "with ohisashiburi",
+      "tag": "ohisashiburi_(style)"
+    },
+    {
+      "phrase": "omocat",
+      "tag": "omocat_(style)"
+    },
+    {
+      "phrase": "omocat style",
+      "tag": "omocat_(style)"
+    },
+    {
+      "phrase": "showing omocat",
+      "tag": "omocat_(style)"
+    },
+    {
+      "phrase": "with omocat",
+      "tag": "omocat_(style)"
+    },
+    {
+      "phrase": "optical illusion",
+      "tag": "optical_illusion"
+    },
+    {
+      "phrase": "optical illusion detail",
+      "tag": "optical_illusion"
+    },
+    {
+      "phrase": "with optical illusion",
+      "tag": "optical_illusion"
+    },
+    {
+      "phrase": "orange feathers",
+      "tag": "orange_feathers"
+    },
+    {
+      "phrase": "orange feathers detail",
+      "tag": "orange_feathers"
+    },
+    {
+      "phrase": "with orange feathers",
+      "tag": "orange_feathers"
+    },
+    {
+      "phrase": "orange fire",
+      "tag": "orange_fire"
+    },
+    {
+      "phrase": "orange fire detail",
+      "tag": "orange_fire"
+    },
+    {
+      "phrase": "with orange fire",
+      "tag": "orange_fire"
+    },
+    {
+      "phrase": "orange outline",
+      "tag": "orange_outline"
+    },
+    {
+      "phrase": "orange outline detail",
+      "tag": "orange_outline"
+    },
+    {
+      "phrase": "with orange outline",
+      "tag": "orange_outline"
+    },
+    {
+      "phrase": "orange petals",
+      "tag": "orange_petals"
+    },
+    {
+      "phrase": "orange petals detail",
+      "tag": "orange_petals"
+    },
+    {
+      "phrase": "with orange petals",
+      "tag": "orange_petals"
+    },
+    {
+      "phrase": "orange theme",
+      "tag": "orange_theme"
+    },
+    {
+      "phrase": "orange theme detail",
+      "tag": "orange_theme"
+    },
+    {
+      "phrase": "with orange theme",
+      "tag": "orange_theme"
+    },
+    {
+      "phrase": "ornate",
+      "tag": "ornate"
+    },
+    {
+      "phrase": "showing ornate",
+      "tag": "ornate"
+    },
+    {
+      "phrase": "with ornate",
+      "tag": "ornate"
+    },
+    {
+      "phrase": "ouji fashion",
+      "tag": "ouji_fashion"
+    },
+    {
+      "phrase": "ouji fashion detail",
+      "tag": "ouji_fashion"
+    },
+    {
+      "phrase": "with ouji fashion",
+      "tag": "ouji_fashion"
+    },
+    {
+      "phrase": "ouroboros",
+      "tag": "ouroboros"
+    },
+    {
+      "phrase": "showing ouroboros",
+      "tag": "ouroboros"
+    },
+    {
+      "phrase": "with ouroboros",
+      "tag": "ouroboros"
+    },
+    {
+      "phrase": "paint splatter",
+      "tag": "paint_splatter"
+    },
+    {
+      "phrase": "paint splatter detail",
+      "tag": "paint_splatter"
+    },
+    {
+      "phrase": "with paint splatter",
+      "tag": "paint_splatter"
+    },
+    {
+      "phrase": "paint stains",
+      "tag": "paint_stains"
+    },
+    {
+      "phrase": "paint stains detail",
+      "tag": "paint_stains"
+    },
+    {
+      "phrase": "with paint stains",
+      "tag": "paint_stains"
+    },
+    {
+      "phrase": "painterly",
+      "tag": "painterly"
+    },
+    {
+      "phrase": "showing painterly",
+      "tag": "painterly"
+    },
+    {
+      "phrase": "with painterly",
+      "tag": "painterly"
+    },
+    {
+      "phrase": "partially colored",
+      "tag": "partially_colored"
+    },
+    {
+      "phrase": "partially colored detail",
+      "tag": "partially_colored"
+    },
+    {
+      "phrase": "with partially colored",
+      "tag": "partially_colored"
+    },
+    {
+      "phrase": "partially invisible",
+      "tag": "partially_invisible"
+    },
+    {
+      "phrase": "partially invisible detail",
+      "tag": "partially_invisible"
+    },
+    {
+      "phrase": "with partially invisible",
+      "tag": "partially_invisible"
+    },
+    {
+      "phrase": "pastel colors",
+      "tag": "pastel_colors"
+    },
+    {
+      "phrase": "pastel colors detail",
+      "tag": "pastel_colors"
+    },
+    {
+      "phrase": "with pastel colors",
+      "tag": "pastel_colors"
+    },
+    {
+      "phrase": "patterned",
+      "tag": "patterned"
+    },
+    {
+      "phrase": "showing patterned",
+      "tag": "patterned"
+    },
+    {
+      "phrase": "with patterned",
+      "tag": "patterned"
+    },
+    {
+      "phrase": "paw print",
+      "tag": "paw_print"
+    },
+    {
+      "phrase": "paw print detail",
+      "tag": "paw_print"
+    },
+    {
+      "phrase": "with paw print",
+      "tag": "paw_print"
+    },
+    {
+      "phrase": "pc-98",
+      "tag": "pc-98_(style)"
+    },
+    {
+      "phrase": "pc-98 style",
+      "tag": "pc-98_(style)"
+    },
+    {
+      "phrase": "showing pc-98",
+      "tag": "pc-98_(style)"
+    },
+    {
+      "phrase": "with pc-98",
+      "tag": "pc-98_(style)"
+    },
+    {
+      "phrase": "peacock feathers",
+      "tag": "peacock_feathers"
+    },
+    {
+      "phrase": "peacock feathers detail",
+      "tag": "peacock_feathers"
+    },
+    {
+      "phrase": "with peacock feathers",
+      "tag": "peacock_feathers"
+    },
+    {
+      "phrase": "petals",
+      "tag": "petals"
+    },
+    {
+      "phrase": "showing petals",
+      "tag": "petals"
+    },
+    {
+      "phrase": "with petals",
+      "tag": "petals"
+    },
+    {
+      "phrase": "petals in mouth",
+      "tag": "petals_in_mouth"
+    },
+    {
+      "phrase": "petals in mouth detail",
+      "tag": "petals_in_mouth"
+    },
+    {
+      "phrase": "with petals in mouth",
+      "tag": "petals_in_mouth"
+    },
+    {
+      "phrase": "petals on ground",
+      "tag": "petals_on_ground"
+    },
+    {
+      "phrase": "petals on ground detail",
+      "tag": "petals_on_ground"
+    },
+    {
+      "phrase": "with petals on ground",
+      "tag": "petals_on_ground"
+    },
+    {
+      "phrase": "petals on liquid",
+      "tag": "petals_on_liquid"
+    },
+    {
+      "phrase": "petals on liquid detail",
+      "tag": "petals_on_liquid"
+    },
+    {
+      "phrase": "with petals on liquid",
+      "tag": "petals_on_liquid"
+    },
+    {
+      "phrase": "pink feathers",
+      "tag": "pink_feathers"
+    },
+    {
+      "phrase": "pink feathers detail",
+      "tag": "pink_feathers"
+    },
+    {
+      "phrase": "with pink feathers",
+      "tag": "pink_feathers"
+    },
+    {
+      "phrase": "pink fire",
+      "tag": "pink_fire"
+    },
+    {
+      "phrase": "pink fire detail",
+      "tag": "pink_fire"
+    },
+    {
+      "phrase": "with pink fire",
+      "tag": "pink_fire"
+    },
+    {
+      "phrase": "pink petals",
+      "tag": "pink_petals"
+    },
+    {
+      "phrase": "pink petals detail",
+      "tag": "pink_petals"
+    },
+    {
+      "phrase": "with pink petals",
+      "tag": "pink_petals"
+    },
+    {
+      "phrase": "pink theme",
+      "tag": "pink_theme"
+    },
+    {
+      "phrase": "pink theme detail",
+      "tag": "pink_theme"
+    },
+    {
+      "phrase": "with pink theme",
+      "tag": "pink_theme"
+    },
+    {
+      "phrase": "pinup",
+      "tag": "pinup_(style)"
+    },
+    {
+      "phrase": "pinup style",
+      "tag": "pinup_(style)"
+    },
+    {
+      "phrase": "showing pinup",
+      "tag": "pinup_(style)"
+    },
+    {
+      "phrase": "with pinup",
+      "tag": "pinup_(style)"
+    },
+    {
+      "phrase": "pixel art",
+      "tag": "pixel_art"
+    },
+    {
+      "phrase": "pixel art detail",
+      "tag": "pixel_art"
+    },
+    {
+      "phrase": "with pixel art",
+      "tag": "pixel_art"
+    },
+    {
+      "phrase": "pixels",
+      "tag": "pixels"
+    },
+    {
+      "phrase": "showing pixels",
+      "tag": "pixels"
+    },
+    {
+      "phrase": "with pixels",
+      "tag": "pixels"
+    },
+    {
+      "phrase": "plain",
+      "tag": "plain"
+    },
+    {
+      "phrase": "showing plain",
+      "tag": "plain"
+    },
+    {
+      "phrase": "with plain",
+      "tag": "plain"
+    },
+    {
+      "phrase": "poke ball theme",
+      "tag": "poke_ball_theme"
+    },
+    {
+      "phrase": "poke ball theme detail",
+      "tag": "poke_ball_theme"
+    },
+    {
+      "phrase": "with poke ball theme",
+      "tag": "poke_ball_theme"
+    },
+    {
+      "phrase": "post apocalyptic",
+      "tag": "post_apocalyptic"
+    },
+    {
+      "phrase": "post apocalyptic detail",
+      "tag": "post_apocalyptic"
+    },
+    {
+      "phrase": "with post apocalyptic",
+      "tag": "post_apocalyptic"
+    },
+    {
+      "phrase": "projectile trail",
+      "tag": "projectile_trail"
+    },
+    {
+      "phrase": "projectile trail detail",
+      "tag": "projectile_trail"
+    },
+    {
+      "phrase": "with projectile trail",
+      "tag": "projectile_trail"
+    },
+    {
+      "phrase": "psychedelic",
+      "tag": "psychedelic"
+    },
+    {
+      "phrase": "showing psychedelic",
+      "tag": "psychedelic"
+    },
+    {
+      "phrase": "with psychedelic",
+      "tag": "psychedelic"
+    },
+    {
+      "phrase": "puchimasu!",
+      "tag": "puchimasu!_(style)"
+    },
+    {
+      "phrase": "puchimasu! style",
+      "tag": "puchimasu!_(style)"
+    },
+    {
+      "phrase": "with puchimasu!",
+      "tag": "puchimasu!_(style)"
+    },
+    {
+      "phrase": "puff of air",
+      "tag": "puff_of_air"
+    },
+    {
+      "phrase": "puff of air detail",
+      "tag": "puff_of_air"
+    },
+    {
+      "phrase": "with puff of air",
+      "tag": "puff_of_air"
+    },
+    {
+      "phrase": "punk",
+      "tag": "punk"
+    },
+    {
+      "phrase": "showing punk",
+      "tag": "punk"
+    },
+    {
+      "phrase": "with punk",
+      "tag": "punk"
+    },
+    {
+      "phrase": "purple feathers",
+      "tag": "purple_feathers"
+    },
+    {
+      "phrase": "purple feathers detail",
+      "tag": "purple_feathers"
+    },
+    {
+      "phrase": "with purple feathers",
+      "tag": "purple_feathers"
+    },
+    {
+      "phrase": "purple fire",
+      "tag": "purple_fire"
+    },
+    {
+      "phrase": "purple fire detail",
+      "tag": "purple_fire"
+    },
+    {
+      "phrase": "with purple fire",
+      "tag": "purple_fire"
+    },
+    {
+      "phrase": "purple outline",
+      "tag": "purple_outline"
+    },
+    {
+      "phrase": "purple outline detail",
+      "tag": "purple_outline"
+    },
+    {
+      "phrase": "with purple outline",
+      "tag": "purple_outline"
+    },
+    {
+      "phrase": "purple petals",
+      "tag": "purple_petals"
+    },
+    {
+      "phrase": "purple petals detail",
+      "tag": "purple_petals"
+    },
+    {
+      "phrase": "with purple petals",
+      "tag": "purple_petals"
+    },
+    {
+      "phrase": "purple theme",
+      "tag": "purple_theme"
+    },
+    {
+      "phrase": "purple theme detail",
+      "tag": "purple_theme"
+    },
+    {
+      "phrase": "with purple theme",
+      "tag": "purple_theme"
+    },
+    {
+      "phrase": "rainbow gradient",
+      "tag": "rainbow_gradient"
+    },
+    {
+      "phrase": "rainbow gradient detail",
+      "tag": "rainbow_gradient"
+    },
+    {
+      "phrase": "with rainbow gradient",
+      "tag": "rainbow_gradient"
+    },
+    {
+      "phrase": "realistic",
+      "tag": "realistic"
+    },
+    {
+      "phrase": "showing realistic",
+      "tag": "realistic"
+    },
+    {
+      "phrase": "with realistic",
+      "tag": "realistic"
+    },
+    {
+      "phrase": "red aura",
+      "tag": "red_aura"
+    },
+    {
+      "phrase": "red aura detail",
+      "tag": "red_aura"
+    },
+    {
+      "phrase": "with red aura",
+      "tag": "red_aura"
+    },
+    {
+      "phrase": "red circle",
+      "tag": "red_circle"
+    },
+    {
+      "phrase": "red circle detail",
+      "tag": "red_circle"
+    },
+    {
+      "phrase": "with red circle",
+      "tag": "red_circle"
+    },
+    {
+      "phrase": "red feathers",
+      "tag": "red_feathers"
+    },
+    {
+      "phrase": "red feathers detail",
+      "tag": "red_feathers"
+    },
+    {
+      "phrase": "with red feathers",
+      "tag": "red_feathers"
+    },
+    {
+      "phrase": "red fire",
+      "tag": "red_fire"
+    },
+    {
+      "phrase": "red fire detail",
+      "tag": "red_fire"
+    },
+    {
+      "phrase": "with red fire",
+      "tag": "red_fire"
+    },
+    {
+      "phrase": "red petals",
+      "tag": "red_petals"
+    },
+    {
+      "phrase": "red petals detail",
+      "tag": "red_petals"
+    },
+    {
+      "phrase": "with red petals",
+      "tag": "red_petals"
+    },
+    {
+      "phrase": "red theme",
+      "tag": "red_theme"
+    },
+    {
+      "phrase": "red theme detail",
+      "tag": "red_theme"
+    },
+    {
+      "phrase": "with red theme",
+      "tag": "red_theme"
+    },
+    {
+      "phrase": "retro artstyle",
+      "tag": "retro_artstyle"
+    },
+    {
+      "phrase": "retro artstyle detail",
+      "tag": "retro_artstyle"
+    },
+    {
+      "phrase": "with retro artstyle",
+      "tag": "retro_artstyle"
+    },
+    {
+      "phrase": "ring of fire",
+      "tag": "ring_of_fire"
+    },
+    {
+      "phrase": "ring of fire detail",
+      "tag": "ring_of_fire"
+    },
+    {
+      "phrase": "with ring of fire",
+      "tag": "ring_of_fire"
+    },
+    {
+      "phrase": "riyo",
+      "tag": "riyo_(lyomsnpmp)_(style)"
+    },
+    {
+      "phrase": "riyo lyomsnpmp style",
+      "tag": "riyo_(lyomsnpmp)_(style)"
+    },
+    {
+      "phrase": "showing riyo",
+      "tag": "riyo_(lyomsnpmp)_(style)"
+    },
+    {
+      "phrase": "with riyo",
+      "tag": "riyo_(lyomsnpmp)_(style)"
+    },
+    {
+      "phrase": "rose petals",
+      "tag": "rose_petals"
+    },
+    {
+      "phrase": "rose petals detail",
+      "tag": "rose_petals"
+    },
+    {
+      "phrase": "with rose petals",
+      "tag": "rose_petals"
+    },
+    {
+      "phrase": "rural",
+      "tag": "rural"
+    },
+    {
+      "phrase": "showing rural",
+      "tag": "rural"
+    },
+    {
+      "phrase": "with rural",
+      "tag": "rural"
+    },
+    {
+      "phrase": "saru",
+      "tag": "saru_(style)"
+    },
+    {
+      "phrase": "saru style",
+      "tag": "saru_(style)"
+    },
+    {
+      "phrase": "showing saru",
+      "tag": "saru_(style)"
+    },
+    {
+      "phrase": "with saru",
+      "tag": "saru_(style)"
+    },
+    {
+      "phrase": "saturated",
+      "tag": "saturated"
+    },
+    {
+      "phrase": "showing saturated",
+      "tag": "saturated"
+    },
+    {
+      "phrase": "with saturated",
+      "tag": "saturated"
+    },
+    {
+      "phrase": "sayagata",
+      "tag": "sayagata"
+    },
+    {
+      "phrase": "showing sayagata",
+      "tag": "sayagata"
+    },
+    {
+      "phrase": "with sayagata",
+      "tag": "sayagata"
+    },
+    {
+      "phrase": "seigaiha",
+      "tag": "seigaiha"
+    },
+    {
+      "phrase": "showing seigaiha",
+      "tag": "seigaiha"
+    },
+    {
+      "phrase": "with seigaiha",
+      "tag": "seigaiha"
+    },
+    {
+      "phrase": "semi-transparent",
+      "tag": "semi-transparent"
+    },
+    {
+      "phrase": "showing semi-transparent",
+      "tag": "semi-transparent"
+    },
+    {
+      "phrase": "with semi-transparent",
+      "tag": "semi-transparent"
+    },
+    {
+      "phrase": "sepia",
+      "tag": "sepia"
+    },
+    {
+      "phrase": "showing sepia",
+      "tag": "sepia"
+    },
+    {
+      "phrase": "with sepia",
+      "tag": "sepia"
+    },
+    {
+      "phrase": "shima",
+      "tag": "shima_(pattern)"
+    },
+    {
+      "phrase": "shima pattern",
+      "tag": "shima_(pattern)"
+    },
+    {
+      "phrase": "showing shima",
+      "tag": "shima_(pattern)"
+    },
+    {
+      "phrase": "with shima",
+      "tag": "shima_(pattern)"
+    },
+    {
+      "phrase": "shippou",
+      "tag": "shippou_(pattern)"
+    },
+    {
+      "phrase": "shippou pattern",
+      "tag": "shippou_(pattern)"
+    },
+    {
+      "phrase": "showing shippou",
+      "tag": "shippou_(pattern)"
+    },
+    {
+      "phrase": "with shippou",
+      "tag": "shippou_(pattern)"
+    },
+    {
+      "phrase": "showing silhouette",
+      "tag": "silhouette"
+    },
+    {
+      "phrase": "silhouette",
+      "tag": "silhouette"
+    },
+    {
+      "phrase": "with silhouette",
+      "tag": "silhouette"
+    },
+    {
+      "phrase": "slice of life",
+      "tag": "slice_of_life"
+    },
+    {
+      "phrase": "slice of life detail",
+      "tag": "slice_of_life"
+    },
+    {
+      "phrase": "with slice of life",
+      "tag": "slice_of_life"
+    },
+    {
+      "phrase": "showing slimy",
+      "tag": "slimy"
+    },
+    {
+      "phrase": "slimy",
+      "tag": "slimy"
+    },
+    {
+      "phrase": "with slimy",
+      "tag": "slimy"
+    },
+    {
+      "phrase": "smear frame",
+      "tag": "smear_frame"
+    },
+    {
+      "phrase": "smear frame detail",
+      "tag": "smear_frame"
+    },
+    {
+      "phrase": "with smear frame",
+      "tag": "smear_frame"
+    },
+    {
+      "phrase": "showing smoke",
+      "tag": "smoke"
+    },
+    {
+      "phrase": "smoke",
+      "tag": "smoke"
+    },
+    {
+      "phrase": "with smoke",
+      "tag": "smoke"
+    },
+    {
+      "phrase": "smoke heart",
+      "tag": "smoke_heart"
+    },
+    {
+      "phrase": "smoke heart detail",
+      "tag": "smoke_heart"
+    },
+    {
+      "phrase": "with smoke heart",
+      "tag": "smoke_heart"
+    },
+    {
+      "phrase": "smoke ring",
+      "tag": "smoke_ring"
+    },
+    {
+      "phrase": "smoke ring detail",
+      "tag": "smoke_ring"
+    },
+    {
+      "phrase": "with smoke ring",
+      "tag": "smoke_ring"
+    },
+    {
+      "phrase": "smoke trail",
+      "tag": "smoke_trail"
+    },
+    {
+      "phrase": "smoke trail detail",
+      "tag": "smoke_trail"
+    },
+    {
+      "phrase": "with smoke trail",
+      "tag": "smoke_trail"
+    },
+    {
+      "phrase": "sound wave",
+      "tag": "sound_wave"
+    },
+    {
+      "phrase": "sound wave detail",
+      "tag": "sound_wave"
+    },
+    {
+      "phrase": "with sound wave",
+      "tag": "sound_wave"
+    },
+    {
+      "phrase": "showing sparkle",
+      "tag": "sparkle"
+    },
+    {
+      "phrase": "sparkle",
+      "tag": "sparkle"
+    },
+    {
+      "phrase": "with sparkle",
+      "tag": "sparkle"
+    },
+    {
+      "phrase": "sparkle censor",
+      "tag": "sparkle_censor"
+    },
+    {
+      "phrase": "sparkle censor detail",
+      "tag": "sparkle_censor"
+    },
+    {
+      "phrase": "with sparkle censor",
+      "tag": "sparkle_censor"
+    },
+    {
+      "phrase": "sparkle print",
+      "tag": "sparkle_print"
+    },
+    {
+      "phrase": "sparkle print detail",
+      "tag": "sparkle_print"
+    },
+    {
+      "phrase": "with sparkle print",
+      "tag": "sparkle_print"
+    },
+    {
+      "phrase": "sparkling aura",
+      "tag": "sparkling_aura"
+    },
+    {
+      "phrase": "sparkling aura detail",
+      "tag": "sparkling_aura"
+    },
+    {
+      "phrase": "with sparkling aura",
+      "tag": "sparkling_aura"
+    },
+    {
+      "phrase": "showing spiked",
+      "tag": "spiked"
+    },
+    {
+      "phrase": "spiked",
+      "tag": "spiked"
+    },
+    {
+      "phrase": "with spiked",
+      "tag": "spiked"
+    },
+    {
+      "phrase": "split theme",
+      "tag": "split_theme"
+    },
+    {
+      "phrase": "split theme detail",
+      "tag": "split_theme"
+    },
+    {
+      "phrase": "with split theme",
+      "tag": "split_theme"
+    },
+    {
+      "phrase": "spoken ellipsis",
+      "tag": "spoken_ellipsis"
+    },
+    {
+      "phrase": "spoken ellipsis detail",
+      "tag": "spoken_ellipsis"
+    },
+    {
+      "phrase": "with spoken ellipsis",
+      "tag": "spoken_ellipsis"
+    },
+    {
+      "phrase": "spoken exclamation mark",
+      "tag": "spoken_exclamation_mark"
+    },
+    {
+      "phrase": "spoken exclamation mark detail",
+      "tag": "spoken_exclamation_mark"
+    },
+    {
+      "phrase": "with spoken exclamation mark",
+      "tag": "spoken_exclamation_mark"
+    },
+    {
+      "phrase": "spoken heart",
+      "tag": "spoken_heart"
+    },
+    {
+      "phrase": "spoken heart detail",
+      "tag": "spoken_heart"
+    },
+    {
+      "phrase": "with spoken heart",
+      "tag": "spoken_heart"
+    },
+    {
+      "phrase": "spoken interrobang",
+      "tag": "spoken_interrobang"
+    },
+    {
+      "phrase": "spoken interrobang detail",
+      "tag": "spoken_interrobang"
+    },
+    {
+      "phrase": "with spoken interrobang",
+      "tag": "spoken_interrobang"
+    },
+    {
+      "phrase": "spoken sparkle",
+      "tag": "spoken_sparkle"
+    },
+    {
+      "phrase": "spoken sparkle detail",
+      "tag": "spoken_sparkle"
+    },
+    {
+      "phrase": "with spoken sparkle",
+      "tag": "spoken_sparkle"
+    },
+    {
+      "phrase": "spot color",
+      "tag": "spot_color"
+    },
+    {
+      "phrase": "spot color detail",
+      "tag": "spot_color"
+    },
+    {
+      "phrase": "with spot color",
+      "tag": "spot_color"
+    },
+    {
+      "phrase": "sprite art",
+      "tag": "sprite_art"
+    },
+    {
+      "phrase": "sprite art detail",
+      "tag": "sprite_art"
+    },
+    {
+      "phrase": "with sprite art",
+      "tag": "sprite_art"
+    },
+    {
+      "phrase": "showing squiggle",
+      "tag": "squiggle"
+    },
+    {
+      "phrase": "squiggle",
+      "tag": "squiggle"
+    },
+    {
+      "phrase": "with squiggle",
+      "tag": "squiggle"
+    },
+    {
+      "phrase": "showing steam",
+      "tag": "steam"
+    },
+    {
+      "phrase": "steam",
+      "tag": "steam"
+    },
+    {
+      "phrase": "with steam",
+      "tag": "steam"
+    },
+    {
+      "phrase": "showing steampunk",
+      "tag": "steampunk"
+    },
+    {
+      "phrase": "steampunk",
+      "tag": "steampunk"
+    },
+    {
+      "phrase": "with steampunk",
+      "tag": "steampunk"
+    },
+    {
+      "phrase": "stenciled rose",
+      "tag": "stenciled_rose"
+    },
+    {
+      "phrase": "stenciled rose detail",
+      "tag": "stenciled_rose"
+    },
+    {
+      "phrase": "with stenciled rose",
+      "tag": "stenciled_rose"
+    },
+    {
+      "phrase": "stick figure",
+      "tag": "stick_figure"
+    },
+    {
+      "phrase": "stick figure detail",
+      "tag": "stick_figure"
+    },
+    {
+      "phrase": "with stick figure",
+      "tag": "stick_figure"
+    },
+    {
+      "phrase": "subsurface scattering",
+      "tag": "subsurface_scattering"
+    },
+    {
+      "phrase": "subsurface scattering detail",
+      "tag": "subsurface_scattering"
+    },
+    {
+      "phrase": "with subsurface scattering",
+      "tag": "subsurface_scattering"
+    },
+    {
+      "phrase": "sugimori ken",
+      "tag": "sugimori_ken_(style)"
+    },
+    {
+      "phrase": "sugimori ken detail",
+      "tag": "sugimori_ken_(style)"
+    },
+    {
+      "phrase": "sugimori ken style",
+      "tag": "sugimori_ken_(style)"
+    },
+    {
+      "phrase": "with sugimori ken",
+      "tag": "sugimori_ken_(style)"
+    },
+    {
+      "phrase": "sunflower petals",
+      "tag": "sunflower_petals"
+    },
+    {
+      "phrase": "sunflower petals detail",
+      "tag": "sunflower_petals"
+    },
+    {
+      "phrase": "with sunflower petals",
+      "tag": "sunflower_petals"
+    },
+    {
+      "phrase": "showing surreal",
+      "tag": "surreal"
+    },
+    {
+      "phrase": "surreal",
+      "tag": "surreal"
+    },
+    {
+      "phrase": "with surreal",
+      "tag": "surreal"
+    },
+    {
+      "phrase": "showing tachihanabishi",
+      "tag": "tachihanabishi"
+    },
+    {
+      "phrase": "tachihanabishi",
+      "tag": "tachihanabishi"
+    },
+    {
+      "phrase": "with tachihanabishi",
+      "tag": "tachihanabishi"
+    },
+    {
+      "phrase": "takemoto izumi",
+      "tag": "takemoto_izumi_(style)"
+    },
+    {
+      "phrase": "takemoto izumi detail",
+      "tag": "takemoto_izumi_(style)"
+    },
+    {
+      "phrase": "takemoto izumi style",
+      "tag": "takemoto_izumi_(style)"
+    },
+    {
+      "phrase": "with takemoto izumi",
+      "tag": "takemoto_izumi_(style)"
+    },
+    {
+      "phrase": "takenami hideyuki",
+      "tag": "takenami_hideyuki_(style)"
+    },
+    {
+      "phrase": "takenami hideyuki detail",
+      "tag": "takenami_hideyuki_(style)"
+    },
+    {
+      "phrase": "takenami hideyuki style",
+      "tag": "takenami_hideyuki_(style)"
+    },
+    {
+      "phrase": "with takenami hideyuki",
+      "tag": "takenami_hideyuki_(style)"
+    },
+    {
+      "phrase": "takeuchi takashi",
+      "tag": "takeuchi_takashi_(style)"
+    },
+    {
+      "phrase": "takeuchi takashi detail",
+      "tag": "takeuchi_takashi_(style)"
+    },
+    {
+      "phrase": "takeuchi takashi style",
+      "tag": "takeuchi_takashi_(style)"
+    },
+    {
+      "phrase": "with takeuchi takashi",
+      "tag": "takeuchi_takashi_(style)"
+    },
+    {
+      "phrase": "tenshi kaiwai",
+      "tag": "tenshi_kaiwai"
+    },
+    {
+      "phrase": "tenshi kaiwai detail",
+      "tag": "tenshi_kaiwai"
+    },
+    {
+      "phrase": "with tenshi kaiwai",
+      "tag": "tenshi_kaiwai"
+    },
+    {
+      "phrase": "thick lineart",
+      "tag": "thick_lineart"
+    },
+    {
+      "phrase": "thick lineart detail",
+      "tag": "thick_lineart"
+    },
+    {
+      "phrase": "with thick lineart",
+      "tag": "thick_lineart"
+    },
+    {
+      "phrase": "thick outlines",
+      "tag": "thick_outlines"
+    },
+    {
+      "phrase": "thick outlines detail",
+      "tag": "thick_outlines"
+    },
+    {
+      "phrase": "with thick outlines",
+      "tag": "thick_outlines"
+    },
+    {
+      "phrase": "tiger stripes",
+      "tag": "tiger_stripes"
+    },
+    {
+      "phrase": "tiger stripes detail",
+      "tag": "tiger_stripes"
+    },
+    {
+      "phrase": "with tiger stripes",
+      "tag": "tiger_stripes"
+    },
+    {
+      "phrase": "showing toon",
+      "tag": "toon_(style)"
+    },
+    {
+      "phrase": "toon",
+      "tag": "toon_(style)"
+    },
+    {
+      "phrase": "toon style",
+      "tag": "toon_(style)"
+    },
+    {
+      "phrase": "with toon",
+      "tag": "toon_(style)"
+    },
+    {
+      "phrase": "toriyama akira",
+      "tag": "toriyama_akira_(style)"
+    },
+    {
+      "phrase": "toriyama akira detail",
+      "tag": "toriyama_akira_(style)"
+    },
+    {
+      "phrase": "toriyama akira style",
+      "tag": "toriyama_akira_(style)"
+    },
+    {
+      "phrase": "with toriyama akira",
+      "tag": "toriyama_akira_(style)"
+    },
+    {
+      "phrase": "showing translucent",
+      "tag": "translucent"
+    },
+    {
+      "phrase": "translucent",
+      "tag": "translucent"
+    },
+    {
+      "phrase": "with translucent",
+      "tag": "translucent"
+    },
+    {
+      "phrase": "showing transparent",
+      "tag": "transparent"
+    },
+    {
+      "phrase": "transparent",
+      "tag": "transparent"
+    },
+    {
+      "phrase": "with transparent",
+      "tag": "transparent"
+    },
+    {
+      "phrase": "showing tribal",
+      "tag": "tribal"
+    },
+    {
+      "phrase": "tribal",
+      "tag": "tribal"
+    },
+    {
+      "phrase": "with tribal",
+      "tag": "tribal"
+    },
+    {
+      "phrase": "trim marks",
+      "tag": "trim_marks"
+    },
+    {
+      "phrase": "trim marks detail",
+      "tag": "trim_marks"
+    },
+    {
+      "phrase": "with trim marks",
+      "tag": "trim_marks"
+    },
+    {
+      "phrase": "showing tropical",
+      "tag": "tropical"
+    },
+    {
+      "phrase": "tropical",
+      "tag": "tropical"
+    },
+    {
+      "phrase": "with tropical",
+      "tag": "tropical"
+    },
+    {
+      "phrase": "two-tone feathers",
+      "tag": "two-tone_feathers"
+    },
+    {
+      "phrase": "two-tone feathers detail",
+      "tag": "two-tone_feathers"
+    },
+    {
+      "phrase": "with two-tone feathers",
+      "tag": "two-tone_feathers"
+    },
+    {
+      "phrase": "ueda masashi",
+      "tag": "ueda_masashi_(style)"
+    },
+    {
+      "phrase": "ueda masashi detail",
+      "tag": "ueda_masashi_(style)"
+    },
+    {
+      "phrase": "ueda masashi style",
+      "tag": "ueda_masashi_(style)"
+    },
+    {
+      "phrase": "with ueda masashi",
+      "tag": "ueda_masashi_(style)"
+    },
+    {
+      "phrase": "showing ukiyo-e",
+      "tag": "ukiyo-e"
+    },
+    {
+      "phrase": "ukiyo-e",
+      "tag": "ukiyo-e"
+    },
+    {
+      "phrase": "with ukiyo-e",
+      "tag": "ukiyo-e"
+    },
+    {
+      "phrase": "ultra instinct sign",
+      "tag": "ultra_instinct_sign"
+    },
+    {
+      "phrase": "ultra instinct sign detail",
+      "tag": "ultra_instinct_sign"
+    },
+    {
+      "phrase": "with ultra instinct sign",
+      "tag": "ultra_instinct_sign"
+    },
+    {
+      "phrase": "under fire",
+      "tag": "under_fire"
+    },
+    {
+      "phrase": "under fire detail",
+      "tag": "under_fire"
+    },
+    {
+      "phrase": "with under fire",
+      "tag": "under_fire"
+    },
+    {
+      "phrase": "unmoving pattern",
+      "tag": "unmoving_pattern"
+    },
+    {
+      "phrase": "unmoving pattern detail",
+      "tag": "unmoving_pattern"
+    },
+    {
+      "phrase": "with unmoving pattern",
+      "tag": "unmoving_pattern"
+    },
+    {
+      "phrase": "showing urban",
+      "tag": "urban"
+    },
+    {
+      "phrase": "urban",
+      "tag": "urban"
+    },
+    {
+      "phrase": "with urban",
+      "tag": "urban"
+    },
+    {
+      "phrase": "showing uroko",
+      "tag": "uroko_(pattern)"
+    },
+    {
+      "phrase": "uroko",
+      "tag": "uroko_(pattern)"
+    },
+    {
+      "phrase": "uroko pattern",
+      "tag": "uroko_(pattern)"
+    },
+    {
+      "phrase": "with uroko",
+      "tag": "uroko_(pattern)"
+    },
+    {
+      "phrase": "showing vanripper",
+      "tag": "vanripper_(style)"
+    },
+    {
+      "phrase": "vanripper",
+      "tag": "vanripper_(style)"
+    },
+    {
+      "phrase": "vanripper style",
+      "tag": "vanripper_(style)"
+    },
+    {
+      "phrase": "with vanripper",
+      "tag": "vanripper_(style)"
+    },
+    {
+      "phrase": "showing vaporwave",
+      "tag": "vaporwave"
+    },
+    {
+      "phrase": "vaporwave",
+      "tag": "vaporwave"
+    },
+    {
+      "phrase": "with vaporwave",
+      "tag": "vaporwave"
+    },
+    {
+      "phrase": "showing walfie",
+      "tag": "walfie_(style)"
+    },
+    {
+      "phrase": "walfie",
+      "tag": "walfie_(style)"
+    },
+    {
+      "phrase": "walfie style",
+      "tag": "walfie_(style)"
+    },
+    {
+      "phrase": "with walfie",
+      "tag": "walfie_(style)"
+    },
+    {
+      "phrase": "warm colored",
+      "tag": "warm_colored"
+    },
+    {
+      "phrase": "warm colored detail",
+      "tag": "warm_colored"
+    },
+    {
+      "phrase": "with warm colored",
+      "tag": "warm_colored"
+    },
+    {
+      "phrase": "western comics",
+      "tag": "western_comics_(style)"
+    },
+    {
+      "phrase": "western comics detail",
+      "tag": "western_comics_(style)"
+    },
+    {
+      "phrase": "western comics style",
+      "tag": "western_comics_(style)"
+    },
+    {
+      "phrase": "with western comics",
+      "tag": "western_comics_(style)"
+    },
+    {
+      "phrase": "white feathers",
+      "tag": "white_feathers"
+    },
+    {
+      "phrase": "white feathers detail",
+      "tag": "white_feathers"
+    },
+    {
+      "phrase": "with white feathers",
+      "tag": "white_feathers"
+    },
+    {
+      "phrase": "white fire",
+      "tag": "white_fire"
+    },
+    {
+      "phrase": "white fire detail",
+      "tag": "white_fire"
+    },
+    {
+      "phrase": "with white fire",
+      "tag": "white_fire"
+    },
+    {
+      "phrase": "white petals",
+      "tag": "white_petals"
+    },
+    {
+      "phrase": "white petals detail",
+      "tag": "white_petals"
+    },
+    {
+      "phrase": "with white petals",
+      "tag": "white_petals"
+    },
+    {
+      "phrase": "white theme",
+      "tag": "white_theme"
+    },
+    {
+      "phrase": "white theme detail",
+      "tag": "white_theme"
+    },
+    {
+      "phrase": "with white theme",
+      "tag": "white_theme"
+    },
+    {
+      "phrase": "with woodland camouflage",
+      "tag": "woodland_camouflage"
+    },
+    {
+      "phrase": "woodland camouflage",
+      "tag": "woodland_camouflage"
+    },
+    {
+      "phrase": "woodland camouflage detail",
+      "tag": "woodland_camouflage"
+    },
+    {
+      "phrase": "with wrinkled fabric",
+      "tag": "wrinkled_fabric"
+    },
+    {
+      "phrase": "wrinkled fabric",
+      "tag": "wrinkled_fabric"
+    },
+    {
+      "phrase": "wrinkled fabric detail",
+      "tag": "wrinkled_fabric"
+    },
+    {
+      "phrase": "showing x-ray",
+      "tag": "x-ray"
+    },
+    {
+      "phrase": "with x-ray",
+      "tag": "x-ray"
+    },
+    {
+      "phrase": "x-ray",
+      "tag": "x-ray"
+    },
+    {
+      "phrase": "showing xiangyun",
+      "tag": "xiangyun"
+    },
+    {
+      "phrase": "with xiangyun",
+      "tag": "xiangyun"
+    },
+    {
+      "phrase": "xiangyun",
+      "tag": "xiangyun"
+    },
+    {
+      "phrase": "with y2k fashion",
+      "tag": "y2k_fashion"
+    },
+    {
+      "phrase": "y2k fashion",
+      "tag": "y2k_fashion"
+    },
+    {
+      "phrase": "y2k fashion detail",
+      "tag": "y2k_fashion"
+    },
+    {
+      "phrase": "showing yagasuri",
+      "tag": "yagasuri"
+    },
+    {
+      "phrase": "with yagasuri",
+      "tag": "yagasuri"
+    },
+    {
+      "phrase": "yagasuri",
+      "tag": "yagasuri"
+    },
+    {
+      "phrase": "with yami kawaii",
+      "tag": "yami_kawaii"
+    },
+    {
+      "phrase": "yami kawaii",
+      "tag": "yami_kawaii"
+    },
+    {
+      "phrase": "yami kawaii detail",
+      "tag": "yami_kawaii"
+    },
+    {
+      "phrase": "with yellow feathers",
+      "tag": "yellow_feathers"
+    },
+    {
+      "phrase": "yellow feathers",
+      "tag": "yellow_feathers"
+    },
+    {
+      "phrase": "yellow feathers detail",
+      "tag": "yellow_feathers"
+    },
+    {
+      "phrase": "with yellow fire",
+      "tag": "yellow_fire"
+    },
+    {
+      "phrase": "yellow fire",
+      "tag": "yellow_fire"
+    },
+    {
+      "phrase": "yellow fire detail",
+      "tag": "yellow_fire"
+    },
+    {
+      "phrase": "with yellow petals",
+      "tag": "yellow_petals"
+    },
+    {
+      "phrase": "yellow petals",
+      "tag": "yellow_petals"
+    },
+    {
+      "phrase": "yellow petals detail",
+      "tag": "yellow_petals"
+    },
+    {
+      "phrase": "with yellow theme",
+      "tag": "yellow_theme"
+    },
+    {
+      "phrase": "yellow theme",
+      "tag": "yellow_theme"
+    },
+    {
+      "phrase": "yellow theme detail",
+      "tag": "yellow_theme"
+    },
+    {
+      "phrase": "with yin yang",
+      "tag": "yin_yang"
+    },
+    {
+      "phrase": "yin yang",
+      "tag": "yin_yang"
+    },
+    {
+      "phrase": "yin yang detail",
+      "tag": "yin_yang"
+    },
+    {
+      "phrase": "with yume kawaii",
+      "tag": "yume_kawaii"
+    },
+    {
+      "phrase": "yume kawaii",
+      "tag": "yume_kawaii"
+    },
+    {
+      "phrase": "yume kawaii detail",
+      "tag": "yume_kawaii"
+    },
+    {
+      "phrase": "showing zun",
+      "tag": "zun_(style)"
+    },
+    {
+      "phrase": "with zun",
+      "tag": "zun_(style)"
+    },
+    {
+      "phrase": "zun",
+      "tag": "zun_(style)"
+    },
+    {
+      "phrase": "zun style",
+      "tag": "zun_(style)"
+    },
+    {
+      "phrase": "showing zzz",
+      "tag": "zzz"
+    },
+    {
+      "phrase": "with zzz",
+      "tag": "zzz"
+    },
+    {
+      "phrase": "zzz",
+      "tag": "zzz"
+    }
+  ]
+}

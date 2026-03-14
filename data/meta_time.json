@@ -1,0 +1,572 @@
+{
+  "items": [
+    {
+      "phrase": "at colonial",
+      "tag": "Colonial"
+    },
+    {
+      "phrase": "colonial",
+      "tag": "Colonial"
+    },
+    {
+      "phrase": "colonial scene",
+      "tag": "Colonial"
+    },
+    {
+      "phrase": "at contemporary",
+      "tag": "Contemporary"
+    },
+    {
+      "phrase": "contemporary",
+      "tag": "Contemporary"
+    },
+    {
+      "phrase": "contemporary scene",
+      "tag": "Contemporary"
+    },
+    {
+      "phrase": "at future",
+      "tag": "Future"
+    },
+    {
+      "phrase": "future",
+      "tag": "Future"
+    },
+    {
+      "phrase": "future scene",
+      "tag": "Future"
+    },
+    {
+      "phrase": "at industrial revolution",
+      "tag": "Industrial_Revolution"
+    },
+    {
+      "phrase": "industrial revolution",
+      "tag": "Industrial_Revolution"
+    },
+    {
+      "phrase": "industrial revolution scene",
+      "tag": "Industrial_Revolution"
+    },
+    {
+      "phrase": "at medieval",
+      "tag": "Medieval"
+    },
+    {
+      "phrase": "medieval",
+      "tag": "Medieval"
+    },
+    {
+      "phrase": "medieval scene",
+      "tag": "Medieval"
+    },
+    {
+      "phrase": "at modern",
+      "tag": "Modern"
+    },
+    {
+      "phrase": "modern",
+      "tag": "Modern"
+    },
+    {
+      "phrase": "modern scene",
+      "tag": "Modern"
+    },
+    {
+      "phrase": "at past",
+      "tag": "Past"
+    },
+    {
+      "phrase": "past",
+      "tag": "Past"
+    },
+    {
+      "phrase": "past scene",
+      "tag": "Past"
+    },
+    {
+      "phrase": "at postmodern",
+      "tag": "Postmodern"
+    },
+    {
+      "phrase": "postmodern",
+      "tag": "Postmodern"
+    },
+    {
+      "phrase": "postmodern scene",
+      "tag": "Postmodern"
+    },
+    {
+      "phrase": "at pre-colonial",
+      "tag": "Pre-Colonial"
+    },
+    {
+      "phrase": "pre-colonial",
+      "tag": "Pre-Colonial"
+    },
+    {
+      "phrase": "pre-colonial scene",
+      "tag": "Pre-Colonial"
+    },
+    {
+      "phrase": "at prehistoric",
+      "tag": "Prehistoric"
+    },
+    {
+      "phrase": "prehistoric",
+      "tag": "Prehistoric"
+    },
+    {
+      "phrase": "prehistoric scene",
+      "tag": "Prehistoric"
+    },
+    {
+      "phrase": "at present",
+      "tag": "Present"
+    },
+    {
+      "phrase": "present",
+      "tag": "Present"
+    },
+    {
+      "phrase": "present scene",
+      "tag": "Present"
+    },
+    {
+      "phrase": "at renaissance",
+      "tag": "Renaissance"
+    },
+    {
+      "phrase": "renaissance",
+      "tag": "Renaissance"
+    },
+    {
+      "phrase": "renaissance scene",
+      "tag": "Renaissance"
+    },
+    {
+      "phrase": "at temporal",
+      "tag": "Temporal"
+    },
+    {
+      "phrase": "temporal",
+      "tag": "Temporal"
+    },
+    {
+      "phrase": "temporal scene",
+      "tag": "Temporal"
+    },
+    {
+      "phrase": "at timeless",
+      "tag": "Timeless"
+    },
+    {
+      "phrase": "timeless",
+      "tag": "Timeless"
+    },
+    {
+      "phrase": "timeless scene",
+      "tag": "Timeless"
+    },
+    {
+      "phrase": "at victorian",
+      "tag": "Victorian"
+    },
+    {
+      "phrase": "victorian",
+      "tag": "Victorian"
+    },
+    {
+      "phrase": "victorian scene",
+      "tag": "Victorian"
+    },
+    {
+      "phrase": "april",
+      "tag": "april"
+    },
+    {
+      "phrase": "april scene",
+      "tag": "april"
+    },
+    {
+      "phrase": "at april",
+      "tag": "april"
+    },
+    {
+      "phrase": "at august",
+      "tag": "august"
+    },
+    {
+      "phrase": "august",
+      "tag": "august"
+    },
+    {
+      "phrase": "august scene",
+      "tag": "august"
+    },
+    {
+      "phrase": "at autumn",
+      "tag": "autumn"
+    },
+    {
+      "phrase": "autumn",
+      "tag": "autumn"
+    },
+    {
+      "phrase": "autumn scene",
+      "tag": "autumn"
+    },
+    {
+      "phrase": "at coronavirus pandemic",
+      "tag": "coronavirus_pandemic"
+    },
+    {
+      "phrase": "coronavirus pandemic",
+      "tag": "coronavirus_pandemic"
+    },
+    {
+      "phrase": "coronavirus pandemic scene",
+      "tag": "coronavirus_pandemic"
+    },
+    {
+      "phrase": "at december",
+      "tag": "december"
+    },
+    {
+      "phrase": "december",
+      "tag": "december"
+    },
+    {
+      "phrase": "december scene",
+      "tag": "december"
+    },
+    {
+      "phrase": "at february",
+      "tag": "february"
+    },
+    {
+      "phrase": "february",
+      "tag": "february"
+    },
+    {
+      "phrase": "february scene",
+      "tag": "february"
+    },
+    {
+      "phrase": "at golden week",
+      "tag": "golden_week"
+    },
+    {
+      "phrase": "golden week",
+      "tag": "golden_week"
+    },
+    {
+      "phrase": "golden week scene",
+      "tag": "golden_week"
+    },
+    {
+      "phrase": "at hatsuyume",
+      "tag": "hatsuyume"
+    },
+    {
+      "phrase": "hatsuyume",
+      "tag": "hatsuyume"
+    },
+    {
+      "phrase": "hatsuyume scene",
+      "tag": "hatsuyume"
+    },
+    {
+      "phrase": "at heian",
+      "tag": "heian"
+    },
+    {
+      "phrase": "heian",
+      "tag": "heian"
+    },
+    {
+      "phrase": "heian scene",
+      "tag": "heian"
+    },
+    {
+      "phrase": "at heisei",
+      "tag": "heisei"
+    },
+    {
+      "phrase": "heisei",
+      "tag": "heisei"
+    },
+    {
+      "phrase": "heisei scene",
+      "tag": "heisei"
+    },
+    {
+      "phrase": "at january",
+      "tag": "january"
+    },
+    {
+      "phrase": "january",
+      "tag": "january"
+    },
+    {
+      "phrase": "january scene",
+      "tag": "january"
+    },
+    {
+      "phrase": "at july",
+      "tag": "july"
+    },
+    {
+      "phrase": "july",
+      "tag": "july"
+    },
+    {
+      "phrase": "july scene",
+      "tag": "july"
+    },
+    {
+      "phrase": "at june",
+      "tag": "june"
+    },
+    {
+      "phrase": "june",
+      "tag": "june"
+    },
+    {
+      "phrase": "june scene",
+      "tag": "june"
+    },
+    {
+      "phrase": "at march",
+      "tag": "march"
+    },
+    {
+      "phrase": "march",
+      "tag": "march"
+    },
+    {
+      "phrase": "march scene",
+      "tag": "march"
+    },
+    {
+      "phrase": "at mid-autumn festival",
+      "tag": "mid-autumn_festival"
+    },
+    {
+      "phrase": "mid-autumn festival",
+      "tag": "mid-autumn_festival"
+    },
+    {
+      "phrase": "mid-autumn festival scene",
+      "tag": "mid-autumn_festival"
+    },
+    {
+      "phrase": "at november",
+      "tag": "november"
+    },
+    {
+      "phrase": "november",
+      "tag": "november"
+    },
+    {
+      "phrase": "november scene",
+      "tag": "november"
+    },
+    {
+      "phrase": "at october",
+      "tag": "october"
+    },
+    {
+      "phrase": "october",
+      "tag": "october"
+    },
+    {
+      "phrase": "october scene",
+      "tag": "october"
+    },
+    {
+      "phrase": "at reiwa",
+      "tag": "reiwa"
+    },
+    {
+      "phrase": "reiwa",
+      "tag": "reiwa"
+    },
+    {
+      "phrase": "reiwa scene",
+      "tag": "reiwa"
+    },
+    {
+      "phrase": "at seasons",
+      "tag": "seasons"
+    },
+    {
+      "phrase": "seasons",
+      "tag": "seasons"
+    },
+    {
+      "phrase": "seasons scene",
+      "tag": "seasons"
+    },
+    {
+      "phrase": "at september",
+      "tag": "september"
+    },
+    {
+      "phrase": "september",
+      "tag": "september"
+    },
+    {
+      "phrase": "september scene",
+      "tag": "september"
+    },
+    {
+      "phrase": "at spring",
+      "tag": "spring_(season)"
+    },
+    {
+      "phrase": "spring",
+      "tag": "spring_(season)"
+    },
+    {
+      "phrase": "spring scene",
+      "tag": "spring_(season)"
+    },
+    {
+      "phrase": "spring season",
+      "tag": "spring_(season)"
+    },
+    {
+      "phrase": "at taishou",
+      "tag": "taishou"
+    },
+    {
+      "phrase": "taishou",
+      "tag": "taishou"
+    },
+    {
+      "phrase": "taishou scene",
+      "tag": "taishou"
+    },
+    {
+      "phrase": "at time paradox",
+      "tag": "time_paradox"
+    },
+    {
+      "phrase": "time paradox",
+      "tag": "time_paradox"
+    },
+    {
+      "phrase": "time paradox scene",
+      "tag": "time_paradox"
+    },
+    {
+      "phrase": "at world war i",
+      "tag": "world_war_i"
+    },
+    {
+      "phrase": "world war i",
+      "tag": "world_war_i"
+    },
+    {
+      "phrase": "world war i scene",
+      "tag": "world_war_i"
+    },
+    {
+      "phrase": "at year of the goat",
+      "tag": "year_of_the_goat"
+    },
+    {
+      "phrase": "year of the goat",
+      "tag": "year_of_the_goat"
+    },
+    {
+      "phrase": "year of the goat scene",
+      "tag": "year_of_the_goat"
+    },
+    {
+      "phrase": "at year of the monkey",
+      "tag": "year_of_the_monkey"
+    },
+    {
+      "phrase": "year of the monkey",
+      "tag": "year_of_the_monkey"
+    },
+    {
+      "phrase": "year of the monkey scene",
+      "tag": "year_of_the_monkey"
+    },
+    {
+      "phrase": "at year of the ox",
+      "tag": "year_of_the_ox"
+    },
+    {
+      "phrase": "year of the ox",
+      "tag": "year_of_the_ox"
+    },
+    {
+      "phrase": "year of the ox scene",
+      "tag": "year_of_the_ox"
+    },
+    {
+      "phrase": "at year of the pig",
+      "tag": "year_of_the_pig"
+    },
+    {
+      "phrase": "year of the pig",
+      "tag": "year_of_the_pig"
+    },
+    {
+      "phrase": "year of the pig scene",
+      "tag": "year_of_the_pig"
+    },
+    {
+      "phrase": "at year of the rat",
+      "tag": "year_of_the_rat"
+    },
+    {
+      "phrase": "year of the rat",
+      "tag": "year_of_the_rat"
+    },
+    {
+      "phrase": "year of the rat scene",
+      "tag": "year_of_the_rat"
+    },
+    {
+      "phrase": "at year of the rooster",
+      "tag": "year_of_the_rooster"
+    },
+    {
+      "phrase": "year of the rooster",
+      "tag": "year_of_the_rooster"
+    },
+    {
+      "phrase": "year of the rooster scene",
+      "tag": "year_of_the_rooster"
+    },
+    {
+      "phrase": "at year of the snake",
+      "tag": "year_of_the_snake"
+    },
+    {
+      "phrase": "year of the snake",
+      "tag": "year_of_the_snake"
+    },
+    {
+      "phrase": "year of the snake scene",
+      "tag": "year_of_the_snake"
+    },
+    {
+      "phrase": "at year of the tiger",
+      "tag": "year_of_the_tiger"
+    },
+    {
+      "phrase": "year of the tiger",
+      "tag": "year_of_the_tiger"
+    },
+    {
+      "phrase": "year of the tiger scene",
+      "tag": "year_of_the_tiger"
+    }
+  ]
+}

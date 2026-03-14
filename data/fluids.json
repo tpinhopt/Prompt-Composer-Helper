@@ -1,0 +1,1996 @@
+{
+  "items": [
+    {
+      "phrase": "after rain",
+      "tag": "after_rain"
+    },
+    {
+      "phrase": "after rain visible",
+      "tag": "after_rain"
+    },
+    {
+      "phrase": "with after rain",
+      "tag": "after_rain"
+    },
+    {
+      "phrase": "ambiguous red liquid",
+      "tag": "ambiguous_red_liquid"
+    },
+    {
+      "phrase": "ambiguous red liquid visible",
+      "tag": "ambiguous_red_liquid"
+    },
+    {
+      "phrase": "with ambiguous red liquid",
+      "tag": "ambiguous_red_liquid"
+    },
+    {
+      "phrase": "aqua blood",
+      "tag": "aqua_blood"
+    },
+    {
+      "phrase": "aqua blood visible",
+      "tag": "aqua_blood"
+    },
+    {
+      "phrase": "with aqua blood",
+      "tag": "aqua_blood"
+    },
+    {
+      "phrase": "bath of blood",
+      "tag": "bath_of_blood"
+    },
+    {
+      "phrase": "bath of blood visible",
+      "tag": "bath_of_blood"
+    },
+    {
+      "phrase": "with bath of blood",
+      "tag": "bath_of_blood"
+    },
+    {
+      "phrase": "bedwetting",
+      "tag": "bedwetting"
+    },
+    {
+      "phrase": "bedwetting visible",
+      "tag": "bedwetting"
+    },
+    {
+      "phrase": "with bedwetting",
+      "tag": "bedwetting"
+    },
+    {
+      "phrase": "bizarre rain",
+      "tag": "bizarre_rain"
+    },
+    {
+      "phrase": "bizarre rain visible",
+      "tag": "bizarre_rain"
+    },
+    {
+      "phrase": "with bizarre rain",
+      "tag": "bizarre_rain"
+    },
+    {
+      "phrase": "black blood",
+      "tag": "black_blood"
+    },
+    {
+      "phrase": "black blood visible",
+      "tag": "black_blood"
+    },
+    {
+      "phrase": "with black blood",
+      "tag": "black_blood"
+    },
+    {
+      "phrase": "black liquid",
+      "tag": "black_liquid"
+    },
+    {
+      "phrase": "black liquid visible",
+      "tag": "black_liquid"
+    },
+    {
+      "phrase": "with black liquid",
+      "tag": "black_liquid"
+    },
+    {
+      "phrase": "black tears",
+      "tag": "black_tears"
+    },
+    {
+      "phrase": "black tears visible",
+      "tag": "black_tears"
+    },
+    {
+      "phrase": "with black tears",
+      "tag": "black_tears"
+    },
+    {
+      "phrase": "bleeding",
+      "tag": "bleeding"
+    },
+    {
+      "phrase": "bleeding visible",
+      "tag": "bleeding"
+    },
+    {
+      "phrase": "with bleeding",
+      "tag": "bleeding"
+    },
+    {
+      "phrase": "blood",
+      "tag": "blood"
+    },
+    {
+      "phrase": "blood visible",
+      "tag": "blood"
+    },
+    {
+      "phrase": "with blood",
+      "tag": "blood"
+    },
+    {
+      "phrase": "blood censor",
+      "tag": "blood_censor"
+    },
+    {
+      "phrase": "blood censor visible",
+      "tag": "blood_censor"
+    },
+    {
+      "phrase": "with blood censor",
+      "tag": "blood_censor"
+    },
+    {
+      "phrase": "blood drip",
+      "tag": "blood_drip"
+    },
+    {
+      "phrase": "blood drip visible",
+      "tag": "blood_drip"
+    },
+    {
+      "phrase": "with blood drip",
+      "tag": "blood_drip"
+    },
+    {
+      "phrase": "blood drop",
+      "tag": "blood_drop"
+    },
+    {
+      "phrase": "blood drop visible",
+      "tag": "blood_drop"
+    },
+    {
+      "phrase": "with blood drop",
+      "tag": "blood_drop"
+    },
+    {
+      "phrase": "blood from ears",
+      "tag": "blood_from_ears"
+    },
+    {
+      "phrase": "blood from ears visible",
+      "tag": "blood_from_ears"
+    },
+    {
+      "phrase": "with blood from ears",
+      "tag": "blood_from_ears"
+    },
+    {
+      "phrase": "blood from forehead",
+      "tag": "blood_from_forehead"
+    },
+    {
+      "phrase": "blood from forehead visible",
+      "tag": "blood_from_forehead"
+    },
+    {
+      "phrase": "with blood from forehead",
+      "tag": "blood_from_forehead"
+    },
+    {
+      "phrase": "blood from neck",
+      "tag": "blood_from_neck"
+    },
+    {
+      "phrase": "blood from neck visible",
+      "tag": "blood_from_neck"
+    },
+    {
+      "phrase": "with blood from neck",
+      "tag": "blood_from_neck"
+    },
+    {
+      "phrase": "blood from vagina",
+      "tag": "blood_from_vagina"
+    },
+    {
+      "phrase": "blood from vagina visible",
+      "tag": "blood_from_vagina"
+    },
+    {
+      "phrase": "with blood from vagina",
+      "tag": "blood_from_vagina"
+    },
+    {
+      "phrase": "blood in hair",
+      "tag": "blood_in_hair"
+    },
+    {
+      "phrase": "blood in hair visible",
+      "tag": "blood_in_hair"
+    },
+    {
+      "phrase": "with blood in hair",
+      "tag": "blood_in_hair"
+    },
+    {
+      "phrase": "blood in mouth",
+      "tag": "blood_in_mouth"
+    },
+    {
+      "phrase": "blood in mouth visible",
+      "tag": "blood_in_mouth"
+    },
+    {
+      "phrase": "with blood in mouth",
+      "tag": "blood_in_mouth"
+    },
+    {
+      "phrase": "blood in water",
+      "tag": "blood_in_water"
+    },
+    {
+      "phrase": "blood in water visible",
+      "tag": "blood_in_water"
+    },
+    {
+      "phrase": "with blood in water",
+      "tag": "blood_in_water"
+    },
+    {
+      "phrase": "blood on arm",
+      "tag": "blood_on_arm"
+    },
+    {
+      "phrase": "blood on arm visible",
+      "tag": "blood_on_arm"
+    },
+    {
+      "phrase": "with blood on arm",
+      "tag": "blood_on_arm"
+    },
+    {
+      "phrase": "blood on armor",
+      "tag": "blood_on_armor"
+    },
+    {
+      "phrase": "blood on armor visible",
+      "tag": "blood_on_armor"
+    },
+    {
+      "phrase": "with blood on armor",
+      "tag": "blood_on_armor"
+    },
+    {
+      "phrase": "blood on axe",
+      "tag": "blood_on_axe"
+    },
+    {
+      "phrase": "blood on axe visible",
+      "tag": "blood_on_axe"
+    },
+    {
+      "phrase": "with blood on axe",
+      "tag": "blood_on_axe"
+    },
+    {
+      "phrase": "blood on back",
+      "tag": "blood_on_back"
+    },
+    {
+      "phrase": "blood on back visible",
+      "tag": "blood_on_back"
+    },
+    {
+      "phrase": "with blood on back",
+      "tag": "blood_on_back"
+    },
+    {
+      "phrase": "blood on bandages",
+      "tag": "blood_on_bandages"
+    },
+    {
+      "phrase": "blood on bandages visible",
+      "tag": "blood_on_bandages"
+    },
+    {
+      "phrase": "with blood on bandages",
+      "tag": "blood_on_bandages"
+    },
+    {
+      "phrase": "blood on bed",
+      "tag": "blood_on_bed"
+    },
+    {
+      "phrase": "blood on bed visible",
+      "tag": "blood_on_bed"
+    },
+    {
+      "phrase": "with blood on bed",
+      "tag": "blood_on_bed"
+    },
+    {
+      "phrase": "blood on body",
+      "tag": "blood_on_body"
+    },
+    {
+      "phrase": "blood on body visible",
+      "tag": "blood_on_body"
+    },
+    {
+      "phrase": "with blood on body",
+      "tag": "blood_on_body"
+    },
+    {
+      "phrase": "blood on breasts",
+      "tag": "blood_on_breasts"
+    },
+    {
+      "phrase": "blood on breasts visible",
+      "tag": "blood_on_breasts"
+    },
+    {
+      "phrase": "with blood on breasts",
+      "tag": "blood_on_breasts"
+    },
+    {
+      "phrase": "blood on cheek",
+      "tag": "blood_on_cheek"
+    },
+    {
+      "phrase": "blood on cheek visible",
+      "tag": "blood_on_cheek"
+    },
+    {
+      "phrase": "with blood on cheek",
+      "tag": "blood_on_cheek"
+    },
+    {
+      "phrase": "blood on chest",
+      "tag": "blood_on_chest"
+    },
+    {
+      "phrase": "blood on chest visible",
+      "tag": "blood_on_chest"
+    },
+    {
+      "phrase": "with blood on chest",
+      "tag": "blood_on_chest"
+    },
+    {
+      "phrase": "blood on clothes",
+      "tag": "blood_on_clothes"
+    },
+    {
+      "phrase": "blood on clothes visible",
+      "tag": "blood_on_clothes"
+    },
+    {
+      "phrase": "with blood on clothes",
+      "tag": "blood_on_clothes"
+    },
+    {
+      "phrase": "blood on dress",
+      "tag": "blood_on_dress"
+    },
+    {
+      "phrase": "blood on dress visible",
+      "tag": "blood_on_dress"
+    },
+    {
+      "phrase": "with blood on dress",
+      "tag": "blood_on_dress"
+    },
+    {
+      "phrase": "blood on ears",
+      "tag": "blood_on_ears"
+    },
+    {
+      "phrase": "blood on ears visible",
+      "tag": "blood_on_ears"
+    },
+    {
+      "phrase": "with blood on ears",
+      "tag": "blood_on_ears"
+    },
+    {
+      "phrase": "blood on eyewear",
+      "tag": "blood_on_eyewear"
+    },
+    {
+      "phrase": "blood on eyewear visible",
+      "tag": "blood_on_eyewear"
+    },
+    {
+      "phrase": "with blood on eyewear",
+      "tag": "blood_on_eyewear"
+    },
+    {
+      "phrase": "blood on face",
+      "tag": "blood_on_face"
+    },
+    {
+      "phrase": "blood on face visible",
+      "tag": "blood_on_face"
+    },
+    {
+      "phrase": "with blood on face",
+      "tag": "blood_on_face"
+    },
+    {
+      "phrase": "blood on feet",
+      "tag": "blood_on_feet"
+    },
+    {
+      "phrase": "blood on feet visible",
+      "tag": "blood_on_feet"
+    },
+    {
+      "phrase": "with blood on feet",
+      "tag": "blood_on_feet"
+    },
+    {
+      "phrase": "blood on flower",
+      "tag": "blood_on_flower"
+    },
+    {
+      "phrase": "blood on flower visible",
+      "tag": "blood_on_flower"
+    },
+    {
+      "phrase": "with blood on flower",
+      "tag": "blood_on_flower"
+    },
+    {
+      "phrase": "blood on glass",
+      "tag": "blood_on_glass"
+    },
+    {
+      "phrase": "blood on glass visible",
+      "tag": "blood_on_glass"
+    },
+    {
+      "phrase": "with blood on glass",
+      "tag": "blood_on_glass"
+    },
+    {
+      "phrase": "blood on ground",
+      "tag": "blood_on_ground"
+    },
+    {
+      "phrase": "blood on ground visible",
+      "tag": "blood_on_ground"
+    },
+    {
+      "phrase": "with blood on ground",
+      "tag": "blood_on_ground"
+    },
+    {
+      "phrase": "blood on hands",
+      "tag": "blood_on_hands"
+    },
+    {
+      "phrase": "blood on hands visible",
+      "tag": "blood_on_hands"
+    },
+    {
+      "phrase": "with blood on hands",
+      "tag": "blood_on_hands"
+    },
+    {
+      "phrase": "blood on hat",
+      "tag": "blood_on_hat"
+    },
+    {
+      "phrase": "blood on hat visible",
+      "tag": "blood_on_hat"
+    },
+    {
+      "phrase": "with blood on hat",
+      "tag": "blood_on_hat"
+    },
+    {
+      "phrase": "blood on knife",
+      "tag": "blood_on_knife"
+    },
+    {
+      "phrase": "blood on knife visible",
+      "tag": "blood_on_knife"
+    },
+    {
+      "phrase": "with blood on knife",
+      "tag": "blood_on_knife"
+    },
+    {
+      "phrase": "blood on leg",
+      "tag": "blood_on_leg"
+    },
+    {
+      "phrase": "blood on leg visible",
+      "tag": "blood_on_leg"
+    },
+    {
+      "phrase": "with blood on leg",
+      "tag": "blood_on_leg"
+    },
+    {
+      "phrase": "blood on mask",
+      "tag": "blood_on_mask"
+    },
+    {
+      "phrase": "blood on mask visible",
+      "tag": "blood_on_mask"
+    },
+    {
+      "phrase": "with blood on mask",
+      "tag": "blood_on_mask"
+    },
+    {
+      "phrase": "blood on mirror",
+      "tag": "blood_on_mirror"
+    },
+    {
+      "phrase": "blood on mirror visible",
+      "tag": "blood_on_mirror"
+    },
+    {
+      "phrase": "with blood on mirror",
+      "tag": "blood_on_mirror"
+    },
+    {
+      "phrase": "blood on neck",
+      "tag": "blood_on_neck"
+    },
+    {
+      "phrase": "blood on neck visible",
+      "tag": "blood_on_neck"
+    },
+    {
+      "phrase": "with blood on neck",
+      "tag": "blood_on_neck"
+    },
+    {
+      "phrase": "blood on object",
+      "tag": "blood_on_object"
+    },
+    {
+      "phrase": "blood on object visible",
+      "tag": "blood_on_object"
+    },
+    {
+      "phrase": "with blood on object",
+      "tag": "blood_on_object"
+    },
+    {
+      "phrase": "blood on paper",
+      "tag": "blood_on_paper"
+    },
+    {
+      "phrase": "blood on paper visible",
+      "tag": "blood_on_paper"
+    },
+    {
+      "phrase": "with blood on paper",
+      "tag": "blood_on_paper"
+    },
+    {
+      "phrase": "blood on pectorals",
+      "tag": "blood_on_pectorals"
+    },
+    {
+      "phrase": "blood on pectorals visible",
+      "tag": "blood_on_pectorals"
+    },
+    {
+      "phrase": "with blood on pectorals",
+      "tag": "blood_on_pectorals"
+    },
+    {
+      "phrase": "blood on penis",
+      "tag": "blood_on_penis"
+    },
+    {
+      "phrase": "blood on penis visible",
+      "tag": "blood_on_penis"
+    },
+    {
+      "phrase": "with blood on penis",
+      "tag": "blood_on_penis"
+    },
+    {
+      "phrase": "blood on shoes",
+      "tag": "blood_on_shoes"
+    },
+    {
+      "phrase": "blood on shoes visible",
+      "tag": "blood_on_shoes"
+    },
+    {
+      "phrase": "with blood on shoes",
+      "tag": "blood_on_shoes"
+    },
+    {
+      "phrase": "blood on shoulder",
+      "tag": "blood_on_shoulder"
+    },
+    {
+      "phrase": "blood on shoulder visible",
+      "tag": "blood_on_shoulder"
+    },
+    {
+      "phrase": "with blood on shoulder",
+      "tag": "blood_on_shoulder"
+    },
+    {
+      "phrase": "blood on sleeves",
+      "tag": "blood_on_sleeves"
+    },
+    {
+      "phrase": "blood on sleeves visible",
+      "tag": "blood_on_sleeves"
+    },
+    {
+      "phrase": "with blood on sleeves",
+      "tag": "blood_on_sleeves"
+    },
+    {
+      "phrase": "blood on snow",
+      "tag": "blood_on_snow"
+    },
+    {
+      "phrase": "blood on snow visible",
+      "tag": "blood_on_snow"
+    },
+    {
+      "phrase": "with blood on snow",
+      "tag": "blood_on_snow"
+    },
+    {
+      "phrase": "blood on stomach",
+      "tag": "blood_on_stomach"
+    },
+    {
+      "phrase": "blood on stomach visible",
+      "tag": "blood_on_stomach"
+    },
+    {
+      "phrase": "with blood on stomach",
+      "tag": "blood_on_stomach"
+    },
+    {
+      "phrase": "blood on tail",
+      "tag": "blood_on_tail"
+    },
+    {
+      "phrase": "blood on tail visible",
+      "tag": "blood_on_tail"
+    },
+    {
+      "phrase": "with blood on tail",
+      "tag": "blood_on_tail"
+    },
+    {
+      "phrase": "blood on tool",
+      "tag": "blood_on_tool"
+    },
+    {
+      "phrase": "blood on tool visible",
+      "tag": "blood_on_tool"
+    },
+    {
+      "phrase": "with blood on tool",
+      "tag": "blood_on_tool"
+    },
+    {
+      "phrase": "blood on wall",
+      "tag": "blood_on_wall"
+    },
+    {
+      "phrase": "blood on wall visible",
+      "tag": "blood_on_wall"
+    },
+    {
+      "phrase": "with blood on wall",
+      "tag": "blood_on_wall"
+    },
+    {
+      "phrase": "blood on weapon",
+      "tag": "blood_on_weapon"
+    },
+    {
+      "phrase": "blood on weapon visible",
+      "tag": "blood_on_weapon"
+    },
+    {
+      "phrase": "with blood on weapon",
+      "tag": "blood_on_weapon"
+    },
+    {
+      "phrase": "blood on window",
+      "tag": "blood_on_window"
+    },
+    {
+      "phrase": "blood on window visible",
+      "tag": "blood_on_window"
+    },
+    {
+      "phrase": "with blood on window",
+      "tag": "blood_on_window"
+    },
+    {
+      "phrase": "blood splatter",
+      "tag": "blood_splatter"
+    },
+    {
+      "phrase": "blood splatter visible",
+      "tag": "blood_splatter"
+    },
+    {
+      "phrase": "with blood splatter",
+      "tag": "blood_splatter"
+    },
+    {
+      "phrase": "blood spray",
+      "tag": "blood_spray"
+    },
+    {
+      "phrase": "blood spray visible",
+      "tag": "blood_spray"
+    },
+    {
+      "phrase": "with blood spray",
+      "tag": "blood_spray"
+    },
+    {
+      "phrase": "blood stain",
+      "tag": "blood_stain"
+    },
+    {
+      "phrase": "blood stain visible",
+      "tag": "blood_stain"
+    },
+    {
+      "phrase": "with blood stain",
+      "tag": "blood_stain"
+    },
+    {
+      "phrase": "blood string",
+      "tag": "blood_string"
+    },
+    {
+      "phrase": "blood string visible",
+      "tag": "blood_string"
+    },
+    {
+      "phrase": "with blood string",
+      "tag": "blood_string"
+    },
+    {
+      "phrase": "blood trail",
+      "tag": "blood_trail"
+    },
+    {
+      "phrase": "blood trail visible",
+      "tag": "blood_trail"
+    },
+    {
+      "phrase": "with blood trail",
+      "tag": "blood_trail"
+    },
+    {
+      "phrase": "blood vessels",
+      "tag": "blood_vessels"
+    },
+    {
+      "phrase": "blood vessels visible",
+      "tag": "blood_vessels"
+    },
+    {
+      "phrase": "with blood vessels",
+      "tag": "blood_vessels"
+    },
+    {
+      "phrase": "blood wings",
+      "tag": "blood_wings"
+    },
+    {
+      "phrase": "blood wings visible",
+      "tag": "blood_wings"
+    },
+    {
+      "phrase": "with blood wings",
+      "tag": "blood_wings"
+    },
+    {
+      "phrase": "blue blood",
+      "tag": "blue_blood"
+    },
+    {
+      "phrase": "blue blood visible",
+      "tag": "blue_blood"
+    },
+    {
+      "phrase": "with blue blood",
+      "tag": "blue_blood"
+    },
+    {
+      "phrase": "cheese trail",
+      "tag": "cheese_trail"
+    },
+    {
+      "phrase": "cheese trail visible",
+      "tag": "cheese_trail"
+    },
+    {
+      "phrase": "with cheese trail",
+      "tag": "cheese_trail"
+    },
+    {
+      "phrase": "chocolate syrup",
+      "tag": "chocolate_syrup"
+    },
+    {
+      "phrase": "chocolate syrup visible",
+      "tag": "chocolate_syrup"
+    },
+    {
+      "phrase": "with chocolate syrup",
+      "tag": "chocolate_syrup"
+    },
+    {
+      "phrase": "colored tears",
+      "tag": "colored_tears"
+    },
+    {
+      "phrase": "colored tears visible",
+      "tag": "colored_tears"
+    },
+    {
+      "phrase": "with colored tears",
+      "tag": "colored_tears"
+    },
+    {
+      "phrase": "cream",
+      "tag": "cream"
+    },
+    {
+      "phrase": "cream visible",
+      "tag": "cream"
+    },
+    {
+      "phrase": "with cream",
+      "tag": "cream"
+    },
+    {
+      "phrase": "digital rain",
+      "tag": "digital_rain"
+    },
+    {
+      "phrase": "digital rain visible",
+      "tag": "digital_rain"
+    },
+    {
+      "phrase": "with digital rain",
+      "tag": "digital_rain"
+    },
+    {
+      "phrase": "dried blood",
+      "tag": "dried_blood"
+    },
+    {
+      "phrase": "dried blood visible",
+      "tag": "dried_blood"
+    },
+    {
+      "phrase": "with dried blood",
+      "tag": "dried_blood"
+    },
+    {
+      "phrase": "dripping sweat",
+      "tag": "dripping_sweat"
+    },
+    {
+      "phrase": "dripping sweat visible",
+      "tag": "dripping_sweat"
+    },
+    {
+      "phrase": "with dripping sweat",
+      "tag": "dripping_sweat"
+    },
+    {
+      "phrase": "egg yolk",
+      "tag": "egg_yolk"
+    },
+    {
+      "phrase": "egg yolk visible",
+      "tag": "egg_yolk"
+    },
+    {
+      "phrase": "with egg yolk",
+      "tag": "egg_yolk"
+    },
+    {
+      "phrase": "excessive saliva",
+      "tag": "excessive_saliva"
+    },
+    {
+      "phrase": "excessive saliva visible",
+      "tag": "excessive_saliva"
+    },
+    {
+      "phrase": "with excessive saliva",
+      "tag": "excessive_saliva"
+    },
+    {
+      "phrase": "fake blood",
+      "tag": "fake_blood"
+    },
+    {
+      "phrase": "fake blood visible",
+      "tag": "fake_blood"
+    },
+    {
+      "phrase": "with fake blood",
+      "tag": "fake_blood"
+    },
+    {
+      "phrase": "fake tears",
+      "tag": "fake_tears"
+    },
+    {
+      "phrase": "fake tears visible",
+      "tag": "fake_tears"
+    },
+    {
+      "phrase": "with fake tears",
+      "tag": "fake_tears"
+    },
+    {
+      "phrase": "fart",
+      "tag": "fart"
+    },
+    {
+      "phrase": "fart visible",
+      "tag": "fart"
+    },
+    {
+      "phrase": "with fart",
+      "tag": "fart"
+    },
+    {
+      "phrase": "floating blood",
+      "tag": "floating_blood"
+    },
+    {
+      "phrase": "floating blood visible",
+      "tag": "floating_blood"
+    },
+    {
+      "phrase": "with floating blood",
+      "tag": "floating_blood"
+    },
+    {
+      "phrase": "floating tears",
+      "tag": "floating_tears"
+    },
+    {
+      "phrase": "floating tears visible",
+      "tag": "floating_tears"
+    },
+    {
+      "phrase": "with floating tears",
+      "tag": "floating_tears"
+    },
+    {
+      "phrase": "flying sweatdrops",
+      "tag": "flying_sweatdrops"
+    },
+    {
+      "phrase": "flying sweatdrops visible",
+      "tag": "flying_sweatdrops"
+    },
+    {
+      "phrase": "with flying sweatdrops",
+      "tag": "flying_sweatdrops"
+    },
+    {
+      "phrase": "foam",
+      "tag": "foam"
+    },
+    {
+      "phrase": "foam visible",
+      "tag": "foam"
+    },
+    {
+      "phrase": "with foam",
+      "tag": "foam"
+    },
+    {
+      "phrase": "glowing body fluid",
+      "tag": "glowing_body_fluid"
+    },
+    {
+      "phrase": "glowing body fluid visible",
+      "tag": "glowing_body_fluid"
+    },
+    {
+      "phrase": "with glowing body fluid",
+      "tag": "glowing_body_fluid"
+    },
+    {
+      "phrase": "glowing liquid",
+      "tag": "glowing_liquid"
+    },
+    {
+      "phrase": "glowing liquid visible",
+      "tag": "glowing_liquid"
+    },
+    {
+      "phrase": "with glowing liquid",
+      "tag": "glowing_liquid"
+    },
+    {
+      "phrase": "gold blood",
+      "tag": "gold_blood"
+    },
+    {
+      "phrase": "gold blood visible",
+      "tag": "gold_blood"
+    },
+    {
+      "phrase": "with gold blood",
+      "tag": "gold_blood"
+    },
+    {
+      "phrase": "grease",
+      "tag": "grease_(mechanical)"
+    },
+    {
+      "phrase": "grease mechanical",
+      "tag": "grease_(mechanical)"
+    },
+    {
+      "phrase": "grease visible",
+      "tag": "grease_(mechanical)"
+    },
+    {
+      "phrase": "with grease",
+      "tag": "grease_(mechanical)"
+    },
+    {
+      "phrase": "green blood",
+      "tag": "green_blood"
+    },
+    {
+      "phrase": "green blood visible",
+      "tag": "green_blood"
+    },
+    {
+      "phrase": "with green blood",
+      "tag": "green_blood"
+    },
+    {
+      "phrase": "green water",
+      "tag": "green_water"
+    },
+    {
+      "phrase": "green water visible",
+      "tag": "green_water"
+    },
+    {
+      "phrase": "with green water",
+      "tag": "green_water"
+    },
+    {
+      "phrase": "holy water",
+      "tag": "holy_water"
+    },
+    {
+      "phrase": "holy water visible",
+      "tag": "holy_water"
+    },
+    {
+      "phrase": "with holy water",
+      "tag": "holy_water"
+    },
+    {
+      "phrase": "in water",
+      "tag": "in_water"
+    },
+    {
+      "phrase": "in water visible",
+      "tag": "in_water"
+    },
+    {
+      "phrase": "with in water",
+      "tag": "in_water"
+    },
+    {
+      "phrase": "ink",
+      "tag": "ink"
+    },
+    {
+      "phrase": "ink visible",
+      "tag": "ink"
+    },
+    {
+      "phrase": "with ink",
+      "tag": "ink"
+    },
+    {
+      "phrase": "lcl",
+      "tag": "lcl"
+    },
+    {
+      "phrase": "lcl visible",
+      "tag": "lcl"
+    },
+    {
+      "phrase": "with lcl",
+      "tag": "lcl"
+    },
+    {
+      "phrase": "liquid",
+      "tag": "liquid"
+    },
+    {
+      "phrase": "liquid visible",
+      "tag": "liquid"
+    },
+    {
+      "phrase": "with liquid",
+      "tag": "liquid"
+    },
+    {
+      "phrase": "liquid from mouth",
+      "tag": "liquid_from_mouth"
+    },
+    {
+      "phrase": "liquid from mouth visible",
+      "tag": "liquid_from_mouth"
+    },
+    {
+      "phrase": "with liquid from mouth",
+      "tag": "liquid_from_mouth"
+    },
+    {
+      "phrase": "lunar tear",
+      "tag": "lunar_tear"
+    },
+    {
+      "phrase": "lunar tear visible",
+      "tag": "lunar_tear"
+    },
+    {
+      "phrase": "with lunar tear",
+      "tag": "lunar_tear"
+    },
+    {
+      "phrase": "manly tears",
+      "tag": "manly_tears"
+    },
+    {
+      "phrase": "manly tears visible",
+      "tag": "manly_tears"
+    },
+    {
+      "phrase": "with manly tears",
+      "tag": "manly_tears"
+    },
+    {
+      "phrase": "menstrual blood",
+      "tag": "menstrual_blood"
+    },
+    {
+      "phrase": "menstrual blood visible",
+      "tag": "menstrual_blood"
+    },
+    {
+      "phrase": "with menstrual blood",
+      "tag": "menstrual_blood"
+    },
+    {
+      "phrase": "menstruation",
+      "tag": "menstruation"
+    },
+    {
+      "phrase": "menstruation visible",
+      "tag": "menstruation"
+    },
+    {
+      "phrase": "with menstruation",
+      "tag": "menstruation"
+    },
+    {
+      "phrase": "milk",
+      "tag": "milk"
+    },
+    {
+      "phrase": "milk visible",
+      "tag": "milk"
+    },
+    {
+      "phrase": "with milk",
+      "tag": "milk"
+    },
+    {
+      "phrase": "mouth drool",
+      "tag": "mouth_drool"
+    },
+    {
+      "phrase": "mouth drool visible",
+      "tag": "mouth_drool"
+    },
+    {
+      "phrase": "with mouth drool",
+      "tag": "mouth_drool"
+    },
+    {
+      "phrase": "oiled",
+      "tag": "oiled"
+    },
+    {
+      "phrase": "oiled visible",
+      "tag": "oiled"
+    },
+    {
+      "phrase": "with oiled",
+      "tag": "oiled"
+    },
+    {
+      "phrase": "orange blood",
+      "tag": "orange_blood"
+    },
+    {
+      "phrase": "orange blood visible",
+      "tag": "orange_blood"
+    },
+    {
+      "phrase": "with orange blood",
+      "tag": "orange_blood"
+    },
+    {
+      "phrase": "page tear",
+      "tag": "page_tear"
+    },
+    {
+      "phrase": "page tear visible",
+      "tag": "page_tear"
+    },
+    {
+      "phrase": "with page tear",
+      "tag": "page_tear"
+    },
+    {
+      "phrase": "paint in hair",
+      "tag": "paint_in_hair"
+    },
+    {
+      "phrase": "paint in hair visible",
+      "tag": "paint_in_hair"
+    },
+    {
+      "phrase": "with paint in hair",
+      "tag": "paint_in_hair"
+    },
+    {
+      "phrase": "pee",
+      "tag": "pee"
+    },
+    {
+      "phrase": "pee visible",
+      "tag": "pee"
+    },
+    {
+      "phrase": "with pee",
+      "tag": "pee"
+    },
+    {
+      "phrase": "pee puddle",
+      "tag": "pee_puddle"
+    },
+    {
+      "phrase": "pee puddle visible",
+      "tag": "pee_puddle"
+    },
+    {
+      "phrase": "with pee puddle",
+      "tag": "pee_puddle"
+    },
+    {
+      "phrase": "pee stain",
+      "tag": "pee_stain"
+    },
+    {
+      "phrase": "pee stain visible",
+      "tag": "pee_stain"
+    },
+    {
+      "phrase": "with pee stain",
+      "tag": "pee_stain"
+    },
+    {
+      "phrase": "pink blood",
+      "tag": "pink_blood"
+    },
+    {
+      "phrase": "pink blood visible",
+      "tag": "pink_blood"
+    },
+    {
+      "phrase": "with pink blood",
+      "tag": "pink_blood"
+    },
+    {
+      "phrase": "pink water",
+      "tag": "pink_water"
+    },
+    {
+      "phrase": "pink water visible",
+      "tag": "pink_water"
+    },
+    {
+      "phrase": "with pink water",
+      "tag": "pink_water"
+    },
+    {
+      "phrase": "pocari sweat",
+      "tag": "pocari_sweat"
+    },
+    {
+      "phrase": "pocari sweat visible",
+      "tag": "pocari_sweat"
+    },
+    {
+      "phrase": "with pocari sweat",
+      "tag": "pocari_sweat"
+    },
+    {
+      "phrase": "pool of blood",
+      "tag": "pool_of_blood"
+    },
+    {
+      "phrase": "pool of blood visible",
+      "tag": "pool_of_blood"
+    },
+    {
+      "phrase": "with pool of blood",
+      "tag": "pool_of_blood"
+    },
+    {
+      "phrase": "poop",
+      "tag": "poop"
+    },
+    {
+      "phrase": "poop visible",
+      "tag": "poop"
+    },
+    {
+      "phrase": "with poop",
+      "tag": "poop"
+    },
+    {
+      "phrase": "purple blood",
+      "tag": "purple_blood"
+    },
+    {
+      "phrase": "purple blood visible",
+      "tag": "purple_blood"
+    },
+    {
+      "phrase": "with purple blood",
+      "tag": "purple_blood"
+    },
+    {
+      "phrase": "rain",
+      "tag": "rain"
+    },
+    {
+      "phrase": "rain visible",
+      "tag": "rain"
+    },
+    {
+      "phrase": "with rain",
+      "tag": "rain"
+    },
+    {
+      "phrase": "raining blood",
+      "tag": "raining_blood"
+    },
+    {
+      "phrase": "raining blood visible",
+      "tag": "raining_blood"
+    },
+    {
+      "phrase": "with raining blood",
+      "tag": "raining_blood"
+    },
+    {
+      "phrase": "red water",
+      "tag": "red_water"
+    },
+    {
+      "phrase": "red water visible",
+      "tag": "red_water"
+    },
+    {
+      "phrase": "with red water",
+      "tag": "red_water"
+    },
+    {
+      "phrase": "reflective water",
+      "tag": "reflective_water"
+    },
+    {
+      "phrase": "reflective water visible",
+      "tag": "reflective_water"
+    },
+    {
+      "phrase": "with reflective water",
+      "tag": "reflective_water"
+    },
+    {
+      "phrase": "rip and tear",
+      "tag": "rip_and_tear_(phrase)"
+    },
+    {
+      "phrase": "rip and tear phrase",
+      "tag": "rip_and_tear_(phrase)"
+    },
+    {
+      "phrase": "rip and tear visible",
+      "tag": "rip_and_tear_(phrase)"
+    },
+    {
+      "phrase": "with rip and tear",
+      "tag": "rip_and_tear_(phrase)"
+    },
+    {
+      "phrase": "saliva",
+      "tag": "saliva"
+    },
+    {
+      "phrase": "saliva visible",
+      "tag": "saliva"
+    },
+    {
+      "phrase": "with saliva",
+      "tag": "saliva"
+    },
+    {
+      "phrase": "saliva on hand",
+      "tag": "saliva_on_hand"
+    },
+    {
+      "phrase": "saliva on hand visible",
+      "tag": "saliva_on_hand"
+    },
+    {
+      "phrase": "with saliva on hand",
+      "tag": "saliva_on_hand"
+    },
+    {
+      "phrase": "saliva pool",
+      "tag": "saliva_pool"
+    },
+    {
+      "phrase": "saliva pool visible",
+      "tag": "saliva_pool"
+    },
+    {
+      "phrase": "with saliva pool",
+      "tag": "saliva_pool"
+    },
+    {
+      "phrase": "saliva trail",
+      "tag": "saliva_trail"
+    },
+    {
+      "phrase": "saliva trail visible",
+      "tag": "saliva_trail"
+    },
+    {
+      "phrase": "with saliva trail",
+      "tag": "saliva_trail"
+    },
+    {
+      "phrase": "saliva trail between teeth",
+      "tag": "saliva_trail_between_teeth"
+    },
+    {
+      "phrase": "saliva trail between teeth visible",
+      "tag": "saliva_trail_between_teeth"
+    },
+    {
+      "phrase": "with saliva trail between teeth",
+      "tag": "saliva_trail_between_teeth"
+    },
+    {
+      "phrase": "shallow water",
+      "tag": "shallow_water"
+    },
+    {
+      "phrase": "shallow water visible",
+      "tag": "shallow_water"
+    },
+    {
+      "phrase": "with shallow water",
+      "tag": "shallow_water"
+    },
+    {
+      "phrase": "single tear",
+      "tag": "single_tear"
+    },
+    {
+      "phrase": "single tear visible",
+      "tag": "single_tear"
+    },
+    {
+      "phrase": "with single tear",
+      "tag": "single_tear"
+    },
+    {
+      "phrase": "slime",
+      "tag": "slime_(substance)"
+    },
+    {
+      "phrase": "slime substance",
+      "tag": "slime_(substance)"
+    },
+    {
+      "phrase": "slime visible",
+      "tag": "slime_(substance)"
+    },
+    {
+      "phrase": "with slime",
+      "tag": "slime_(substance)"
+    },
+    {
+      "phrase": "small sweatdrop",
+      "tag": "small_sweatdrop"
+    },
+    {
+      "phrase": "small sweatdrop visible",
+      "tag": "small_sweatdrop"
+    },
+    {
+      "phrase": "with small sweatdrop",
+      "tag": "small_sweatdrop"
+    },
+    {
+      "phrase": "smeared blood",
+      "tag": "smeared_blood"
+    },
+    {
+      "phrase": "smeared blood visible",
+      "tag": "smeared_blood"
+    },
+    {
+      "phrase": "with smeared blood",
+      "tag": "smeared_blood"
+    },
+    {
+      "phrase": "snot",
+      "tag": "snot"
+    },
+    {
+      "phrase": "snot visible",
+      "tag": "snot"
+    },
+    {
+      "phrase": "with snot",
+      "tag": "snot"
+    },
+    {
+      "phrase": "snot trail",
+      "tag": "snot_trail"
+    },
+    {
+      "phrase": "snot trail visible",
+      "tag": "snot_trail"
+    },
+    {
+      "phrase": "with snot trail",
+      "tag": "snot_trail"
+    },
+    {
+      "phrase": "soy sauce",
+      "tag": "soy_sauce"
+    },
+    {
+      "phrase": "soy sauce visible",
+      "tag": "soy_sauce"
+    },
+    {
+      "phrase": "with soy sauce",
+      "tag": "soy_sauce"
+    },
+    {
+      "phrase": "sparkling sweat",
+      "tag": "sparkling_sweat"
+    },
+    {
+      "phrase": "sparkling sweat visible",
+      "tag": "sparkling_sweat"
+    },
+    {
+      "phrase": "with sparkling sweat",
+      "tag": "sparkling_sweat"
+    },
+    {
+      "phrase": "sparkling water",
+      "tag": "sparkling_water"
+    },
+    {
+      "phrase": "sparkling water visible",
+      "tag": "sparkling_water"
+    },
+    {
+      "phrase": "with sparkling water",
+      "tag": "sparkling_water"
+    },
+    {
+      "phrase": "spilled milk",
+      "tag": "spilled_milk"
+    },
+    {
+      "phrase": "spilled milk visible",
+      "tag": "spilled_milk"
+    },
+    {
+      "phrase": "with spilled milk",
+      "tag": "spilled_milk"
+    },
+    {
+      "phrase": "splatter",
+      "tag": "splatter"
+    },
+    {
+      "phrase": "splatter visible",
+      "tag": "splatter"
+    },
+    {
+      "phrase": "with splatter",
+      "tag": "splatter"
+    },
+    {
+      "phrase": "star tears",
+      "tag": "star_tears"
+    },
+    {
+      "phrase": "star tears visible",
+      "tag": "star_tears"
+    },
+    {
+      "phrase": "with star tears",
+      "tag": "star_tears"
+    },
+    {
+      "phrase": "steam from ears",
+      "tag": "steam_from_ears"
+    },
+    {
+      "phrase": "steam from ears visible",
+      "tag": "steam_from_ears"
+    },
+    {
+      "phrase": "with steam from ears",
+      "tag": "steam_from_ears"
+    },
+    {
+      "phrase": "streaming tears",
+      "tag": "streaming_tears"
+    },
+    {
+      "phrase": "streaming tears visible",
+      "tag": "streaming_tears"
+    },
+    {
+      "phrase": "with streaming tears",
+      "tag": "streaming_tears"
+    },
+    {
+      "phrase": "stylized blood",
+      "tag": "stylized_blood"
+    },
+    {
+      "phrase": "stylized blood visible",
+      "tag": "stylized_blood"
+    },
+    {
+      "phrase": "with stylized blood",
+      "tag": "stylized_blood"
+    },
+    {
+      "phrase": "sweat",
+      "tag": "sweat"
+    },
+    {
+      "phrase": "sweat visible",
+      "tag": "sweat"
+    },
+    {
+      "phrase": "with sweat",
+      "tag": "sweat"
+    },
+    {
+      "phrase": "sweat stain",
+      "tag": "sweat_stain"
+    },
+    {
+      "phrase": "sweat stain visible",
+      "tag": "sweat_stain"
+    },
+    {
+      "phrase": "with sweat stain",
+      "tag": "sweat_stain"
+    },
+    {
+      "phrase": "syrup",
+      "tag": "syrup"
+    },
+    {
+      "phrase": "syrup visible",
+      "tag": "syrup"
+    },
+    {
+      "phrase": "with syrup",
+      "tag": "syrup"
+    },
+    {
+      "phrase": "tear stain",
+      "tag": "tear_stain"
+    },
+    {
+      "phrase": "tear stain visible",
+      "tag": "tear_stain"
+    },
+    {
+      "phrase": "with tear stain",
+      "tag": "tear_stain"
+    },
+    {
+      "phrase": "tears",
+      "tag": "tears"
+    },
+    {
+      "phrase": "tears visible",
+      "tag": "tears"
+    },
+    {
+      "phrase": "with tears",
+      "tag": "tears"
+    },
+    {
+      "phrase": "tears from one eye",
+      "tag": "tears_from_one_eye"
+    },
+    {
+      "phrase": "tears from one eye visible",
+      "tag": "tears_from_one_eye"
+    },
+    {
+      "phrase": "with tears from one eye",
+      "tag": "tears_from_one_eye"
+    },
+    {
+      "phrase": "vomit",
+      "tag": "vomit"
+    },
+    {
+      "phrase": "vomit visible",
+      "tag": "vomit"
+    },
+    {
+      "phrase": "with vomit",
+      "tag": "vomit"
+    },
+    {
+      "phrase": "vomiting rainbows",
+      "tag": "vomiting_rainbows"
+    },
+    {
+      "phrase": "vomiting rainbows visible",
+      "tag": "vomiting_rainbows"
+    },
+    {
+      "phrase": "with vomiting rainbows",
+      "tag": "vomiting_rainbows"
+    },
+    {
+      "phrase": "water",
+      "tag": "water"
+    },
+    {
+      "phrase": "water visible",
+      "tag": "water"
+    },
+    {
+      "phrase": "with water",
+      "tag": "water"
+    },
+    {
+      "phrase": "water drop",
+      "tag": "water_drop"
+    },
+    {
+      "phrase": "water drop visible",
+      "tag": "water_drop"
+    },
+    {
+      "phrase": "with water drop",
+      "tag": "water_drop"
+    },
+    {
+      "phrase": "water drop print",
+      "tag": "water_drop_print"
+    },
+    {
+      "phrase": "water drop print visible",
+      "tag": "water_drop_print"
+    },
+    {
+      "phrase": "with water drop print",
+      "tag": "water_drop_print"
+    },
+    {
+      "phrase": "water elemental",
+      "tag": "water_elemental"
+    },
+    {
+      "phrase": "water elemental visible",
+      "tag": "water_elemental"
+    },
+    {
+      "phrase": "with water elemental",
+      "tag": "water_elemental"
+    },
+    {
+      "phrase": "water on glass",
+      "tag": "water_on_glass"
+    },
+    {
+      "phrase": "water on glass visible",
+      "tag": "water_on_glass"
+    },
+    {
+      "phrase": "with water on glass",
+      "tag": "water_on_glass"
+    },
+    {
+      "phrase": "water spring",
+      "tag": "water_spring"
+    },
+    {
+      "phrase": "water spring visible",
+      "tag": "water_spring"
+    },
+    {
+      "phrase": "with water spring",
+      "tag": "water_spring"
+    },
+    {
+      "phrase": "water stream",
+      "tag": "water_stream"
+    },
+    {
+      "phrase": "water stream visible",
+      "tag": "water_stream"
+    },
+    {
+      "phrase": "with water stream",
+      "tag": "water_stream"
+    },
+    {
+      "phrase": "water wheel",
+      "tag": "water_wheel"
+    },
+    {
+      "phrase": "water wheel visible",
+      "tag": "water_wheel"
+    },
+    {
+      "phrase": "with water wheel",
+      "tag": "water_wheel"
+    },
+    {
+      "phrase": "water wings",
+      "tag": "water_wings"
+    },
+    {
+      "phrase": "water wings visible",
+      "tag": "water_wings"
+    },
+    {
+      "phrase": "with water wings",
+      "tag": "water_wings"
+    },
+    {
+      "phrase": "water world",
+      "tag": "water_world"
+    },
+    {
+      "phrase": "water world visible",
+      "tag": "water_world"
+    },
+    {
+      "phrase": "with water world",
+      "tag": "water_world"
+    },
+    {
+      "phrase": "water yoyo",
+      "tag": "water_yoyo"
+    },
+    {
+      "phrase": "water yoyo visible",
+      "tag": "water_yoyo"
+    },
+    {
+      "phrase": "with water yoyo",
+      "tag": "water_yoyo"
+    },
+    {
+      "phrase": "wet spot",
+      "tag": "wet_spot"
+    },
+    {
+      "phrase": "wet spot visible",
+      "tag": "wet_spot"
+    },
+    {
+      "phrase": "with wet spot",
+      "tag": "wet_spot"
+    },
+    {
+      "phrase": "whipped cream",
+      "tag": "whipped_cream"
+    },
+    {
+      "phrase": "whipped cream visible",
+      "tag": "whipped_cream"
+    },
+    {
+      "phrase": "with whipped cream",
+      "tag": "whipped_cream"
+    },
+    {
+      "phrase": "white blood",
+      "tag": "white_blood"
+    },
+    {
+      "phrase": "white blood visible",
+      "tag": "white_blood"
+    },
+    {
+      "phrase": "with white blood",
+      "tag": "white_blood"
+    },
+    {
+      "phrase": "with yellow blood",
+      "tag": "yellow_blood"
+    },
+    {
+      "phrase": "yellow blood",
+      "tag": "yellow_blood"
+    },
+    {
+      "phrase": "yellow blood visible",
+      "tag": "yellow_blood"
+    }
+  ]
+}

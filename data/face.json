@@ -1,0 +1,5512 @@
+{
+  "items": [
+    {
+      "phrase": "aegyo sal",
+      "tag": "aegyo_sal"
+    },
+    {
+      "phrase": "aegyo sal visible",
+      "tag": "aegyo_sal"
+    },
+    {
+      "phrase": "showing aegyo sal",
+      "tag": "aegyo_sal"
+    },
+    {
+      "phrase": "with aegyo sal",
+      "tag": "aegyo_sal"
+    },
+    {
+      "phrase": "ahegao",
+      "tag": "ahegao"
+    },
+    {
+      "phrase": "ahegao visible",
+      "tag": "ahegao"
+    },
+    {
+      "phrase": "showing ahegao",
+      "tag": "ahegao"
+    },
+    {
+      "phrase": "with ahegao",
+      "tag": "ahegao"
+    },
+    {
+      "phrase": "alternate eyebrows",
+      "tag": "alternate_eyebrows"
+    },
+    {
+      "phrase": "alternate eyebrows visible",
+      "tag": "alternate_eyebrows"
+    },
+    {
+      "phrase": "showing alternate eyebrows",
+      "tag": "alternate_eyebrows"
+    },
+    {
+      "phrase": "with alternate eyebrows",
+      "tag": "alternate_eyebrows"
+    },
+    {
+      "phrase": "alternate facial hair",
+      "tag": "alternate_facial_hair"
+    },
+    {
+      "phrase": "alternate facial hair visible",
+      "tag": "alternate_facial_hair"
+    },
+    {
+      "phrase": "showing alternate facial hair",
+      "tag": "alternate_facial_hair"
+    },
+    {
+      "phrase": "with alternate facial hair",
+      "tag": "alternate_facial_hair"
+    },
+    {
+      "phrase": "animal nose",
+      "tag": "animal_nose"
+    },
+    {
+      "phrase": "animal nose visible",
+      "tag": "animal_nose"
+    },
+    {
+      "phrase": "showing animal nose",
+      "tag": "animal_nose"
+    },
+    {
+      "phrase": "with animal nose",
+      "tag": "animal_nose"
+    },
+    {
+      "phrase": "aqua eyes",
+      "tag": "aqua_eyes"
+    },
+    {
+      "phrase": "aqua eyes visible",
+      "tag": "aqua_eyes"
+    },
+    {
+      "phrase": "showing aqua eyes",
+      "tag": "aqua_eyes"
+    },
+    {
+      "phrase": "with aqua eyes",
+      "tag": "aqua_eyes"
+    },
+    {
+      "phrase": "aqua eyeshadow",
+      "tag": "aqua_eyeshadow"
+    },
+    {
+      "phrase": "aqua eyeshadow visible",
+      "tag": "aqua_eyeshadow"
+    },
+    {
+      "phrase": "showing aqua eyeshadow",
+      "tag": "aqua_eyeshadow"
+    },
+    {
+      "phrase": "with aqua eyeshadow",
+      "tag": "aqua_eyeshadow"
+    },
+    {
+      "phrase": "aqua lips",
+      "tag": "aqua_lips"
+    },
+    {
+      "phrase": "aqua lips visible",
+      "tag": "aqua_lips"
+    },
+    {
+      "phrase": "showing aqua lips",
+      "tag": "aqua_lips"
+    },
+    {
+      "phrase": "with aqua lips",
+      "tag": "aqua_lips"
+    },
+    {
+      "phrase": "aqua pupils",
+      "tag": "aqua_pupils"
+    },
+    {
+      "phrase": "aqua pupils visible",
+      "tag": "aqua_pupils"
+    },
+    {
+      "phrase": "showing aqua pupils",
+      "tag": "aqua_pupils"
+    },
+    {
+      "phrase": "with aqua pupils",
+      "tag": "aqua_pupils"
+    },
+    {
+      "phrase": "aquiline nose",
+      "tag": "aquiline_nose"
+    },
+    {
+      "phrase": "aquiline nose visible",
+      "tag": "aquiline_nose"
+    },
+    {
+      "phrase": "showing aquiline nose",
+      "tag": "aquiline_nose"
+    },
+    {
+      "phrase": "with aquiline nose",
+      "tag": "aquiline_nose"
+    },
+    {
+      "phrase": "asymmetrical eyelashes",
+      "tag": "asymmetrical_eyelashes"
+    },
+    {
+      "phrase": "asymmetrical eyelashes visible",
+      "tag": "asymmetrical_eyelashes"
+    },
+    {
+      "phrase": "showing asymmetrical eyelashes",
+      "tag": "asymmetrical_eyelashes"
+    },
+    {
+      "phrase": "with asymmetrical eyelashes",
+      "tag": "asymmetrical_eyelashes"
+    },
+    {
+      "phrase": "asymmetrical eyes",
+      "tag": "asymmetrical_eyes"
+    },
+    {
+      "phrase": "asymmetrical eyes visible",
+      "tag": "asymmetrical_eyes"
+    },
+    {
+      "phrase": "showing asymmetrical eyes",
+      "tag": "asymmetrical_eyes"
+    },
+    {
+      "phrase": "with asymmetrical eyes",
+      "tag": "asymmetrical_eyes"
+    },
+    {
+      "phrase": "averting eyes",
+      "tag": "averting_eyes"
+    },
+    {
+      "phrase": "averting eyes visible",
+      "tag": "averting_eyes"
+    },
+    {
+      "phrase": "showing averting eyes",
+      "tag": "averting_eyes"
+    },
+    {
+      "phrase": "with averting eyes",
+      "tag": "averting_eyes"
+    },
+    {
+      "phrase": "bags under eyes",
+      "tag": "bags_under_eyes"
+    },
+    {
+      "phrase": "bags under eyes visible",
+      "tag": "bags_under_eyes"
+    },
+    {
+      "phrase": "showing bags under eyes",
+      "tag": "bags_under_eyes"
+    },
+    {
+      "phrase": "with bags under eyes",
+      "tag": "bags_under_eyes"
+    },
+    {
+      "phrase": "bandage on nose",
+      "tag": "bandage_on_nose"
+    },
+    {
+      "phrase": "bandage on nose visible",
+      "tag": "bandage_on_nose"
+    },
+    {
+      "phrase": "showing bandage on nose",
+      "tag": "bandage_on_nose"
+    },
+    {
+      "phrase": "with bandage on nose",
+      "tag": "bandage_on_nose"
+    },
+    {
+      "phrase": "bandaid on face",
+      "tag": "bandaid_on_face"
+    },
+    {
+      "phrase": "bandaid on face visible",
+      "tag": "bandaid_on_face"
+    },
+    {
+      "phrase": "showing bandaid on face",
+      "tag": "bandaid_on_face"
+    },
+    {
+      "phrase": "with bandaid on face",
+      "tag": "bandaid_on_face"
+    },
+    {
+      "phrase": "bandaid on forehead",
+      "tag": "bandaid_on_forehead"
+    },
+    {
+      "phrase": "bandaid on forehead visible",
+      "tag": "bandaid_on_forehead"
+    },
+    {
+      "phrase": "showing bandaid on forehead",
+      "tag": "bandaid_on_forehead"
+    },
+    {
+      "phrase": "with bandaid on forehead",
+      "tag": "bandaid_on_forehead"
+    },
+    {
+      "phrase": "beard",
+      "tag": "beard"
+    },
+    {
+      "phrase": "beard visible",
+      "tag": "beard"
+    },
+    {
+      "phrase": "showing beard",
+      "tag": "beard"
+    },
+    {
+      "phrase": "with beard",
+      "tag": "beard"
+    },
+    {
+      "phrase": "beard stubble",
+      "tag": "beard_stubble"
+    },
+    {
+      "phrase": "beard stubble visible",
+      "tag": "beard_stubble"
+    },
+    {
+      "phrase": "showing beard stubble",
+      "tag": "beard_stubble"
+    },
+    {
+      "phrase": "with beard stubble",
+      "tag": "beard_stubble"
+    },
+    {
+      "phrase": "big nose",
+      "tag": "big_nose"
+    },
+    {
+      "phrase": "big nose visible",
+      "tag": "big_nose"
+    },
+    {
+      "phrase": "showing big nose",
+      "tag": "big_nose"
+    },
+    {
+      "phrase": "with big nose",
+      "tag": "big_nose"
+    },
+    {
+      "phrase": "black eyeliner",
+      "tag": "black_eyeliner"
+    },
+    {
+      "phrase": "black eyeliner visible",
+      "tag": "black_eyeliner"
+    },
+    {
+      "phrase": "showing black eyeliner",
+      "tag": "black_eyeliner"
+    },
+    {
+      "phrase": "with black eyeliner",
+      "tag": "black_eyeliner"
+    },
+    {
+      "phrase": "black eyes",
+      "tag": "black_eyes"
+    },
+    {
+      "phrase": "black eyes visible",
+      "tag": "black_eyes"
+    },
+    {
+      "phrase": "showing black eyes",
+      "tag": "black_eyes"
+    },
+    {
+      "phrase": "with black eyes",
+      "tag": "black_eyes"
+    },
+    {
+      "phrase": "black eyeshadow",
+      "tag": "black_eyeshadow"
+    },
+    {
+      "phrase": "black eyeshadow visible",
+      "tag": "black_eyeshadow"
+    },
+    {
+      "phrase": "showing black eyeshadow",
+      "tag": "black_eyeshadow"
+    },
+    {
+      "phrase": "with black eyeshadow",
+      "tag": "black_eyeshadow"
+    },
+    {
+      "phrase": "black facial hair",
+      "tag": "black_facial_hair"
+    },
+    {
+      "phrase": "black facial hair visible",
+      "tag": "black_facial_hair"
+    },
+    {
+      "phrase": "showing black facial hair",
+      "tag": "black_facial_hair"
+    },
+    {
+      "phrase": "with black facial hair",
+      "tag": "black_facial_hair"
+    },
+    {
+      "phrase": "black lips",
+      "tag": "black_lips"
+    },
+    {
+      "phrase": "black lips visible",
+      "tag": "black_lips"
+    },
+    {
+      "phrase": "showing black lips",
+      "tag": "black_lips"
+    },
+    {
+      "phrase": "with black lips",
+      "tag": "black_lips"
+    },
+    {
+      "phrase": "black sclera",
+      "tag": "black_sclera"
+    },
+    {
+      "phrase": "black sclera visible",
+      "tag": "black_sclera"
+    },
+    {
+      "phrase": "showing black sclera",
+      "tag": "black_sclera"
+    },
+    {
+      "phrase": "with black sclera",
+      "tag": "black_sclera"
+    },
+    {
+      "phrase": "blank eyes",
+      "tag": "blank_eyes"
+    },
+    {
+      "phrase": "blank eyes visible",
+      "tag": "blank_eyes"
+    },
+    {
+      "phrase": "showing blank eyes",
+      "tag": "blank_eyes"
+    },
+    {
+      "phrase": "with blank eyes",
+      "tag": "blank_eyes"
+    },
+    {
+      "phrase": "blinking inside eyes",
+      "tag": "blinking_inside_eyes"
+    },
+    {
+      "phrase": "blinking inside eyes visible",
+      "tag": "blinking_inside_eyes"
+    },
+    {
+      "phrase": "showing blinking inside eyes",
+      "tag": "blinking_inside_eyes"
+    },
+    {
+      "phrase": "with blinking inside eyes",
+      "tag": "blinking_inside_eyes"
+    },
+    {
+      "phrase": "blonde facial hair",
+      "tag": "blonde_facial_hair"
+    },
+    {
+      "phrase": "blonde facial hair visible",
+      "tag": "blonde_facial_hair"
+    },
+    {
+      "phrase": "showing blonde facial hair",
+      "tag": "blonde_facial_hair"
+    },
+    {
+      "phrase": "with blonde facial hair",
+      "tag": "blonde_facial_hair"
+    },
+    {
+      "phrase": "bloodshot eyes",
+      "tag": "bloodshot_eyes"
+    },
+    {
+      "phrase": "bloodshot eyes visible",
+      "tag": "bloodshot_eyes"
+    },
+    {
+      "phrase": "showing bloodshot eyes",
+      "tag": "bloodshot_eyes"
+    },
+    {
+      "phrase": "with bloodshot eyes",
+      "tag": "bloodshot_eyes"
+    },
+    {
+      "phrase": "blue eyeliner",
+      "tag": "blue_eyeliner"
+    },
+    {
+      "phrase": "blue eyeliner visible",
+      "tag": "blue_eyeliner"
+    },
+    {
+      "phrase": "showing blue eyeliner",
+      "tag": "blue_eyeliner"
+    },
+    {
+      "phrase": "with blue eyeliner",
+      "tag": "blue_eyeliner"
+    },
+    {
+      "phrase": "blue eyes",
+      "tag": "blue_eyes"
+    },
+    {
+      "phrase": "blue eyes visible",
+      "tag": "blue_eyes"
+    },
+    {
+      "phrase": "showing blue eyes",
+      "tag": "blue_eyes"
+    },
+    {
+      "phrase": "with blue eyes",
+      "tag": "blue_eyes"
+    },
+    {
+      "phrase": "blue eyeshadow",
+      "tag": "blue_eyeshadow"
+    },
+    {
+      "phrase": "blue eyeshadow visible",
+      "tag": "blue_eyeshadow"
+    },
+    {
+      "phrase": "showing blue eyeshadow",
+      "tag": "blue_eyeshadow"
+    },
+    {
+      "phrase": "with blue eyeshadow",
+      "tag": "blue_eyeshadow"
+    },
+    {
+      "phrase": "blue facial hair",
+      "tag": "blue_facial_hair"
+    },
+    {
+      "phrase": "blue facial hair visible",
+      "tag": "blue_facial_hair"
+    },
+    {
+      "phrase": "showing blue facial hair",
+      "tag": "blue_facial_hair"
+    },
+    {
+      "phrase": "with blue facial hair",
+      "tag": "blue_facial_hair"
+    },
+    {
+      "phrase": "blue lips",
+      "tag": "blue_lips"
+    },
+    {
+      "phrase": "blue lips visible",
+      "tag": "blue_lips"
+    },
+    {
+      "phrase": "showing blue lips",
+      "tag": "blue_lips"
+    },
+    {
+      "phrase": "with blue lips",
+      "tag": "blue_lips"
+    },
+    {
+      "phrase": "blue pupils",
+      "tag": "blue_pupils"
+    },
+    {
+      "phrase": "blue pupils visible",
+      "tag": "blue_pupils"
+    },
+    {
+      "phrase": "showing blue pupils",
+      "tag": "blue_pupils"
+    },
+    {
+      "phrase": "with blue pupils",
+      "tag": "blue_pupils"
+    },
+    {
+      "phrase": "blue sclera",
+      "tag": "blue_sclera"
+    },
+    {
+      "phrase": "blue sclera visible",
+      "tag": "blue_sclera"
+    },
+    {
+      "phrase": "showing blue sclera",
+      "tag": "blue_sclera"
+    },
+    {
+      "phrase": "with blue sclera",
+      "tag": "blue_sclera"
+    },
+    {
+      "phrase": "bone-shaped pupils",
+      "tag": "bone-shaped_pupils"
+    },
+    {
+      "phrase": "bone-shaped pupils visible",
+      "tag": "bone-shaped_pupils"
+    },
+    {
+      "phrase": "showing bone-shaped pupils",
+      "tag": "bone-shaped_pupils"
+    },
+    {
+      "phrase": "with bone-shaped pupils",
+      "tag": "bone-shaped_pupils"
+    },
+    {
+      "phrase": "braces",
+      "tag": "braces"
+    },
+    {
+      "phrase": "braces visible",
+      "tag": "braces"
+    },
+    {
+      "phrase": "showing braces",
+      "tag": "braces"
+    },
+    {
+      "phrase": "with braces",
+      "tag": "braces"
+    },
+    {
+      "phrase": "braided beard",
+      "tag": "braided_beard"
+    },
+    {
+      "phrase": "braided beard visible",
+      "tag": "braided_beard"
+    },
+    {
+      "phrase": "showing braided beard",
+      "tag": "braided_beard"
+    },
+    {
+      "phrase": "with braided beard",
+      "tag": "braided_beard"
+    },
+    {
+      "phrase": "breast awe",
+      "tag": "breast_awe"
+    },
+    {
+      "phrase": "breast awe visible",
+      "tag": "breast_awe"
+    },
+    {
+      "phrase": "showing breast awe",
+      "tag": "breast_awe"
+    },
+    {
+      "phrase": "with breast awe",
+      "tag": "breast_awe"
+    },
+    {
+      "phrase": "breast zipper",
+      "tag": "breast_zipper"
+    },
+    {
+      "phrase": "breast zipper visible",
+      "tag": "breast_zipper"
+    },
+    {
+      "phrase": "showing breast zipper",
+      "tag": "breast_zipper"
+    },
+    {
+      "phrase": "with breast zipper",
+      "tag": "breast_zipper"
+    },
+    {
+      "phrase": "bright pupils",
+      "tag": "bright_pupils"
+    },
+    {
+      "phrase": "bright pupils visible",
+      "tag": "bright_pupils"
+    },
+    {
+      "phrase": "showing bright pupils",
+      "tag": "bright_pupils"
+    },
+    {
+      "phrase": "with bright pupils",
+      "tag": "bright_pupils"
+    },
+    {
+      "phrase": "brown eyes",
+      "tag": "brown_eyes"
+    },
+    {
+      "phrase": "brown eyes visible",
+      "tag": "brown_eyes"
+    },
+    {
+      "phrase": "showing brown eyes",
+      "tag": "brown_eyes"
+    },
+    {
+      "phrase": "with brown eyes",
+      "tag": "brown_eyes"
+    },
+    {
+      "phrase": "brown eyeshadow",
+      "tag": "brown_eyeshadow"
+    },
+    {
+      "phrase": "brown eyeshadow visible",
+      "tag": "brown_eyeshadow"
+    },
+    {
+      "phrase": "showing brown eyeshadow",
+      "tag": "brown_eyeshadow"
+    },
+    {
+      "phrase": "with brown eyeshadow",
+      "tag": "brown_eyeshadow"
+    },
+    {
+      "phrase": "brown facial hair",
+      "tag": "brown_facial_hair"
+    },
+    {
+      "phrase": "brown facial hair visible",
+      "tag": "brown_facial_hair"
+    },
+    {
+      "phrase": "showing brown facial hair",
+      "tag": "brown_facial_hair"
+    },
+    {
+      "phrase": "with brown facial hair",
+      "tag": "brown_facial_hair"
+    },
+    {
+      "phrase": "brown lips",
+      "tag": "brown_lips"
+    },
+    {
+      "phrase": "brown lips visible",
+      "tag": "brown_lips"
+    },
+    {
+      "phrase": "showing brown lips",
+      "tag": "brown_lips"
+    },
+    {
+      "phrase": "with brown lips",
+      "tag": "brown_lips"
+    },
+    {
+      "phrase": "brown pupils",
+      "tag": "brown_pupils"
+    },
+    {
+      "phrase": "brown pupils visible",
+      "tag": "brown_pupils"
+    },
+    {
+      "phrase": "showing brown pupils",
+      "tag": "brown_pupils"
+    },
+    {
+      "phrase": "with brown pupils",
+      "tag": "brown_pupils"
+    },
+    {
+      "phrase": "brown sclera",
+      "tag": "brown_sclera"
+    },
+    {
+      "phrase": "brown sclera visible",
+      "tag": "brown_sclera"
+    },
+    {
+      "phrase": "showing brown sclera",
+      "tag": "brown_sclera"
+    },
+    {
+      "phrase": "with brown sclera",
+      "tag": "brown_sclera"
+    },
+    {
+      "phrase": "bruise on face",
+      "tag": "bruise_on_face"
+    },
+    {
+      "phrase": "bruise on face visible",
+      "tag": "bruise_on_face"
+    },
+    {
+      "phrase": "showing bruise on face",
+      "tag": "bruise_on_face"
+    },
+    {
+      "phrase": "with bruise on face",
+      "tag": "bruise_on_face"
+    },
+    {
+      "phrase": "bulging eyes",
+      "tag": "bulging_eyes"
+    },
+    {
+      "phrase": "bulging eyes visible",
+      "tag": "bulging_eyes"
+    },
+    {
+      "phrase": "showing bulging eyes",
+      "tag": "bulging_eyes"
+    },
+    {
+      "phrase": "with bulging eyes",
+      "tag": "bulging_eyes"
+    },
+    {
+      "phrase": "butterfly-shaped pupils",
+      "tag": "butterfly-shaped_pupils"
+    },
+    {
+      "phrase": "butterfly-shaped pupils visible",
+      "tag": "butterfly-shaped_pupils"
+    },
+    {
+      "phrase": "showing butterfly-shaped pupils",
+      "tag": "butterfly-shaped_pupils"
+    },
+    {
+      "phrase": "with butterfly-shaped pupils",
+      "tag": "butterfly-shaped_pupils"
+    },
+    {
+      "phrase": "button eyes",
+      "tag": "button_eyes"
+    },
+    {
+      "phrase": "button eyes visible",
+      "tag": "button_eyes"
+    },
+    {
+      "phrase": "showing button eyes",
+      "tag": "button_eyes"
+    },
+    {
+      "phrase": "with button eyes",
+      "tag": "button_eyes"
+    },
+    {
+      "phrase": "camera eyes",
+      "tag": "camera_eyes"
+    },
+    {
+      "phrase": "camera eyes visible",
+      "tag": "camera_eyes"
+    },
+    {
+      "phrase": "showing camera eyes",
+      "tag": "camera_eyes"
+    },
+    {
+      "phrase": "with camera eyes",
+      "tag": "camera_eyes"
+    },
+    {
+      "phrase": "cat-shaped pupils",
+      "tag": "cat-shaped_pupils"
+    },
+    {
+      "phrase": "cat-shaped pupils visible",
+      "tag": "cat-shaped_pupils"
+    },
+    {
+      "phrase": "showing cat-shaped pupils",
+      "tag": "cat-shaped_pupils"
+    },
+    {
+      "phrase": "with cat-shaped pupils",
+      "tag": "cat-shaped_pupils"
+    },
+    {
+      "phrase": "cephalopod eyes",
+      "tag": "cephalopod_eyes"
+    },
+    {
+      "phrase": "cephalopod eyes visible",
+      "tag": "cephalopod_eyes"
+    },
+    {
+      "phrase": "showing cephalopod eyes",
+      "tag": "cephalopod_eyes"
+    },
+    {
+      "phrase": "with cephalopod eyes",
+      "tag": "cephalopod_eyes"
+    },
+    {
+      "phrase": "cheek bulge",
+      "tag": "cheek_bulge"
+    },
+    {
+      "phrase": "cheek bulge visible",
+      "tag": "cheek_bulge"
+    },
+    {
+      "phrase": "showing cheek bulge",
+      "tag": "cheek_bulge"
+    },
+    {
+      "phrase": "with cheek bulge",
+      "tag": "cheek_bulge"
+    },
+    {
+      "phrase": "cheekbones",
+      "tag": "cheekbones"
+    },
+    {
+      "phrase": "cheekbones visible",
+      "tag": "cheekbones"
+    },
+    {
+      "phrase": "showing cheekbones",
+      "tag": "cheekbones"
+    },
+    {
+      "phrase": "with cheekbones",
+      "tag": "cheekbones"
+    },
+    {
+      "phrase": "chinstrap beard",
+      "tag": "chinstrap_beard"
+    },
+    {
+      "phrase": "chinstrap beard visible",
+      "tag": "chinstrap_beard"
+    },
+    {
+      "phrase": "showing chinstrap beard",
+      "tag": "chinstrap_beard"
+    },
+    {
+      "phrase": "with chinstrap beard",
+      "tag": "chinstrap_beard"
+    },
+    {
+      "phrase": "chiseled face",
+      "tag": "chiseled_face"
+    },
+    {
+      "phrase": "chiseled face visible",
+      "tag": "chiseled_face"
+    },
+    {
+      "phrase": "showing chiseled face",
+      "tag": "chiseled_face"
+    },
+    {
+      "phrase": "with chiseled face",
+      "tag": "chiseled_face"
+    },
+    {
+      "phrase": "chocolate on face",
+      "tag": "chocolate_on_face"
+    },
+    {
+      "phrase": "chocolate on face visible",
+      "tag": "chocolate_on_face"
+    },
+    {
+      "phrase": "showing chocolate on face",
+      "tag": "chocolate_on_face"
+    },
+    {
+      "phrase": "with chocolate on face",
+      "tag": "chocolate_on_face"
+    },
+    {
+      "phrase": "circle facial mark",
+      "tag": "circle_facial_mark"
+    },
+    {
+      "phrase": "circle facial mark visible",
+      "tag": "circle_facial_mark"
+    },
+    {
+      "phrase": "showing circle facial mark",
+      "tag": "circle_facial_mark"
+    },
+    {
+      "phrase": "with circle facial mark",
+      "tag": "circle_facial_mark"
+    },
+    {
+      "phrase": "cleft chin",
+      "tag": "cleft_chin"
+    },
+    {
+      "phrase": "cleft chin visible",
+      "tag": "cleft_chin"
+    },
+    {
+      "phrase": "showing cleft chin",
+      "tag": "cleft_chin"
+    },
+    {
+      "phrase": "with cleft chin",
+      "tag": "cleft_chin"
+    },
+    {
+      "phrase": "clock eyes",
+      "tag": "clock_eyes"
+    },
+    {
+      "phrase": "clock eyes visible",
+      "tag": "clock_eyes"
+    },
+    {
+      "phrase": "showing clock eyes",
+      "tag": "clock_eyes"
+    },
+    {
+      "phrase": "with clock eyes",
+      "tag": "clock_eyes"
+    },
+    {
+      "phrase": "closed eyes",
+      "tag": "closed_eyes"
+    },
+    {
+      "phrase": "closed eyes visible",
+      "tag": "closed_eyes"
+    },
+    {
+      "phrase": "showing closed eyes",
+      "tag": "closed_eyes"
+    },
+    {
+      "phrase": "with closed eyes",
+      "tag": "closed_eyes"
+    },
+    {
+      "phrase": "closing eyes",
+      "tag": "closing_eyes"
+    },
+    {
+      "phrase": "closing eyes visible",
+      "tag": "closing_eyes"
+    },
+    {
+      "phrase": "showing closing eyes",
+      "tag": "closing_eyes"
+    },
+    {
+      "phrase": "with closing eyes",
+      "tag": "closing_eyes"
+    },
+    {
+      "phrase": "clover-shaped pupils",
+      "tag": "clover-shaped_pupils"
+    },
+    {
+      "phrase": "clover-shaped pupils visible",
+      "tag": "clover-shaped_pupils"
+    },
+    {
+      "phrase": "showing clover-shaped pupils",
+      "tag": "clover-shaped_pupils"
+    },
+    {
+      "phrase": "with clover-shaped pupils",
+      "tag": "clover-shaped_pupils"
+    },
+    {
+      "phrase": "club facial mark",
+      "tag": "club_facial_mark"
+    },
+    {
+      "phrase": "club facial mark visible",
+      "tag": "club_facial_mark"
+    },
+    {
+      "phrase": "showing club facial mark",
+      "tag": "club_facial_mark"
+    },
+    {
+      "phrase": "with club facial mark",
+      "tag": "club_facial_mark"
+    },
+    {
+      "phrase": "colored eyelashes",
+      "tag": "colored_eyelashes"
+    },
+    {
+      "phrase": "colored eyelashes visible",
+      "tag": "colored_eyelashes"
+    },
+    {
+      "phrase": "showing colored eyelashes",
+      "tag": "colored_eyelashes"
+    },
+    {
+      "phrase": "with colored eyelashes",
+      "tag": "colored_eyelashes"
+    },
+    {
+      "phrase": "colored sclera",
+      "tag": "colored_sclera"
+    },
+    {
+      "phrase": "colored sclera visible",
+      "tag": "colored_sclera"
+    },
+    {
+      "phrase": "showing colored sclera",
+      "tag": "colored_sclera"
+    },
+    {
+      "phrase": "with colored sclera",
+      "tag": "colored_sclera"
+    },
+    {
+      "phrase": "compound eyes",
+      "tag": "compound_eyes"
+    },
+    {
+      "phrase": "compound eyes visible",
+      "tag": "compound_eyes"
+    },
+    {
+      "phrase": "showing compound eyes",
+      "tag": "compound_eyes"
+    },
+    {
+      "phrase": "with compound eyes",
+      "tag": "compound_eyes"
+    },
+    {
+      "phrase": "connected beard",
+      "tag": "connected_beard"
+    },
+    {
+      "phrase": "connected beard visible",
+      "tag": "connected_beard"
+    },
+    {
+      "phrase": "showing connected beard",
+      "tag": "connected_beard"
+    },
+    {
+      "phrase": "with connected beard",
+      "tag": "connected_beard"
+    },
+    {
+      "phrase": "constricted pupils",
+      "tag": "constricted_pupils"
+    },
+    {
+      "phrase": "constricted pupils visible",
+      "tag": "constricted_pupils"
+    },
+    {
+      "phrase": "showing constricted pupils",
+      "tag": "constricted_pupils"
+    },
+    {
+      "phrase": "with constricted pupils",
+      "tag": "constricted_pupils"
+    },
+    {
+      "phrase": "covered eyes",
+      "tag": "covered_eyes"
+    },
+    {
+      "phrase": "covered eyes visible",
+      "tag": "covered_eyes"
+    },
+    {
+      "phrase": "showing covered eyes",
+      "tag": "covered_eyes"
+    },
+    {
+      "phrase": "with covered eyes",
+      "tag": "covered_eyes"
+    },
+    {
+      "phrase": "crazy eyes",
+      "tag": "crazy_eyes"
+    },
+    {
+      "phrase": "crazy eyes visible",
+      "tag": "crazy_eyes"
+    },
+    {
+      "phrase": "showing crazy eyes",
+      "tag": "crazy_eyes"
+    },
+    {
+      "phrase": "with crazy eyes",
+      "tag": "crazy_eyes"
+    },
+    {
+      "phrase": "creepy eyes",
+      "tag": "creepy_eyes"
+    },
+    {
+      "phrase": "creepy eyes visible",
+      "tag": "creepy_eyes"
+    },
+    {
+      "phrase": "showing creepy eyes",
+      "tag": "creepy_eyes"
+    },
+    {
+      "phrase": "with creepy eyes",
+      "tag": "creepy_eyes"
+    },
+    {
+      "phrase": "crescent-shaped pupils",
+      "tag": "crescent-shaped_pupils"
+    },
+    {
+      "phrase": "crescent-shaped pupils visible",
+      "tag": "crescent-shaped_pupils"
+    },
+    {
+      "phrase": "showing crescent-shaped pupils",
+      "tag": "crescent-shaped_pupils"
+    },
+    {
+      "phrase": "with crescent-shaped pupils",
+      "tag": "crescent-shaped_pupils"
+    },
+    {
+      "phrase": "crescent facial mark",
+      "tag": "crescent_facial_mark"
+    },
+    {
+      "phrase": "crescent facial mark visible",
+      "tag": "crescent_facial_mark"
+    },
+    {
+      "phrase": "showing crescent facial mark",
+      "tag": "crescent_facial_mark"
+    },
+    {
+      "phrase": "with crescent facial mark",
+      "tag": "crescent_facial_mark"
+    },
+    {
+      "phrase": "cross-eyed",
+      "tag": "cross-eyed"
+    },
+    {
+      "phrase": "cross-eyed visible",
+      "tag": "cross-eyed"
+    },
+    {
+      "phrase": "showing cross-eyed",
+      "tag": "cross-eyed"
+    },
+    {
+      "phrase": "with cross-eyed",
+      "tag": "cross-eyed"
+    },
+    {
+      "phrase": "cross-shaped pupils",
+      "tag": "cross-shaped_pupils"
+    },
+    {
+      "phrase": "cross-shaped pupils visible",
+      "tag": "cross-shaped_pupils"
+    },
+    {
+      "phrase": "showing cross-shaped pupils",
+      "tag": "cross-shaped_pupils"
+    },
+    {
+      "phrase": "with cross-shaped pupils",
+      "tag": "cross-shaped_pupils"
+    },
+    {
+      "phrase": "cross facial mark",
+      "tag": "cross_facial_mark"
+    },
+    {
+      "phrase": "cross facial mark visible",
+      "tag": "cross_facial_mark"
+    },
+    {
+      "phrase": "showing cross facial mark",
+      "tag": "cross_facial_mark"
+    },
+    {
+      "phrase": "with cross facial mark",
+      "tag": "cross_facial_mark"
+    },
+    {
+      "phrase": "crosshair pupils",
+      "tag": "crosshair_pupils"
+    },
+    {
+      "phrase": "crosshair pupils visible",
+      "tag": "crosshair_pupils"
+    },
+    {
+      "phrase": "showing crosshair pupils",
+      "tag": "crosshair_pupils"
+    },
+    {
+      "phrase": "with crosshair pupils",
+      "tag": "crosshair_pupils"
+    },
+    {
+      "phrase": "curly eyebrows",
+      "tag": "curly_eyebrows"
+    },
+    {
+      "phrase": "curly eyebrows visible",
+      "tag": "curly_eyebrows"
+    },
+    {
+      "phrase": "showing curly eyebrows",
+      "tag": "curly_eyebrows"
+    },
+    {
+      "phrase": "with curly eyebrows",
+      "tag": "curly_eyebrows"
+    },
+    {
+      "phrase": "cutout eyelashes",
+      "tag": "cutout_eyelashes"
+    },
+    {
+      "phrase": "cutout eyelashes visible",
+      "tag": "cutout_eyelashes"
+    },
+    {
+      "phrase": "showing cutout eyelashes",
+      "tag": "cutout_eyelashes"
+    },
+    {
+      "phrase": "with cutout eyelashes",
+      "tag": "cutout_eyelashes"
+    },
+    {
+      "phrase": "dashed eyes",
+      "tag": "dashed_eyes"
+    },
+    {
+      "phrase": "dashed eyes visible",
+      "tag": "dashed_eyes"
+    },
+    {
+      "phrase": "showing dashed eyes",
+      "tag": "dashed_eyes"
+    },
+    {
+      "phrase": "with dashed eyes",
+      "tag": "dashed_eyes"
+    },
+    {
+      "phrase": "detached eyes",
+      "tag": "detached_eyes"
+    },
+    {
+      "phrase": "detached eyes visible",
+      "tag": "detached_eyes"
+    },
+    {
+      "phrase": "showing detached eyes",
+      "tag": "detached_eyes"
+    },
+    {
+      "phrase": "with detached eyes",
+      "tag": "detached_eyes"
+    },
+    {
+      "phrase": "diamond-shaped pupils",
+      "tag": "diamond-shaped_pupils"
+    },
+    {
+      "phrase": "diamond-shaped pupils visible",
+      "tag": "diamond-shaped_pupils"
+    },
+    {
+      "phrase": "showing diamond-shaped pupils",
+      "tag": "diamond-shaped_pupils"
+    },
+    {
+      "phrase": "with diamond-shaped pupils",
+      "tag": "diamond-shaped_pupils"
+    },
+    {
+      "phrase": "diamond facial mark",
+      "tag": "diamond_facial_mark"
+    },
+    {
+      "phrase": "diamond facial mark visible",
+      "tag": "diamond_facial_mark"
+    },
+    {
+      "phrase": "showing diamond facial mark",
+      "tag": "diamond_facial_mark"
+    },
+    {
+      "phrase": "with diamond facial mark",
+      "tag": "diamond_facial_mark"
+    },
+    {
+      "phrase": "dilated pupils",
+      "tag": "dilated_pupils"
+    },
+    {
+      "phrase": "dilated pupils visible",
+      "tag": "dilated_pupils"
+    },
+    {
+      "phrase": "showing dilated pupils",
+      "tag": "dilated_pupils"
+    },
+    {
+      "phrase": "with dilated pupils",
+      "tag": "dilated_pupils"
+    },
+    {
+      "phrase": "dimple facial mark",
+      "tag": "dimple_facial_mark"
+    },
+    {
+      "phrase": "dimple facial mark visible",
+      "tag": "dimple_facial_mark"
+    },
+    {
+      "phrase": "showing dimple facial mark",
+      "tag": "dimple_facial_mark"
+    },
+    {
+      "phrase": "with dimple facial mark",
+      "tag": "dimple_facial_mark"
+    },
+    {
+      "phrase": "dot nose",
+      "tag": "dot_nose"
+    },
+    {
+      "phrase": "dot nose visible",
+      "tag": "dot_nose"
+    },
+    {
+      "phrase": "showing dot nose",
+      "tag": "dot_nose"
+    },
+    {
+      "phrase": "with dot nose",
+      "tag": "dot_nose"
+    },
+    {
+      "phrase": "dot pupils",
+      "tag": "dot_pupils"
+    },
+    {
+      "phrase": "dot pupils visible",
+      "tag": "dot_pupils"
+    },
+    {
+      "phrase": "showing dot pupils",
+      "tag": "dot_pupils"
+    },
+    {
+      "phrase": "with dot pupils",
+      "tag": "dot_pupils"
+    },
+    {
+      "phrase": "downturned eyes",
+      "tag": "downturned_eyes"
+    },
+    {
+      "phrase": "downturned eyes visible",
+      "tag": "downturned_eyes"
+    },
+    {
+      "phrase": "showing downturned eyes",
+      "tag": "downturned_eyes"
+    },
+    {
+      "phrase": "with downturned eyes",
+      "tag": "downturned_eyes"
+    },
+    {
+      "phrase": "drawn on eyes",
+      "tag": "drawn_on_eyes"
+    },
+    {
+      "phrase": "drawn on eyes visible",
+      "tag": "drawn_on_eyes"
+    },
+    {
+      "phrase": "showing drawn on eyes",
+      "tag": "drawn_on_eyes"
+    },
+    {
+      "phrase": "with drawn on eyes",
+      "tag": "drawn_on_eyes"
+    },
+    {
+      "phrase": "drawn whiskers",
+      "tag": "drawn_whiskers"
+    },
+    {
+      "phrase": "drawn whiskers visible",
+      "tag": "drawn_whiskers"
+    },
+    {
+      "phrase": "showing drawn whiskers",
+      "tag": "drawn_whiskers"
+    },
+    {
+      "phrase": "with drawn whiskers",
+      "tag": "drawn_whiskers"
+    },
+    {
+      "phrase": "drop-shaped pupils",
+      "tag": "drop-shaped_pupils"
+    },
+    {
+      "phrase": "drop-shaped pupils visible",
+      "tag": "drop-shaped_pupils"
+    },
+    {
+      "phrase": "showing drop-shaped pupils",
+      "tag": "drop-shaped_pupils"
+    },
+    {
+      "phrase": "with drop-shaped pupils",
+      "tag": "drop-shaped_pupils"
+    },
+    {
+      "phrase": "empty eyes",
+      "tag": "empty_eyes"
+    },
+    {
+      "phrase": "empty eyes visible",
+      "tag": "empty_eyes"
+    },
+    {
+      "phrase": "showing empty eyes",
+      "tag": "empty_eyes"
+    },
+    {
+      "phrase": "with empty eyes",
+      "tag": "empty_eyes"
+    },
+    {
+      "phrase": "evil eyes",
+      "tag": "evil_eyes"
+    },
+    {
+      "phrase": "evil eyes visible",
+      "tag": "evil_eyes"
+    },
+    {
+      "phrase": "showing evil eyes",
+      "tag": "evil_eyes"
+    },
+    {
+      "phrase": "with evil eyes",
+      "tag": "evil_eyes"
+    },
+    {
+      "phrase": "extra eyebrows",
+      "tag": "extra_eyebrows"
+    },
+    {
+      "phrase": "extra eyebrows visible",
+      "tag": "extra_eyebrows"
+    },
+    {
+      "phrase": "showing extra eyebrows",
+      "tag": "extra_eyebrows"
+    },
+    {
+      "phrase": "with extra eyebrows",
+      "tag": "extra_eyebrows"
+    },
+    {
+      "phrase": "extra eyes",
+      "tag": "extra_eyes"
+    },
+    {
+      "phrase": "extra eyes visible",
+      "tag": "extra_eyes"
+    },
+    {
+      "phrase": "showing extra eyes",
+      "tag": "extra_eyes"
+    },
+    {
+      "phrase": "with extra eyes",
+      "tag": "extra_eyes"
+    },
+    {
+      "phrase": "extra pupils",
+      "tag": "extra_pupils"
+    },
+    {
+      "phrase": "extra pupils visible",
+      "tag": "extra_pupils"
+    },
+    {
+      "phrase": "showing extra pupils",
+      "tag": "extra_pupils"
+    },
+    {
+      "phrase": "with extra pupils",
+      "tag": "extra_pupils"
+    },
+    {
+      "phrase": "eyebrow cut",
+      "tag": "eyebrow_cut"
+    },
+    {
+      "phrase": "eyebrow cut visible",
+      "tag": "eyebrow_cut"
+    },
+    {
+      "phrase": "showing eyebrow cut",
+      "tag": "eyebrow_cut"
+    },
+    {
+      "phrase": "with eyebrow cut",
+      "tag": "eyebrow_cut"
+    },
+    {
+      "phrase": "eyelashes",
+      "tag": "eyelashes"
+    },
+    {
+      "phrase": "eyelashes visible",
+      "tag": "eyelashes"
+    },
+    {
+      "phrase": "showing eyelashes",
+      "tag": "eyelashes"
+    },
+    {
+      "phrase": "with eyelashes",
+      "tag": "eyelashes"
+    },
+    {
+      "phrase": "facepaint",
+      "tag": "facepaint"
+    },
+    {
+      "phrase": "facepaint visible",
+      "tag": "facepaint"
+    },
+    {
+      "phrase": "showing facepaint",
+      "tag": "facepaint"
+    },
+    {
+      "phrase": "with facepaint",
+      "tag": "facepaint"
+    },
+    {
+      "phrase": "facial hair",
+      "tag": "facial_hair"
+    },
+    {
+      "phrase": "facial hair visible",
+      "tag": "facial_hair"
+    },
+    {
+      "phrase": "showing facial hair",
+      "tag": "facial_hair"
+    },
+    {
+      "phrase": "with facial hair",
+      "tag": "facial_hair"
+    },
+    {
+      "phrase": "facial hair through mask",
+      "tag": "facial_hair_through_mask"
+    },
+    {
+      "phrase": "facial hair through mask visible",
+      "tag": "facial_hair_through_mask"
+    },
+    {
+      "phrase": "showing facial hair through mask",
+      "tag": "facial_hair_through_mask"
+    },
+    {
+      "phrase": "with facial hair through mask",
+      "tag": "facial_hair_through_mask"
+    },
+    {
+      "phrase": "facial mark",
+      "tag": "facial_mark"
+    },
+    {
+      "phrase": "facial mark visible",
+      "tag": "facial_mark"
+    },
+    {
+      "phrase": "showing facial mark",
+      "tag": "facial_mark"
+    },
+    {
+      "phrase": "with facial mark",
+      "tag": "facial_mark"
+    },
+    {
+      "phrase": "fake beard",
+      "tag": "fake_beard"
+    },
+    {
+      "phrase": "fake beard visible",
+      "tag": "fake_beard"
+    },
+    {
+      "phrase": "showing fake beard",
+      "tag": "fake_beard"
+    },
+    {
+      "phrase": "with fake beard",
+      "tag": "fake_beard"
+    },
+    {
+      "phrase": "fake eyelashes",
+      "tag": "fake_eyelashes"
+    },
+    {
+      "phrase": "fake eyelashes visible",
+      "tag": "fake_eyelashes"
+    },
+    {
+      "phrase": "showing fake eyelashes",
+      "tag": "fake_eyelashes"
+    },
+    {
+      "phrase": "with fake eyelashes",
+      "tag": "fake_eyelashes"
+    },
+    {
+      "phrase": "fake facial hair",
+      "tag": "fake_facial_hair"
+    },
+    {
+      "phrase": "fake facial hair visible",
+      "tag": "fake_facial_hair"
+    },
+    {
+      "phrase": "showing fake facial hair",
+      "tag": "fake_facial_hair"
+    },
+    {
+      "phrase": "with fake facial hair",
+      "tag": "fake_facial_hair"
+    },
+    {
+      "phrase": "finger on eyewear",
+      "tag": "finger_on_eyewear"
+    },
+    {
+      "phrase": "finger on eyewear visible",
+      "tag": "finger_on_eyewear"
+    },
+    {
+      "phrase": "showing finger on eyewear",
+      "tag": "finger_on_eyewear"
+    },
+    {
+      "phrase": "with finger on eyewear",
+      "tag": "finger_on_eyewear"
+    },
+    {
+      "phrase": "fish-shaped pupils",
+      "tag": "fish-shaped_pupils"
+    },
+    {
+      "phrase": "fish-shaped pupils visible",
+      "tag": "fish-shaped_pupils"
+    },
+    {
+      "phrase": "showing fish-shaped pupils",
+      "tag": "fish-shaped_pupils"
+    },
+    {
+      "phrase": "with fish-shaped pupils",
+      "tag": "fish-shaped_pupils"
+    },
+    {
+      "phrase": "flaming eyes",
+      "tag": "flaming_eyes"
+    },
+    {
+      "phrase": "flaming eyes visible",
+      "tag": "flaming_eyes"
+    },
+    {
+      "phrase": "showing flaming eyes",
+      "tag": "flaming_eyes"
+    },
+    {
+      "phrase": "with flaming eyes",
+      "tag": "flaming_eyes"
+    },
+    {
+      "phrase": "flower-shaped pupils",
+      "tag": "flower-shaped_pupils"
+    },
+    {
+      "phrase": "flower-shaped pupils visible",
+      "tag": "flower-shaped_pupils"
+    },
+    {
+      "phrase": "showing flower-shaped pupils",
+      "tag": "flower-shaped_pupils"
+    },
+    {
+      "phrase": "with flower-shaped pupils",
+      "tag": "flower-shaped_pupils"
+    },
+    {
+      "phrase": "flower facial mark",
+      "tag": "flower_facial_mark"
+    },
+    {
+      "phrase": "flower facial mark visible",
+      "tag": "flower_facial_mark"
+    },
+    {
+      "phrase": "showing flower facial mark",
+      "tag": "flower_facial_mark"
+    },
+    {
+      "phrase": "with flower facial mark",
+      "tag": "flower_facial_mark"
+    },
+    {
+      "phrase": "flower on face",
+      "tag": "flower_on_face"
+    },
+    {
+      "phrase": "flower on face visible",
+      "tag": "flower_on_face"
+    },
+    {
+      "phrase": "showing flower on face",
+      "tag": "flower_on_face"
+    },
+    {
+      "phrase": "with flower on face",
+      "tag": "flower_on_face"
+    },
+    {
+      "phrase": "flower over eyes",
+      "tag": "flower_over_eyes"
+    },
+    {
+      "phrase": "flower over eyes visible",
+      "tag": "flower_over_eyes"
+    },
+    {
+      "phrase": "showing flower over eyes",
+      "tag": "flower_over_eyes"
+    },
+    {
+      "phrase": "with flower over eyes",
+      "tag": "flower_over_eyes"
+    },
+    {
+      "phrase": "forked eyebrows",
+      "tag": "forked_eyebrows"
+    },
+    {
+      "phrase": "forked eyebrows visible",
+      "tag": "forked_eyebrows"
+    },
+    {
+      "phrase": "showing forked eyebrows",
+      "tag": "forked_eyebrows"
+    },
+    {
+      "phrase": "with forked eyebrows",
+      "tag": "forked_eyebrows"
+    },
+    {
+      "phrase": "four eyes",
+      "tag": "four_eyes"
+    },
+    {
+      "phrase": "four eyes visible",
+      "tag": "four_eyes"
+    },
+    {
+      "phrase": "showing four eyes",
+      "tag": "four_eyes"
+    },
+    {
+      "phrase": "with four eyes",
+      "tag": "four_eyes"
+    },
+    {
+      "phrase": "full beard",
+      "tag": "full_beard"
+    },
+    {
+      "phrase": "full beard visible",
+      "tag": "full_beard"
+    },
+    {
+      "phrase": "showing full beard",
+      "tag": "full_beard"
+    },
+    {
+      "phrase": "with full beard",
+      "tag": "full_beard"
+    },
+    {
+      "phrase": "furrowed brow",
+      "tag": "furrowed_brow"
+    },
+    {
+      "phrase": "furrowed brow visible",
+      "tag": "furrowed_brow"
+    },
+    {
+      "phrase": "showing furrowed brow",
+      "tag": "furrowed_brow"
+    },
+    {
+      "phrase": "with furrowed brow",
+      "tag": "furrowed_brow"
+    },
+    {
+      "phrase": "gauze on forehead",
+      "tag": "gauze_on_forehead"
+    },
+    {
+      "phrase": "gauze on forehead visible",
+      "tag": "gauze_on_forehead"
+    },
+    {
+      "phrase": "showing gauze on forehead",
+      "tag": "gauze_on_forehead"
+    },
+    {
+      "phrase": "with gauze on forehead",
+      "tag": "gauze_on_forehead"
+    },
+    {
+      "phrase": "gem on head",
+      "tag": "gem_on_head"
+    },
+    {
+      "phrase": "gem on head visible",
+      "tag": "gem_on_head"
+    },
+    {
+      "phrase": "showing gem on head",
+      "tag": "gem_on_head"
+    },
+    {
+      "phrase": "with gem on head",
+      "tag": "gem_on_head"
+    },
+    {
+      "phrase": "glowing eye",
+      "tag": "glowing_eye"
+    },
+    {
+      "phrase": "glowing eye visible",
+      "tag": "glowing_eye"
+    },
+    {
+      "phrase": "showing glowing eye",
+      "tag": "glowing_eye"
+    },
+    {
+      "phrase": "with glowing eye",
+      "tag": "glowing_eye"
+    },
+    {
+      "phrase": "glowing eyes",
+      "tag": "glowing_eyes"
+    },
+    {
+      "phrase": "glowing eyes visible",
+      "tag": "glowing_eyes"
+    },
+    {
+      "phrase": "showing glowing eyes",
+      "tag": "glowing_eyes"
+    },
+    {
+      "phrase": "with glowing eyes",
+      "tag": "glowing_eyes"
+    },
+    {
+      "phrase": "goatee",
+      "tag": "goatee"
+    },
+    {
+      "phrase": "goatee visible",
+      "tag": "goatee"
+    },
+    {
+      "phrase": "showing goatee",
+      "tag": "goatee"
+    },
+    {
+      "phrase": "with goatee",
+      "tag": "goatee"
+    },
+    {
+      "phrase": "goatee stubble",
+      "tag": "goatee_stubble"
+    },
+    {
+      "phrase": "goatee stubble visible",
+      "tag": "goatee_stubble"
+    },
+    {
+      "phrase": "showing goatee stubble",
+      "tag": "goatee_stubble"
+    },
+    {
+      "phrase": "with goatee stubble",
+      "tag": "goatee_stubble"
+    },
+    {
+      "phrase": "gold lips",
+      "tag": "gold_lips"
+    },
+    {
+      "phrase": "gold lips visible",
+      "tag": "gold_lips"
+    },
+    {
+      "phrase": "showing gold lips",
+      "tag": "gold_lips"
+    },
+    {
+      "phrase": "with gold lips",
+      "tag": "gold_lips"
+    },
+    {
+      "phrase": "googly eyes",
+      "tag": "googly_eyes"
+    },
+    {
+      "phrase": "googly eyes visible",
+      "tag": "googly_eyes"
+    },
+    {
+      "phrase": "showing googly eyes",
+      "tag": "googly_eyes"
+    },
+    {
+      "phrase": "with googly eyes",
+      "tag": "googly_eyes"
+    },
+    {
+      "phrase": "gradient eyes",
+      "tag": "gradient_eyes"
+    },
+    {
+      "phrase": "gradient eyes visible",
+      "tag": "gradient_eyes"
+    },
+    {
+      "phrase": "showing gradient eyes",
+      "tag": "gradient_eyes"
+    },
+    {
+      "phrase": "with gradient eyes",
+      "tag": "gradient_eyes"
+    },
+    {
+      "phrase": "green eyes",
+      "tag": "green_eyes"
+    },
+    {
+      "phrase": "green eyes visible",
+      "tag": "green_eyes"
+    },
+    {
+      "phrase": "showing green eyes",
+      "tag": "green_eyes"
+    },
+    {
+      "phrase": "with green eyes",
+      "tag": "green_eyes"
+    },
+    {
+      "phrase": "green eyeshadow",
+      "tag": "green_eyeshadow"
+    },
+    {
+      "phrase": "green eyeshadow visible",
+      "tag": "green_eyeshadow"
+    },
+    {
+      "phrase": "showing green eyeshadow",
+      "tag": "green_eyeshadow"
+    },
+    {
+      "phrase": "with green eyeshadow",
+      "tag": "green_eyeshadow"
+    },
+    {
+      "phrase": "green facial hair",
+      "tag": "green_facial_hair"
+    },
+    {
+      "phrase": "green facial hair visible",
+      "tag": "green_facial_hair"
+    },
+    {
+      "phrase": "showing green facial hair",
+      "tag": "green_facial_hair"
+    },
+    {
+      "phrase": "with green facial hair",
+      "tag": "green_facial_hair"
+    },
+    {
+      "phrase": "green lips",
+      "tag": "green_lips"
+    },
+    {
+      "phrase": "green lips visible",
+      "tag": "green_lips"
+    },
+    {
+      "phrase": "showing green lips",
+      "tag": "green_lips"
+    },
+    {
+      "phrase": "with green lips",
+      "tag": "green_lips"
+    },
+    {
+      "phrase": "green pupils",
+      "tag": "green_pupils"
+    },
+    {
+      "phrase": "green pupils visible",
+      "tag": "green_pupils"
+    },
+    {
+      "phrase": "showing green pupils",
+      "tag": "green_pupils"
+    },
+    {
+      "phrase": "with green pupils",
+      "tag": "green_pupils"
+    },
+    {
+      "phrase": "green sclera",
+      "tag": "green_sclera"
+    },
+    {
+      "phrase": "green sclera visible",
+      "tag": "green_sclera"
+    },
+    {
+      "phrase": "showing green sclera",
+      "tag": "green_sclera"
+    },
+    {
+      "phrase": "with green sclera",
+      "tag": "green_sclera"
+    },
+    {
+      "phrase": "grey eyes",
+      "tag": "grey_eyes"
+    },
+    {
+      "phrase": "grey eyes visible",
+      "tag": "grey_eyes"
+    },
+    {
+      "phrase": "showing grey eyes",
+      "tag": "grey_eyes"
+    },
+    {
+      "phrase": "with grey eyes",
+      "tag": "grey_eyes"
+    },
+    {
+      "phrase": "grey eyeshadow",
+      "tag": "grey_eyeshadow"
+    },
+    {
+      "phrase": "grey eyeshadow visible",
+      "tag": "grey_eyeshadow"
+    },
+    {
+      "phrase": "showing grey eyeshadow",
+      "tag": "grey_eyeshadow"
+    },
+    {
+      "phrase": "with grey eyeshadow",
+      "tag": "grey_eyeshadow"
+    },
+    {
+      "phrase": "grey facial hair",
+      "tag": "grey_facial_hair"
+    },
+    {
+      "phrase": "grey facial hair visible",
+      "tag": "grey_facial_hair"
+    },
+    {
+      "phrase": "showing grey facial hair",
+      "tag": "grey_facial_hair"
+    },
+    {
+      "phrase": "with grey facial hair",
+      "tag": "grey_facial_hair"
+    },
+    {
+      "phrase": "grey lips",
+      "tag": "grey_lips"
+    },
+    {
+      "phrase": "grey lips visible",
+      "tag": "grey_lips"
+    },
+    {
+      "phrase": "showing grey lips",
+      "tag": "grey_lips"
+    },
+    {
+      "phrase": "with grey lips",
+      "tag": "grey_lips"
+    },
+    {
+      "phrase": "grey pupils",
+      "tag": "grey_pupils"
+    },
+    {
+      "phrase": "grey pupils visible",
+      "tag": "grey_pupils"
+    },
+    {
+      "phrase": "showing grey pupils",
+      "tag": "grey_pupils"
+    },
+    {
+      "phrase": "with grey pupils",
+      "tag": "grey_pupils"
+    },
+    {
+      "phrase": "grey sclera",
+      "tag": "grey_sclera"
+    },
+    {
+      "phrase": "grey sclera visible",
+      "tag": "grey_sclera"
+    },
+    {
+      "phrase": "showing grey sclera",
+      "tag": "grey_sclera"
+    },
+    {
+      "phrase": "with grey sclera",
+      "tag": "grey_sclera"
+    },
+    {
+      "phrase": "hair between eyes",
+      "tag": "hair_between_eyes"
+    },
+    {
+      "phrase": "hair between eyes visible",
+      "tag": "hair_between_eyes"
+    },
+    {
+      "phrase": "showing hair between eyes",
+      "tag": "hair_between_eyes"
+    },
+    {
+      "phrase": "with hair between eyes",
+      "tag": "hair_between_eyes"
+    },
+    {
+      "phrase": "hair in eyes",
+      "tag": "hair_in_eyes"
+    },
+    {
+      "phrase": "hair in eyes visible",
+      "tag": "hair_in_eyes"
+    },
+    {
+      "phrase": "showing hair in eyes",
+      "tag": "hair_in_eyes"
+    },
+    {
+      "phrase": "with hair in eyes",
+      "tag": "hair_in_eyes"
+    },
+    {
+      "phrase": "hair over eyes",
+      "tag": "hair_over_eyes"
+    },
+    {
+      "phrase": "hair over eyes visible",
+      "tag": "hair_over_eyes"
+    },
+    {
+      "phrase": "showing hair over eyes",
+      "tag": "hair_over_eyes"
+    },
+    {
+      "phrase": "with hair over eyes",
+      "tag": "hair_over_eyes"
+    },
+    {
+      "phrase": "half-closed eyes",
+      "tag": "half-closed_eyes"
+    },
+    {
+      "phrase": "half-closed eyes visible",
+      "tag": "half-closed_eyes"
+    },
+    {
+      "phrase": "showing half-closed eyes",
+      "tag": "half-closed_eyes"
+    },
+    {
+      "phrase": "with half-closed eyes",
+      "tag": "half-closed_eyes"
+    },
+    {
+      "phrase": "hazel eyes",
+      "tag": "hazel_eyes"
+    },
+    {
+      "phrase": "hazel eyes visible",
+      "tag": "hazel_eyes"
+    },
+    {
+      "phrase": "showing hazel eyes",
+      "tag": "hazel_eyes"
+    },
+    {
+      "phrase": "with hazel eyes",
+      "tag": "hazel_eyes"
+    },
+    {
+      "phrase": "heart-shaped eyes",
+      "tag": "heart-shaped_eyes"
+    },
+    {
+      "phrase": "heart-shaped eyes visible",
+      "tag": "heart-shaped_eyes"
+    },
+    {
+      "phrase": "showing heart-shaped eyes",
+      "tag": "heart-shaped_eyes"
+    },
+    {
+      "phrase": "with heart-shaped eyes",
+      "tag": "heart-shaped_eyes"
+    },
+    {
+      "phrase": "heart-shaped pupils",
+      "tag": "heart-shaped_pupils"
+    },
+    {
+      "phrase": "heart-shaped pupils visible",
+      "tag": "heart-shaped_pupils"
+    },
+    {
+      "phrase": "showing heart-shaped pupils",
+      "tag": "heart-shaped_pupils"
+    },
+    {
+      "phrase": "with heart-shaped pupils",
+      "tag": "heart-shaped_pupils"
+    },
+    {
+      "phrase": "heart facial mark",
+      "tag": "heart_facial_mark"
+    },
+    {
+      "phrase": "heart facial mark visible",
+      "tag": "heart_facial_mark"
+    },
+    {
+      "phrase": "showing heart facial mark",
+      "tag": "heart_facial_mark"
+    },
+    {
+      "phrase": "with heart facial mark",
+      "tag": "heart_facial_mark"
+    },
+    {
+      "phrase": "hikimayu",
+      "tag": "hikimayu"
+    },
+    {
+      "phrase": "hikimayu visible",
+      "tag": "hikimayu"
+    },
+    {
+      "phrase": "showing hikimayu",
+      "tag": "hikimayu"
+    },
+    {
+      "phrase": "with hikimayu",
+      "tag": "hikimayu"
+    },
+    {
+      "phrase": "hollow eyes",
+      "tag": "hollow_eyes"
+    },
+    {
+      "phrase": "hollow eyes visible",
+      "tag": "hollow_eyes"
+    },
+    {
+      "phrase": "showing hollow eyes",
+      "tag": "hollow_eyes"
+    },
+    {
+      "phrase": "with hollow eyes",
+      "tag": "hollow_eyes"
+    },
+    {
+      "phrase": "horizontal pupils",
+      "tag": "horizontal_pupils"
+    },
+    {
+      "phrase": "horizontal pupils visible",
+      "tag": "horizontal_pupils"
+    },
+    {
+      "phrase": "showing horizontal pupils",
+      "tag": "horizontal_pupils"
+    },
+    {
+      "phrase": "with horizontal pupils",
+      "tag": "horizontal_pupils"
+    },
+    {
+      "phrase": "huge eyebrows",
+      "tag": "huge_eyebrows"
+    },
+    {
+      "phrase": "huge eyebrows visible",
+      "tag": "huge_eyebrows"
+    },
+    {
+      "phrase": "showing huge eyebrows",
+      "tag": "huge_eyebrows"
+    },
+    {
+      "phrase": "with huge eyebrows",
+      "tag": "huge_eyebrows"
+    },
+    {
+      "phrase": "ink on face",
+      "tag": "ink_on_face"
+    },
+    {
+      "phrase": "ink on face visible",
+      "tag": "ink_on_face"
+    },
+    {
+      "phrase": "showing ink on face",
+      "tag": "ink_on_face"
+    },
+    {
+      "phrase": "with ink on face",
+      "tag": "ink_on_face"
+    },
+    {
+      "phrase": "inverted eyelashes",
+      "tag": "inverted_eyelashes"
+    },
+    {
+      "phrase": "inverted eyelashes visible",
+      "tag": "inverted_eyelashes"
+    },
+    {
+      "phrase": "showing inverted eyelashes",
+      "tag": "inverted_eyelashes"
+    },
+    {
+      "phrase": "with inverted eyelashes",
+      "tag": "inverted_eyelashes"
+    },
+    {
+      "phrase": "jitome",
+      "tag": "jitome"
+    },
+    {
+      "phrase": "jitome visible",
+      "tag": "jitome"
+    },
+    {
+      "phrase": "showing jitome",
+      "tag": "jitome"
+    },
+    {
+      "phrase": "with jitome",
+      "tag": "jitome"
+    },
+    {
+      "phrase": "laser disc eyes",
+      "tag": "laser_disc_eyes"
+    },
+    {
+      "phrase": "laser disc eyes visible",
+      "tag": "laser_disc_eyes"
+    },
+    {
+      "phrase": "showing laser disc eyes",
+      "tag": "laser_disc_eyes"
+    },
+    {
+      "phrase": "with laser disc eyes",
+      "tag": "laser_disc_eyes"
+    },
+    {
+      "phrase": "laughing",
+      "tag": "laughing"
+    },
+    {
+      "phrase": "laughing visible",
+      "tag": "laughing"
+    },
+    {
+      "phrase": "showing laughing",
+      "tag": "laughing"
+    },
+    {
+      "phrase": "with laughing",
+      "tag": "laughing"
+    },
+    {
+      "phrase": "lightning bolt-shaped pupils",
+      "tag": "lightning_bolt-shaped_pupils"
+    },
+    {
+      "phrase": "lightning bolt-shaped pupils visible",
+      "tag": "lightning_bolt-shaped_pupils"
+    },
+    {
+      "phrase": "showing lightning bolt-shaped pupils",
+      "tag": "lightning_bolt-shaped_pupils"
+    },
+    {
+      "phrase": "with lightning bolt-shaped pupils",
+      "tag": "lightning_bolt-shaped_pupils"
+    },
+    {
+      "phrase": "lightning bolt facial mark",
+      "tag": "lightning_bolt_facial_mark"
+    },
+    {
+      "phrase": "lightning bolt facial mark visible",
+      "tag": "lightning_bolt_facial_mark"
+    },
+    {
+      "phrase": "showing lightning bolt facial mark",
+      "tag": "lightning_bolt_facial_mark"
+    },
+    {
+      "phrase": "with lightning bolt facial mark",
+      "tag": "lightning_bolt_facial_mark"
+    },
+    {
+      "phrase": "lipgloss",
+      "tag": "lipgloss"
+    },
+    {
+      "phrase": "lipgloss visible",
+      "tag": "lipgloss"
+    },
+    {
+      "phrase": "showing lipgloss",
+      "tag": "lipgloss"
+    },
+    {
+      "phrase": "with lipgloss",
+      "tag": "lipgloss"
+    },
+    {
+      "phrase": "lipstick mark on cheek",
+      "tag": "lipstick_mark_on_cheek"
+    },
+    {
+      "phrase": "lipstick mark on cheek visible",
+      "tag": "lipstick_mark_on_cheek"
+    },
+    {
+      "phrase": "showing lipstick mark on cheek",
+      "tag": "lipstick_mark_on_cheek"
+    },
+    {
+      "phrase": "with lipstick mark on cheek",
+      "tag": "lipstick_mark_on_cheek"
+    },
+    {
+      "phrase": "lipstick mark on face",
+      "tag": "lipstick_mark_on_face"
+    },
+    {
+      "phrase": "lipstick mark on face visible",
+      "tag": "lipstick_mark_on_face"
+    },
+    {
+      "phrase": "showing lipstick mark on face",
+      "tag": "lipstick_mark_on_face"
+    },
+    {
+      "phrase": "with lipstick mark on face",
+      "tag": "lipstick_mark_on_face"
+    },
+    {
+      "phrase": "long beard",
+      "tag": "long_beard"
+    },
+    {
+      "phrase": "long beard visible",
+      "tag": "long_beard"
+    },
+    {
+      "phrase": "showing long beard",
+      "tag": "long_beard"
+    },
+    {
+      "phrase": "with long beard",
+      "tag": "long_beard"
+    },
+    {
+      "phrase": "long eyebrows",
+      "tag": "long_eyebrows"
+    },
+    {
+      "phrase": "long eyebrows visible",
+      "tag": "long_eyebrows"
+    },
+    {
+      "phrase": "showing long eyebrows",
+      "tag": "long_eyebrows"
+    },
+    {
+      "phrase": "with long eyebrows",
+      "tag": "long_eyebrows"
+    },
+    {
+      "phrase": "long eyelashes",
+      "tag": "long_eyelashes"
+    },
+    {
+      "phrase": "long eyelashes visible",
+      "tag": "long_eyelashes"
+    },
+    {
+      "phrase": "showing long eyelashes",
+      "tag": "long_eyelashes"
+    },
+    {
+      "phrase": "with long eyelashes",
+      "tag": "long_eyelashes"
+    },
+    {
+      "phrase": "long hair between eyes",
+      "tag": "long_hair_between_eyes"
+    },
+    {
+      "phrase": "long hair between eyes visible",
+      "tag": "long_hair_between_eyes"
+    },
+    {
+      "phrase": "showing long hair between eyes",
+      "tag": "long_hair_between_eyes"
+    },
+    {
+      "phrase": "with long hair between eyes",
+      "tag": "long_hair_between_eyes"
+    },
+    {
+      "phrase": "long mustache",
+      "tag": "long_mustache"
+    },
+    {
+      "phrase": "long mustache visible",
+      "tag": "long_mustache"
+    },
+    {
+      "phrase": "showing long mustache",
+      "tag": "long_mustache"
+    },
+    {
+      "phrase": "with long mustache",
+      "tag": "long_mustache"
+    },
+    {
+      "phrase": "long nose",
+      "tag": "long_nose"
+    },
+    {
+      "phrase": "long nose visible",
+      "tag": "long_nose"
+    },
+    {
+      "phrase": "showing long nose",
+      "tag": "long_nose"
+    },
+    {
+      "phrase": "with long nose",
+      "tag": "long_nose"
+    },
+    {
+      "phrase": "long sideburns",
+      "tag": "long_sideburns"
+    },
+    {
+      "phrase": "long sideburns visible",
+      "tag": "long_sideburns"
+    },
+    {
+      "phrase": "showing long sideburns",
+      "tag": "long_sideburns"
+    },
+    {
+      "phrase": "with long sideburns",
+      "tag": "long_sideburns"
+    },
+    {
+      "phrase": "lower eyelashes only",
+      "tag": "lower_eyelashes_only"
+    },
+    {
+      "phrase": "lower eyelashes only visible",
+      "tag": "lower_eyelashes_only"
+    },
+    {
+      "phrase": "showing lower eyelashes only",
+      "tag": "lower_eyelashes_only"
+    },
+    {
+      "phrase": "with lower eyelashes only",
+      "tag": "lower_eyelashes_only"
+    },
+    {
+      "phrase": "mark under both eyes",
+      "tag": "mark_under_both_eyes"
+    },
+    {
+      "phrase": "mark under both eyes visible",
+      "tag": "mark_under_both_eyes"
+    },
+    {
+      "phrase": "showing mark under both eyes",
+      "tag": "mark_under_both_eyes"
+    },
+    {
+      "phrase": "with mark under both eyes",
+      "tag": "mark_under_both_eyes"
+    },
+    {
+      "phrase": "marking on cheek",
+      "tag": "marking_on_cheek"
+    },
+    {
+      "phrase": "marking on cheek visible",
+      "tag": "marking_on_cheek"
+    },
+    {
+      "phrase": "showing marking on cheek",
+      "tag": "marking_on_cheek"
+    },
+    {
+      "phrase": "with marking on cheek",
+      "tag": "marking_on_cheek"
+    },
+    {
+      "phrase": "markings on cheeks",
+      "tag": "markings_on_cheeks"
+    },
+    {
+      "phrase": "markings on cheeks visible",
+      "tag": "markings_on_cheeks"
+    },
+    {
+      "phrase": "showing markings on cheeks",
+      "tag": "markings_on_cheeks"
+    },
+    {
+      "phrase": "with markings on cheeks",
+      "tag": "markings_on_cheeks"
+    },
+    {
+      "phrase": "mature eyes",
+      "tag": "mature_eyes"
+    },
+    {
+      "phrase": "mature eyes visible",
+      "tag": "mature_eyes"
+    },
+    {
+      "phrase": "showing mature eyes",
+      "tag": "mature_eyes"
+    },
+    {
+      "phrase": "with mature eyes",
+      "tag": "mature_eyes"
+    },
+    {
+      "phrase": "medium eyebrows",
+      "tag": "medium_eyebrows"
+    },
+    {
+      "phrase": "medium eyebrows visible",
+      "tag": "medium_eyebrows"
+    },
+    {
+      "phrase": "showing medium eyebrows",
+      "tag": "medium_eyebrows"
+    },
+    {
+      "phrase": "with medium eyebrows",
+      "tag": "medium_eyebrows"
+    },
+    {
+      "phrase": "medium sideburns",
+      "tag": "medium_sideburns"
+    },
+    {
+      "phrase": "medium sideburns visible",
+      "tag": "medium_sideburns"
+    },
+    {
+      "phrase": "showing medium sideburns",
+      "tag": "medium_sideburns"
+    },
+    {
+      "phrase": "with medium sideburns",
+      "tag": "medium_sideburns"
+    },
+    {
+      "phrase": "melting eyes",
+      "tag": "melting_eyes"
+    },
+    {
+      "phrase": "melting eyes visible",
+      "tag": "melting_eyes"
+    },
+    {
+      "phrase": "showing melting eyes",
+      "tag": "melting_eyes"
+    },
+    {
+      "phrase": "with melting eyes",
+      "tag": "melting_eyes"
+    },
+    {
+      "phrase": "mismatched eyebrows",
+      "tag": "mismatched_eyebrows"
+    },
+    {
+      "phrase": "mismatched eyebrows visible",
+      "tag": "mismatched_eyebrows"
+    },
+    {
+      "phrase": "showing mismatched eyebrows",
+      "tag": "mismatched_eyebrows"
+    },
+    {
+      "phrase": "with mismatched eyebrows",
+      "tag": "mismatched_eyebrows"
+    },
+    {
+      "phrase": "mismatched eyelashes",
+      "tag": "mismatched_eyelashes"
+    },
+    {
+      "phrase": "mismatched eyelashes visible",
+      "tag": "mismatched_eyelashes"
+    },
+    {
+      "phrase": "showing mismatched eyelashes",
+      "tag": "mismatched_eyelashes"
+    },
+    {
+      "phrase": "with mismatched eyelashes",
+      "tag": "mismatched_eyelashes"
+    },
+    {
+      "phrase": "mismatched eyes",
+      "tag": "mismatched_eyes"
+    },
+    {
+      "phrase": "mismatched eyes visible",
+      "tag": "mismatched_eyes"
+    },
+    {
+      "phrase": "showing mismatched eyes",
+      "tag": "mismatched_eyes"
+    },
+    {
+      "phrase": "with mismatched eyes",
+      "tag": "mismatched_eyes"
+    },
+    {
+      "phrase": "mismatched irises",
+      "tag": "mismatched_irises"
+    },
+    {
+      "phrase": "mismatched irises visible",
+      "tag": "mismatched_irises"
+    },
+    {
+      "phrase": "showing mismatched irises",
+      "tag": "mismatched_irises"
+    },
+    {
+      "phrase": "with mismatched irises",
+      "tag": "mismatched_irises"
+    },
+    {
+      "phrase": "mismatched pupils",
+      "tag": "mismatched_pupils"
+    },
+    {
+      "phrase": "mismatched pupils visible",
+      "tag": "mismatched_pupils"
+    },
+    {
+      "phrase": "showing mismatched pupils",
+      "tag": "mismatched_pupils"
+    },
+    {
+      "phrase": "with mismatched pupils",
+      "tag": "mismatched_pupils"
+    },
+    {
+      "phrase": "mismatched sclera",
+      "tag": "mismatched_sclera"
+    },
+    {
+      "phrase": "mismatched sclera visible",
+      "tag": "mismatched_sclera"
+    },
+    {
+      "phrase": "showing mismatched sclera",
+      "tag": "mismatched_sclera"
+    },
+    {
+      "phrase": "with mismatched sclera",
+      "tag": "mismatched_sclera"
+    },
+    {
+      "phrase": "moaning",
+      "tag": "moaning"
+    },
+    {
+      "phrase": "moaning visible",
+      "tag": "moaning"
+    },
+    {
+      "phrase": "showing moaning",
+      "tag": "moaning"
+    },
+    {
+      "phrase": "with moaning",
+      "tag": "moaning"
+    },
+    {
+      "phrase": "money-shaped pupils",
+      "tag": "money-shaped_pupils"
+    },
+    {
+      "phrase": "money-shaped pupils visible",
+      "tag": "money-shaped_pupils"
+    },
+    {
+      "phrase": "showing money-shaped pupils",
+      "tag": "money-shaped_pupils"
+    },
+    {
+      "phrase": "with money-shaped pupils",
+      "tag": "money-shaped_pupils"
+    },
+    {
+      "phrase": "multicolored eyes",
+      "tag": "multicolored_eyes"
+    },
+    {
+      "phrase": "multicolored eyes visible",
+      "tag": "multicolored_eyes"
+    },
+    {
+      "phrase": "showing multicolored eyes",
+      "tag": "multicolored_eyes"
+    },
+    {
+      "phrase": "with multicolored eyes",
+      "tag": "multicolored_eyes"
+    },
+    {
+      "phrase": "musical note-shaped pupils",
+      "tag": "musical_note-shaped_pupils"
+    },
+    {
+      "phrase": "musical note-shaped pupils visible",
+      "tag": "musical_note-shaped_pupils"
+    },
+    {
+      "phrase": "showing musical note-shaped pupils",
+      "tag": "musical_note-shaped_pupils"
+    },
+    {
+      "phrase": "with musical note-shaped pupils",
+      "tag": "musical_note-shaped_pupils"
+    },
+    {
+      "phrase": "mustache",
+      "tag": "mustache"
+    },
+    {
+      "phrase": "mustache visible",
+      "tag": "mustache"
+    },
+    {
+      "phrase": "showing mustache",
+      "tag": "mustache"
+    },
+    {
+      "phrase": "with mustache",
+      "tag": "mustache"
+    },
+    {
+      "phrase": "mustache stubble",
+      "tag": "mustache_stubble"
+    },
+    {
+      "phrase": "mustache stubble visible",
+      "tag": "mustache_stubble"
+    },
+    {
+      "phrase": "showing mustache stubble",
+      "tag": "mustache_stubble"
+    },
+    {
+      "phrase": "with mustache stubble",
+      "tag": "mustache_stubble"
+    },
+    {
+      "phrase": "mutton chops",
+      "tag": "mutton_chops"
+    },
+    {
+      "phrase": "mutton chops visible",
+      "tag": "mutton_chops"
+    },
+    {
+      "phrase": "showing mutton chops",
+      "tag": "mutton_chops"
+    },
+    {
+      "phrase": "with mutton chops",
+      "tag": "mutton_chops"
+    },
+    {
+      "phrase": "mystic eyes",
+      "tag": "mystic_eyes"
+    },
+    {
+      "phrase": "mystic eyes visible",
+      "tag": "mystic_eyes"
+    },
+    {
+      "phrase": "showing mystic eyes",
+      "tag": "mystic_eyes"
+    },
+    {
+      "phrase": "with mystic eyes",
+      "tag": "mystic_eyes"
+    },
+    {
+      "phrase": "narrowed eyes",
+      "tag": "narrowed_eyes"
+    },
+    {
+      "phrase": "narrowed eyes visible",
+      "tag": "narrowed_eyes"
+    },
+    {
+      "phrase": "showing narrowed eyes",
+      "tag": "narrowed_eyes"
+    },
+    {
+      "phrase": "with narrowed eyes",
+      "tag": "narrowed_eyes"
+    },
+    {
+      "phrase": "no eyebrows",
+      "tag": "no_eyebrows"
+    },
+    {
+      "phrase": "no eyebrows visible",
+      "tag": "no_eyebrows"
+    },
+    {
+      "phrase": "showing no eyebrows",
+      "tag": "no_eyebrows"
+    },
+    {
+      "phrase": "with no eyebrows",
+      "tag": "no_eyebrows"
+    },
+    {
+      "phrase": "no eyes",
+      "tag": "no_eyes"
+    },
+    {
+      "phrase": "no eyes visible",
+      "tag": "no_eyes"
+    },
+    {
+      "phrase": "showing no eyes",
+      "tag": "no_eyes"
+    },
+    {
+      "phrase": "with no eyes",
+      "tag": "no_eyes"
+    },
+    {
+      "phrase": "no facial mark",
+      "tag": "no_facial_mark"
+    },
+    {
+      "phrase": "no facial mark visible",
+      "tag": "no_facial_mark"
+    },
+    {
+      "phrase": "showing no facial mark",
+      "tag": "no_facial_mark"
+    },
+    {
+      "phrase": "with no facial mark",
+      "tag": "no_facial_mark"
+    },
+    {
+      "phrase": "no lips",
+      "tag": "no_lips"
+    },
+    {
+      "phrase": "no lips visible",
+      "tag": "no_lips"
+    },
+    {
+      "phrase": "showing no lips",
+      "tag": "no_lips"
+    },
+    {
+      "phrase": "with no lips",
+      "tag": "no_lips"
+    },
+    {
+      "phrase": "no pupils",
+      "tag": "no_pupils"
+    },
+    {
+      "phrase": "no pupils visible",
+      "tag": "no_pupils"
+    },
+    {
+      "phrase": "showing no pupils",
+      "tag": "no_pupils"
+    },
+    {
+      "phrase": "with no pupils",
+      "tag": "no_pupils"
+    },
+    {
+      "phrase": "no sclera",
+      "tag": "no_sclera"
+    },
+    {
+      "phrase": "no sclera visible",
+      "tag": "no_sclera"
+    },
+    {
+      "phrase": "showing no sclera",
+      "tag": "no_sclera"
+    },
+    {
+      "phrase": "with no sclera",
+      "tag": "no_sclera"
+    },
+    {
+      "phrase": "nose shade",
+      "tag": "nose_shade"
+    },
+    {
+      "phrase": "nose shade visible",
+      "tag": "nose_shade"
+    },
+    {
+      "phrase": "showing nose shade",
+      "tag": "nose_shade"
+    },
+    {
+      "phrase": "with nose shade",
+      "tag": "nose_shade"
+    },
+    {
+      "phrase": "nosebleed",
+      "tag": "nosebleed"
+    },
+    {
+      "phrase": "nosebleed visible",
+      "tag": "nosebleed"
+    },
+    {
+      "phrase": "showing nosebleed",
+      "tag": "nosebleed"
+    },
+    {
+      "phrase": "with nosebleed",
+      "tag": "nosebleed"
+    },
+    {
+      "phrase": "nostrils",
+      "tag": "nostrils"
+    },
+    {
+      "phrase": "nostrils visible",
+      "tag": "nostrils"
+    },
+    {
+      "phrase": "showing nostrils",
+      "tag": "nostrils"
+    },
+    {
+      "phrase": "with nostrils",
+      "tag": "nostrils"
+    },
+    {
+      "phrase": "obscured eyes",
+      "tag": "obscured_eyes"
+    },
+    {
+      "phrase": "obscured eyes visible",
+      "tag": "obscured_eyes"
+    },
+    {
+      "phrase": "showing obscured eyes",
+      "tag": "obscured_eyes"
+    },
+    {
+      "phrase": "with obscured eyes",
+      "tag": "obscured_eyes"
+    },
+    {
+      "phrase": "ofuda on head",
+      "tag": "ofuda_on_head"
+    },
+    {
+      "phrase": "ofuda on head visible",
+      "tag": "ofuda_on_head"
+    },
+    {
+      "phrase": "showing ofuda on head",
+      "tag": "ofuda_on_head"
+    },
+    {
+      "phrase": "with ofuda on head",
+      "tag": "ofuda_on_head"
+    },
+    {
+      "phrase": "opening eyes",
+      "tag": "opening_eyes"
+    },
+    {
+      "phrase": "opening eyes visible",
+      "tag": "opening_eyes"
+    },
+    {
+      "phrase": "showing opening eyes",
+      "tag": "opening_eyes"
+    },
+    {
+      "phrase": "with opening eyes",
+      "tag": "opening_eyes"
+    },
+    {
+      "phrase": "orange eyeliner",
+      "tag": "orange_eyeliner"
+    },
+    {
+      "phrase": "orange eyeliner visible",
+      "tag": "orange_eyeliner"
+    },
+    {
+      "phrase": "showing orange eyeliner",
+      "tag": "orange_eyeliner"
+    },
+    {
+      "phrase": "with orange eyeliner",
+      "tag": "orange_eyeliner"
+    },
+    {
+      "phrase": "orange eyes",
+      "tag": "orange_eyes"
+    },
+    {
+      "phrase": "orange eyes visible",
+      "tag": "orange_eyes"
+    },
+    {
+      "phrase": "showing orange eyes",
+      "tag": "orange_eyes"
+    },
+    {
+      "phrase": "with orange eyes",
+      "tag": "orange_eyes"
+    },
+    {
+      "phrase": "orange eyeshadow",
+      "tag": "orange_eyeshadow"
+    },
+    {
+      "phrase": "orange eyeshadow visible",
+      "tag": "orange_eyeshadow"
+    },
+    {
+      "phrase": "showing orange eyeshadow",
+      "tag": "orange_eyeshadow"
+    },
+    {
+      "phrase": "with orange eyeshadow",
+      "tag": "orange_eyeshadow"
+    },
+    {
+      "phrase": "orange lips",
+      "tag": "orange_lips"
+    },
+    {
+      "phrase": "orange lips visible",
+      "tag": "orange_lips"
+    },
+    {
+      "phrase": "showing orange lips",
+      "tag": "orange_lips"
+    },
+    {
+      "phrase": "with orange lips",
+      "tag": "orange_lips"
+    },
+    {
+      "phrase": "orange pupils",
+      "tag": "orange_pupils"
+    },
+    {
+      "phrase": "orange pupils visible",
+      "tag": "orange_pupils"
+    },
+    {
+      "phrase": "showing orange pupils",
+      "tag": "orange_pupils"
+    },
+    {
+      "phrase": "with orange pupils",
+      "tag": "orange_pupils"
+    },
+    {
+      "phrase": "orange sclera",
+      "tag": "orange_sclera"
+    },
+    {
+      "phrase": "orange sclera visible",
+      "tag": "orange_sclera"
+    },
+    {
+      "phrase": "showing orange sclera",
+      "tag": "orange_sclera"
+    },
+    {
+      "phrase": "with orange sclera",
+      "tag": "orange_sclera"
+    },
+    {
+      "phrase": "pac-man eyes",
+      "tag": "pac-man_eyes"
+    },
+    {
+      "phrase": "pac-man eyes visible",
+      "tag": "pac-man_eyes"
+    },
+    {
+      "phrase": "showing pac-man eyes",
+      "tag": "pac-man_eyes"
+    },
+    {
+      "phrase": "with pac-man eyes",
+      "tag": "pac-man_eyes"
+    },
+    {
+      "phrase": "paint splatter on face",
+      "tag": "paint_splatter_on_face"
+    },
+    {
+      "phrase": "paint splatter on face visible",
+      "tag": "paint_splatter_on_face"
+    },
+    {
+      "phrase": "showing paint splatter on face",
+      "tag": "paint_splatter_on_face"
+    },
+    {
+      "phrase": "with paint splatter on face",
+      "tag": "paint_splatter_on_face"
+    },
+    {
+      "phrase": "patterned eyes",
+      "tag": "patterned_eyes"
+    },
+    {
+      "phrase": "patterned eyes visible",
+      "tag": "patterned_eyes"
+    },
+    {
+      "phrase": "showing patterned eyes",
+      "tag": "patterned_eyes"
+    },
+    {
+      "phrase": "with patterned eyes",
+      "tag": "patterned_eyes"
+    },
+    {
+      "phrase": "paw-shaped pupils",
+      "tag": "paw-shaped_pupils"
+    },
+    {
+      "phrase": "paw-shaped pupils visible",
+      "tag": "paw-shaped_pupils"
+    },
+    {
+      "phrase": "showing paw-shaped pupils",
+      "tag": "paw-shaped_pupils"
+    },
+    {
+      "phrase": "with paw-shaped pupils",
+      "tag": "paw-shaped_pupils"
+    },
+    {
+      "phrase": "pencil mustache",
+      "tag": "pencil_mustache"
+    },
+    {
+      "phrase": "pencil mustache visible",
+      "tag": "pencil_mustache"
+    },
+    {
+      "phrase": "showing pencil mustache",
+      "tag": "pencil_mustache"
+    },
+    {
+      "phrase": "with pencil mustache",
+      "tag": "pencil_mustache"
+    },
+    {
+      "phrase": "persona eyes",
+      "tag": "persona_eyes"
+    },
+    {
+      "phrase": "persona eyes visible",
+      "tag": "persona_eyes"
+    },
+    {
+      "phrase": "showing persona eyes",
+      "tag": "persona_eyes"
+    },
+    {
+      "phrase": "with persona eyes",
+      "tag": "persona_eyes"
+    },
+    {
+      "phrase": "petal on face",
+      "tag": "petal_on_face"
+    },
+    {
+      "phrase": "petal on face visible",
+      "tag": "petal_on_face"
+    },
+    {
+      "phrase": "showing petal on face",
+      "tag": "petal_on_face"
+    },
+    {
+      "phrase": "with petal on face",
+      "tag": "petal_on_face"
+    },
+    {
+      "phrase": "petal on nose",
+      "tag": "petal_on_nose"
+    },
+    {
+      "phrase": "petal on nose visible",
+      "tag": "petal_on_nose"
+    },
+    {
+      "phrase": "showing petal on nose",
+      "tag": "petal_on_nose"
+    },
+    {
+      "phrase": "with petal on nose",
+      "tag": "petal_on_nose"
+    },
+    {
+      "phrase": "pig nose",
+      "tag": "pig_nose"
+    },
+    {
+      "phrase": "pig nose visible",
+      "tag": "pig_nose"
+    },
+    {
+      "phrase": "showing pig nose",
+      "tag": "pig_nose"
+    },
+    {
+      "phrase": "with pig nose",
+      "tag": "pig_nose"
+    },
+    {
+      "phrase": "pink eyeliner",
+      "tag": "pink_eyeliner"
+    },
+    {
+      "phrase": "pink eyeliner visible",
+      "tag": "pink_eyeliner"
+    },
+    {
+      "phrase": "showing pink eyeliner",
+      "tag": "pink_eyeliner"
+    },
+    {
+      "phrase": "with pink eyeliner",
+      "tag": "pink_eyeliner"
+    },
+    {
+      "phrase": "pink eyes",
+      "tag": "pink_eyes"
+    },
+    {
+      "phrase": "pink eyes visible",
+      "tag": "pink_eyes"
+    },
+    {
+      "phrase": "showing pink eyes",
+      "tag": "pink_eyes"
+    },
+    {
+      "phrase": "with pink eyes",
+      "tag": "pink_eyes"
+    },
+    {
+      "phrase": "pink eyeshadow",
+      "tag": "pink_eyeshadow"
+    },
+    {
+      "phrase": "pink eyeshadow visible",
+      "tag": "pink_eyeshadow"
+    },
+    {
+      "phrase": "showing pink eyeshadow",
+      "tag": "pink_eyeshadow"
+    },
+    {
+      "phrase": "with pink eyeshadow",
+      "tag": "pink_eyeshadow"
+    },
+    {
+      "phrase": "pink nose",
+      "tag": "pink_nose"
+    },
+    {
+      "phrase": "pink nose visible",
+      "tag": "pink_nose"
+    },
+    {
+      "phrase": "showing pink nose",
+      "tag": "pink_nose"
+    },
+    {
+      "phrase": "with pink nose",
+      "tag": "pink_nose"
+    },
+    {
+      "phrase": "pink pupils",
+      "tag": "pink_pupils"
+    },
+    {
+      "phrase": "pink pupils visible",
+      "tag": "pink_pupils"
+    },
+    {
+      "phrase": "showing pink pupils",
+      "tag": "pink_pupils"
+    },
+    {
+      "phrase": "with pink pupils",
+      "tag": "pink_pupils"
+    },
+    {
+      "phrase": "pink sclera",
+      "tag": "pink_sclera"
+    },
+    {
+      "phrase": "pink sclera visible",
+      "tag": "pink_sclera"
+    },
+    {
+      "phrase": "showing pink sclera",
+      "tag": "pink_sclera"
+    },
+    {
+      "phrase": "with pink sclera",
+      "tag": "pink_sclera"
+    },
+    {
+      "phrase": "pixel eyes",
+      "tag": "pixel_eyes"
+    },
+    {
+      "phrase": "pixel eyes visible",
+      "tag": "pixel_eyes"
+    },
+    {
+      "phrase": "showing pixel eyes",
+      "tag": "pixel_eyes"
+    },
+    {
+      "phrase": "with pixel eyes",
+      "tag": "pixel_eyes"
+    },
+    {
+      "phrase": "pointy nose",
+      "tag": "pointy_nose"
+    },
+    {
+      "phrase": "pointy nose visible",
+      "tag": "pointy_nose"
+    },
+    {
+      "phrase": "showing pointy nose",
+      "tag": "pointy_nose"
+    },
+    {
+      "phrase": "with pointy nose",
+      "tag": "pointy_nose"
+    },
+    {
+      "phrase": "power symbol-shaped pupils",
+      "tag": "power_symbol-shaped_pupils"
+    },
+    {
+      "phrase": "power symbol-shaped pupils visible",
+      "tag": "power_symbol-shaped_pupils"
+    },
+    {
+      "phrase": "showing power symbol-shaped pupils",
+      "tag": "power_symbol-shaped_pupils"
+    },
+    {
+      "phrase": "with power symbol-shaped pupils",
+      "tag": "power_symbol-shaped_pupils"
+    },
+    {
+      "phrase": "puckered lips",
+      "tag": "puckered_lips"
+    },
+    {
+      "phrase": "puckered lips visible",
+      "tag": "puckered_lips"
+    },
+    {
+      "phrase": "showing puckered lips",
+      "tag": "puckered_lips"
+    },
+    {
+      "phrase": "with puckered lips",
+      "tag": "puckered_lips"
+    },
+    {
+      "phrase": "puffy cheeks",
+      "tag": "puffy_cheeks"
+    },
+    {
+      "phrase": "puffy cheeks visible",
+      "tag": "puffy_cheeks"
+    },
+    {
+      "phrase": "showing puffy cheeks",
+      "tag": "puffy_cheeks"
+    },
+    {
+      "phrase": "with puffy cheeks",
+      "tag": "puffy_cheeks"
+    },
+    {
+      "phrase": "puffy lips",
+      "tag": "puffy_lips"
+    },
+    {
+      "phrase": "puffy lips visible",
+      "tag": "puffy_lips"
+    },
+    {
+      "phrase": "showing puffy lips",
+      "tag": "puffy_lips"
+    },
+    {
+      "phrase": "with puffy lips",
+      "tag": "puffy_lips"
+    },
+    {
+      "phrase": "purple eyeliner",
+      "tag": "purple_eyeliner"
+    },
+    {
+      "phrase": "purple eyeliner visible",
+      "tag": "purple_eyeliner"
+    },
+    {
+      "phrase": "showing purple eyeliner",
+      "tag": "purple_eyeliner"
+    },
+    {
+      "phrase": "with purple eyeliner",
+      "tag": "purple_eyeliner"
+    },
+    {
+      "phrase": "purple eyes",
+      "tag": "purple_eyes"
+    },
+    {
+      "phrase": "purple eyes visible",
+      "tag": "purple_eyes"
+    },
+    {
+      "phrase": "showing purple eyes",
+      "tag": "purple_eyes"
+    },
+    {
+      "phrase": "with purple eyes",
+      "tag": "purple_eyes"
+    },
+    {
+      "phrase": "purple eyeshadow",
+      "tag": "purple_eyeshadow"
+    },
+    {
+      "phrase": "purple eyeshadow visible",
+      "tag": "purple_eyeshadow"
+    },
+    {
+      "phrase": "showing purple eyeshadow",
+      "tag": "purple_eyeshadow"
+    },
+    {
+      "phrase": "with purple eyeshadow",
+      "tag": "purple_eyeshadow"
+    },
+    {
+      "phrase": "purple facial hair",
+      "tag": "purple_facial_hair"
+    },
+    {
+      "phrase": "purple facial hair visible",
+      "tag": "purple_facial_hair"
+    },
+    {
+      "phrase": "showing purple facial hair",
+      "tag": "purple_facial_hair"
+    },
+    {
+      "phrase": "with purple facial hair",
+      "tag": "purple_facial_hair"
+    },
+    {
+      "phrase": "purple lips",
+      "tag": "purple_lips"
+    },
+    {
+      "phrase": "purple lips visible",
+      "tag": "purple_lips"
+    },
+    {
+      "phrase": "showing purple lips",
+      "tag": "purple_lips"
+    },
+    {
+      "phrase": "with purple lips",
+      "tag": "purple_lips"
+    },
+    {
+      "phrase": "purple pupils",
+      "tag": "purple_pupils"
+    },
+    {
+      "phrase": "purple pupils visible",
+      "tag": "purple_pupils"
+    },
+    {
+      "phrase": "showing purple pupils",
+      "tag": "purple_pupils"
+    },
+    {
+      "phrase": "with purple pupils",
+      "tag": "purple_pupils"
+    },
+    {
+      "phrase": "purple sclera",
+      "tag": "purple_sclera"
+    },
+    {
+      "phrase": "purple sclera visible",
+      "tag": "purple_sclera"
+    },
+    {
+      "phrase": "showing purple sclera",
+      "tag": "purple_sclera"
+    },
+    {
+      "phrase": "with purple sclera",
+      "tag": "purple_sclera"
+    },
+    {
+      "phrase": "pursed lips",
+      "tag": "pursed_lips"
+    },
+    {
+      "phrase": "pursed lips visible",
+      "tag": "pursed_lips"
+    },
+    {
+      "phrase": "showing pursed lips",
+      "tag": "pursed_lips"
+    },
+    {
+      "phrase": "with pursed lips",
+      "tag": "pursed_lips"
+    },
+    {
+      "phrase": "rabbit-shaped pupils",
+      "tag": "rabbit-shaped_pupils"
+    },
+    {
+      "phrase": "rabbit-shaped pupils visible",
+      "tag": "rabbit-shaped_pupils"
+    },
+    {
+      "phrase": "showing rabbit-shaped pupils",
+      "tag": "rabbit-shaped_pupils"
+    },
+    {
+      "phrase": "with rabbit-shaped pupils",
+      "tag": "rabbit-shaped_pupils"
+    },
+    {
+      "phrase": "rabbit in eyes",
+      "tag": "rabbit_in_eyes"
+    },
+    {
+      "phrase": "rabbit in eyes visible",
+      "tag": "rabbit_in_eyes"
+    },
+    {
+      "phrase": "showing rabbit in eyes",
+      "tag": "rabbit_in_eyes"
+    },
+    {
+      "phrase": "with rabbit in eyes",
+      "tag": "rabbit_in_eyes"
+    },
+    {
+      "phrase": "radiation symbol-shaped pupils",
+      "tag": "radiation_symbol-shaped_pupils"
+    },
+    {
+      "phrase": "radiation symbol-shaped pupils visible",
+      "tag": "radiation_symbol-shaped_pupils"
+    },
+    {
+      "phrase": "showing radiation symbol-shaped pupils",
+      "tag": "radiation_symbol-shaped_pupils"
+    },
+    {
+      "phrase": "with radiation symbol-shaped pupils",
+      "tag": "radiation_symbol-shaped_pupils"
+    },
+    {
+      "phrase": "rainbow eyes",
+      "tag": "rainbow_eyes"
+    },
+    {
+      "phrase": "rainbow eyes visible",
+      "tag": "rainbow_eyes"
+    },
+    {
+      "phrase": "showing rainbow eyes",
+      "tag": "rainbow_eyes"
+    },
+    {
+      "phrase": "with rainbow eyes",
+      "tag": "rainbow_eyes"
+    },
+    {
+      "phrase": "raised eyebrows",
+      "tag": "raised_eyebrows"
+    },
+    {
+      "phrase": "raised eyebrows visible",
+      "tag": "raised_eyebrows"
+    },
+    {
+      "phrase": "showing raised eyebrows",
+      "tag": "raised_eyebrows"
+    },
+    {
+      "phrase": "with raised eyebrows",
+      "tag": "raised_eyebrows"
+    },
+    {
+      "phrase": "raised inner eyebrows",
+      "tag": "raised_inner_eyebrows"
+    },
+    {
+      "phrase": "raised inner eyebrows visible",
+      "tag": "raised_inner_eyebrows"
+    },
+    {
+      "phrase": "showing raised inner eyebrows",
+      "tag": "raised_inner_eyebrows"
+    },
+    {
+      "phrase": "with raised inner eyebrows",
+      "tag": "raised_inner_eyebrows"
+    },
+    {
+      "phrase": "rectangular eyes",
+      "tag": "rectangular_eyes"
+    },
+    {
+      "phrase": "rectangular eyes visible",
+      "tag": "rectangular_eyes"
+    },
+    {
+      "phrase": "showing rectangular eyes",
+      "tag": "rectangular_eyes"
+    },
+    {
+      "phrase": "with rectangular eyes",
+      "tag": "rectangular_eyes"
+    },
+    {
+      "phrase": "rectangular pupils",
+      "tag": "rectangular_pupils"
+    },
+    {
+      "phrase": "rectangular pupils visible",
+      "tag": "rectangular_pupils"
+    },
+    {
+      "phrase": "showing rectangular pupils",
+      "tag": "rectangular_pupils"
+    },
+    {
+      "phrase": "with rectangular pupils",
+      "tag": "rectangular_pupils"
+    },
+    {
+      "phrase": "red eyeliner",
+      "tag": "red_eyeliner"
+    },
+    {
+      "phrase": "red eyeliner visible",
+      "tag": "red_eyeliner"
+    },
+    {
+      "phrase": "showing red eyeliner",
+      "tag": "red_eyeliner"
+    },
+    {
+      "phrase": "with red eyeliner",
+      "tag": "red_eyeliner"
+    },
+    {
+      "phrase": "red eyes",
+      "tag": "red_eyes"
+    },
+    {
+      "phrase": "red eyes visible",
+      "tag": "red_eyes"
+    },
+    {
+      "phrase": "showing red eyes",
+      "tag": "red_eyes"
+    },
+    {
+      "phrase": "with red eyes",
+      "tag": "red_eyes"
+    },
+    {
+      "phrase": "red eyeshadow",
+      "tag": "red_eyeshadow"
+    },
+    {
+      "phrase": "red eyeshadow visible",
+      "tag": "red_eyeshadow"
+    },
+    {
+      "phrase": "showing red eyeshadow",
+      "tag": "red_eyeshadow"
+    },
+    {
+      "phrase": "with red eyeshadow",
+      "tag": "red_eyeshadow"
+    },
+    {
+      "phrase": "red facial hair",
+      "tag": "red_facial_hair"
+    },
+    {
+      "phrase": "red facial hair visible",
+      "tag": "red_facial_hair"
+    },
+    {
+      "phrase": "showing red facial hair",
+      "tag": "red_facial_hair"
+    },
+    {
+      "phrase": "with red facial hair",
+      "tag": "red_facial_hair"
+    },
+    {
+      "phrase": "red nose",
+      "tag": "red_nose"
+    },
+    {
+      "phrase": "red nose visible",
+      "tag": "red_nose"
+    },
+    {
+      "phrase": "showing red nose",
+      "tag": "red_nose"
+    },
+    {
+      "phrase": "with red nose",
+      "tag": "red_nose"
+    },
+    {
+      "phrase": "red pupils",
+      "tag": "red_pupils"
+    },
+    {
+      "phrase": "red pupils visible",
+      "tag": "red_pupils"
+    },
+    {
+      "phrase": "showing red pupils",
+      "tag": "red_pupils"
+    },
+    {
+      "phrase": "with red pupils",
+      "tag": "red_pupils"
+    },
+    {
+      "phrase": "rice on face",
+      "tag": "rice_on_face"
+    },
+    {
+      "phrase": "rice on face visible",
+      "tag": "rice_on_face"
+    },
+    {
+      "phrase": "showing rice on face",
+      "tag": "rice_on_face"
+    },
+    {
+      "phrase": "with rice on face",
+      "tag": "rice_on_face"
+    },
+    {
+      "phrase": "ringed eyes",
+      "tag": "ringed_eyes"
+    },
+    {
+      "phrase": "ringed eyes visible",
+      "tag": "ringed_eyes"
+    },
+    {
+      "phrase": "showing ringed eyes",
+      "tag": "ringed_eyes"
+    },
+    {
+      "phrase": "with ringed eyes",
+      "tag": "ringed_eyes"
+    },
+    {
+      "phrase": "rinnegan",
+      "tag": "rinnegan"
+    },
+    {
+      "phrase": "rinnegan visible",
+      "tag": "rinnegan"
+    },
+    {
+      "phrase": "showing rinnegan",
+      "tag": "rinnegan"
+    },
+    {
+      "phrase": "with rinnegan",
+      "tag": "rinnegan"
+    },
+    {
+      "phrase": "rolling eyes",
+      "tag": "rolling_eyes"
+    },
+    {
+      "phrase": "rolling eyes visible",
+      "tag": "rolling_eyes"
+    },
+    {
+      "phrase": "showing rolling eyes",
+      "tag": "rolling_eyes"
+    },
+    {
+      "phrase": "with rolling eyes",
+      "tag": "rolling_eyes"
+    },
+    {
+      "phrase": "rouge",
+      "tag": "rouge_(makeup)"
+    },
+    {
+      "phrase": "rouge makeup",
+      "tag": "rouge_(makeup)"
+    },
+    {
+      "phrase": "rouge visible",
+      "tag": "rouge_(makeup)"
+    },
+    {
+      "phrase": "showing rouge",
+      "tag": "rouge_(makeup)"
+    },
+    {
+      "phrase": "with rouge",
+      "tag": "rouge_(makeup)"
+    },
+    {
+      "phrase": "runny makeup",
+      "tag": "runny_makeup"
+    },
+    {
+      "phrase": "runny makeup visible",
+      "tag": "runny_makeup"
+    },
+    {
+      "phrase": "showing runny makeup",
+      "tag": "runny_makeup"
+    },
+    {
+      "phrase": "with runny makeup",
+      "tag": "runny_makeup"
+    },
+    {
+      "phrase": "runny nose",
+      "tag": "runny_nose"
+    },
+    {
+      "phrase": "runny nose visible",
+      "tag": "runny_nose"
+    },
+    {
+      "phrase": "showing runny nose",
+      "tag": "runny_nose"
+    },
+    {
+      "phrase": "with runny nose",
+      "tag": "runny_nose"
+    },
+    {
+      "phrase": "sanpaku",
+      "tag": "sanpaku"
+    },
+    {
+      "phrase": "sanpaku visible",
+      "tag": "sanpaku"
+    },
+    {
+      "phrase": "showing sanpaku",
+      "tag": "sanpaku"
+    },
+    {
+      "phrase": "with sanpaku",
+      "tag": "sanpaku"
+    },
+    {
+      "phrase": "shading eyes",
+      "tag": "shading_eyes"
+    },
+    {
+      "phrase": "shading eyes visible",
+      "tag": "shading_eyes"
+    },
+    {
+      "phrase": "showing shading eyes",
+      "tag": "shading_eyes"
+    },
+    {
+      "phrase": "with shading eyes",
+      "tag": "shading_eyes"
+    },
+    {
+      "phrase": "shiny eyes",
+      "tag": "shiny_eyes"
+    },
+    {
+      "phrase": "shiny eyes visible",
+      "tag": "shiny_eyes"
+    },
+    {
+      "phrase": "showing shiny eyes",
+      "tag": "shiny_eyes"
+    },
+    {
+      "phrase": "with shiny eyes",
+      "tag": "shiny_eyes"
+    },
+    {
+      "phrase": "shiny lips",
+      "tag": "shiny_lips"
+    },
+    {
+      "phrase": "shiny lips visible",
+      "tag": "shiny_lips"
+    },
+    {
+      "phrase": "showing shiny lips",
+      "tag": "shiny_lips"
+    },
+    {
+      "phrase": "with shiny lips",
+      "tag": "shiny_lips"
+    },
+    {
+      "phrase": "short eyebrows",
+      "tag": "short_eyebrows"
+    },
+    {
+      "phrase": "short eyebrows visible",
+      "tag": "short_eyebrows"
+    },
+    {
+      "phrase": "showing short eyebrows",
+      "tag": "short_eyebrows"
+    },
+    {
+      "phrase": "with short eyebrows",
+      "tag": "short_eyebrows"
+    },
+    {
+      "phrase": "shouting",
+      "tag": "shouting"
+    },
+    {
+      "phrase": "shouting visible",
+      "tag": "shouting"
+    },
+    {
+      "phrase": "showing shouting",
+      "tag": "shouting"
+    },
+    {
+      "phrase": "with shouting",
+      "tag": "shouting"
+    },
+    {
+      "phrase": "showing sideburns",
+      "tag": "sideburns"
+    },
+    {
+      "phrase": "sideburns",
+      "tag": "sideburns"
+    },
+    {
+      "phrase": "sideburns visible",
+      "tag": "sideburns"
+    },
+    {
+      "phrase": "with sideburns",
+      "tag": "sideburns"
+    },
+    {
+      "phrase": "showing sideburns stubble",
+      "tag": "sideburns_stubble"
+    },
+    {
+      "phrase": "sideburns stubble",
+      "tag": "sideburns_stubble"
+    },
+    {
+      "phrase": "sideburns stubble visible",
+      "tag": "sideburns_stubble"
+    },
+    {
+      "phrase": "with sideburns stubble",
+      "tag": "sideburns_stubble"
+    },
+    {
+      "phrase": "showing silver lips",
+      "tag": "silver_lips"
+    },
+    {
+      "phrase": "silver lips",
+      "tag": "silver_lips"
+    },
+    {
+      "phrase": "silver lips visible",
+      "tag": "silver_lips"
+    },
+    {
+      "phrase": "with silver lips",
+      "tag": "silver_lips"
+    },
+    {
+      "phrase": "showing single side bun",
+      "tag": "single_side_bun"
+    },
+    {
+      "phrase": "single side bun",
+      "tag": "single_side_bun"
+    },
+    {
+      "phrase": "single side bun visible",
+      "tag": "single_side_bun"
+    },
+    {
+      "phrase": "with single side bun",
+      "tag": "single_side_bun"
+    },
+    {
+      "phrase": "showing skull-shaped pupils",
+      "tag": "skull-shaped_pupils"
+    },
+    {
+      "phrase": "skull-shaped pupils",
+      "tag": "skull-shaped_pupils"
+    },
+    {
+      "phrase": "skull-shaped pupils visible",
+      "tag": "skull-shaped_pupils"
+    },
+    {
+      "phrase": "with skull-shaped pupils",
+      "tag": "skull-shaped_pupils"
+    },
+    {
+      "phrase": "showing slit pupils",
+      "tag": "slit_pupils"
+    },
+    {
+      "phrase": "slit pupils",
+      "tag": "slit_pupils"
+    },
+    {
+      "phrase": "slit pupils visible",
+      "tag": "slit_pupils"
+    },
+    {
+      "phrase": "with slit pupils",
+      "tag": "slit_pupils"
+    },
+    {
+      "phrase": "showing small pupils",
+      "tag": "small_pupils"
+    },
+    {
+      "phrase": "small pupils",
+      "tag": "small_pupils"
+    },
+    {
+      "phrase": "small pupils visible",
+      "tag": "small_pupils"
+    },
+    {
+      "phrase": "with small pupils",
+      "tag": "small_pupils"
+    },
+    {
+      "phrase": "showing smeared lipstick",
+      "tag": "smeared_lipstick"
+    },
+    {
+      "phrase": "smeared lipstick",
+      "tag": "smeared_lipstick"
+    },
+    {
+      "phrase": "smeared lipstick visible",
+      "tag": "smeared_lipstick"
+    },
+    {
+      "phrase": "with smeared lipstick",
+      "tag": "smeared_lipstick"
+    },
+    {
+      "phrase": "showing solid circle eyes",
+      "tag": "solid_circle_eyes"
+    },
+    {
+      "phrase": "solid circle eyes",
+      "tag": "solid_circle_eyes"
+    },
+    {
+      "phrase": "solid circle eyes visible",
+      "tag": "solid_circle_eyes"
+    },
+    {
+      "phrase": "with solid circle eyes",
+      "tag": "solid_circle_eyes"
+    },
+    {
+      "phrase": "showing solid circle pupils",
+      "tag": "solid_circle_pupils"
+    },
+    {
+      "phrase": "solid circle pupils",
+      "tag": "solid_circle_pupils"
+    },
+    {
+      "phrase": "solid circle pupils visible",
+      "tag": "solid_circle_pupils"
+    },
+    {
+      "phrase": "with solid circle pupils",
+      "tag": "solid_circle_pupils"
+    },
+    {
+      "phrase": "showing solid eyes",
+      "tag": "solid_eyes"
+    },
+    {
+      "phrase": "solid eyes",
+      "tag": "solid_eyes"
+    },
+    {
+      "phrase": "solid eyes visible",
+      "tag": "solid_eyes"
+    },
+    {
+      "phrase": "with solid eyes",
+      "tag": "solid_eyes"
+    },
+    {
+      "phrase": "showing solid oval eyes",
+      "tag": "solid_oval_eyes"
+    },
+    {
+      "phrase": "solid oval eyes",
+      "tag": "solid_oval_eyes"
+    },
+    {
+      "phrase": "solid oval eyes visible",
+      "tag": "solid_oval_eyes"
+    },
+    {
+      "phrase": "with solid oval eyes",
+      "tag": "solid_oval_eyes"
+    },
+    {
+      "phrase": "showing spade-shaped pupils",
+      "tag": "spade-shaped_pupils"
+    },
+    {
+      "phrase": "spade-shaped pupils",
+      "tag": "spade-shaped_pupils"
+    },
+    {
+      "phrase": "spade-shaped pupils visible",
+      "tag": "spade-shaped_pupils"
+    },
+    {
+      "phrase": "with spade-shaped pupils",
+      "tag": "spade-shaped_pupils"
+    },
+    {
+      "phrase": "showing spade facial mark",
+      "tag": "spade_facial_mark"
+    },
+    {
+      "phrase": "spade facial mark",
+      "tag": "spade_facial_mark"
+    },
+    {
+      "phrase": "spade facial mark visible",
+      "tag": "spade_facial_mark"
+    },
+    {
+      "phrase": "with spade facial mark",
+      "tag": "spade_facial_mark"
+    },
+    {
+      "phrase": "showing sparkling eyes",
+      "tag": "sparkling_eyes"
+    },
+    {
+      "phrase": "sparkling eyes",
+      "tag": "sparkling_eyes"
+    },
+    {
+      "phrase": "sparkling eyes visible",
+      "tag": "sparkling_eyes"
+    },
+    {
+      "phrase": "with sparkling eyes",
+      "tag": "sparkling_eyes"
+    },
+    {
+      "phrase": "showing sparse stubble",
+      "tag": "sparse_stubble"
+    },
+    {
+      "phrase": "sparse stubble",
+      "tag": "sparse_stubble"
+    },
+    {
+      "phrase": "sparse stubble visible",
+      "tag": "sparse_stubble"
+    },
+    {
+      "phrase": "with sparse stubble",
+      "tag": "sparse_stubble"
+    },
+    {
+      "phrase": "showing spiral-only eyes",
+      "tag": "spiral-only_eyes"
+    },
+    {
+      "phrase": "spiral-only eyes",
+      "tag": "spiral-only_eyes"
+    },
+    {
+      "phrase": "spiral-only eyes visible",
+      "tag": "spiral-only_eyes"
+    },
+    {
+      "phrase": "with spiral-only eyes",
+      "tag": "spiral-only_eyes"
+    },
+    {
+      "phrase": "showing sprout-shaped pupils",
+      "tag": "sprout-shaped_pupils"
+    },
+    {
+      "phrase": "sprout-shaped pupils",
+      "tag": "sprout-shaped_pupils"
+    },
+    {
+      "phrase": "sprout-shaped pupils visible",
+      "tag": "sprout-shaped_pupils"
+    },
+    {
+      "phrase": "with sprout-shaped pupils",
+      "tag": "sprout-shaped_pupils"
+    },
+    {
+      "phrase": "showing square eyes",
+      "tag": "square_eyes"
+    },
+    {
+      "phrase": "square eyes",
+      "tag": "square_eyes"
+    },
+    {
+      "phrase": "square eyes visible",
+      "tag": "square_eyes"
+    },
+    {
+      "phrase": "with square eyes",
+      "tag": "square_eyes"
+    },
+    {
+      "phrase": "showing square pupils",
+      "tag": "square_pupils"
+    },
+    {
+      "phrase": "square pupils",
+      "tag": "square_pupils"
+    },
+    {
+      "phrase": "square pupils visible",
+      "tag": "square_pupils"
+    },
+    {
+      "phrase": "with square pupils",
+      "tag": "square_pupils"
+    },
+    {
+      "phrase": "showing squiggle eyes",
+      "tag": "squiggle_eyes"
+    },
+    {
+      "phrase": "squiggle eyes",
+      "tag": "squiggle_eyes"
+    },
+    {
+      "phrase": "squiggle eyes visible",
+      "tag": "squiggle_eyes"
+    },
+    {
+      "phrase": "with squiggle eyes",
+      "tag": "squiggle_eyes"
+    },
+    {
+      "phrase": "showing stalk eyes",
+      "tag": "stalk_eyes"
+    },
+    {
+      "phrase": "stalk eyes",
+      "tag": "stalk_eyes"
+    },
+    {
+      "phrase": "stalk eyes visible",
+      "tag": "stalk_eyes"
+    },
+    {
+      "phrase": "with stalk eyes",
+      "tag": "stalk_eyes"
+    },
+    {
+      "phrase": "showing star-shaped pupils",
+      "tag": "star-shaped_pupils"
+    },
+    {
+      "phrase": "star-shaped pupils",
+      "tag": "star-shaped_pupils"
+    },
+    {
+      "phrase": "star-shaped pupils visible",
+      "tag": "star-shaped_pupils"
+    },
+    {
+      "phrase": "with star-shaped pupils",
+      "tag": "star-shaped_pupils"
+    },
+    {
+      "phrase": "showing star facial mark",
+      "tag": "star_facial_mark"
+    },
+    {
+      "phrase": "star facial mark",
+      "tag": "star_facial_mark"
+    },
+    {
+      "phrase": "star facial mark visible",
+      "tag": "star_facial_mark"
+    },
+    {
+      "phrase": "with star facial mark",
+      "tag": "star_facial_mark"
+    },
+    {
+      "phrase": "showing star on cheek",
+      "tag": "star_on_cheek"
+    },
+    {
+      "phrase": "star on cheek",
+      "tag": "star_on_cheek"
+    },
+    {
+      "phrase": "star on cheek visible",
+      "tag": "star_on_cheek"
+    },
+    {
+      "phrase": "with star on cheek",
+      "tag": "star_on_cheek"
+    },
+    {
+      "phrase": "showing static eyes",
+      "tag": "static_eyes"
+    },
+    {
+      "phrase": "static eyes",
+      "tag": "static_eyes"
+    },
+    {
+      "phrase": "static eyes visible",
+      "tag": "static_eyes"
+    },
+    {
+      "phrase": "with static eyes",
+      "tag": "static_eyes"
+    },
+    {
+      "phrase": "showing stubble",
+      "tag": "stubble"
+    },
+    {
+      "phrase": "stubble",
+      "tag": "stubble"
+    },
+    {
+      "phrase": "stubble visible",
+      "tag": "stubble"
+    },
+    {
+      "phrase": "with stubble",
+      "tag": "stubble"
+    },
+    {
+      "phrase": "showing sunken cheeks",
+      "tag": "sunken_cheeks"
+    },
+    {
+      "phrase": "sunken cheeks",
+      "tag": "sunken_cheeks"
+    },
+    {
+      "phrase": "sunken cheeks visible",
+      "tag": "sunken_cheeks"
+    },
+    {
+      "phrase": "with sunken cheeks",
+      "tag": "sunken_cheeks"
+    },
+    {
+      "phrase": "showing symbol-shaped eyes",
+      "tag": "symbol-shaped_eyes"
+    },
+    {
+      "phrase": "symbol-shaped eyes",
+      "tag": "symbol-shaped_eyes"
+    },
+    {
+      "phrase": "symbol-shaped eyes visible",
+      "tag": "symbol-shaped_eyes"
+    },
+    {
+      "phrase": "with symbol-shaped eyes",
+      "tag": "symbol-shaped_eyes"
+    },
+    {
+      "phrase": "showing symbol-shaped pupils",
+      "tag": "symbol-shaped_pupils"
+    },
+    {
+      "phrase": "symbol-shaped pupils",
+      "tag": "symbol-shaped_pupils"
+    },
+    {
+      "phrase": "symbol-shaped pupils visible",
+      "tag": "symbol-shaped_pupils"
+    },
+    {
+      "phrase": "with symbol-shaped pupils",
+      "tag": "symbol-shaped_pupils"
+    },
+    {
+      "phrase": "showing tareme",
+      "tag": "tareme"
+    },
+    {
+      "phrase": "tareme",
+      "tag": "tareme"
+    },
+    {
+      "phrase": "tareme visible",
+      "tag": "tareme"
+    },
+    {
+      "phrase": "with tareme",
+      "tag": "tareme"
+    },
+    {
+      "phrase": "showing teardrop facial mark",
+      "tag": "teardrop_facial_mark"
+    },
+    {
+      "phrase": "teardrop facial mark",
+      "tag": "teardrop_facial_mark"
+    },
+    {
+      "phrase": "teardrop facial mark visible",
+      "tag": "teardrop_facial_mark"
+    },
+    {
+      "phrase": "with teardrop facial mark",
+      "tag": "teardrop_facial_mark"
+    },
+    {
+      "phrase": "showing thick beard",
+      "tag": "thick_beard"
+    },
+    {
+      "phrase": "thick beard",
+      "tag": "thick_beard"
+    },
+    {
+      "phrase": "thick beard visible",
+      "tag": "thick_beard"
+    },
+    {
+      "phrase": "with thick beard",
+      "tag": "thick_beard"
+    },
+    {
+      "phrase": "showing thick eyebrows",
+      "tag": "thick_eyebrows"
+    },
+    {
+      "phrase": "thick eyebrows",
+      "tag": "thick_eyebrows"
+    },
+    {
+      "phrase": "thick eyebrows visible",
+      "tag": "thick_eyebrows"
+    },
+    {
+      "phrase": "with thick eyebrows",
+      "tag": "thick_eyebrows"
+    },
+    {
+      "phrase": "showing thick eyelashes",
+      "tag": "thick_eyelashes"
+    },
+    {
+      "phrase": "thick eyelashes",
+      "tag": "thick_eyelashes"
+    },
+    {
+      "phrase": "thick eyelashes visible",
+      "tag": "thick_eyelashes"
+    },
+    {
+      "phrase": "with thick eyelashes",
+      "tag": "thick_eyelashes"
+    },
+    {
+      "phrase": "showing thick lips",
+      "tag": "thick_lips"
+    },
+    {
+      "phrase": "thick lips",
+      "tag": "thick_lips"
+    },
+    {
+      "phrase": "thick lips visible",
+      "tag": "thick_lips"
+    },
+    {
+      "phrase": "with thick lips",
+      "tag": "thick_lips"
+    },
+    {
+      "phrase": "showing thick mustache",
+      "tag": "thick_mustache"
+    },
+    {
+      "phrase": "thick mustache",
+      "tag": "thick_mustache"
+    },
+    {
+      "phrase": "thick mustache visible",
+      "tag": "thick_mustache"
+    },
+    {
+      "phrase": "with thick mustache",
+      "tag": "thick_mustache"
+    },
+    {
+      "phrase": "showing tied beard",
+      "tag": "tied_beard"
+    },
+    {
+      "phrase": "tied beard",
+      "tag": "tied_beard"
+    },
+    {
+      "phrase": "tied beard visible",
+      "tag": "tied_beard"
+    },
+    {
+      "phrase": "with tied beard",
+      "tag": "tied_beard"
+    },
+    {
+      "phrase": "showing too many eyes",
+      "tag": "too_many_eyes"
+    },
+    {
+      "phrase": "too many eyes",
+      "tag": "too_many_eyes"
+    },
+    {
+      "phrase": "too many eyes visible",
+      "tag": "too_many_eyes"
+    },
+    {
+      "phrase": "with too many eyes",
+      "tag": "too_many_eyes"
+    },
+    {
+      "phrase": "showing tooth gap",
+      "tag": "tooth_gap"
+    },
+    {
+      "phrase": "tooth gap",
+      "tag": "tooth_gap"
+    },
+    {
+      "phrase": "tooth gap visible",
+      "tag": "tooth_gap"
+    },
+    {
+      "phrase": "with tooth gap",
+      "tag": "tooth_gap"
+    },
+    {
+      "phrase": "showing triangle-shaped pupils",
+      "tag": "triangle-shaped_pupils"
+    },
+    {
+      "phrase": "triangle-shaped pupils",
+      "tag": "triangle-shaped_pupils"
+    },
+    {
+      "phrase": "triangle-shaped pupils visible",
+      "tag": "triangle-shaped_pupils"
+    },
+    {
+      "phrase": "with triangle-shaped pupils",
+      "tag": "triangle-shaped_pupils"
+    },
+    {
+      "phrase": "showing triangle facial mark",
+      "tag": "triangle_facial_mark"
+    },
+    {
+      "phrase": "triangle facial mark",
+      "tag": "triangle_facial_mark"
+    },
+    {
+      "phrase": "triangle facial mark visible",
+      "tag": "triangle_facial_mark"
+    },
+    {
+      "phrase": "with triangle facial mark",
+      "tag": "triangle_facial_mark"
+    },
+    {
+      "phrase": "showing tsurime",
+      "tag": "tsurime"
+    },
+    {
+      "phrase": "tsurime",
+      "tag": "tsurime"
+    },
+    {
+      "phrase": "tsurime visible",
+      "tag": "tsurime"
+    },
+    {
+      "phrase": "with tsurime",
+      "tag": "tsurime"
+    },
+    {
+      "phrase": "showing two-tone beard",
+      "tag": "two-tone_beard"
+    },
+    {
+      "phrase": "two-tone beard",
+      "tag": "two-tone_beard"
+    },
+    {
+      "phrase": "two-tone beard visible",
+      "tag": "two-tone_beard"
+    },
+    {
+      "phrase": "with two-tone beard",
+      "tag": "two-tone_beard"
+    },
+    {
+      "phrase": "showing two-tone eyes",
+      "tag": "two-tone_eyes"
+    },
+    {
+      "phrase": "two-tone eyes",
+      "tag": "two-tone_eyes"
+    },
+    {
+      "phrase": "two-tone eyes visible",
+      "tag": "two-tone_eyes"
+    },
+    {
+      "phrase": "with two-tone eyes",
+      "tag": "two-tone_eyes"
+    },
+    {
+      "phrase": "showing uneven eyes",
+      "tag": "uneven_eyes"
+    },
+    {
+      "phrase": "uneven eyes",
+      "tag": "uneven_eyes"
+    },
+    {
+      "phrase": "uneven eyes visible",
+      "tag": "uneven_eyes"
+    },
+    {
+      "phrase": "with uneven eyes",
+      "tag": "uneven_eyes"
+    },
+    {
+      "phrase": "showing unibrow",
+      "tag": "unibrow"
+    },
+    {
+      "phrase": "unibrow",
+      "tag": "unibrow"
+    },
+    {
+      "phrase": "unibrow visible",
+      "tag": "unibrow"
+    },
+    {
+      "phrase": "with unibrow",
+      "tag": "unibrow"
+    },
+    {
+      "phrase": "showing unusually open eyes",
+      "tag": "unusually_open_eyes"
+    },
+    {
+      "phrase": "unusually open eyes",
+      "tag": "unusually_open_eyes"
+    },
+    {
+      "phrase": "unusually open eyes visible",
+      "tag": "unusually_open_eyes"
+    },
+    {
+      "phrase": "with unusually open eyes",
+      "tag": "unusually_open_eyes"
+    },
+    {
+      "phrase": "showing upturned eyes",
+      "tag": "upturned_eyes"
+    },
+    {
+      "phrase": "upturned eyes",
+      "tag": "upturned_eyes"
+    },
+    {
+      "phrase": "upturned eyes visible",
+      "tag": "upturned_eyes"
+    },
+    {
+      "phrase": "with upturned eyes",
+      "tag": "upturned_eyes"
+    },
+    {
+      "phrase": "showing v-shaped eyebrows",
+      "tag": "v-shaped_eyebrows"
+    },
+    {
+      "phrase": "v-shaped eyebrows",
+      "tag": "v-shaped_eyebrows"
+    },
+    {
+      "phrase": "v-shaped eyebrows visible",
+      "tag": "v-shaped_eyebrows"
+    },
+    {
+      "phrase": "with v-shaped eyebrows",
+      "tag": "v-shaped_eyebrows"
+    },
+    {
+      "phrase": "showing v-shaped eyes",
+      "tag": "v-shaped_eyes"
+    },
+    {
+      "phrase": "v-shaped eyes",
+      "tag": "v-shaped_eyes"
+    },
+    {
+      "phrase": "v-shaped eyes visible",
+      "tag": "v-shaped_eyes"
+    },
+    {
+      "phrase": "with v-shaped eyes",
+      "tag": "v-shaped_eyes"
+    },
+    {
+      "phrase": "showing very big eyes",
+      "tag": "very_big_eyes"
+    },
+    {
+      "phrase": "very big eyes",
+      "tag": "very_big_eyes"
+    },
+    {
+      "phrase": "very big eyes visible",
+      "tag": "very_big_eyes"
+    },
+    {
+      "phrase": "with very big eyes",
+      "tag": "very_big_eyes"
+    },
+    {
+      "phrase": "showing very long beard",
+      "tag": "very_long_beard"
+    },
+    {
+      "phrase": "very long beard",
+      "tag": "very_long_beard"
+    },
+    {
+      "phrase": "very long beard visible",
+      "tag": "very_long_beard"
+    },
+    {
+      "phrase": "with very long beard",
+      "tag": "very_long_beard"
+    },
+    {
+      "phrase": "showing wall-eyed",
+      "tag": "wall-eyed"
+    },
+    {
+      "phrase": "wall-eyed",
+      "tag": "wall-eyed"
+    },
+    {
+      "phrase": "wall-eyed visible",
+      "tag": "wall-eyed"
+    },
+    {
+      "phrase": "with wall-eyed",
+      "tag": "wall-eyed"
+    },
+    {
+      "phrase": "showing wavy eyebrows",
+      "tag": "wavy_eyebrows"
+    },
+    {
+      "phrase": "wavy eyebrows",
+      "tag": "wavy_eyebrows"
+    },
+    {
+      "phrase": "wavy eyebrows visible",
+      "tag": "wavy_eyebrows"
+    },
+    {
+      "phrase": "with wavy eyebrows",
+      "tag": "wavy_eyebrows"
+    },
+    {
+      "phrase": "showing wavy eyes",
+      "tag": "wavy_eyes"
+    },
+    {
+      "phrase": "wavy eyes",
+      "tag": "wavy_eyes"
+    },
+    {
+      "phrase": "wavy eyes visible",
+      "tag": "wavy_eyes"
+    },
+    {
+      "phrase": "with wavy eyes",
+      "tag": "wavy_eyes"
+    },
+    {
+      "phrase": "showing wet face",
+      "tag": "wet_face"
+    },
+    {
+      "phrase": "wet face",
+      "tag": "wet_face"
+    },
+    {
+      "phrase": "wet face visible",
+      "tag": "wet_face"
+    },
+    {
+      "phrase": "with wet face",
+      "tag": "wet_face"
+    },
+    {
+      "phrase": "showing whiskers",
+      "tag": "whiskers"
+    },
+    {
+      "phrase": "whiskers",
+      "tag": "whiskers"
+    },
+    {
+      "phrase": "whiskers visible",
+      "tag": "whiskers"
+    },
+    {
+      "phrase": "with whiskers",
+      "tag": "whiskers"
+    },
+    {
+      "phrase": "showing white beard",
+      "tag": "white_beard"
+    },
+    {
+      "phrase": "white beard",
+      "tag": "white_beard"
+    },
+    {
+      "phrase": "white beard visible",
+      "tag": "white_beard"
+    },
+    {
+      "phrase": "with white beard",
+      "tag": "white_beard"
+    },
+    {
+      "phrase": "showing white eyelashes",
+      "tag": "white_eyelashes"
+    },
+    {
+      "phrase": "white eyelashes",
+      "tag": "white_eyelashes"
+    },
+    {
+      "phrase": "white eyelashes visible",
+      "tag": "white_eyelashes"
+    },
+    {
+      "phrase": "with white eyelashes",
+      "tag": "white_eyelashes"
+    },
+    {
+      "phrase": "showing white eyes",
+      "tag": "white_eyes"
+    },
+    {
+      "phrase": "white eyes",
+      "tag": "white_eyes"
+    },
+    {
+      "phrase": "white eyes visible",
+      "tag": "white_eyes"
+    },
+    {
+      "phrase": "with white eyes",
+      "tag": "white_eyes"
+    },
+    {
+      "phrase": "showing white facial hair",
+      "tag": "white_facial_hair"
+    },
+    {
+      "phrase": "white facial hair",
+      "tag": "white_facial_hair"
+    },
+    {
+      "phrase": "white facial hair visible",
+      "tag": "white_facial_hair"
+    },
+    {
+      "phrase": "with white facial hair",
+      "tag": "white_facial_hair"
+    },
+    {
+      "phrase": "showing white lips",
+      "tag": "white_lips"
+    },
+    {
+      "phrase": "white lips",
+      "tag": "white_lips"
+    },
+    {
+      "phrase": "white lips visible",
+      "tag": "white_lips"
+    },
+    {
+      "phrase": "with white lips",
+      "tag": "white_lips"
+    },
+    {
+      "phrase": "showing white pupils",
+      "tag": "white_pupils"
+    },
+    {
+      "phrase": "white pupils",
+      "tag": "white_pupils"
+    },
+    {
+      "phrase": "white pupils visible",
+      "tag": "white_pupils"
+    },
+    {
+      "phrase": "with white pupils",
+      "tag": "white_pupils"
+    },
+    {
+      "phrase": "showing wide face",
+      "tag": "wide_face"
+    },
+    {
+      "phrase": "wide face",
+      "tag": "wide_face"
+    },
+    {
+      "phrase": "wide face visible",
+      "tag": "wide_face"
+    },
+    {
+      "phrase": "with wide face",
+      "tag": "wide_face"
+    },
+    {
+      "phrase": "showing wide oval eyes",
+      "tag": "wide_oval_eyes"
+    },
+    {
+      "phrase": "wide oval eyes",
+      "tag": "wide_oval_eyes"
+    },
+    {
+      "phrase": "wide oval eyes visible",
+      "tag": "wide_oval_eyes"
+    },
+    {
+      "phrase": "with wide oval eyes",
+      "tag": "wide_oval_eyes"
+    },
+    {
+      "phrase": "showing wince",
+      "tag": "wince"
+    },
+    {
+      "phrase": "wince",
+      "tag": "wince"
+    },
+    {
+      "phrase": "wince visible",
+      "tag": "wince"
+    },
+    {
+      "phrase": "with wince",
+      "tag": "wince"
+    },
+    {
+      "phrase": "showing wings over eyes",
+      "tag": "wings_over_eyes"
+    },
+    {
+      "phrase": "wings over eyes",
+      "tag": "wings_over_eyes"
+    },
+    {
+      "phrase": "wings over eyes visible",
+      "tag": "wings_over_eyes"
+    },
+    {
+      "phrase": "with wings over eyes",
+      "tag": "wings_over_eyes"
+    },
+    {
+      "phrase": "showing x-shaped pupils",
+      "tag": "x-shaped_pupils"
+    },
+    {
+      "phrase": "with x-shaped pupils",
+      "tag": "x-shaped_pupils"
+    },
+    {
+      "phrase": "x-shaped pupils",
+      "tag": "x-shaped_pupils"
+    },
+    {
+      "phrase": "x-shaped pupils visible",
+      "tag": "x-shaped_pupils"
+    },
+    {
+      "phrase": "showing x facial mark",
+      "tag": "x_facial_mark"
+    },
+    {
+      "phrase": "with x facial mark",
+      "tag": "x_facial_mark"
+    },
+    {
+      "phrase": "x facial mark",
+      "tag": "x_facial_mark"
+    },
+    {
+      "phrase": "x facial mark visible",
+      "tag": "x_facial_mark"
+    },
+    {
+      "phrase": "showing yawning",
+      "tag": "yawning"
+    },
+    {
+      "phrase": "with yawning",
+      "tag": "yawning"
+    },
+    {
+      "phrase": "yawning",
+      "tag": "yawning"
+    },
+    {
+      "phrase": "yawning visible",
+      "tag": "yawning"
+    },
+    {
+      "phrase": "showing yellow eyes",
+      "tag": "yellow_eyes"
+    },
+    {
+      "phrase": "with yellow eyes",
+      "tag": "yellow_eyes"
+    },
+    {
+      "phrase": "yellow eyes",
+      "tag": "yellow_eyes"
+    },
+    {
+      "phrase": "yellow eyes visible",
+      "tag": "yellow_eyes"
+    },
+    {
+      "phrase": "showing yellow eyeshadow",
+      "tag": "yellow_eyeshadow"
+    },
+    {
+      "phrase": "with yellow eyeshadow",
+      "tag": "yellow_eyeshadow"
+    },
+    {
+      "phrase": "yellow eyeshadow",
+      "tag": "yellow_eyeshadow"
+    },
+    {
+      "phrase": "yellow eyeshadow visible",
+      "tag": "yellow_eyeshadow"
+    },
+    {
+      "phrase": "showing yellow lips",
+      "tag": "yellow_lips"
+    },
+    {
+      "phrase": "with yellow lips",
+      "tag": "yellow_lips"
+    },
+    {
+      "phrase": "yellow lips",
+      "tag": "yellow_lips"
+    },
+    {
+      "phrase": "yellow lips visible",
+      "tag": "yellow_lips"
+    },
+    {
+      "phrase": "showing yellow pupils",
+      "tag": "yellow_pupils"
+    },
+    {
+      "phrase": "with yellow pupils",
+      "tag": "yellow_pupils"
+    },
+    {
+      "phrase": "yellow pupils",
+      "tag": "yellow_pupils"
+    },
+    {
+      "phrase": "yellow pupils visible",
+      "tag": "yellow_pupils"
+    },
+    {
+      "phrase": "showing yellow sclera",
+      "tag": "yellow_sclera"
+    },
+    {
+      "phrase": "with yellow sclera",
+      "tag": "yellow_sclera"
+    },
+    {
+      "phrase": "yellow sclera",
+      "tag": "yellow_sclera"
+    },
+    {
+      "phrase": "yellow sclera visible",
+      "tag": "yellow_sclera"
+    }
+  ]
+}

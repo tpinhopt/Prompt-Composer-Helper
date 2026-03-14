@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "phrase": "absurdly detailed composition",
+      "tag": "absurdly_detailed_composition"
+    },
+    {
+      "phrase": "absurdly detailed composition detail",
+      "tag": "absurdly_detailed_composition"
+    },
+    {
+      "phrase": "with absurdly detailed composition",
+      "tag": "absurdly_detailed_composition"
+    },
+    {
+      "phrase": "anatomical nonsense",
+      "tag": "anatomical_nonsense"
+    },
+    {
+      "phrase": "anatomical nonsense detail",
+      "tag": "anatomical_nonsense"
+    },
+    {
+      "phrase": "with anatomical nonsense",
+      "tag": "anatomical_nonsense"
+    },
+    {
+      "phrase": "art shift",
+      "tag": "art_shift"
+    },
+    {
+      "phrase": "art shift detail",
+      "tag": "art_shift"
+    },
+    {
+      "phrase": "with art shift",
+      "tag": "art_shift"
+    },
+    {
+      "phrase": "bad hands",
+      "tag": "bad_hands"
+    },
+    {
+      "phrase": "bad hands detail",
+      "tag": "bad_hands"
+    },
+    {
+      "phrase": "with bad hands",
+      "tag": "bad_hands"
+    },
+    {
+      "phrase": "bad perspective",
+      "tag": "bad_perspective"
+    },
+    {
+      "phrase": "bad perspective detail",
+      "tag": "bad_perspective"
+    },
+    {
+      "phrase": "with bad perspective",
+      "tag": "bad_perspective"
+    },
+    {
+      "phrase": "bad proportions",
+      "tag": "bad_proportions"
+    },
+    {
+      "phrase": "bad proportions detail",
+      "tag": "bad_proportions"
+    },
+    {
+      "phrase": "with bad proportions",
+      "tag": "bad_proportions"
+    },
+    {
+      "phrase": "bad reflection",
+      "tag": "bad_reflection"
+    },
+    {
+      "phrase": "bad reflection detail",
+      "tag": "bad_reflection"
+    },
+    {
+      "phrase": "with bad reflection",
+      "tag": "bad_reflection"
+    },
+    {
+      "phrase": "ben-day dots",
+      "tag": "ben-day_dots"
+    },
+    {
+      "phrase": "ben-day dots detail",
+      "tag": "ben-day_dots"
+    },
+    {
+      "phrase": "with ben-day dots",
+      "tag": "ben-day_dots"
+    },
+    {
+      "phrase": "black outline",
+      "tag": "black_outline"
+    },
+    {
+      "phrase": "black outline detail",
+      "tag": "black_outline"
+    },
+    {
+      "phrase": "with black outline",
+      "tag": "black_outline"
+    },
+    {
+      "phrase": "blue outline",
+      "tag": "blue_outline"
+    },
+    {
+      "phrase": "blue outline detail",
+      "tag": "blue_outline"
+    },
+    {
+      "phrase": "with blue outline",
+      "tag": "blue_outline"
+    },
+    {
+      "phrase": "child's drawing",
+      "tag": "child's_drawing"
+    },
+    {
+      "phrase": "child's drawing detail",
+      "tag": "child's_drawing"
+    },
+    {
+      "phrase": "with child's drawing",
+      "tag": "child's_drawing"
+    },
+    {
+      "phrase": "color trace",
+      "tag": "color_trace"
+    },
+    {
+      "phrase": "color trace detail",
+      "tag": "color_trace"
+    },
+    {
+      "phrase": "with color trace",
+      "tag": "color_trace"
+    },
+    {
+      "phrase": "colored lineart",
+      "tag": "colored_lineart"
+    },
+    {
+      "phrase": "colored lineart detail",
+      "tag": "colored_lineart"
+    },
+    {
+      "phrase": "with colored lineart",
+      "tag": "colored_lineart"
+    },
+    {
+      "phrase": "cracked screen",
+      "tag": "cracked_screen"
+    },
+    {
+      "phrase": "cracked screen detail",
+      "tag": "cracked_screen"
+    },
+    {
+      "phrase": "with cracked screen",
+      "tag": "cracked_screen"
+    },
+    {
+      "phrase": "crosshatching",
+      "tag": "crosshatching"
+    },
+    {
+      "phrase": "showing crosshatching",
+      "tag": "crosshatching"
+    },
+    {
+      "phrase": "with crosshatching",
+      "tag": "crosshatching"
+    },
+    {
+      "phrase": "cursive",
+      "tag": "cursive"
+    },
+    {
+      "phrase": "showing cursive",
+      "tag": "cursive"
+    },
+    {
+      "phrase": "with cursive",
+      "tag": "cursive"
+    },
+    {
+      "phrase": "damaged",
+      "tag": "damaged"
+    },
+    {
+      "phrase": "showing damaged",
+      "tag": "damaged"
+    },
+    {
+      "phrase": "with damaged",
+      "tag": "damaged"
+    },
+    {
+      "phrase": "deformed",
+      "tag": "deformed"
+    },
+    {
+      "phrase": "showing deformed",
+      "tag": "deformed"
+    },
+    {
+      "phrase": "with deformed",
+      "tag": "deformed"
+    },
+    {
+      "phrase": "digital dissolve",
+      "tag": "digital_dissolve"
+    },
+    {
+      "phrase": "digital dissolve detail",
+      "tag": "digital_dissolve"
+    },
+    {
+      "phrase": "with digital dissolve",
+      "tag": "digital_dissolve"
+    },
+    {
+      "phrase": "distortion",
+      "tag": "distortion"
+    },
+    {
+      "phrase": "showing distortion",
+      "tag": "distortion"
+    },
+    {
+      "phrase": "with distortion",
+      "tag": "distortion"
+    },
+    {
+      "phrase": "dithering",
+      "tag": "dithering"
+    },
+    {
+      "phrase": "showing dithering",
+      "tag": "dithering"
+    },
+    {
+      "phrase": "with dithering",
+      "tag": "dithering"
+    },
+    {
+      "phrase": "fading",
+      "tag": "fading"
+    },
+    {
+      "phrase": "showing fading",
+      "tag": "fading"
+    },
+    {
+      "phrase": "with fading",
+      "tag": "fading"
+    },
+    {
+      "phrase": "faux figurine",
+      "tag": "faux_figurine"
+    },
+    {
+      "phrase": "faux figurine detail",
+      "tag": "faux_figurine"
+    },
+    {
+      "phrase": "with faux figurine",
+      "tag": "faux_figurine"
+    },
+    {
+      "phrase": "heavy chromatic aberration",
+      "tag": "heavy_chromatic_aberration"
+    },
+    {
+      "phrase": "heavy chromatic aberration detail",
+      "tag": "heavy_chromatic_aberration"
+    },
+    {
+      "phrase": "with heavy chromatic aberration",
+      "tag": "heavy_chromatic_aberration"
+    },
+    {
+      "phrase": "linear hatching",
+      "tag": "linear_hatching"
+    },
+    {
+      "phrase": "linear hatching detail",
+      "tag": "linear_hatching"
+    },
+    {
+      "phrase": "with linear hatching",
+      "tag": "linear_hatching"
+    },
+    {
+      "phrase": "low poly",
+      "tag": "low_poly"
+    },
+    {
+      "phrase": "low poly detail",
+      "tag": "low_poly"
+    },
+    {
+      "phrase": "with low poly",
+      "tag": "low_poly"
+    },
+    {
+      "phrase": "paper texture",
+      "tag": "paper_texture"
+    },
+    {
+      "phrase": "paper texture detail",
+      "tag": "paper_texture"
+    },
+    {
+      "phrase": "with paper texture",
+      "tag": "paper_texture"
+    },
+    {
+      "phrase": "photorealistic",
+      "tag": "photorealistic"
+    },
+    {
+      "phrase": "showing photorealistic",
+      "tag": "photorealistic"
+    },
+    {
+      "phrase": "with photorealistic",
+      "tag": "photorealistic"
+    },
+    {
+      "phrase": "pink outline",
+      "tag": "pink_outline"
+    },
+    {
+      "phrase": "pink outline detail",
+      "tag": "pink_outline"
+    },
+    {
+      "phrase": "with pink outline",
+      "tag": "pink_outline"
+    },
+    {
+      "phrase": "pixelated",
+      "tag": "pixelated"
+    },
+    {
+      "phrase": "showing pixelated",
+      "tag": "pixelated"
+    },
+    {
+      "phrase": "with pixelated",
+      "tag": "pixelated"
+    },
+    {
+      "phrase": "red outline",
+      "tag": "red_outline"
+    },
+    {
+      "phrase": "red outline detail",
+      "tag": "red_outline"
+    },
+    {
+      "phrase": "with red outline",
+      "tag": "red_outline"
+    },
+    {
+      "phrase": "rounded corners",
+      "tag": "rounded_corners"
+    },
+    {
+      "phrase": "rounded corners detail",
+      "tag": "rounded_corners"
+    },
+    {
+      "phrase": "with rounded corners",
+      "tag": "rounded_corners"
+    },
+    {
+      "phrase": "scanlines",
+      "tag": "scanlines"
+    },
+    {
+      "phrase": "showing scanlines",
+      "tag": "scanlines"
+    },
+    {
+      "phrase": "with scanlines",
+      "tag": "scanlines"
+    },
+    {
+      "phrase": "screentones",
+      "tag": "screentones"
+    },
+    {
+      "phrase": "showing screentones",
+      "tag": "screentones"
+    },
+    {
+      "phrase": "with screentones",
+      "tag": "screentones"
+    },
+    {
+      "phrase": "showing static",
+      "tag": "static"
+    },
+    {
+      "phrase": "static",
+      "tag": "static"
+    },
+    {
+      "phrase": "with static",
+      "tag": "static"
+    },
+    {
+      "phrase": "showing tegaki",
+      "tag": "tegaki"
+    },
+    {
+      "phrase": "tegaki",
+      "tag": "tegaki"
+    },
+    {
+      "phrase": "with tegaki",
+      "tag": "tegaki"
+    },
+    {
+      "phrase": "too many watermarks",
+      "tag": "too_many_watermarks"
+    },
+    {
+      "phrase": "too many watermarks detail",
+      "tag": "too_many_watermarks"
+    },
+    {
+      "phrase": "with too many watermarks",
+      "tag": "too_many_watermarks"
+    },
+    {
+      "phrase": "vhs artifacts",
+      "tag": "vhs_artifacts"
+    },
+    {
+      "phrase": "vhs artifacts detail",
+      "tag": "vhs_artifacts"
+    },
+    {
+      "phrase": "with vhs artifacts",
+      "tag": "vhs_artifacts"
+    },
+    {
+      "phrase": "watercolor effect",
+      "tag": "watercolor_effect"
+    },
+    {
+      "phrase": "watercolor effect detail",
+      "tag": "watercolor_effect"
+    },
+    {
+      "phrase": "with watercolor effect",
+      "tag": "watercolor_effect"
+    },
+    {
+      "phrase": "with yellow outline",
+      "tag": "yellow_outline"
+    },
+    {
+      "phrase": "yellow outline",
+      "tag": "yellow_outline"
+    },
+    {
+      "phrase": "yellow outline detail",
+      "tag": "yellow_outline"
+    }
+  ]
+}

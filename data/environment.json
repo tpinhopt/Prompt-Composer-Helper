@@ -1,0 +1,9308 @@
+{
+  "items": [
+    {
+      "phrase": "abandoned",
+      "tag": "abandoned"
+    },
+    {
+      "phrase": "abandoned setting",
+      "tag": "abandoned"
+    },
+    {
+      "phrase": "in abandoned",
+      "tag": "abandoned"
+    },
+    {
+      "phrase": "above clouds",
+      "tag": "above_clouds"
+    },
+    {
+      "phrase": "above clouds setting",
+      "tag": "above_clouds"
+    },
+    {
+      "phrase": "in above clouds",
+      "tag": "above_clouds"
+    },
+    {
+      "phrase": "air conditioner",
+      "tag": "air_conditioner"
+    },
+    {
+      "phrase": "air conditioner setting",
+      "tag": "air_conditioner"
+    },
+    {
+      "phrase": "in air conditioner",
+      "tag": "air_conditioner"
+    },
+    {
+      "phrase": "algae",
+      "tag": "algae"
+    },
+    {
+      "phrase": "algae setting",
+      "tag": "algae"
+    },
+    {
+      "phrase": "in algae",
+      "tag": "algae"
+    },
+    {
+      "phrase": "amphoreus",
+      "tag": "amphoreus_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "amphoreus honkai: star rail",
+      "tag": "amphoreus_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "amphoreus setting",
+      "tag": "amphoreus_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in amphoreus",
+      "tag": "amphoreus_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "anemone",
+      "tag": "anemone_(flower)"
+    },
+    {
+      "phrase": "anemone flower",
+      "tag": "anemone_(flower)"
+    },
+    {
+      "phrase": "anemone setting",
+      "tag": "anemone_(flower)"
+    },
+    {
+      "phrase": "in anemone",
+      "tag": "anemone_(flower)"
+    },
+    {
+      "phrase": "ankle flower",
+      "tag": "ankle_flower"
+    },
+    {
+      "phrase": "ankle flower setting",
+      "tag": "ankle_flower"
+    },
+    {
+      "phrase": "in ankle flower",
+      "tag": "ankle_flower"
+    },
+    {
+      "phrase": "apple tree",
+      "tag": "apple_tree"
+    },
+    {
+      "phrase": "apple tree setting",
+      "tag": "apple_tree"
+    },
+    {
+      "phrase": "in apple tree",
+      "tag": "apple_tree"
+    },
+    {
+      "phrase": "aqua flower",
+      "tag": "aqua_flower"
+    },
+    {
+      "phrase": "aqua flower setting",
+      "tag": "aqua_flower"
+    },
+    {
+      "phrase": "in aqua flower",
+      "tag": "aqua_flower"
+    },
+    {
+      "phrase": "aqua rose",
+      "tag": "aqua_rose"
+    },
+    {
+      "phrase": "aqua rose setting",
+      "tag": "aqua_rose"
+    },
+    {
+      "phrase": "in aqua rose",
+      "tag": "aqua_rose"
+    },
+    {
+      "phrase": "aquarius",
+      "tag": "aquarius_(constellation)"
+    },
+    {
+      "phrase": "aquarius constellation",
+      "tag": "aquarius_(constellation)"
+    },
+    {
+      "phrase": "aquarius setting",
+      "tag": "aquarius_(constellation)"
+    },
+    {
+      "phrase": "in aquarius",
+      "tag": "aquarius_(constellation)"
+    },
+    {
+      "phrase": "arc star",
+      "tag": "arc_star"
+    },
+    {
+      "phrase": "arc star setting",
+      "tag": "arc_star"
+    },
+    {
+      "phrase": "in arc star",
+      "tag": "arc_star"
+    },
+    {
+      "phrase": "arcade cabinet",
+      "tag": "arcade_cabinet"
+    },
+    {
+      "phrase": "arcade cabinet setting",
+      "tag": "arcade_cabinet"
+    },
+    {
+      "phrase": "in arcade cabinet",
+      "tag": "arcade_cabinet"
+    },
+    {
+      "phrase": "arch",
+      "tag": "arch"
+    },
+    {
+      "phrase": "arch setting",
+      "tag": "arch"
+    },
+    {
+      "phrase": "in arch",
+      "tag": "arch"
+    },
+    {
+      "phrase": "ardor blossom star",
+      "tag": "ardor_blossom_star_(e.g.o)"
+    },
+    {
+      "phrase": "ardor blossom star e.g.o",
+      "tag": "ardor_blossom_star_(e.g.o)"
+    },
+    {
+      "phrase": "ardor blossom star setting",
+      "tag": "ardor_blossom_star_(e.g.o)"
+    },
+    {
+      "phrase": "in ardor blossom star",
+      "tag": "ardor_blossom_star_(e.g.o)"
+    },
+    {
+      "phrase": "aries",
+      "tag": "aries_(constellation)"
+    },
+    {
+      "phrase": "aries constellation",
+      "tag": "aries_(constellation)"
+    },
+    {
+      "phrase": "aries setting",
+      "tag": "aries_(constellation)"
+    },
+    {
+      "phrase": "in aries",
+      "tag": "aries_(constellation)"
+    },
+    {
+      "phrase": "artificial flower",
+      "tag": "artificial_flower"
+    },
+    {
+      "phrase": "artificial flower setting",
+      "tag": "artificial_flower"
+    },
+    {
+      "phrase": "in artificial flower",
+      "tag": "artificial_flower"
+    },
+    {
+      "phrase": "ashes",
+      "tag": "ashes"
+    },
+    {
+      "phrase": "ashes setting",
+      "tag": "ashes"
+    },
+    {
+      "phrase": "in ashes",
+      "tag": "ashes"
+    },
+    {
+      "phrase": "asteroid",
+      "tag": "asteroid"
+    },
+    {
+      "phrase": "asteroid setting",
+      "tag": "asteroid"
+    },
+    {
+      "phrase": "in asteroid",
+      "tag": "asteroid"
+    },
+    {
+      "phrase": "astral express",
+      "tag": "astral_express_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "astral express honkai: star rail",
+      "tag": "astral_express_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "astral express setting",
+      "tag": "astral_express_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in astral express",
+      "tag": "astral_express_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "at field",
+      "tag": "at_field"
+    },
+    {
+      "phrase": "at field setting",
+      "tag": "at_field"
+    },
+    {
+      "phrase": "in at field",
+      "tag": "at_field"
+    },
+    {
+      "phrase": "aurora",
+      "tag": "aurora"
+    },
+    {
+      "phrase": "aurora setting",
+      "tag": "aurora"
+    },
+    {
+      "phrase": "in aurora",
+      "tag": "aurora"
+    },
+    {
+      "phrase": "aurora flower",
+      "tag": "aurora_flower_(love_live!)"
+    },
+    {
+      "phrase": "aurora flower setting",
+      "tag": "aurora_flower_(love_live!)"
+    },
+    {
+      "phrase": "in aurora flower",
+      "tag": "aurora_flower_(love_live!)"
+    },
+    {
+      "phrase": "autumn leaves",
+      "tag": "autumn_leaves"
+    },
+    {
+      "phrase": "autumn leaves setting",
+      "tag": "autumn_leaves"
+    },
+    {
+      "phrase": "in autumn leaves",
+      "tag": "autumn_leaves"
+    },
+    {
+      "phrase": "awning",
+      "tag": "awning"
+    },
+    {
+      "phrase": "awning setting",
+      "tag": "awning"
+    },
+    {
+      "phrase": "in awning",
+      "tag": "awning"
+    },
+    {
+      "phrase": "azalea",
+      "tag": "azalea_(flower)"
+    },
+    {
+      "phrase": "azalea flower",
+      "tag": "azalea_(flower)"
+    },
+    {
+      "phrase": "azalea setting",
+      "tag": "azalea_(flower)"
+    },
+    {
+      "phrase": "in azalea",
+      "tag": "azalea_(flower)"
+    },
+    {
+      "phrase": "baby's-breath",
+      "tag": "baby's-breath"
+    },
+    {
+      "phrase": "baby's-breath setting",
+      "tag": "baby's-breath"
+    },
+    {
+      "phrase": "in baby's-breath",
+      "tag": "baby's-breath"
+    },
+    {
+      "phrase": "bamboo",
+      "tag": "bamboo"
+    },
+    {
+      "phrase": "bamboo setting",
+      "tag": "bamboo"
+    },
+    {
+      "phrase": "in bamboo",
+      "tag": "bamboo"
+    },
+    {
+      "phrase": "bamboo fence",
+      "tag": "bamboo_fence"
+    },
+    {
+      "phrase": "bamboo fence setting",
+      "tag": "bamboo_fence"
+    },
+    {
+      "phrase": "in bamboo fence",
+      "tag": "bamboo_fence"
+    },
+    {
+      "phrase": "bamboo screen",
+      "tag": "bamboo_screen"
+    },
+    {
+      "phrase": "bamboo screen setting",
+      "tag": "bamboo_screen"
+    },
+    {
+      "phrase": "in bamboo screen",
+      "tag": "bamboo_screen"
+    },
+    {
+      "phrase": "bare tree",
+      "tag": "bare_tree"
+    },
+    {
+      "phrase": "bare tree setting",
+      "tag": "bare_tree"
+    },
+    {
+      "phrase": "in bare tree",
+      "tag": "bare_tree"
+    },
+    {
+      "phrase": "baseball field",
+      "tag": "baseball_field"
+    },
+    {
+      "phrase": "baseball field setting",
+      "tag": "baseball_field"
+    },
+    {
+      "phrase": "in baseball field",
+      "tag": "baseball_field"
+    },
+    {
+      "phrase": "bauxite",
+      "tag": "bauxite"
+    },
+    {
+      "phrase": "bauxite setting",
+      "tag": "bauxite"
+    },
+    {
+      "phrase": "in bauxite",
+      "tag": "bauxite"
+    },
+    {
+      "phrase": "bedside",
+      "tag": "bedside"
+    },
+    {
+      "phrase": "bedside setting",
+      "tag": "bedside"
+    },
+    {
+      "phrase": "in bedside",
+      "tag": "bedside"
+    },
+    {
+      "phrase": "behind curtains",
+      "tag": "behind_curtains"
+    },
+    {
+      "phrase": "behind curtains setting",
+      "tag": "behind_curtains"
+    },
+    {
+      "phrase": "in behind curtains",
+      "tag": "behind_curtains"
+    },
+    {
+      "phrase": "bellflower",
+      "tag": "bellflower"
+    },
+    {
+      "phrase": "bellflower setting",
+      "tag": "bellflower"
+    },
+    {
+      "phrase": "in bellflower",
+      "tag": "bellflower"
+    },
+    {
+      "phrase": "berrypheasant skewer",
+      "tag": "berrypheasant_skewer_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "berrypheasant skewer honkai: star rail",
+      "tag": "berrypheasant_skewer_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "berrypheasant skewer setting",
+      "tag": "berrypheasant_skewer_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in berrypheasant skewer",
+      "tag": "berrypheasant_skewer_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "big dipper",
+      "tag": "big_dipper"
+    },
+    {
+      "phrase": "big dipper setting",
+      "tag": "big_dipper"
+    },
+    {
+      "phrase": "in big dipper",
+      "tag": "big_dipper"
+    },
+    {
+      "phrase": "billboard",
+      "tag": "billboard"
+    },
+    {
+      "phrase": "billboard setting",
+      "tag": "billboard"
+    },
+    {
+      "phrase": "in billboard",
+      "tag": "billboard"
+    },
+    {
+      "phrase": "birch tree",
+      "tag": "birch_tree"
+    },
+    {
+      "phrase": "birch tree setting",
+      "tag": "birch_tree"
+    },
+    {
+      "phrase": "in birch tree",
+      "tag": "birch_tree"
+    },
+    {
+      "phrase": "black flower",
+      "tag": "black_flower"
+    },
+    {
+      "phrase": "black flower setting",
+      "tag": "black_flower"
+    },
+    {
+      "phrase": "in black flower",
+      "tag": "black_flower"
+    },
+    {
+      "phrase": "black forest cake",
+      "tag": "black_forest_cake"
+    },
+    {
+      "phrase": "black forest cake setting",
+      "tag": "black_forest_cake"
+    },
+    {
+      "phrase": "in black forest cake",
+      "tag": "black_forest_cake"
+    },
+    {
+      "phrase": "black hole",
+      "tag": "black_hole"
+    },
+    {
+      "phrase": "black hole setting",
+      "tag": "black_hole"
+    },
+    {
+      "phrase": "in black hole",
+      "tag": "black_hole"
+    },
+    {
+      "phrase": "black moon",
+      "tag": "black_moon"
+    },
+    {
+      "phrase": "black moon setting",
+      "tag": "black_moon"
+    },
+    {
+      "phrase": "in black moon",
+      "tag": "black_moon"
+    },
+    {
+      "phrase": "black rose",
+      "tag": "black_rose"
+    },
+    {
+      "phrase": "black rose setting",
+      "tag": "black_rose"
+    },
+    {
+      "phrase": "in black rose",
+      "tag": "black_rose"
+    },
+    {
+      "phrase": "black sky",
+      "tag": "black_sky"
+    },
+    {
+      "phrase": "black sky setting",
+      "tag": "black_sky"
+    },
+    {
+      "phrase": "in black sky",
+      "tag": "black_sky"
+    },
+    {
+      "phrase": "blade of grass",
+      "tag": "blade_of_grass"
+    },
+    {
+      "phrase": "blade of grass setting",
+      "tag": "blade_of_grass"
+    },
+    {
+      "phrase": "in blade of grass",
+      "tag": "blade_of_grass"
+    },
+    {
+      "phrase": "blizzard",
+      "tag": "blizzard"
+    },
+    {
+      "phrase": "blizzard setting",
+      "tag": "blizzard"
+    },
+    {
+      "phrase": "in blizzard",
+      "tag": "blizzard"
+    },
+    {
+      "phrase": "blue flower",
+      "tag": "blue_flower"
+    },
+    {
+      "phrase": "blue flower setting",
+      "tag": "blue_flower"
+    },
+    {
+      "phrase": "in blue flower",
+      "tag": "blue_flower"
+    },
+    {
+      "phrase": "blue grass",
+      "tag": "blue_grass"
+    },
+    {
+      "phrase": "blue grass setting",
+      "tag": "blue_grass"
+    },
+    {
+      "phrase": "in blue grass",
+      "tag": "blue_grass"
+    },
+    {
+      "phrase": "blue moon",
+      "tag": "blue_moon"
+    },
+    {
+      "phrase": "blue moon setting",
+      "tag": "blue_moon"
+    },
+    {
+      "phrase": "in blue moon",
+      "tag": "blue_moon"
+    },
+    {
+      "phrase": "blue rose",
+      "tag": "blue_rose"
+    },
+    {
+      "phrase": "blue rose setting",
+      "tag": "blue_rose"
+    },
+    {
+      "phrase": "in blue rose",
+      "tag": "blue_rose"
+    },
+    {
+      "phrase": "blue sky",
+      "tag": "blue_sky"
+    },
+    {
+      "phrase": "blue sky setting",
+      "tag": "blue_sky"
+    },
+    {
+      "phrase": "in blue sky",
+      "tag": "blue_sky"
+    },
+    {
+      "phrase": "blurry background",
+      "tag": "blurry_background"
+    },
+    {
+      "phrase": "blurry background setting",
+      "tag": "blurry_background"
+    },
+    {
+      "phrase": "in blurry background",
+      "tag": "blurry_background"
+    },
+    {
+      "phrase": "bollard",
+      "tag": "bollard"
+    },
+    {
+      "phrase": "bollard setting",
+      "tag": "bollard"
+    },
+    {
+      "phrase": "in bollard",
+      "tag": "bollard"
+    },
+    {
+      "phrase": "bonfire",
+      "tag": "bonfire"
+    },
+    {
+      "phrase": "bonfire setting",
+      "tag": "bonfire"
+    },
+    {
+      "phrase": "in bonfire",
+      "tag": "bonfire"
+    },
+    {
+      "phrase": "bonsai",
+      "tag": "bonsai"
+    },
+    {
+      "phrase": "bonsai setting",
+      "tag": "bonsai"
+    },
+    {
+      "phrase": "in bonsai",
+      "tag": "bonsai"
+    },
+    {
+      "phrase": "boom barrier",
+      "tag": "boom_barrier"
+    },
+    {
+      "phrase": "boom barrier setting",
+      "tag": "boom_barrier"
+    },
+    {
+      "phrase": "in boom barrier",
+      "tag": "boom_barrier"
+    },
+    {
+      "phrase": "booth seating",
+      "tag": "booth_seating"
+    },
+    {
+      "phrase": "booth seating setting",
+      "tag": "booth_seating"
+    },
+    {
+      "phrase": "in booth seating",
+      "tag": "booth_seating"
+    },
+    {
+      "phrase": "boulder",
+      "tag": "boulder"
+    },
+    {
+      "phrase": "boulder setting",
+      "tag": "boulder"
+    },
+    {
+      "phrase": "in boulder",
+      "tag": "boulder"
+    },
+    {
+      "phrase": "breath",
+      "tag": "breath"
+    },
+    {
+      "phrase": "breath setting",
+      "tag": "breath"
+    },
+    {
+      "phrase": "in breath",
+      "tag": "breath"
+    },
+    {
+      "phrase": "brick floor",
+      "tag": "brick_floor"
+    },
+    {
+      "phrase": "brick floor setting",
+      "tag": "brick_floor"
+    },
+    {
+      "phrase": "in brick floor",
+      "tag": "brick_floor"
+    },
+    {
+      "phrase": "brick road",
+      "tag": "brick_road"
+    },
+    {
+      "phrase": "brick road setting",
+      "tag": "brick_road"
+    },
+    {
+      "phrase": "in brick road",
+      "tag": "brick_road"
+    },
+    {
+      "phrase": "broken ground",
+      "tag": "broken_ground"
+    },
+    {
+      "phrase": "broken ground setting",
+      "tag": "broken_ground"
+    },
+    {
+      "phrase": "in broken ground",
+      "tag": "broken_ground"
+    },
+    {
+      "phrase": "broken moon",
+      "tag": "broken_moon"
+    },
+    {
+      "phrase": "broken moon setting",
+      "tag": "broken_moon"
+    },
+    {
+      "phrase": "in broken moon",
+      "tag": "broken_moon"
+    },
+    {
+      "phrase": "broken pillar",
+      "tag": "broken_pillar"
+    },
+    {
+      "phrase": "broken pillar setting",
+      "tag": "broken_pillar"
+    },
+    {
+      "phrase": "in broken pillar",
+      "tag": "broken_pillar"
+    },
+    {
+      "phrase": "broken wall",
+      "tag": "broken_wall"
+    },
+    {
+      "phrase": "broken wall setting",
+      "tag": "broken_wall"
+    },
+    {
+      "phrase": "in broken wall",
+      "tag": "broken_wall"
+    },
+    {
+      "phrase": "brown flower",
+      "tag": "brown_flower"
+    },
+    {
+      "phrase": "brown flower setting",
+      "tag": "brown_flower"
+    },
+    {
+      "phrase": "in brown flower",
+      "tag": "brown_flower"
+    },
+    {
+      "phrase": "brown rose",
+      "tag": "brown_rose"
+    },
+    {
+      "phrase": "brown rose setting",
+      "tag": "brown_rose"
+    },
+    {
+      "phrase": "in brown rose",
+      "tag": "brown_rose"
+    },
+    {
+      "phrase": "brown sky",
+      "tag": "brown_sky"
+    },
+    {
+      "phrase": "brown sky setting",
+      "tag": "brown_sky"
+    },
+    {
+      "phrase": "in brown sky",
+      "tag": "brown_sky"
+    },
+    {
+      "phrase": "bud",
+      "tag": "bud"
+    },
+    {
+      "phrase": "bud setting",
+      "tag": "bud"
+    },
+    {
+      "phrase": "in bud",
+      "tag": "bud"
+    },
+    {
+      "phrase": "building",
+      "tag": "building"
+    },
+    {
+      "phrase": "building setting",
+      "tag": "building"
+    },
+    {
+      "phrase": "in building",
+      "tag": "building"
+    },
+    {
+      "phrase": "building sand sculpture",
+      "tag": "building_sand_sculpture"
+    },
+    {
+      "phrase": "building sand sculpture setting",
+      "tag": "building_sand_sculpture"
+    },
+    {
+      "phrase": "in building sand sculpture",
+      "tag": "building_sand_sculpture"
+    },
+    {
+      "phrase": "building snowman",
+      "tag": "building_snowman"
+    },
+    {
+      "phrase": "building snowman setting",
+      "tag": "building_snowman"
+    },
+    {
+      "phrase": "in building snowman",
+      "tag": "building_snowman"
+    },
+    {
+      "phrase": "bullet hole",
+      "tag": "bullet_hole"
+    },
+    {
+      "phrase": "bullet hole setting",
+      "tag": "bullet_hole"
+    },
+    {
+      "phrase": "in bullet hole",
+      "tag": "bullet_hole"
+    },
+    {
+      "phrase": "bulletin board",
+      "tag": "bulletin_board"
+    },
+    {
+      "phrase": "bulletin board setting",
+      "tag": "bulletin_board"
+    },
+    {
+      "phrase": "in bulletin board",
+      "tag": "bulletin_board"
+    },
+    {
+      "phrase": "burning building",
+      "tag": "burning_building"
+    },
+    {
+      "phrase": "burning building setting",
+      "tag": "burning_building"
+    },
+    {
+      "phrase": "in burning building",
+      "tag": "burning_building"
+    },
+    {
+      "phrase": "burnt",
+      "tag": "burnt"
+    },
+    {
+      "phrase": "burnt setting",
+      "tag": "burnt"
+    },
+    {
+      "phrase": "in burnt",
+      "tag": "burnt"
+    },
+    {
+      "phrase": "cabinet",
+      "tag": "cabinet"
+    },
+    {
+      "phrase": "cabinet setting",
+      "tag": "cabinet"
+    },
+    {
+      "phrase": "in cabinet",
+      "tag": "cabinet"
+    },
+    {
+      "phrase": "cactus",
+      "tag": "cactus"
+    },
+    {
+      "phrase": "cactus setting",
+      "tag": "cactus"
+    },
+    {
+      "phrase": "in cactus",
+      "tag": "cactus"
+    },
+    {
+      "phrase": "calla lily",
+      "tag": "calla_lily"
+    },
+    {
+      "phrase": "calla lily setting",
+      "tag": "calla_lily"
+    },
+    {
+      "phrase": "in calla lily",
+      "tag": "calla_lily"
+    },
+    {
+      "phrase": "cancer",
+      "tag": "cancer_(constellation)"
+    },
+    {
+      "phrase": "cancer constellation",
+      "tag": "cancer_(constellation)"
+    },
+    {
+      "phrase": "cancer setting",
+      "tag": "cancer_(constellation)"
+    },
+    {
+      "phrase": "in cancer",
+      "tag": "cancer_(constellation)"
+    },
+    {
+      "phrase": "capricorn",
+      "tag": "capricorn_(constellation)"
+    },
+    {
+      "phrase": "capricorn constellation",
+      "tag": "capricorn_(constellation)"
+    },
+    {
+      "phrase": "capricorn setting",
+      "tag": "capricorn_(constellation)"
+    },
+    {
+      "phrase": "in capricorn",
+      "tag": "capricorn_(constellation)"
+    },
+    {
+      "phrase": "carnation",
+      "tag": "carnation"
+    },
+    {
+      "phrase": "carnation setting",
+      "tag": "carnation"
+    },
+    {
+      "phrase": "in carnation",
+      "tag": "carnation"
+    },
+    {
+      "phrase": "cassiopeia",
+      "tag": "cassiopeia_(constellation)"
+    },
+    {
+      "phrase": "cassiopeia constellation",
+      "tag": "cassiopeia_(constellation)"
+    },
+    {
+      "phrase": "cassiopeia setting",
+      "tag": "cassiopeia_(constellation)"
+    },
+    {
+      "phrase": "in cassiopeia",
+      "tag": "cassiopeia_(constellation)"
+    },
+    {
+      "phrase": "cattail",
+      "tag": "cattail"
+    },
+    {
+      "phrase": "cattail setting",
+      "tag": "cattail"
+    },
+    {
+      "phrase": "in cattail",
+      "tag": "cattail"
+    },
+    {
+      "phrase": "cecilia flower",
+      "tag": "cecilia_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "cecilia flower genshin impact",
+      "tag": "cecilia_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "cecilia flower setting",
+      "tag": "cecilia_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "in cecilia flower",
+      "tag": "cecilia_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "ceremonial blade",
+      "tag": "ceremonial_blade_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "ceremonial blade honkai: star rail",
+      "tag": "ceremonial_blade_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "ceremonial blade setting",
+      "tag": "ceremonial_blade_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in ceremonial blade",
+      "tag": "ceremonial_blade_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "chamomile",
+      "tag": "chamomile"
+    },
+    {
+      "phrase": "chamomile setting",
+      "tag": "chamomile"
+    },
+    {
+      "phrase": "in chamomile",
+      "tag": "chamomile"
+    },
+    {
+      "phrase": "character background",
+      "tag": "character_background"
+    },
+    {
+      "phrase": "character background setting",
+      "tag": "character_background"
+    },
+    {
+      "phrase": "in character background",
+      "tag": "character_background"
+    },
+    {
+      "phrase": "checkered wall",
+      "tag": "checkered_wall"
+    },
+    {
+      "phrase": "checkered wall setting",
+      "tag": "checkered_wall"
+    },
+    {
+      "phrase": "in checkered wall",
+      "tag": "checkered_wall"
+    },
+    {
+      "phrase": "cherry blossom print",
+      "tag": "cherry_blossom_print"
+    },
+    {
+      "phrase": "cherry blossom print setting",
+      "tag": "cherry_blossom_print"
+    },
+    {
+      "phrase": "in cherry blossom print",
+      "tag": "cherry_blossom_print"
+    },
+    {
+      "phrase": "cherry blossoms",
+      "tag": "cherry_blossoms"
+    },
+    {
+      "phrase": "cherry blossoms setting",
+      "tag": "cherry_blossoms"
+    },
+    {
+      "phrase": "in cherry blossoms",
+      "tag": "cherry_blossoms"
+    },
+    {
+      "phrase": "cherry bomb",
+      "tag": "cherry_bomb"
+    },
+    {
+      "phrase": "cherry bomb setting",
+      "tag": "cherry_bomb"
+    },
+    {
+      "phrase": "in cherry bomb",
+      "tag": "cherry_bomb"
+    },
+    {
+      "phrase": "cherry bomb",
+      "tag": "cherry_bomb_(love_live!)"
+    },
+    {
+      "phrase": "cherry bomb setting",
+      "tag": "cherry_bomb_(love_live!)"
+    },
+    {
+      "phrase": "in cherry bomb",
+      "tag": "cherry_bomb_(love_live!)"
+    },
+    {
+      "phrase": "cherry pie",
+      "tag": "cherry_pie"
+    },
+    {
+      "phrase": "cherry pie setting",
+      "tag": "cherry_pie"
+    },
+    {
+      "phrase": "in cherry pie",
+      "tag": "cherry_pie"
+    },
+    {
+      "phrase": "cherry print",
+      "tag": "cherry_print"
+    },
+    {
+      "phrase": "cherry print setting",
+      "tag": "cherry_print"
+    },
+    {
+      "phrase": "in cherry print",
+      "tag": "cherry_print"
+    },
+    {
+      "phrase": "cherry stem knot",
+      "tag": "cherry_stem_knot"
+    },
+    {
+      "phrase": "cherry stem knot setting",
+      "tag": "cherry_stem_knot"
+    },
+    {
+      "phrase": "in cherry stem knot",
+      "tag": "cherry_stem_knot"
+    },
+    {
+      "phrase": "cherry tomato",
+      "tag": "cherry_tomato"
+    },
+    {
+      "phrase": "cherry tomato setting",
+      "tag": "cherry_tomato"
+    },
+    {
+      "phrase": "in cherry tomato",
+      "tag": "cherry_tomato"
+    },
+    {
+      "phrase": "cherry tree",
+      "tag": "cherry_tree"
+    },
+    {
+      "phrase": "cherry tree setting",
+      "tag": "cherry_tree"
+    },
+    {
+      "phrase": "in cherry tree",
+      "tag": "cherry_tree"
+    },
+    {
+      "phrase": "chimera",
+      "tag": "chimera_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "chimera honkai: star rail",
+      "tag": "chimera_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "chimera setting",
+      "tag": "chimera_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in chimera",
+      "tag": "chimera_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "chimney",
+      "tag": "chimney"
+    },
+    {
+      "phrase": "chimney setting",
+      "tag": "chimney"
+    },
+    {
+      "phrase": "in chimney",
+      "tag": "chimney"
+    },
+    {
+      "phrase": "chinese bellflower",
+      "tag": "chinese_bellflower"
+    },
+    {
+      "phrase": "chinese bellflower setting",
+      "tag": "chinese_bellflower"
+    },
+    {
+      "phrase": "in chinese bellflower",
+      "tag": "chinese_bellflower"
+    },
+    {
+      "phrase": "chinese lantern",
+      "tag": "chinese_lantern_(plant)"
+    },
+    {
+      "phrase": "chinese lantern plant",
+      "tag": "chinese_lantern_(plant)"
+    },
+    {
+      "phrase": "chinese lantern setting",
+      "tag": "chinese_lantern_(plant)"
+    },
+    {
+      "phrase": "in chinese lantern",
+      "tag": "chinese_lantern_(plant)"
+    },
+    {
+      "phrase": "chinese peony",
+      "tag": "chinese_peony"
+    },
+    {
+      "phrase": "chinese peony setting",
+      "tag": "chinese_peony"
+    },
+    {
+      "phrase": "in chinese peony",
+      "tag": "chinese_peony"
+    },
+    {
+      "phrase": "chocolate river no sono saki ni",
+      "tag": "chocolate_river_no_sono_saki_ni"
+    },
+    {
+      "phrase": "chocolate river no sono saki ni setting",
+      "tag": "chocolate_river_no_sono_saki_ni"
+    },
+    {
+      "phrase": "in chocolate river no sono saki ni",
+      "tag": "chocolate_river_no_sono_saki_ni"
+    },
+    {
+      "phrase": "christmas lights",
+      "tag": "christmas_lights"
+    },
+    {
+      "phrase": "christmas lights setting",
+      "tag": "christmas_lights"
+    },
+    {
+      "phrase": "in christmas lights",
+      "tag": "christmas_lights"
+    },
+    {
+      "phrase": "christmas star",
+      "tag": "christmas_star"
+    },
+    {
+      "phrase": "christmas star setting",
+      "tag": "christmas_star"
+    },
+    {
+      "phrase": "in christmas star",
+      "tag": "christmas_star"
+    },
+    {
+      "phrase": "christmas tree",
+      "tag": "christmas_tree"
+    },
+    {
+      "phrase": "christmas tree setting",
+      "tag": "christmas_tree"
+    },
+    {
+      "phrase": "in christmas tree",
+      "tag": "christmas_tree"
+    },
+    {
+      "phrase": "christmas tree costume",
+      "tag": "christmas_tree_costume"
+    },
+    {
+      "phrase": "christmas tree costume setting",
+      "tag": "christmas_tree_costume"
+    },
+    {
+      "phrase": "in christmas tree costume",
+      "tag": "christmas_tree_costume"
+    },
+    {
+      "phrase": "chrysanthemum",
+      "tag": "chrysanthemum"
+    },
+    {
+      "phrase": "chrysanthemum setting",
+      "tag": "chrysanthemum"
+    },
+    {
+      "phrase": "in chrysanthemum",
+      "tag": "chrysanthemum"
+    },
+    {
+      "phrase": "chrysos heirs",
+      "tag": "chrysos_heirs_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "chrysos heirs honkai: star rail",
+      "tag": "chrysos_heirs_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "chrysos heirs setting",
+      "tag": "chrysos_heirs_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in chrysos heirs",
+      "tag": "chrysos_heirs_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "city lights",
+      "tag": "city_lights"
+    },
+    {
+      "phrase": "city lights setting",
+      "tag": "city_lights"
+    },
+    {
+      "phrase": "in city lights",
+      "tag": "city_lights"
+    },
+    {
+      "phrase": "claw mark",
+      "tag": "claw_mark"
+    },
+    {
+      "phrase": "claw mark setting",
+      "tag": "claw_mark"
+    },
+    {
+      "phrase": "in claw mark",
+      "tag": "claw_mark"
+    },
+    {
+      "phrase": "clear sky",
+      "tag": "clear_sky"
+    },
+    {
+      "phrase": "clear sky setting",
+      "tag": "clear_sky"
+    },
+    {
+      "phrase": "in clear sky",
+      "tag": "clear_sky"
+    },
+    {
+      "phrase": "clematis",
+      "tag": "clematis_(flower)"
+    },
+    {
+      "phrase": "clematis flower",
+      "tag": "clematis_(flower)"
+    },
+    {
+      "phrase": "clematis setting",
+      "tag": "clematis_(flower)"
+    },
+    {
+      "phrase": "in clematis",
+      "tag": "clematis_(flower)"
+    },
+    {
+      "phrase": "closed curtains",
+      "tag": "closed_curtains"
+    },
+    {
+      "phrase": "closed curtains setting",
+      "tag": "closed_curtains"
+    },
+    {
+      "phrase": "in closed curtains",
+      "tag": "closed_curtains"
+    },
+    {
+      "phrase": "closet",
+      "tag": "closet"
+    },
+    {
+      "phrase": "closet setting",
+      "tag": "closet"
+    },
+    {
+      "phrase": "in closet",
+      "tag": "closet"
+    },
+    {
+      "phrase": "clothesline",
+      "tag": "clothesline"
+    },
+    {
+      "phrase": "clothesline setting",
+      "tag": "clothesline"
+    },
+    {
+      "phrase": "in clothesline",
+      "tag": "clothesline"
+    },
+    {
+      "phrase": "cloud",
+      "tag": "cloud"
+    },
+    {
+      "phrase": "cloud setting",
+      "tag": "cloud"
+    },
+    {
+      "phrase": "in cloud",
+      "tag": "cloud"
+    },
+    {
+      "phrase": "cloudy sky",
+      "tag": "cloudy_sky"
+    },
+    {
+      "phrase": "cloudy sky setting",
+      "tag": "cloudy_sky"
+    },
+    {
+      "phrase": "in cloudy sky",
+      "tag": "cloudy_sky"
+    },
+    {
+      "phrase": "clover",
+      "tag": "clover_(flower)"
+    },
+    {
+      "phrase": "clover flower",
+      "tag": "clover_(flower)"
+    },
+    {
+      "phrase": "clover setting",
+      "tag": "clover_(flower)"
+    },
+    {
+      "phrase": "in clover",
+      "tag": "clover_(flower)"
+    },
+    {
+      "phrase": "cobblestone",
+      "tag": "cobblestone"
+    },
+    {
+      "phrase": "cobblestone setting",
+      "tag": "cobblestone"
+    },
+    {
+      "phrase": "in cobblestone",
+      "tag": "cobblestone"
+    },
+    {
+      "phrase": "cocktail flower",
+      "tag": "cocktail_flower"
+    },
+    {
+      "phrase": "cocktail flower setting",
+      "tag": "cocktail_flower"
+    },
+    {
+      "phrase": "in cocktail flower",
+      "tag": "cocktail_flower"
+    },
+    {
+      "phrase": "coconut tree",
+      "tag": "coconut_tree"
+    },
+    {
+      "phrase": "coconut tree setting",
+      "tag": "coconut_tree"
+    },
+    {
+      "phrase": "in coconut tree",
+      "tag": "coconut_tree"
+    },
+    {
+      "phrase": "cocoon",
+      "tag": "cocoon"
+    },
+    {
+      "phrase": "cocoon setting",
+      "tag": "cocoon"
+    },
+    {
+      "phrase": "in cocoon",
+      "tag": "cocoon"
+    },
+    {
+      "phrase": "column",
+      "tag": "column"
+    },
+    {
+      "phrase": "column setting",
+      "tag": "column"
+    },
+    {
+      "phrase": "in column",
+      "tag": "column"
+    },
+    {
+      "phrase": "comet",
+      "tag": "comet"
+    },
+    {
+      "phrase": "comet setting",
+      "tag": "comet"
+    },
+    {
+      "phrase": "in comet",
+      "tag": "comet"
+    },
+    {
+      "phrase": "comic background",
+      "tag": "comic_background"
+    },
+    {
+      "phrase": "comic background setting",
+      "tag": "comic_background"
+    },
+    {
+      "phrase": "in comic background",
+      "tag": "comic_background"
+    },
+    {
+      "phrase": "compass rose",
+      "tag": "compass_rose"
+    },
+    {
+      "phrase": "compass rose setting",
+      "tag": "compass_rose"
+    },
+    {
+      "phrase": "in compass rose",
+      "tag": "compass_rose"
+    },
+    {
+      "phrase": "competition",
+      "tag": "competition"
+    },
+    {
+      "phrase": "competition setting",
+      "tag": "competition"
+    },
+    {
+      "phrase": "in competition",
+      "tag": "competition"
+    },
+    {
+      "phrase": "complex exterior",
+      "tag": "complex_exterior"
+    },
+    {
+      "phrase": "complex exterior setting",
+      "tag": "complex_exterior"
+    },
+    {
+      "phrase": "in complex exterior",
+      "tag": "complex_exterior"
+    },
+    {
+      "phrase": "concrete",
+      "tag": "concrete"
+    },
+    {
+      "phrase": "concrete setting",
+      "tag": "concrete"
+    },
+    {
+      "phrase": "in concrete",
+      "tag": "concrete"
+    },
+    {
+      "phrase": "condensation",
+      "tag": "condensation"
+    },
+    {
+      "phrase": "condensation setting",
+      "tag": "condensation"
+    },
+    {
+      "phrase": "in condensation",
+      "tag": "condensation"
+    },
+    {
+      "phrase": "condenser unit",
+      "tag": "condenser_unit"
+    },
+    {
+      "phrase": "condenser unit setting",
+      "tag": "condenser_unit"
+    },
+    {
+      "phrase": "in condenser unit",
+      "tag": "condenser_unit"
+    },
+    {
+      "phrase": "conifer",
+      "tag": "conifer"
+    },
+    {
+      "phrase": "conifer setting",
+      "tag": "conifer"
+    },
+    {
+      "phrase": "in conifer",
+      "tag": "conifer"
+    },
+    {
+      "phrase": "constellation",
+      "tag": "constellation"
+    },
+    {
+      "phrase": "constellation setting",
+      "tag": "constellation"
+    },
+    {
+      "phrase": "in constellation",
+      "tag": "constellation"
+    },
+    {
+      "phrase": "contrail",
+      "tag": "contrail"
+    },
+    {
+      "phrase": "contrail setting",
+      "tag": "contrail"
+    },
+    {
+      "phrase": "in contrail",
+      "tag": "contrail"
+    },
+    {
+      "phrase": "coral",
+      "tag": "coral"
+    },
+    {
+      "phrase": "coral setting",
+      "tag": "coral"
+    },
+    {
+      "phrase": "in coral",
+      "tag": "coral"
+    },
+    {
+      "phrase": "coreflame",
+      "tag": "coreflame_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "coreflame honkai: star rail",
+      "tag": "coreflame_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "coreflame setting",
+      "tag": "coreflame_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in coreflame",
+      "tag": "coreflame_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "corner",
+      "tag": "corner"
+    },
+    {
+      "phrase": "corner setting",
+      "tag": "corner"
+    },
+    {
+      "phrase": "in corner",
+      "tag": "corner"
+    },
+    {
+      "phrase": "cosmos",
+      "tag": "cosmos_(flower)"
+    },
+    {
+      "phrase": "cosmos flower",
+      "tag": "cosmos_(flower)"
+    },
+    {
+      "phrase": "cosmos setting",
+      "tag": "cosmos_(flower)"
+    },
+    {
+      "phrase": "in cosmos",
+      "tag": "cosmos_(flower)"
+    },
+    {
+      "phrase": "counter",
+      "tag": "counter"
+    },
+    {
+      "phrase": "counter setting",
+      "tag": "counter"
+    },
+    {
+      "phrase": "in counter",
+      "tag": "counter"
+    },
+    {
+      "phrase": "cracked floor",
+      "tag": "cracked_floor"
+    },
+    {
+      "phrase": "cracked floor setting",
+      "tag": "cracked_floor"
+    },
+    {
+      "phrase": "in cracked floor",
+      "tag": "cracked_floor"
+    },
+    {
+      "phrase": "cracked wall",
+      "tag": "cracked_wall"
+    },
+    {
+      "phrase": "cracked wall setting",
+      "tag": "cracked_wall"
+    },
+    {
+      "phrase": "in cracked wall",
+      "tag": "cracked_wall"
+    },
+    {
+      "phrase": "crater",
+      "tag": "crater"
+    },
+    {
+      "phrase": "crater setting",
+      "tag": "crater"
+    },
+    {
+      "phrase": "in crater",
+      "tag": "crater"
+    },
+    {
+      "phrase": "crescent moon",
+      "tag": "crescent_moon"
+    },
+    {
+      "phrase": "crescent moon setting",
+      "tag": "crescent_moon"
+    },
+    {
+      "phrase": "in crescent moon",
+      "tag": "crescent_moon"
+    },
+    {
+      "phrase": "critter pick",
+      "tag": "critter_pick_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "critter pick honkai: star rail",
+      "tag": "critter_pick_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "critter pick setting",
+      "tag": "critter_pick_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in critter pick",
+      "tag": "critter_pick_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "crosswalk",
+      "tag": "crosswalk"
+    },
+    {
+      "phrase": "crosswalk setting",
+      "tag": "crosswalk"
+    },
+    {
+      "phrase": "in crosswalk",
+      "tag": "crosswalk"
+    },
+    {
+      "phrase": "crystal flower",
+      "tag": "crystal_flower"
+    },
+    {
+      "phrase": "crystal flower setting",
+      "tag": "crystal_flower"
+    },
+    {
+      "phrase": "in crystal flower",
+      "tag": "crystal_flower"
+    },
+    {
+      "phrase": "crystal star",
+      "tag": "crystal_star_(sailor_moon)"
+    },
+    {
+      "phrase": "crystal star sailor moon",
+      "tag": "crystal_star_(sailor_moon)"
+    },
+    {
+      "phrase": "crystal star setting",
+      "tag": "crystal_star_(sailor_moon)"
+    },
+    {
+      "phrase": "in crystal star",
+      "tag": "crystal_star_(sailor_moon)"
+    },
+    {
+      "phrase": "crystallization",
+      "tag": "crystallization"
+    },
+    {
+      "phrase": "crystallization setting",
+      "tag": "crystallization"
+    },
+    {
+      "phrase": "in crystallization",
+      "tag": "crystallization"
+    },
+    {
+      "phrase": "cumulonimbus cloud",
+      "tag": "cumulonimbus_cloud"
+    },
+    {
+      "phrase": "cumulonimbus cloud setting",
+      "tag": "cumulonimbus_cloud"
+    },
+    {
+      "phrase": "in cumulonimbus cloud",
+      "tag": "cumulonimbus_cloud"
+    },
+    {
+      "phrase": "cupboard",
+      "tag": "cupboard"
+    },
+    {
+      "phrase": "cupboard setting",
+      "tag": "cupboard"
+    },
+    {
+      "phrase": "in cupboard",
+      "tag": "cupboard"
+    },
+    {
+      "phrase": "curtains",
+      "tag": "curtains"
+    },
+    {
+      "phrase": "curtains setting",
+      "tag": "curtains"
+    },
+    {
+      "phrase": "in curtains",
+      "tag": "curtains"
+    },
+    {
+      "phrase": "cygnus",
+      "tag": "cygnus_(constellation)"
+    },
+    {
+      "phrase": "cygnus constellation",
+      "tag": "cygnus_(constellation)"
+    },
+    {
+      "phrase": "cygnus setting",
+      "tag": "cygnus_(constellation)"
+    },
+    {
+      "phrase": "in cygnus",
+      "tag": "cygnus_(constellation)"
+    },
+    {
+      "phrase": "daffodil",
+      "tag": "daffodil"
+    },
+    {
+      "phrase": "daffodil setting",
+      "tag": "daffodil"
+    },
+    {
+      "phrase": "in daffodil",
+      "tag": "daffodil"
+    },
+    {
+      "phrase": "dahlia",
+      "tag": "dahlia"
+    },
+    {
+      "phrase": "dahlia setting",
+      "tag": "dahlia"
+    },
+    {
+      "phrase": "in dahlia",
+      "tag": "dahlia"
+    },
+    {
+      "phrase": "dancing flower",
+      "tag": "dancing_flower"
+    },
+    {
+      "phrase": "dancing flower setting",
+      "tag": "dancing_flower"
+    },
+    {
+      "phrase": "in dancing flower",
+      "tag": "dancing_flower"
+    },
+    {
+      "phrase": "dandelion",
+      "tag": "dandelion"
+    },
+    {
+      "phrase": "dandelion setting",
+      "tag": "dandelion"
+    },
+    {
+      "phrase": "in dandelion",
+      "tag": "dandelion"
+    },
+    {
+      "phrase": "dandelion clock",
+      "tag": "dandelion_clock"
+    },
+    {
+      "phrase": "dandelion clock setting",
+      "tag": "dandelion_clock"
+    },
+    {
+      "phrase": "in dandelion clock",
+      "tag": "dandelion_clock"
+    },
+    {
+      "phrase": "dandelion seed",
+      "tag": "dandelion_seed"
+    },
+    {
+      "phrase": "dandelion seed setting",
+      "tag": "dandelion_seed"
+    },
+    {
+      "phrase": "in dandelion seed",
+      "tag": "dandelion_seed"
+    },
+    {
+      "phrase": "dark cloud",
+      "tag": "dark_cloud"
+    },
+    {
+      "phrase": "dark cloud setting",
+      "tag": "dark_cloud"
+    },
+    {
+      "phrase": "in dark cloud",
+      "tag": "dark_cloud"
+    },
+    {
+      "phrase": "dawnmaker",
+      "tag": "dawnmaker_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "dawnmaker honkai: star rail",
+      "tag": "dawnmaker_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "dawnmaker setting",
+      "tag": "dawnmaker_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in dawnmaker",
+      "tag": "dawnmaker_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "death star",
+      "tag": "death_star"
+    },
+    {
+      "phrase": "death star setting",
+      "tag": "death_star"
+    },
+    {
+      "phrase": "in death star",
+      "tag": "death_star"
+    },
+    {
+      "phrase": "debris",
+      "tag": "debris"
+    },
+    {
+      "phrase": "debris setting",
+      "tag": "debris"
+    },
+    {
+      "phrase": "in debris",
+      "tag": "debris"
+    },
+    {
+      "phrase": "desk lamp",
+      "tag": "desk_lamp"
+    },
+    {
+      "phrase": "desk lamp setting",
+      "tag": "desk_lamp"
+    },
+    {
+      "phrase": "in desk lamp",
+      "tag": "desk_lamp"
+    },
+    {
+      "phrase": "dew drop",
+      "tag": "dew_drop"
+    },
+    {
+      "phrase": "dew drop setting",
+      "tag": "dew_drop"
+    },
+    {
+      "phrase": "in dew drop",
+      "tag": "dew_drop"
+    },
+    {
+      "phrase": "dirt",
+      "tag": "dirt"
+    },
+    {
+      "phrase": "dirt setting",
+      "tag": "dirt"
+    },
+    {
+      "phrase": "in dirt",
+      "tag": "dirt"
+    },
+    {
+      "phrase": "doghouse",
+      "tag": "doghouse"
+    },
+    {
+      "phrase": "doghouse setting",
+      "tag": "doghouse"
+    },
+    {
+      "phrase": "in doghouse",
+      "tag": "doghouse"
+    },
+    {
+      "phrase": "dome",
+      "tag": "dome"
+    },
+    {
+      "phrase": "dome setting",
+      "tag": "dome"
+    },
+    {
+      "phrase": "in dome",
+      "tag": "dome"
+    },
+    {
+      "phrase": "drain",
+      "tag": "drain_(object)"
+    },
+    {
+      "phrase": "drain object",
+      "tag": "drain_(object)"
+    },
+    {
+      "phrase": "drain setting",
+      "tag": "drain_(object)"
+    },
+    {
+      "phrase": "in drain",
+      "tag": "drain_(object)"
+    },
+    {
+      "phrase": "drainpipe",
+      "tag": "drainpipe"
+    },
+    {
+      "phrase": "drainpipe setting",
+      "tag": "drainpipe"
+    },
+    {
+      "phrase": "in drainpipe",
+      "tag": "drainpipe"
+    },
+    {
+      "phrase": "drawer",
+      "tag": "drawer"
+    },
+    {
+      "phrase": "drawer setting",
+      "tag": "drawer"
+    },
+    {
+      "phrase": "in drawer",
+      "tag": "drawer"
+    },
+    {
+      "phrase": "drawn flower",
+      "tag": "drawn_flower"
+    },
+    {
+      "phrase": "drawn flower setting",
+      "tag": "drawn_flower"
+    },
+    {
+      "phrase": "in drawn flower",
+      "tag": "drawn_flower"
+    },
+    {
+      "phrase": "drawn star",
+      "tag": "drawn_star"
+    },
+    {
+      "phrase": "drawn star setting",
+      "tag": "drawn_star"
+    },
+    {
+      "phrase": "in drawn star",
+      "tag": "drawn_star"
+    },
+    {
+      "phrase": "dreampool",
+      "tag": "dreampool_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "dreampool honkai: star rail",
+      "tag": "dreampool_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "dreampool setting",
+      "tag": "dreampool_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in dreampool",
+      "tag": "dreampool_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "dried flower",
+      "tag": "dried_flower"
+    },
+    {
+      "phrase": "dried flower setting",
+      "tag": "dried_flower"
+    },
+    {
+      "phrase": "in dried flower",
+      "tag": "dried_flower"
+    },
+    {
+      "phrase": "drinking fountain",
+      "tag": "drinking_fountain"
+    },
+    {
+      "phrase": "drinking fountain setting",
+      "tag": "drinking_fountain"
+    },
+    {
+      "phrase": "in drinking fountain",
+      "tag": "drinking_fountain"
+    },
+    {
+      "phrase": "dromas",
+      "tag": "dromas_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "dromas honkai: star rail",
+      "tag": "dromas_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "dromas setting",
+      "tag": "dromas_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in dromas",
+      "tag": "dromas_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "dry grass",
+      "tag": "dry_grass"
+    },
+    {
+      "phrase": "dry grass setting",
+      "tag": "dry_grass"
+    },
+    {
+      "phrase": "in dry grass",
+      "tag": "dry_grass"
+    },
+    {
+      "phrase": "dust",
+      "tag": "dust"
+    },
+    {
+      "phrase": "dust setting",
+      "tag": "dust"
+    },
+    {
+      "phrase": "in dust",
+      "tag": "dust"
+    },
+    {
+      "phrase": "dust cloud",
+      "tag": "dust_cloud"
+    },
+    {
+      "phrase": "dust cloud setting",
+      "tag": "dust_cloud"
+    },
+    {
+      "phrase": "in dust cloud",
+      "tag": "dust_cloud"
+    },
+    {
+      "phrase": "eating flower",
+      "tag": "eating_flower"
+    },
+    {
+      "phrase": "eating flower setting",
+      "tag": "eating_flower"
+    },
+    {
+      "phrase": "in eating flower",
+      "tag": "eating_flower"
+    },
+    {
+      "phrase": "eclipse",
+      "tag": "eclipse"
+    },
+    {
+      "phrase": "eclipse setting",
+      "tag": "eclipse"
+    },
+    {
+      "phrase": "in eclipse",
+      "tag": "eclipse"
+    },
+    {
+      "phrase": "electrical outlet",
+      "tag": "electrical_outlet"
+    },
+    {
+      "phrase": "electrical outlet setting",
+      "tag": "electrical_outlet"
+    },
+    {
+      "phrase": "in electrical outlet",
+      "tag": "electrical_outlet"
+    },
+    {
+      "phrase": "elevator door",
+      "tag": "elevator_door"
+    },
+    {
+      "phrase": "elevator door setting",
+      "tag": "elevator_door"
+    },
+    {
+      "phrase": "in elevator door",
+      "tag": "elevator_door"
+    },
+    {
+      "phrase": "elizabeth tower",
+      "tag": "elizabeth_tower"
+    },
+    {
+      "phrase": "elizabeth tower setting",
+      "tag": "elizabeth_tower"
+    },
+    {
+      "phrase": "in elizabeth tower",
+      "tag": "elizabeth_tower"
+    },
+    {
+      "phrase": "elpis flower",
+      "tag": "elpis_flower"
+    },
+    {
+      "phrase": "elpis flower setting",
+      "tag": "elpis_flower"
+    },
+    {
+      "phrase": "in elpis flower",
+      "tag": "elpis_flower"
+    },
+    {
+      "phrase": "embers",
+      "tag": "embers"
+    },
+    {
+      "phrase": "embers setting",
+      "tag": "embers"
+    },
+    {
+      "phrase": "in embers",
+      "tag": "embers"
+    },
+    {
+      "phrase": "empire state building",
+      "tag": "empire_state_building"
+    },
+    {
+      "phrase": "empire state building setting",
+      "tag": "empire_state_building"
+    },
+    {
+      "phrase": "in empire state building",
+      "tag": "empire_state_building"
+    },
+    {
+      "phrase": "energy",
+      "tag": "energy"
+    },
+    {
+      "phrase": "energy setting",
+      "tag": "energy"
+    },
+    {
+      "phrase": "in energy",
+      "tag": "energy"
+    },
+    {
+      "phrase": "energy field",
+      "tag": "energy_field"
+    },
+    {
+      "phrase": "energy field setting",
+      "tag": "energy_field"
+    },
+    {
+      "phrase": "in energy field",
+      "tag": "energy_field"
+    },
+    {
+      "phrase": "epiphyllum",
+      "tag": "epiphyllum"
+    },
+    {
+      "phrase": "epiphyllum setting",
+      "tag": "epiphyllum"
+    },
+    {
+      "phrase": "in epiphyllum",
+      "tag": "epiphyllum"
+    },
+    {
+      "phrase": "erdtree",
+      "tag": "erdtree_(elden_ring)"
+    },
+    {
+      "phrase": "erdtree elden ring",
+      "tag": "erdtree_(elden_ring)"
+    },
+    {
+      "phrase": "erdtree setting",
+      "tag": "erdtree_(elden_ring)"
+    },
+    {
+      "phrase": "in erdtree",
+      "tag": "erdtree_(elden_ring)"
+    },
+    {
+      "phrase": "escalator",
+      "tag": "escalator"
+    },
+    {
+      "phrase": "escalator setting",
+      "tag": "escalator"
+    },
+    {
+      "phrase": "in escalator",
+      "tag": "escalator"
+    },
+    {
+      "phrase": "eternal moon article",
+      "tag": "eternal_moon_article"
+    },
+    {
+      "phrase": "eternal moon article setting",
+      "tag": "eternal_moon_article"
+    },
+    {
+      "phrase": "in eternal moon article",
+      "tag": "eternal_moon_article"
+    },
+    {
+      "phrase": "eurasian tree sparrow",
+      "tag": "eurasian_tree_sparrow"
+    },
+    {
+      "phrase": "eurasian tree sparrow setting",
+      "tag": "eurasian_tree_sparrow"
+    },
+    {
+      "phrase": "in eurasian tree sparrow",
+      "tag": "eurasian_tree_sparrow"
+    },
+    {
+      "phrase": "exit sign",
+      "tag": "exit_sign"
+    },
+    {
+      "phrase": "exit sign setting",
+      "tag": "exit_sign"
+    },
+    {
+      "phrase": "in exit sign",
+      "tag": "exit_sign"
+    },
+    {
+      "phrase": "explosion",
+      "tag": "explosion"
+    },
+    {
+      "phrase": "explosion setting",
+      "tag": "explosion"
+    },
+    {
+      "phrase": "in explosion",
+      "tag": "explosion"
+    },
+    {
+      "phrase": "fallen tree",
+      "tag": "fallen_tree"
+    },
+    {
+      "phrase": "fallen tree setting",
+      "tag": "fallen_tree"
+    },
+    {
+      "phrase": "in fallen tree",
+      "tag": "fallen_tree"
+    },
+    {
+      "phrase": "falling flower",
+      "tag": "falling_flower"
+    },
+    {
+      "phrase": "falling flower setting",
+      "tag": "falling_flower"
+    },
+    {
+      "phrase": "in falling flower",
+      "tag": "falling_flower"
+    },
+    {
+      "phrase": "falling leaves",
+      "tag": "falling_leaves"
+    },
+    {
+      "phrase": "falling leaves setting",
+      "tag": "falling_leaves"
+    },
+    {
+      "phrase": "in falling leaves",
+      "tag": "falling_leaves"
+    },
+    {
+      "phrase": "falling star",
+      "tag": "falling_star"
+    },
+    {
+      "phrase": "falling star setting",
+      "tag": "falling_star"
+    },
+    {
+      "phrase": "in falling star",
+      "tag": "falling_star"
+    },
+    {
+      "phrase": "fare gate",
+      "tag": "fare_gate"
+    },
+    {
+      "phrase": "fare gate setting",
+      "tag": "fare_gate"
+    },
+    {
+      "phrase": "in fare gate",
+      "tag": "fare_gate"
+    },
+    {
+      "phrase": "faucet",
+      "tag": "faucet"
+    },
+    {
+      "phrase": "faucet setting",
+      "tag": "faucet"
+    },
+    {
+      "phrase": "in faucet",
+      "tag": "faucet"
+    },
+    {
+      "phrase": "fern",
+      "tag": "fern"
+    },
+    {
+      "phrase": "fern setting",
+      "tag": "fern"
+    },
+    {
+      "phrase": "in fern",
+      "tag": "fern"
+    },
+    {
+      "phrase": "field radio",
+      "tag": "field_radio"
+    },
+    {
+      "phrase": "field radio setting",
+      "tag": "field_radio"
+    },
+    {
+      "phrase": "in field radio",
+      "tag": "field_radio"
+    },
+    {
+      "phrase": "fight cloud",
+      "tag": "fight_cloud"
+    },
+    {
+      "phrase": "fight cloud setting",
+      "tag": "fight_cloud"
+    },
+    {
+      "phrase": "in fight cloud",
+      "tag": "fight_cloud"
+    },
+    {
+      "phrase": "fir tree",
+      "tag": "fir_tree"
+    },
+    {
+      "phrase": "fir tree setting",
+      "tag": "fir_tree"
+    },
+    {
+      "phrase": "in fir tree",
+      "tag": "fir_tree"
+    },
+    {
+      "phrase": "fireplace",
+      "tag": "fireplace"
+    },
+    {
+      "phrase": "fireplace setting",
+      "tag": "fireplace"
+    },
+    {
+      "phrase": "in fireplace",
+      "tag": "fireplace"
+    },
+    {
+      "phrase": "fireworks",
+      "tag": "fireworks"
+    },
+    {
+      "phrase": "fireworks setting",
+      "tag": "fireworks"
+    },
+    {
+      "phrase": "in fireworks",
+      "tag": "fireworks"
+    },
+    {
+      "phrase": "fish tank",
+      "tag": "fish_tank"
+    },
+    {
+      "phrase": "fish tank setting",
+      "tag": "fish_tank"
+    },
+    {
+      "phrase": "in fish tank",
+      "tag": "fish_tank"
+    },
+    {
+      "phrase": "flagpole",
+      "tag": "flagpole"
+    },
+    {
+      "phrase": "flagpole setting",
+      "tag": "flagpole"
+    },
+    {
+      "phrase": "in flagpole",
+      "tag": "flagpole"
+    },
+    {
+      "phrase": "floating building",
+      "tag": "floating_building"
+    },
+    {
+      "phrase": "floating building setting",
+      "tag": "floating_building"
+    },
+    {
+      "phrase": "in floating building",
+      "tag": "floating_building"
+    },
+    {
+      "phrase": "floating city",
+      "tag": "floating_city"
+    },
+    {
+      "phrase": "floating city setting",
+      "tag": "floating_city"
+    },
+    {
+      "phrase": "in floating city",
+      "tag": "floating_city"
+    },
+    {
+      "phrase": "floating curtains",
+      "tag": "floating_curtains"
+    },
+    {
+      "phrase": "floating curtains setting",
+      "tag": "floating_curtains"
+    },
+    {
+      "phrase": "in floating curtains",
+      "tag": "floating_curtains"
+    },
+    {
+      "phrase": "floating rock",
+      "tag": "floating_rock"
+    },
+    {
+      "phrase": "floating rock setting",
+      "tag": "floating_rock"
+    },
+    {
+      "phrase": "in floating rock",
+      "tag": "floating_rock"
+    },
+    {
+      "phrase": "flood",
+      "tag": "flood"
+    },
+    {
+      "phrase": "flood setting",
+      "tag": "flood"
+    },
+    {
+      "phrase": "in flood",
+      "tag": "flood"
+    },
+    {
+      "phrase": "floral arch",
+      "tag": "floral_arch"
+    },
+    {
+      "phrase": "floral arch setting",
+      "tag": "floral_arch"
+    },
+    {
+      "phrase": "in floral arch",
+      "tag": "floral_arch"
+    },
+    {
+      "phrase": "flower",
+      "tag": "flower"
+    },
+    {
+      "phrase": "flower setting",
+      "tag": "flower"
+    },
+    {
+      "phrase": "in flower",
+      "tag": "flower"
+    },
+    {
+      "phrase": "flower anklet",
+      "tag": "flower_anklet"
+    },
+    {
+      "phrase": "flower anklet setting",
+      "tag": "flower_anklet"
+    },
+    {
+      "phrase": "in flower anklet",
+      "tag": "flower_anklet"
+    },
+    {
+      "phrase": "flower armlet",
+      "tag": "flower_armlet"
+    },
+    {
+      "phrase": "flower armlet setting",
+      "tag": "flower_armlet"
+    },
+    {
+      "phrase": "in flower armlet",
+      "tag": "flower_armlet"
+    },
+    {
+      "phrase": "flower balloon",
+      "tag": "flower_balloon"
+    },
+    {
+      "phrase": "flower balloon setting",
+      "tag": "flower_balloon"
+    },
+    {
+      "phrase": "in flower balloon",
+      "tag": "flower_balloon"
+    },
+    {
+      "phrase": "flower basket",
+      "tag": "flower_basket"
+    },
+    {
+      "phrase": "flower basket setting",
+      "tag": "flower_basket"
+    },
+    {
+      "phrase": "in flower basket",
+      "tag": "flower_basket"
+    },
+    {
+      "phrase": "flower box",
+      "tag": "flower_box"
+    },
+    {
+      "phrase": "flower box setting",
+      "tag": "flower_box"
+    },
+    {
+      "phrase": "in flower box",
+      "tag": "flower_box"
+    },
+    {
+      "phrase": "flower bush",
+      "tag": "flower_bush"
+    },
+    {
+      "phrase": "flower bush setting",
+      "tag": "flower_bush"
+    },
+    {
+      "phrase": "in flower bush",
+      "tag": "flower_bush"
+    },
+    {
+      "phrase": "flower button",
+      "tag": "flower_button"
+    },
+    {
+      "phrase": "flower button setting",
+      "tag": "flower_button"
+    },
+    {
+      "phrase": "in flower button",
+      "tag": "flower_button"
+    },
+    {
+      "phrase": "flower censor",
+      "tag": "flower_censor"
+    },
+    {
+      "phrase": "flower censor setting",
+      "tag": "flower_censor"
+    },
+    {
+      "phrase": "in flower censor",
+      "tag": "flower_censor"
+    },
+    {
+      "phrase": "flower collar",
+      "tag": "flower_collar"
+    },
+    {
+      "phrase": "flower collar setting",
+      "tag": "flower_collar"
+    },
+    {
+      "phrase": "in flower collar",
+      "tag": "flower_collar"
+    },
+    {
+      "phrase": "flower focus",
+      "tag": "flower_focus"
+    },
+    {
+      "phrase": "flower focus setting",
+      "tag": "flower_focus"
+    },
+    {
+      "phrase": "focus on flower",
+      "tag": "flower_focus"
+    },
+    {
+      "phrase": "focused on flower",
+      "tag": "flower_focus"
+    },
+    {
+      "phrase": "in flower focus",
+      "tag": "flower_focus"
+    },
+    {
+      "phrase": "flower hairpin",
+      "tag": "flower_hairpin"
+    },
+    {
+      "phrase": "flower hairpin setting",
+      "tag": "flower_hairpin"
+    },
+    {
+      "phrase": "in flower hairpin",
+      "tag": "flower_hairpin"
+    },
+    {
+      "phrase": "flower hairtie",
+      "tag": "flower_hairtie"
+    },
+    {
+      "phrase": "flower hairtie setting",
+      "tag": "flower_hairtie"
+    },
+    {
+      "phrase": "in flower hairtie",
+      "tag": "flower_hairtie"
+    },
+    {
+      "phrase": "flower hands",
+      "tag": "flower_hands"
+    },
+    {
+      "phrase": "flower hands setting",
+      "tag": "flower_hands"
+    },
+    {
+      "phrase": "in flower hands",
+      "tag": "flower_hands"
+    },
+    {
+      "phrase": "flower head",
+      "tag": "flower_head"
+    },
+    {
+      "phrase": "flower head setting",
+      "tag": "flower_head"
+    },
+    {
+      "phrase": "in flower head",
+      "tag": "flower_head"
+    },
+    {
+      "phrase": "flower knot",
+      "tag": "flower_knot"
+    },
+    {
+      "phrase": "flower knot setting",
+      "tag": "flower_knot"
+    },
+    {
+      "phrase": "in flower knot",
+      "tag": "flower_knot"
+    },
+    {
+      "phrase": "flower on liquid",
+      "tag": "flower_on_liquid"
+    },
+    {
+      "phrase": "flower on liquid setting",
+      "tag": "flower_on_liquid"
+    },
+    {
+      "phrase": "in flower on liquid",
+      "tag": "flower_on_liquid"
+    },
+    {
+      "phrase": "flower ornament",
+      "tag": "flower_ornament"
+    },
+    {
+      "phrase": "flower ornament setting",
+      "tag": "flower_ornament"
+    },
+    {
+      "phrase": "in flower ornament",
+      "tag": "flower_ornament"
+    },
+    {
+      "phrase": "flower pendant",
+      "tag": "flower_pendant"
+    },
+    {
+      "phrase": "flower pendant setting",
+      "tag": "flower_pendant"
+    },
+    {
+      "phrase": "in flower pendant",
+      "tag": "flower_pendant"
+    },
+    {
+      "phrase": "flower pin",
+      "tag": "flower_pin"
+    },
+    {
+      "phrase": "flower pin setting",
+      "tag": "flower_pin"
+    },
+    {
+      "phrase": "in flower pin",
+      "tag": "flower_pin"
+    },
+    {
+      "phrase": "flower pot",
+      "tag": "flower_pot"
+    },
+    {
+      "phrase": "flower pot setting",
+      "tag": "flower_pot"
+    },
+    {
+      "phrase": "in flower pot",
+      "tag": "flower_pot"
+    },
+    {
+      "phrase": "flower shop",
+      "tag": "flower_shop"
+    },
+    {
+      "phrase": "flower shop setting",
+      "tag": "flower_shop"
+    },
+    {
+      "phrase": "in flower shop",
+      "tag": "flower_shop"
+    },
+    {
+      "phrase": "flower sticker",
+      "tag": "flower_sticker"
+    },
+    {
+      "phrase": "flower sticker setting",
+      "tag": "flower_sticker"
+    },
+    {
+      "phrase": "in flower sticker",
+      "tag": "flower_sticker"
+    },
+    {
+      "phrase": "flower swing",
+      "tag": "flower_swing"
+    },
+    {
+      "phrase": "flower swing setting",
+      "tag": "flower_swing"
+    },
+    {
+      "phrase": "in flower swing",
+      "tag": "flower_swing"
+    },
+    {
+      "phrase": "flower symbol",
+      "tag": "flower_symbol"
+    },
+    {
+      "phrase": "flower symbol setting",
+      "tag": "flower_symbol"
+    },
+    {
+      "phrase": "in flower symbol",
+      "tag": "flower_symbol"
+    },
+    {
+      "phrase": "flower tact",
+      "tag": "flower_tact"
+    },
+    {
+      "phrase": "flower tact setting",
+      "tag": "flower_tact"
+    },
+    {
+      "phrase": "in flower tact",
+      "tag": "flower_tact"
+    },
+    {
+      "phrase": "flower tank",
+      "tag": "flower_tank_(touhou)"
+    },
+    {
+      "phrase": "flower tank setting",
+      "tag": "flower_tank_(touhou)"
+    },
+    {
+      "phrase": "flower tank touhou",
+      "tag": "flower_tank_(touhou)"
+    },
+    {
+      "phrase": "in flower tank",
+      "tag": "flower_tank_(touhou)"
+    },
+    {
+      "phrase": "flower trim",
+      "tag": "flower_trim"
+    },
+    {
+      "phrase": "flower trim setting",
+      "tag": "flower_trim"
+    },
+    {
+      "phrase": "in flower trim",
+      "tag": "flower_trim"
+    },
+    {
+      "phrase": "flower umbrella",
+      "tag": "flower_umbrella"
+    },
+    {
+      "phrase": "flower umbrella setting",
+      "tag": "flower_umbrella"
+    },
+    {
+      "phrase": "in flower umbrella",
+      "tag": "flower_umbrella"
+    },
+    {
+      "phrase": "flower underskirt",
+      "tag": "flower_underskirt"
+    },
+    {
+      "phrase": "flower underskirt setting",
+      "tag": "flower_underskirt"
+    },
+    {
+      "phrase": "in flower underskirt",
+      "tag": "flower_underskirt"
+    },
+    {
+      "phrase": "flower wand",
+      "tag": "flower_wand"
+    },
+    {
+      "phrase": "flower wand setting",
+      "tag": "flower_wand"
+    },
+    {
+      "phrase": "in flower wand",
+      "tag": "flower_wand"
+    },
+    {
+      "phrase": "flower wrapper",
+      "tag": "flower_wrapper"
+    },
+    {
+      "phrase": "flower wrapper setting",
+      "tag": "flower_wrapper"
+    },
+    {
+      "phrase": "in flower wrapper",
+      "tag": "flower_wrapper"
+    },
+    {
+      "phrase": "flower wreath",
+      "tag": "flower_wreath"
+    },
+    {
+      "phrase": "flower wreath setting",
+      "tag": "flower_wreath"
+    },
+    {
+      "phrase": "in flower wreath",
+      "tag": "flower_wreath"
+    },
+    {
+      "phrase": "fly agaric",
+      "tag": "fly_agaric"
+    },
+    {
+      "phrase": "fly agaric setting",
+      "tag": "fly_agaric"
+    },
+    {
+      "phrase": "in fly agaric",
+      "tag": "fly_agaric"
+    },
+    {
+      "phrase": "fog",
+      "tag": "fog"
+    },
+    {
+      "phrase": "fog setting",
+      "tag": "fog"
+    },
+    {
+      "phrase": "in fog",
+      "tag": "fog"
+    },
+    {
+      "phrase": "folding screen",
+      "tag": "folding_screen"
+    },
+    {
+      "phrase": "folding screen setting",
+      "tag": "folding_screen"
+    },
+    {
+      "phrase": "in folding screen",
+      "tag": "folding_screen"
+    },
+    {
+      "phrase": "foliage",
+      "tag": "foliage"
+    },
+    {
+      "phrase": "foliage setting",
+      "tag": "foliage"
+    },
+    {
+      "phrase": "in foliage",
+      "tag": "foliage"
+    },
+    {
+      "phrase": "footprints",
+      "tag": "footprints"
+    },
+    {
+      "phrase": "footprints setting",
+      "tag": "footprints"
+    },
+    {
+      "phrase": "in footprints",
+      "tag": "footprints"
+    },
+    {
+      "phrase": "footwear flower",
+      "tag": "footwear_flower"
+    },
+    {
+      "phrase": "footwear flower setting",
+      "tag": "footwear_flower"
+    },
+    {
+      "phrase": "in footwear flower",
+      "tag": "footwear_flower"
+    },
+    {
+      "phrase": "forest",
+      "tag": "forest"
+    },
+    {
+      "phrase": "forest setting",
+      "tag": "forest"
+    },
+    {
+      "phrase": "in forest",
+      "tag": "forest"
+    },
+    {
+      "phrase": "forever star",
+      "tag": "forever_star_(idolmaster)"
+    },
+    {
+      "phrase": "forever star idolmaster",
+      "tag": "forever_star_(idolmaster)"
+    },
+    {
+      "phrase": "forever star setting",
+      "tag": "forever_star_(idolmaster)"
+    },
+    {
+      "phrase": "in forever star",
+      "tag": "forever_star_(idolmaster)"
+    },
+    {
+      "phrase": "forget-me-not",
+      "tag": "forget-me-not_(flower)"
+    },
+    {
+      "phrase": "forget-me-not flower",
+      "tag": "forget-me-not_(flower)"
+    },
+    {
+      "phrase": "forget-me-not setting",
+      "tag": "forget-me-not_(flower)"
+    },
+    {
+      "phrase": "in forget-me-not",
+      "tag": "forget-me-not_(flower)"
+    },
+    {
+      "phrase": "fountain",
+      "tag": "fountain"
+    },
+    {
+      "phrase": "fountain setting",
+      "tag": "fountain"
+    },
+    {
+      "phrase": "in fountain",
+      "tag": "fountain"
+    },
+    {
+      "phrase": "four-pointed star",
+      "tag": "four-pointed_star"
+    },
+    {
+      "phrase": "four-pointed star setting",
+      "tag": "four-pointed_star"
+    },
+    {
+      "phrase": "in four-pointed star",
+      "tag": "four-pointed_star"
+    },
+    {
+      "phrase": "freesia",
+      "tag": "freesia_(flower)"
+    },
+    {
+      "phrase": "freesia flower",
+      "tag": "freesia_(flower)"
+    },
+    {
+      "phrase": "freesia setting",
+      "tag": "freesia_(flower)"
+    },
+    {
+      "phrase": "in freesia",
+      "tag": "freesia_(flower)"
+    },
+    {
+      "phrase": "frilled curtains",
+      "tag": "frilled_curtains"
+    },
+    {
+      "phrase": "frilled curtains setting",
+      "tag": "frilled_curtains"
+    },
+    {
+      "phrase": "in frilled curtains",
+      "tag": "frilled_curtains"
+    },
+    {
+      "phrase": "frost",
+      "tag": "frost"
+    },
+    {
+      "phrase": "frost setting",
+      "tag": "frost"
+    },
+    {
+      "phrase": "in frost",
+      "tag": "frost"
+    },
+    {
+      "phrase": "frozen",
+      "tag": "frozen"
+    },
+    {
+      "phrase": "frozen setting",
+      "tag": "frozen"
+    },
+    {
+      "phrase": "in frozen",
+      "tag": "frozen"
+    },
+    {
+      "phrase": "fruit tree",
+      "tag": "fruit_tree"
+    },
+    {
+      "phrase": "fruit tree setting",
+      "tag": "fruit_tree"
+    },
+    {
+      "phrase": "in fruit tree",
+      "tag": "fruit_tree"
+    },
+    {
+      "phrase": "full moon",
+      "tag": "full_moon"
+    },
+    {
+      "phrase": "full moon setting",
+      "tag": "full_moon"
+    },
+    {
+      "phrase": "in full moon",
+      "tag": "full_moon"
+    },
+    {
+      "phrase": "fusuma",
+      "tag": "fusuma"
+    },
+    {
+      "phrase": "fusuma setting",
+      "tag": "fusuma"
+    },
+    {
+      "phrase": "in fusuma",
+      "tag": "fusuma"
+    },
+    {
+      "phrase": "galaxy",
+      "tag": "galaxy"
+    },
+    {
+      "phrase": "galaxy setting",
+      "tag": "galaxy"
+    },
+    {
+      "phrase": "in galaxy",
+      "tag": "galaxy"
+    },
+    {
+      "phrase": "garmentmaker",
+      "tag": "garmentmaker_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "garmentmaker honkai: star rail",
+      "tag": "garmentmaker_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "garmentmaker setting",
+      "tag": "garmentmaker_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in garmentmaker",
+      "tag": "garmentmaker_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "gas",
+      "tag": "gas"
+    },
+    {
+      "phrase": "gas setting",
+      "tag": "gas"
+    },
+    {
+      "phrase": "in gas",
+      "tag": "gas"
+    },
+    {
+      "phrase": "gate",
+      "tag": "gate"
+    },
+    {
+      "phrase": "gate setting",
+      "tag": "gate"
+    },
+    {
+      "phrase": "in gate",
+      "tag": "gate"
+    },
+    {
+      "phrase": "gemini",
+      "tag": "gemini_(constellation)"
+    },
+    {
+      "phrase": "gemini constellation",
+      "tag": "gemini_(constellation)"
+    },
+    {
+      "phrase": "gemini setting",
+      "tag": "gemini_(constellation)"
+    },
+    {
+      "phrase": "in gemini",
+      "tag": "gemini_(constellation)"
+    },
+    {
+      "phrase": "gentiana",
+      "tag": "gentiana_(flower)"
+    },
+    {
+      "phrase": "gentiana flower",
+      "tag": "gentiana_(flower)"
+    },
+    {
+      "phrase": "gentiana setting",
+      "tag": "gentiana_(flower)"
+    },
+    {
+      "phrase": "in gentiana",
+      "tag": "gentiana_(flower)"
+    },
+    {
+      "phrase": "gerbera",
+      "tag": "gerbera"
+    },
+    {
+      "phrase": "gerbera setting",
+      "tag": "gerbera"
+    },
+    {
+      "phrase": "in gerbera",
+      "tag": "gerbera"
+    },
+    {
+      "phrase": "getabako",
+      "tag": "getabako"
+    },
+    {
+      "phrase": "getabako setting",
+      "tag": "getabako"
+    },
+    {
+      "phrase": "in getabako",
+      "tag": "getabako"
+    },
+    {
+      "phrase": "giant mushroom",
+      "tag": "giant_mushroom"
+    },
+    {
+      "phrase": "giant mushroom setting",
+      "tag": "giant_mushroom"
+    },
+    {
+      "phrase": "in giant mushroom",
+      "tag": "giant_mushroom"
+    },
+    {
+      "phrase": "giant tree",
+      "tag": "giant_tree"
+    },
+    {
+      "phrase": "giant tree setting",
+      "tag": "giant_tree"
+    },
+    {
+      "phrase": "in giant tree",
+      "tag": "giant_tree"
+    },
+    {
+      "phrase": "gibbous moon",
+      "tag": "gibbous_moon"
+    },
+    {
+      "phrase": "gibbous moon setting",
+      "tag": "gibbous_moon"
+    },
+    {
+      "phrase": "in gibbous moon",
+      "tag": "gibbous_moon"
+    },
+    {
+      "phrase": "ginkgo tree",
+      "tag": "ginkgo_tree"
+    },
+    {
+      "phrase": "ginkgo tree setting",
+      "tag": "ginkgo_tree"
+    },
+    {
+      "phrase": "in ginkgo tree",
+      "tag": "ginkgo_tree"
+    },
+    {
+      "phrase": "giving flower",
+      "tag": "giving_flower"
+    },
+    {
+      "phrase": "giving flower setting",
+      "tag": "giving_flower"
+    },
+    {
+      "phrase": "in giving flower",
+      "tag": "giving_flower"
+    },
+    {
+      "phrase": "glacier",
+      "tag": "glacier"
+    },
+    {
+      "phrase": "glacier setting",
+      "tag": "glacier"
+    },
+    {
+      "phrase": "in glacier",
+      "tag": "glacier"
+    },
+    {
+      "phrase": "gladiolus",
+      "tag": "gladiolus"
+    },
+    {
+      "phrase": "gladiolus setting",
+      "tag": "gladiolus"
+    },
+    {
+      "phrase": "in gladiolus",
+      "tag": "gladiolus"
+    },
+    {
+      "phrase": "glass door",
+      "tag": "glass_door"
+    },
+    {
+      "phrase": "glass door setting",
+      "tag": "glass_door"
+    },
+    {
+      "phrase": "in glass door",
+      "tag": "glass_door"
+    },
+    {
+      "phrase": "glass wall",
+      "tag": "glass_wall"
+    },
+    {
+      "phrase": "glass wall setting",
+      "tag": "glass_wall"
+    },
+    {
+      "phrase": "in glass wall",
+      "tag": "glass_wall"
+    },
+    {
+      "phrase": "glaze lily",
+      "tag": "glaze_lily"
+    },
+    {
+      "phrase": "glaze lily setting",
+      "tag": "glaze_lily"
+    },
+    {
+      "phrase": "in glaze lily",
+      "tag": "glaze_lily"
+    },
+    {
+      "phrase": "gold flower",
+      "tag": "gold_flower"
+    },
+    {
+      "phrase": "gold flower setting",
+      "tag": "gold_flower"
+    },
+    {
+      "phrase": "in gold flower",
+      "tag": "gold_flower"
+    },
+    {
+      "phrase": "gold osmanthus",
+      "tag": "gold_osmanthus"
+    },
+    {
+      "phrase": "gold osmanthus setting",
+      "tag": "gold_osmanthus"
+    },
+    {
+      "phrase": "in gold osmanthus",
+      "tag": "gold_osmanthus"
+    },
+    {
+      "phrase": "golden flower",
+      "tag": "golden_flower_(undertale)"
+    },
+    {
+      "phrase": "golden flower setting",
+      "tag": "golden_flower_(undertale)"
+    },
+    {
+      "phrase": "golden flower undertale",
+      "tag": "golden_flower_(undertale)"
+    },
+    {
+      "phrase": "in golden flower",
+      "tag": "golden_flower_(undertale)"
+    },
+    {
+      "phrase": "golden hour",
+      "tag": "golden_hour"
+    },
+    {
+      "phrase": "golden hour setting",
+      "tag": "golden_hour"
+    },
+    {
+      "phrase": "in golden hour",
+      "tag": "golden_hour"
+    },
+    {
+      "phrase": "golden rose",
+      "tag": "golden_rose"
+    },
+    {
+      "phrase": "golden rose setting",
+      "tag": "golden_rose"
+    },
+    {
+      "phrase": "in golden rose",
+      "tag": "golden_rose"
+    },
+    {
+      "phrase": "gothic architecture",
+      "tag": "gothic_architecture"
+    },
+    {
+      "phrase": "gothic architecture setting",
+      "tag": "gothic_architecture"
+    },
+    {
+      "phrase": "in gothic architecture",
+      "tag": "gothic_architecture"
+    },
+    {
+      "phrase": "gradient flower",
+      "tag": "gradient_flower"
+    },
+    {
+      "phrase": "gradient flower setting",
+      "tag": "gradient_flower"
+    },
+    {
+      "phrase": "in gradient flower",
+      "tag": "gradient_flower"
+    },
+    {
+      "phrase": "gradient sky",
+      "tag": "gradient_sky"
+    },
+    {
+      "phrase": "gradient sky setting",
+      "tag": "gradient_sky"
+    },
+    {
+      "phrase": "in gradient sky",
+      "tag": "gradient_sky"
+    },
+    {
+      "phrase": "graffiti",
+      "tag": "graffiti"
+    },
+    {
+      "phrase": "graffiti setting",
+      "tag": "graffiti"
+    },
+    {
+      "phrase": "in graffiti",
+      "tag": "graffiti"
+    },
+    {
+      "phrase": "grand star",
+      "tag": "grand_star_(mario)"
+    },
+    {
+      "phrase": "grand star mario",
+      "tag": "grand_star_(mario)"
+    },
+    {
+      "phrase": "grand star setting",
+      "tag": "grand_star_(mario)"
+    },
+    {
+      "phrase": "in grand star",
+      "tag": "grand_star_(mario)"
+    },
+    {
+      "phrase": "grass",
+      "tag": "grass"
+    },
+    {
+      "phrase": "grass setting",
+      "tag": "grass"
+    },
+    {
+      "phrase": "in grass",
+      "tag": "grass"
+    },
+    {
+      "phrase": "grass block",
+      "tag": "grass_block"
+    },
+    {
+      "phrase": "grass block setting",
+      "tag": "grass_block"
+    },
+    {
+      "phrase": "in grass block",
+      "tag": "grass_block"
+    },
+    {
+      "phrase": "grass lily",
+      "tag": "grass_lily"
+    },
+    {
+      "phrase": "grass lily setting",
+      "tag": "grass_lily"
+    },
+    {
+      "phrase": "in grass lily",
+      "tag": "grass_lily"
+    },
+    {
+      "phrase": "grass root youkai network",
+      "tag": "grass_root_youkai_network"
+    },
+    {
+      "phrase": "grass root youkai network setting",
+      "tag": "grass_root_youkai_network"
+    },
+    {
+      "phrase": "in grass root youkai network",
+      "tag": "grass_root_youkai_network"
+    },
+    {
+      "phrase": "grate",
+      "tag": "grate"
+    },
+    {
+      "phrase": "grate setting",
+      "tag": "grate"
+    },
+    {
+      "phrase": "in grate",
+      "tag": "grate"
+    },
+    {
+      "phrase": "grave",
+      "tag": "grave"
+    },
+    {
+      "phrase": "grave setting",
+      "tag": "grave"
+    },
+    {
+      "phrase": "in grave",
+      "tag": "grave"
+    },
+    {
+      "phrase": "greco-roman architecture",
+      "tag": "greco-roman_architecture"
+    },
+    {
+      "phrase": "greco-roman architecture setting",
+      "tag": "greco-roman_architecture"
+    },
+    {
+      "phrase": "in greco-roman architecture",
+      "tag": "greco-roman_architecture"
+    },
+    {
+      "phrase": "green flower",
+      "tag": "green_flower"
+    },
+    {
+      "phrase": "green flower setting",
+      "tag": "green_flower"
+    },
+    {
+      "phrase": "in green flower",
+      "tag": "green_flower"
+    },
+    {
+      "phrase": "green moon",
+      "tag": "green_moon"
+    },
+    {
+      "phrase": "green moon setting",
+      "tag": "green_moon"
+    },
+    {
+      "phrase": "in green moon",
+      "tag": "green_moon"
+    },
+    {
+      "phrase": "green sky",
+      "tag": "green_sky"
+    },
+    {
+      "phrase": "green sky setting",
+      "tag": "green_sky"
+    },
+    {
+      "phrase": "in green sky",
+      "tag": "green_sky"
+    },
+    {
+      "phrase": "green star",
+      "tag": "green_star"
+    },
+    {
+      "phrase": "green star setting",
+      "tag": "green_star"
+    },
+    {
+      "phrase": "in green star",
+      "tag": "green_star"
+    },
+    {
+      "phrase": "grey flower",
+      "tag": "grey_flower"
+    },
+    {
+      "phrase": "grey flower setting",
+      "tag": "grey_flower"
+    },
+    {
+      "phrase": "in grey flower",
+      "tag": "grey_flower"
+    },
+    {
+      "phrase": "grey rose",
+      "tag": "grey_rose"
+    },
+    {
+      "phrase": "grey rose setting",
+      "tag": "grey_rose"
+    },
+    {
+      "phrase": "in grey rose",
+      "tag": "grey_rose"
+    },
+    {
+      "phrase": "grey sky",
+      "tag": "grey_sky"
+    },
+    {
+      "phrase": "grey sky setting",
+      "tag": "grey_sky"
+    },
+    {
+      "phrase": "in grey sky",
+      "tag": "grey_sky"
+    },
+    {
+      "phrase": "guard rail",
+      "tag": "guard_rail"
+    },
+    {
+      "phrase": "guard rail setting",
+      "tag": "guard_rail"
+    },
+    {
+      "phrase": "in guard rail",
+      "tag": "guard_rail"
+    },
+    {
+      "phrase": "half moon",
+      "tag": "half_moon"
+    },
+    {
+      "phrase": "half moon setting",
+      "tag": "half_moon"
+    },
+    {
+      "phrase": "in half moon",
+      "tag": "half_moon"
+    },
+    {
+      "phrase": "handrail",
+      "tag": "handrail"
+    },
+    {
+      "phrase": "handrail setting",
+      "tag": "handrail"
+    },
+    {
+      "phrase": "in handrail",
+      "tag": "handrail"
+    },
+    {
+      "phrase": "hanging flower",
+      "tag": "hanging_flower"
+    },
+    {
+      "phrase": "hanging flower setting",
+      "tag": "hanging_flower"
+    },
+    {
+      "phrase": "in hanging flower",
+      "tag": "hanging_flower"
+    },
+    {
+      "phrase": "hay",
+      "tag": "hay"
+    },
+    {
+      "phrase": "hay setting",
+      "tag": "hay"
+    },
+    {
+      "phrase": "in hay",
+      "tag": "hay"
+    },
+    {
+      "phrase": "haze",
+      "tag": "haze"
+    },
+    {
+      "phrase": "haze setting",
+      "tag": "haze"
+    },
+    {
+      "phrase": "in haze",
+      "tag": "haze"
+    },
+    {
+      "phrase": "headlight beam",
+      "tag": "headlight_beam"
+    },
+    {
+      "phrase": "headlight beam setting",
+      "tag": "headlight_beam"
+    },
+    {
+      "phrase": "in headlight beam",
+      "tag": "headlight_beam"
+    },
+    {
+      "phrase": "heart-shaped cloud",
+      "tag": "heart-shaped_cloud"
+    },
+    {
+      "phrase": "heart-shaped cloud setting",
+      "tag": "heart-shaped_cloud"
+    },
+    {
+      "phrase": "in heart-shaped cloud",
+      "tag": "heart-shaped_cloud"
+    },
+    {
+      "phrase": "hedge",
+      "tag": "hedge"
+    },
+    {
+      "phrase": "hedge setting",
+      "tag": "hedge"
+    },
+    {
+      "phrase": "in hedge",
+      "tag": "hedge"
+    },
+    {
+      "phrase": "high-cloud quintet",
+      "tag": "high-cloud_quintet_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "high-cloud quintet honkai: star rail",
+      "tag": "high-cloud_quintet_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "high-cloud quintet setting",
+      "tag": "high-cloud_quintet_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in high-cloud quintet",
+      "tag": "high-cloud_quintet_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "hill",
+      "tag": "hill"
+    },
+    {
+      "phrase": "hill setting",
+      "tag": "hill"
+    },
+    {
+      "phrase": "in hill",
+      "tag": "hill"
+    },
+    {
+      "phrase": "hole",
+      "tag": "hole"
+    },
+    {
+      "phrase": "hole setting",
+      "tag": "hole"
+    },
+    {
+      "phrase": "in hole",
+      "tag": "hole"
+    },
+    {
+      "phrase": "holly",
+      "tag": "holly"
+    },
+    {
+      "phrase": "holly setting",
+      "tag": "holly"
+    },
+    {
+      "phrase": "in holly",
+      "tag": "holly"
+    },
+    {
+      "phrase": "horizon",
+      "tag": "horizon"
+    },
+    {
+      "phrase": "horizon setting",
+      "tag": "horizon"
+    },
+    {
+      "phrase": "in horizon",
+      "tag": "horizon"
+    },
+    {
+      "phrase": "horn flower",
+      "tag": "horn_flower"
+    },
+    {
+      "phrase": "horn flower setting",
+      "tag": "horn_flower"
+    },
+    {
+      "phrase": "in horn flower",
+      "tag": "horn_flower"
+    },
+    {
+      "phrase": "huge moon",
+      "tag": "huge_moon"
+    },
+    {
+      "phrase": "huge moon setting",
+      "tag": "huge_moon"
+    },
+    {
+      "phrase": "in huge moon",
+      "tag": "huge_moon"
+    },
+    {
+      "phrase": "ice",
+      "tag": "ice"
+    },
+    {
+      "phrase": "ice setting",
+      "tag": "ice"
+    },
+    {
+      "phrase": "in ice",
+      "tag": "ice"
+    },
+    {
+      "phrase": "ice crystal",
+      "tag": "ice_crystal"
+    },
+    {
+      "phrase": "ice crystal setting",
+      "tag": "ice_crystal"
+    },
+    {
+      "phrase": "in ice crystal",
+      "tag": "ice_crystal"
+    },
+    {
+      "phrase": "ice flower",
+      "tag": "ice_flower"
+    },
+    {
+      "phrase": "ice flower setting",
+      "tag": "ice_flower"
+    },
+    {
+      "phrase": "in ice flower",
+      "tag": "ice_flower"
+    },
+    {
+      "phrase": "ice shard",
+      "tag": "ice_shard"
+    },
+    {
+      "phrase": "ice shard setting",
+      "tag": "ice_shard"
+    },
+    {
+      "phrase": "in ice shard",
+      "tag": "ice_shard"
+    },
+    {
+      "phrase": "iceberg",
+      "tag": "iceberg"
+    },
+    {
+      "phrase": "iceberg setting",
+      "tag": "iceberg"
+    },
+    {
+      "phrase": "in iceberg",
+      "tag": "iceberg"
+    },
+    {
+      "phrase": "icicle",
+      "tag": "icicle"
+    },
+    {
+      "phrase": "icicle setting",
+      "tag": "icicle"
+    },
+    {
+      "phrase": "in icicle",
+      "tag": "icicle"
+    },
+    {
+      "phrase": "in cart",
+      "tag": "in_cart"
+    },
+    {
+      "phrase": "in cart setting",
+      "tag": "in_cart"
+    },
+    {
+      "phrase": "in in cart",
+      "tag": "in_cart"
+    },
+    {
+      "phrase": "in flower",
+      "tag": "in_flower"
+    },
+    {
+      "phrase": "in flower setting",
+      "tag": "in_flower"
+    },
+    {
+      "phrase": "in in flower",
+      "tag": "in_flower"
+    },
+    {
+      "phrase": "in in orbit",
+      "tag": "in_orbit"
+    },
+    {
+      "phrase": "in orbit",
+      "tag": "in_orbit"
+    },
+    {
+      "phrase": "in orbit setting",
+      "tag": "in_orbit"
+    },
+    {
+      "phrase": "in industrial pipe",
+      "tag": "industrial_pipe"
+    },
+    {
+      "phrase": "industrial pipe",
+      "tag": "industrial_pipe"
+    },
+    {
+      "phrase": "industrial pipe setting",
+      "tag": "industrial_pipe"
+    },
+    {
+      "phrase": "in inseki",
+      "tag": "inseki"
+    },
+    {
+      "phrase": "inseki",
+      "tag": "inseki"
+    },
+    {
+      "phrase": "inseki setting",
+      "tag": "inseki"
+    },
+    {
+      "phrase": "in inteyvat flower",
+      "tag": "inteyvat_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "inteyvat flower",
+      "tag": "inteyvat_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "inteyvat flower genshin impact",
+      "tag": "inteyvat_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "inteyvat flower setting",
+      "tag": "inteyvat_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "in inverted moon of the heavens",
+      "tag": "inverted_moon_of_the_heavens"
+    },
+    {
+      "phrase": "inverted moon of the heavens",
+      "tag": "inverted_moon_of_the_heavens"
+    },
+    {
+      "phrase": "inverted moon of the heavens setting",
+      "tag": "inverted_moon_of_the_heavens"
+    },
+    {
+      "phrase": "in invisible wall",
+      "tag": "invisible_wall"
+    },
+    {
+      "phrase": "invisible wall",
+      "tag": "invisible_wall"
+    },
+    {
+      "phrase": "invisible wall setting",
+      "tag": "invisible_wall"
+    },
+    {
+      "phrase": "in iris",
+      "tag": "iris_(flower)"
+    },
+    {
+      "phrase": "iris",
+      "tag": "iris_(flower)"
+    },
+    {
+      "phrase": "iris flower",
+      "tag": "iris_(flower)"
+    },
+    {
+      "phrase": "iris setting",
+      "tag": "iris_(flower)"
+    },
+    {
+      "phrase": "in iron bars",
+      "tag": "iron_bars"
+    },
+    {
+      "phrase": "iron bars",
+      "tag": "iron_bars"
+    },
+    {
+      "phrase": "iron bars setting",
+      "tag": "iron_bars"
+    },
+    {
+      "phrase": "in iron fence",
+      "tag": "iron_fence"
+    },
+    {
+      "phrase": "iron fence",
+      "tag": "iron_fence"
+    },
+    {
+      "phrase": "iron fence setting",
+      "tag": "iron_fence"
+    },
+    {
+      "phrase": "in ironwork",
+      "tag": "ironwork"
+    },
+    {
+      "phrase": "ironwork",
+      "tag": "ironwork"
+    },
+    {
+      "phrase": "ironwork setting",
+      "tag": "ironwork"
+    },
+    {
+      "phrase": "in ivy",
+      "tag": "ivy"
+    },
+    {
+      "phrase": "ivy",
+      "tag": "ivy"
+    },
+    {
+      "phrase": "ivy setting",
+      "tag": "ivy"
+    },
+    {
+      "phrase": "in jungle gym",
+      "tag": "jungle_gym"
+    },
+    {
+      "phrase": "jungle gym",
+      "tag": "jungle_gym"
+    },
+    {
+      "phrase": "jungle gym setting",
+      "tag": "jungle_gym"
+    },
+    {
+      "phrase": "in jupiter",
+      "tag": "jupiter_(planet)"
+    },
+    {
+      "phrase": "jupiter",
+      "tag": "jupiter_(planet)"
+    },
+    {
+      "phrase": "jupiter planet",
+      "tag": "jupiter_(planet)"
+    },
+    {
+      "phrase": "jupiter setting",
+      "tag": "jupiter_(planet)"
+    },
+    {
+      "phrase": "in kelp",
+      "tag": "kelp"
+    },
+    {
+      "phrase": "kelp",
+      "tag": "kelp"
+    },
+    {
+      "phrase": "kelp setting",
+      "tag": "kelp"
+    },
+    {
+      "phrase": "in lane line",
+      "tag": "lane_line"
+    },
+    {
+      "phrase": "lane line",
+      "tag": "lane_line"
+    },
+    {
+      "phrase": "lane line setting",
+      "tag": "lane_line"
+    },
+    {
+      "phrase": "in lantern on liquid",
+      "tag": "lantern_on_liquid"
+    },
+    {
+      "phrase": "lantern on liquid",
+      "tag": "lantern_on_liquid"
+    },
+    {
+      "phrase": "lantern on liquid setting",
+      "tag": "lantern_on_liquid"
+    },
+    {
+      "phrase": "in laser pointer projection",
+      "tag": "laser_pointer_projection"
+    },
+    {
+      "phrase": "laser pointer projection",
+      "tag": "laser_pointer_projection"
+    },
+    {
+      "phrase": "laser pointer projection setting",
+      "tag": "laser_pointer_projection"
+    },
+    {
+      "phrase": "in lattice",
+      "tag": "lattice"
+    },
+    {
+      "phrase": "lattice",
+      "tag": "lattice"
+    },
+    {
+      "phrase": "lattice setting",
+      "tag": "lattice"
+    },
+    {
+      "phrase": "in lava",
+      "tag": "lava"
+    },
+    {
+      "phrase": "lava",
+      "tag": "lava"
+    },
+    {
+      "phrase": "lava setting",
+      "tag": "lava"
+    },
+    {
+      "phrase": "in lavender",
+      "tag": "lavender_(flower)"
+    },
+    {
+      "phrase": "lavender",
+      "tag": "lavender_(flower)"
+    },
+    {
+      "phrase": "lavender flower",
+      "tag": "lavender_(flower)"
+    },
+    {
+      "phrase": "lavender setting",
+      "tag": "lavender_(flower)"
+    },
+    {
+      "phrase": "in ledge",
+      "tag": "ledge"
+    },
+    {
+      "phrase": "ledge",
+      "tag": "ledge"
+    },
+    {
+      "phrase": "ledge setting",
+      "tag": "ledge"
+    },
+    {
+      "phrase": "in lemon blossoms",
+      "tag": "lemon_blossoms"
+    },
+    {
+      "phrase": "lemon blossoms",
+      "tag": "lemon_blossoms"
+    },
+    {
+      "phrase": "lemon blossoms setting",
+      "tag": "lemon_blossoms"
+    },
+    {
+      "phrase": "in leo",
+      "tag": "leo_(constellation)"
+    },
+    {
+      "phrase": "leo",
+      "tag": "leo_(constellation)"
+    },
+    {
+      "phrase": "leo constellation",
+      "tag": "leo_(constellation)"
+    },
+    {
+      "phrase": "leo setting",
+      "tag": "leo_(constellation)"
+    },
+    {
+      "phrase": "in libra",
+      "tag": "libra_(constellation)"
+    },
+    {
+      "phrase": "libra",
+      "tag": "libra_(constellation)"
+    },
+    {
+      "phrase": "libra constellation",
+      "tag": "libra_(constellation)"
+    },
+    {
+      "phrase": "libra setting",
+      "tag": "libra_(constellation)"
+    },
+    {
+      "phrase": "in lichtenberg figure",
+      "tag": "lichtenberg_figure"
+    },
+    {
+      "phrase": "lichtenberg figure",
+      "tag": "lichtenberg_figure"
+    },
+    {
+      "phrase": "lichtenberg figure setting",
+      "tag": "lichtenberg_figure"
+    },
+    {
+      "phrase": "in lightning",
+      "tag": "lightning"
+    },
+    {
+      "phrase": "lightning",
+      "tag": "lightning"
+    },
+    {
+      "phrase": "lightning setting",
+      "tag": "lightning"
+    },
+    {
+      "phrase": "in lily of the valley",
+      "tag": "lily_of_the_valley"
+    },
+    {
+      "phrase": "lily of the valley",
+      "tag": "lily_of_the_valley"
+    },
+    {
+      "phrase": "lily of the valley setting",
+      "tag": "lily_of_the_valley"
+    },
+    {
+      "phrase": "in lily pad",
+      "tag": "lily_pad"
+    },
+    {
+      "phrase": "lily pad",
+      "tag": "lily_pad"
+    },
+    {
+      "phrase": "lily pad setting",
+      "tag": "lily_pad"
+    },
+    {
+      "phrase": "in lobelia",
+      "tag": "lobelia_(flower)"
+    },
+    {
+      "phrase": "lobelia",
+      "tag": "lobelia_(flower)"
+    },
+    {
+      "phrase": "lobelia flower",
+      "tag": "lobelia_(flower)"
+    },
+    {
+      "phrase": "lobelia setting",
+      "tag": "lobelia_(flower)"
+    },
+    {
+      "phrase": "in log",
+      "tag": "log"
+    },
+    {
+      "phrase": "log",
+      "tag": "log"
+    },
+    {
+      "phrase": "log setting",
+      "tag": "log"
+    },
+    {
+      "phrase": "in lotus pod",
+      "tag": "lotus_pod"
+    },
+    {
+      "phrase": "lotus pod",
+      "tag": "lotus_pod"
+    },
+    {
+      "phrase": "lotus pod setting",
+      "tag": "lotus_pod"
+    },
+    {
+      "phrase": "in lunar eclipse",
+      "tag": "lunar_eclipse"
+    },
+    {
+      "phrase": "lunar eclipse",
+      "tag": "lunar_eclipse"
+    },
+    {
+      "phrase": "lunar eclipse setting",
+      "tag": "lunar_eclipse"
+    },
+    {
+      "phrase": "in magnolia",
+      "tag": "magnolia"
+    },
+    {
+      "phrase": "magnolia",
+      "tag": "magnolia"
+    },
+    {
+      "phrase": "magnolia setting",
+      "tag": "magnolia"
+    },
+    {
+      "phrase": "in manhole",
+      "tag": "manhole"
+    },
+    {
+      "phrase": "manhole",
+      "tag": "manhole"
+    },
+    {
+      "phrase": "manhole setting",
+      "tag": "manhole"
+    },
+    {
+      "phrase": "in manhole cover",
+      "tag": "manhole_cover"
+    },
+    {
+      "phrase": "manhole cover",
+      "tag": "manhole_cover"
+    },
+    {
+      "phrase": "manhole cover setting",
+      "tag": "manhole_cover"
+    },
+    {
+      "phrase": "in maple tree",
+      "tag": "maple_tree"
+    },
+    {
+      "phrase": "maple tree",
+      "tag": "maple_tree"
+    },
+    {
+      "phrase": "maple tree setting",
+      "tag": "maple_tree"
+    },
+    {
+      "phrase": "in marble",
+      "tag": "marble_(stone)"
+    },
+    {
+      "phrase": "marble",
+      "tag": "marble_(stone)"
+    },
+    {
+      "phrase": "marble setting",
+      "tag": "marble_(stone)"
+    },
+    {
+      "phrase": "marble stone",
+      "tag": "marble_(stone)"
+    },
+    {
+      "phrase": "in marigold",
+      "tag": "marigold"
+    },
+    {
+      "phrase": "marigold",
+      "tag": "marigold"
+    },
+    {
+      "phrase": "marigold setting",
+      "tag": "marigold"
+    },
+    {
+      "phrase": "in mars",
+      "tag": "mars_(planet)"
+    },
+    {
+      "phrase": "mars",
+      "tag": "mars_(planet)"
+    },
+    {
+      "phrase": "mars planet",
+      "tag": "mars_(planet)"
+    },
+    {
+      "phrase": "mars setting",
+      "tag": "mars_(planet)"
+    },
+    {
+      "phrase": "in mast",
+      "tag": "mast"
+    },
+    {
+      "phrase": "mast",
+      "tag": "mast"
+    },
+    {
+      "phrase": "mast setting",
+      "tag": "mast"
+    },
+    {
+      "phrase": "in meteor",
+      "tag": "meteor"
+    },
+    {
+      "phrase": "meteor",
+      "tag": "meteor"
+    },
+    {
+      "phrase": "meteor setting",
+      "tag": "meteor"
+    },
+    {
+      "phrase": "in meteor shower",
+      "tag": "meteor_shower"
+    },
+    {
+      "phrase": "meteor shower",
+      "tag": "meteor_shower"
+    },
+    {
+      "phrase": "meteor shower setting",
+      "tag": "meteor_shower"
+    },
+    {
+      "phrase": "in milky way",
+      "tag": "milky_way"
+    },
+    {
+      "phrase": "milky way",
+      "tag": "milky_way"
+    },
+    {
+      "phrase": "milky way setting",
+      "tag": "milky_way"
+    },
+    {
+      "phrase": "in mimosa",
+      "tag": "mimosa_(flower)"
+    },
+    {
+      "phrase": "mimosa",
+      "tag": "mimosa_(flower)"
+    },
+    {
+      "phrase": "mimosa flower",
+      "tag": "mimosa_(flower)"
+    },
+    {
+      "phrase": "mimosa setting",
+      "tag": "mimosa_(flower)"
+    },
+    {
+      "phrase": "in mini christmas tree",
+      "tag": "mini_christmas_tree"
+    },
+    {
+      "phrase": "mini christmas tree",
+      "tag": "mini_christmas_tree"
+    },
+    {
+      "phrase": "mini christmas tree setting",
+      "tag": "mini_christmas_tree"
+    },
+    {
+      "phrase": "in mistletoe",
+      "tag": "mistletoe"
+    },
+    {
+      "phrase": "mistletoe",
+      "tag": "mistletoe"
+    },
+    {
+      "phrase": "mistletoe setting",
+      "tag": "mistletoe"
+    },
+    {
+      "phrase": "in moai",
+      "tag": "moai"
+    },
+    {
+      "phrase": "moai",
+      "tag": "moai"
+    },
+    {
+      "phrase": "moai setting",
+      "tag": "moai"
+    },
+    {
+      "phrase": "in model building",
+      "tag": "model_building"
+    },
+    {
+      "phrase": "model building",
+      "tag": "model_building"
+    },
+    {
+      "phrase": "model building setting",
+      "tag": "model_building"
+    },
+    {
+      "phrase": "in mondstadt city",
+      "tag": "mondstadt_city"
+    },
+    {
+      "phrase": "mondstadt city",
+      "tag": "mondstadt_city"
+    },
+    {
+      "phrase": "mondstadt city setting",
+      "tag": "mondstadt_city"
+    },
+    {
+      "phrase": "in moon",
+      "tag": "moon"
+    },
+    {
+      "phrase": "moon",
+      "tag": "moon"
+    },
+    {
+      "phrase": "moon setting",
+      "tag": "moon"
+    },
+    {
+      "phrase": "in moon in daylight",
+      "tag": "moon_in_daylight"
+    },
+    {
+      "phrase": "moon in daylight",
+      "tag": "moon_in_daylight"
+    },
+    {
+      "phrase": "moon in daylight setting",
+      "tag": "moon_in_daylight"
+    },
+    {
+      "phrase": "in moon phases",
+      "tag": "moon_phases"
+    },
+    {
+      "phrase": "moon phases",
+      "tag": "moon_phases"
+    },
+    {
+      "phrase": "moon phases setting",
+      "tag": "moon_phases"
+    },
+    {
+      "phrase": "in moon reflection",
+      "tag": "moon_reflection"
+    },
+    {
+      "phrase": "moon reflection",
+      "tag": "moon_reflection"
+    },
+    {
+      "phrase": "moon reflection setting",
+      "tag": "moon_reflection"
+    },
+    {
+      "phrase": "in moon stone",
+      "tag": "moon_stone"
+    },
+    {
+      "phrase": "moon stone",
+      "tag": "moon_stone"
+    },
+    {
+      "phrase": "moon stone setting",
+      "tag": "moon_stone"
+    },
+    {
+      "phrase": "in moon with face",
+      "tag": "moon_with_face"
+    },
+    {
+      "phrase": "moon with face",
+      "tag": "moon_with_face"
+    },
+    {
+      "phrase": "moon with face setting",
+      "tag": "moon_with_face"
+    },
+    {
+      "phrase": "in moss",
+      "tag": "moss"
+    },
+    {
+      "phrase": "moss",
+      "tag": "moss"
+    },
+    {
+      "phrase": "moss setting",
+      "tag": "moss"
+    },
+    {
+      "phrase": "in mud",
+      "tag": "mud"
+    },
+    {
+      "phrase": "mud",
+      "tag": "mud"
+    },
+    {
+      "phrase": "mud setting",
+      "tag": "mud"
+    },
+    {
+      "phrase": "in multi-lane road",
+      "tag": "multi-lane_road"
+    },
+    {
+      "phrase": "multi-lane road",
+      "tag": "multi-lane_road"
+    },
+    {
+      "phrase": "multi-lane road setting",
+      "tag": "multi-lane_road"
+    },
+    {
+      "phrase": "in multicolored flower",
+      "tag": "multicolored_flower"
+    },
+    {
+      "phrase": "multicolored flower",
+      "tag": "multicolored_flower"
+    },
+    {
+      "phrase": "multicolored flower setting",
+      "tag": "multicolored_flower"
+    },
+    {
+      "phrase": "in multicolored rose",
+      "tag": "multicolored_rose"
+    },
+    {
+      "phrase": "multicolored rose",
+      "tag": "multicolored_rose"
+    },
+    {
+      "phrase": "multicolored rose setting",
+      "tag": "multicolored_rose"
+    },
+    {
+      "phrase": "in multicolored sky",
+      "tag": "multicolored_sky"
+    },
+    {
+      "phrase": "multicolored sky",
+      "tag": "multicolored_sky"
+    },
+    {
+      "phrase": "multicolored sky setting",
+      "tag": "multicolored_sky"
+    },
+    {
+      "phrase": "in multiple moons",
+      "tag": "multiple_moons"
+    },
+    {
+      "phrase": "multiple moons",
+      "tag": "multiple_moons"
+    },
+    {
+      "phrase": "multiple moons setting",
+      "tag": "multiple_moons"
+    },
+    {
+      "phrase": "in multiple torii",
+      "tag": "multiple_torii"
+    },
+    {
+      "phrase": "multiple torii",
+      "tag": "multiple_torii"
+    },
+    {
+      "phrase": "multiple torii setting",
+      "tag": "multiple_torii"
+    },
+    {
+      "phrase": "in muntins",
+      "tag": "muntins"
+    },
+    {
+      "phrase": "muntins",
+      "tag": "muntins"
+    },
+    {
+      "phrase": "muntins setting",
+      "tag": "muntins"
+    },
+    {
+      "phrase": "in mural",
+      "tag": "mural"
+    },
+    {
+      "phrase": "mural",
+      "tag": "mural"
+    },
+    {
+      "phrase": "mural setting",
+      "tag": "mural"
+    },
+    {
+      "phrase": "in mushroom cloud",
+      "tag": "mushroom_cloud"
+    },
+    {
+      "phrase": "mushroom cloud",
+      "tag": "mushroom_cloud"
+    },
+    {
+      "phrase": "mushroom cloud setting",
+      "tag": "mushroom_cloud"
+    },
+    {
+      "phrase": "in muzzle flash",
+      "tag": "muzzle_flash"
+    },
+    {
+      "phrase": "muzzle flash",
+      "tag": "muzzle_flash"
+    },
+    {
+      "phrase": "muzzle flash setting",
+      "tag": "muzzle_flash"
+    },
+    {
+      "phrase": "in myouga",
+      "tag": "myouga_(plant)"
+    },
+    {
+      "phrase": "myouga",
+      "tag": "myouga_(plant)"
+    },
+    {
+      "phrase": "myouga plant",
+      "tag": "myouga_(plant)"
+    },
+    {
+      "phrase": "myouga setting",
+      "tag": "myouga_(plant)"
+    },
+    {
+      "phrase": "in nature",
+      "tag": "nature"
+    },
+    {
+      "phrase": "nature",
+      "tag": "nature"
+    },
+    {
+      "phrase": "nature setting",
+      "tag": "nature"
+    },
+    {
+      "phrase": "in nebula",
+      "tag": "nebula"
+    },
+    {
+      "phrase": "nebula",
+      "tag": "nebula"
+    },
+    {
+      "phrase": "nebula setting",
+      "tag": "nebula"
+    },
+    {
+      "phrase": "in neck flower",
+      "tag": "neck_flower"
+    },
+    {
+      "phrase": "neck flower",
+      "tag": "neck_flower"
+    },
+    {
+      "phrase": "neck flower setting",
+      "tag": "neck_flower"
+    },
+    {
+      "phrase": "in nemophila",
+      "tag": "nemophila_(flower)"
+    },
+    {
+      "phrase": "nemophila",
+      "tag": "nemophila_(flower)"
+    },
+    {
+      "phrase": "nemophila flower",
+      "tag": "nemophila_(flower)"
+    },
+    {
+      "phrase": "nemophila setting",
+      "tag": "nemophila_(flower)"
+    },
+    {
+      "phrase": "in nest",
+      "tag": "nest"
+    },
+    {
+      "phrase": "nest",
+      "tag": "nest"
+    },
+    {
+      "phrase": "nest setting",
+      "tag": "nest"
+    },
+    {
+      "phrase": "in new moon",
+      "tag": "new_moon"
+    },
+    {
+      "phrase": "new moon",
+      "tag": "new_moon"
+    },
+    {
+      "phrase": "new moon setting",
+      "tag": "new_moon"
+    },
+    {
+      "phrase": "in new star guild",
+      "tag": "new_star_guild_(stella_sora)"
+    },
+    {
+      "phrase": "new star guild",
+      "tag": "new_star_guild_(stella_sora)"
+    },
+    {
+      "phrase": "new star guild setting",
+      "tag": "new_star_guild_(stella_sora)"
+    },
+    {
+      "phrase": "new star guild stella sora",
+      "tag": "new_star_guild_(stella_sora)"
+    },
+    {
+      "phrase": "in night sky",
+      "tag": "night_sky"
+    },
+    {
+      "phrase": "night sky",
+      "tag": "night_sky"
+    },
+    {
+      "phrase": "night sky setting",
+      "tag": "night_sky"
+    },
+    {
+      "phrase": "in night sky sword",
+      "tag": "night_sky_sword"
+    },
+    {
+      "phrase": "night sky sword",
+      "tag": "night_sky_sword"
+    },
+    {
+      "phrase": "night sky sword setting",
+      "tag": "night_sky_sword"
+    },
+    {
+      "phrase": "in nightstand",
+      "tag": "nightstand"
+    },
+    {
+      "phrase": "nightstand",
+      "tag": "nightstand"
+    },
+    {
+      "phrase": "nightstand setting",
+      "tag": "nightstand"
+    },
+    {
+      "phrase": "in noren",
+      "tag": "noren"
+    },
+    {
+      "phrase": "noren",
+      "tag": "noren"
+    },
+    {
+      "phrase": "noren setting",
+      "tag": "noren"
+    },
+    {
+      "phrase": "in oak cake roll",
+      "tag": "oak_cake_roll_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "oak cake roll",
+      "tag": "oak_cake_roll_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "oak cake roll honkai: star rail",
+      "tag": "oak_cake_roll_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "oak cake roll setting",
+      "tag": "oak_cake_roll_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in ocean",
+      "tag": "ocean"
+    },
+    {
+      "phrase": "ocean",
+      "tag": "ocean"
+    },
+    {
+      "phrase": "ocean setting",
+      "tag": "ocean"
+    },
+    {
+      "phrase": "in open window",
+      "tag": "open_window"
+    },
+    {
+      "phrase": "open window",
+      "tag": "open_window"
+    },
+    {
+      "phrase": "open window setting",
+      "tag": "open_window"
+    },
+    {
+      "phrase": "in open window shutter",
+      "tag": "open_window_shutter"
+    },
+    {
+      "phrase": "open window shutter",
+      "tag": "open_window_shutter"
+    },
+    {
+      "phrase": "open window shutter setting",
+      "tag": "open_window_shutter"
+    },
+    {
+      "phrase": "in opening curtains",
+      "tag": "opening_curtains"
+    },
+    {
+      "phrase": "opening curtains",
+      "tag": "opening_curtains"
+    },
+    {
+      "phrase": "opening curtains setting",
+      "tag": "opening_curtains"
+    },
+    {
+      "phrase": "in orange blossoms",
+      "tag": "orange_blossoms"
+    },
+    {
+      "phrase": "orange blossoms",
+      "tag": "orange_blossoms"
+    },
+    {
+      "phrase": "orange blossoms setting",
+      "tag": "orange_blossoms"
+    },
+    {
+      "phrase": "in orange clouds",
+      "tag": "orange_clouds"
+    },
+    {
+      "phrase": "orange clouds",
+      "tag": "orange_clouds"
+    },
+    {
+      "phrase": "orange clouds setting",
+      "tag": "orange_clouds"
+    },
+    {
+      "phrase": "in orange flower",
+      "tag": "orange_flower"
+    },
+    {
+      "phrase": "orange flower",
+      "tag": "orange_flower"
+    },
+    {
+      "phrase": "orange flower setting",
+      "tag": "orange_flower"
+    },
+    {
+      "phrase": "in orange moon",
+      "tag": "orange_moon"
+    },
+    {
+      "phrase": "orange moon",
+      "tag": "orange_moon"
+    },
+    {
+      "phrase": "orange moon setting",
+      "tag": "orange_moon"
+    },
+    {
+      "phrase": "in orange sky",
+      "tag": "orange_sky"
+    },
+    {
+      "phrase": "orange sky",
+      "tag": "orange_sky"
+    },
+    {
+      "phrase": "orange sky setting",
+      "tag": "orange_sky"
+    },
+    {
+      "phrase": "in orange tree",
+      "tag": "orange_tree"
+    },
+    {
+      "phrase": "orange tree",
+      "tag": "orange_tree"
+    },
+    {
+      "phrase": "orange tree setting",
+      "tag": "orange_tree"
+    },
+    {
+      "phrase": "in orange tulip",
+      "tag": "orange_tulip"
+    },
+    {
+      "phrase": "orange tulip",
+      "tag": "orange_tulip"
+    },
+    {
+      "phrase": "orange tulip setting",
+      "tag": "orange_tulip"
+    },
+    {
+      "phrase": "in orbital path",
+      "tag": "orbital_path"
+    },
+    {
+      "phrase": "orbital path",
+      "tag": "orbital_path"
+    },
+    {
+      "phrase": "orbital path setting",
+      "tag": "orbital_path"
+    },
+    {
+      "phrase": "in orchid",
+      "tag": "orchid"
+    },
+    {
+      "phrase": "orchid",
+      "tag": "orchid"
+    },
+    {
+      "phrase": "orchid setting",
+      "tag": "orchid"
+    },
+    {
+      "phrase": "in orion",
+      "tag": "orion_(constellation)"
+    },
+    {
+      "phrase": "orion",
+      "tag": "orion_(constellation)"
+    },
+    {
+      "phrase": "orion constellation",
+      "tag": "orion_(constellation)"
+    },
+    {
+      "phrase": "orion setting",
+      "tag": "orion_(constellation)"
+    },
+    {
+      "phrase": "in osmanthus",
+      "tag": "osmanthus"
+    },
+    {
+      "phrase": "osmanthus",
+      "tag": "osmanthus"
+    },
+    {
+      "phrase": "osmanthus setting",
+      "tag": "osmanthus"
+    },
+    {
+      "phrase": "in oven",
+      "tag": "oven"
+    },
+    {
+      "phrase": "oven",
+      "tag": "oven"
+    },
+    {
+      "phrase": "oven setting",
+      "tag": "oven"
+    },
+    {
+      "phrase": "in overgrown",
+      "tag": "overgrown"
+    },
+    {
+      "phrase": "overgrown",
+      "tag": "overgrown"
+    },
+    {
+      "phrase": "overgrown setting",
+      "tag": "overgrown"
+    },
+    {
+      "phrase": "in overhead line",
+      "tag": "overhead_line"
+    },
+    {
+      "phrase": "overhead line",
+      "tag": "overhead_line"
+    },
+    {
+      "phrase": "overhead line setting",
+      "tag": "overhead_line"
+    },
+    {
+      "phrase": "in overpass",
+      "tag": "overpass"
+    },
+    {
+      "phrase": "overpass",
+      "tag": "overpass"
+    },
+    {
+      "phrase": "overpass setting",
+      "tag": "overpass"
+    },
+    {
+      "phrase": "in oversized flower",
+      "tag": "oversized_flower"
+    },
+    {
+      "phrase": "oversized flower",
+      "tag": "oversized_flower"
+    },
+    {
+      "phrase": "oversized flower setting",
+      "tag": "oversized_flower"
+    },
+    {
+      "phrase": "in padisarah flower",
+      "tag": "padisarah_flower"
+    },
+    {
+      "phrase": "padisarah flower",
+      "tag": "padisarah_flower"
+    },
+    {
+      "phrase": "padisarah flower setting",
+      "tag": "padisarah_flower"
+    },
+    {
+      "phrase": "in pagoda",
+      "tag": "pagoda"
+    },
+    {
+      "phrase": "pagoda",
+      "tag": "pagoda"
+    },
+    {
+      "phrase": "pagoda setting",
+      "tag": "pagoda"
+    },
+    {
+      "phrase": "in palm tree",
+      "tag": "palm_tree"
+    },
+    {
+      "phrase": "palm tree",
+      "tag": "palm_tree"
+    },
+    {
+      "phrase": "palm tree setting",
+      "tag": "palm_tree"
+    },
+    {
+      "phrase": "in pansy",
+      "tag": "pansy"
+    },
+    {
+      "phrase": "pansy",
+      "tag": "pansy"
+    },
+    {
+      "phrase": "pansy setting",
+      "tag": "pansy"
+    },
+    {
+      "phrase": "in paper flower",
+      "tag": "paper_flower"
+    },
+    {
+      "phrase": "paper flower",
+      "tag": "paper_flower"
+    },
+    {
+      "phrase": "paper flower setting",
+      "tag": "paper_flower"
+    },
+    {
+      "phrase": "in paper moon",
+      "tag": "paper_moon_(fate/grand_order)"
+    },
+    {
+      "phrase": "paper moon",
+      "tag": "paper_moon_(fate/grand_order)"
+    },
+    {
+      "phrase": "paper moon fate/grand order",
+      "tag": "paper_moon_(fate/grand_order)"
+    },
+    {
+      "phrase": "paper moon setting",
+      "tag": "paper_moon_(fate/grand_order)"
+    },
+    {
+      "phrase": "in passion flower",
+      "tag": "passion_flower"
+    },
+    {
+      "phrase": "passion flower",
+      "tag": "passion_flower"
+    },
+    {
+      "phrase": "passion flower setting",
+      "tag": "passion_flower"
+    },
+    {
+      "phrase": "in pavement",
+      "tag": "pavement"
+    },
+    {
+      "phrase": "pavement",
+      "tag": "pavement"
+    },
+    {
+      "phrase": "pavement setting",
+      "tag": "pavement"
+    },
+    {
+      "phrase": "in peach blossom",
+      "tag": "peach_blossom"
+    },
+    {
+      "phrase": "peach blossom",
+      "tag": "peach_blossom"
+    },
+    {
+      "phrase": "peach blossom setting",
+      "tag": "peach_blossom"
+    },
+    {
+      "phrase": "in peach tree",
+      "tag": "peach_tree"
+    },
+    {
+      "phrase": "peach tree",
+      "tag": "peach_tree"
+    },
+    {
+      "phrase": "peach tree setting",
+      "tag": "peach_tree"
+    },
+    {
+      "phrase": "in pedestrian bridge",
+      "tag": "pedestrian_bridge"
+    },
+    {
+      "phrase": "pedestrian bridge",
+      "tag": "pedestrian_bridge"
+    },
+    {
+      "phrase": "pedestrian bridge setting",
+      "tag": "pedestrian_bridge"
+    },
+    {
+      "phrase": "in pedestrian lights",
+      "tag": "pedestrian_lights"
+    },
+    {
+      "phrase": "pedestrian lights",
+      "tag": "pedestrian_lights"
+    },
+    {
+      "phrase": "pedestrian lights setting",
+      "tag": "pedestrian_lights"
+    },
+    {
+      "phrase": "in picket fence",
+      "tag": "picket_fence"
+    },
+    {
+      "phrase": "picket fence",
+      "tag": "picket_fence"
+    },
+    {
+      "phrase": "picket fence setting",
+      "tag": "picket_fence"
+    },
+    {
+      "phrase": "in pile of corpses",
+      "tag": "pile_of_corpses"
+    },
+    {
+      "phrase": "pile of corpses",
+      "tag": "pile_of_corpses"
+    },
+    {
+      "phrase": "pile of corpses setting",
+      "tag": "pile_of_corpses"
+    },
+    {
+      "phrase": "in pile of skulls",
+      "tag": "pile_of_skulls"
+    },
+    {
+      "phrase": "pile of skulls",
+      "tag": "pile_of_skulls"
+    },
+    {
+      "phrase": "pile of skulls setting",
+      "tag": "pile_of_skulls"
+    },
+    {
+      "phrase": "in pine tree",
+      "tag": "pine_tree"
+    },
+    {
+      "phrase": "pine tree",
+      "tag": "pine_tree"
+    },
+    {
+      "phrase": "pine tree setting",
+      "tag": "pine_tree"
+    },
+    {
+      "phrase": "in pink clouds",
+      "tag": "pink_clouds"
+    },
+    {
+      "phrase": "pink clouds",
+      "tag": "pink_clouds"
+    },
+    {
+      "phrase": "pink clouds setting",
+      "tag": "pink_clouds"
+    },
+    {
+      "phrase": "in pink flower",
+      "tag": "pink_flower"
+    },
+    {
+      "phrase": "pink flower",
+      "tag": "pink_flower"
+    },
+    {
+      "phrase": "pink flower setting",
+      "tag": "pink_flower"
+    },
+    {
+      "phrase": "in pink moon",
+      "tag": "pink_moon"
+    },
+    {
+      "phrase": "pink moon",
+      "tag": "pink_moon"
+    },
+    {
+      "phrase": "pink moon setting",
+      "tag": "pink_moon"
+    },
+    {
+      "phrase": "in pink rose",
+      "tag": "pink_rose"
+    },
+    {
+      "phrase": "pink rose",
+      "tag": "pink_rose"
+    },
+    {
+      "phrase": "pink rose setting",
+      "tag": "pink_rose"
+    },
+    {
+      "phrase": "in pink sky",
+      "tag": "pink_sky"
+    },
+    {
+      "phrase": "pink sky",
+      "tag": "pink_sky"
+    },
+    {
+      "phrase": "pink sky setting",
+      "tag": "pink_sky"
+    },
+    {
+      "phrase": "in pink star",
+      "tag": "pink_star"
+    },
+    {
+      "phrase": "pink star",
+      "tag": "pink_star"
+    },
+    {
+      "phrase": "pink star setting",
+      "tag": "pink_star"
+    },
+    {
+      "phrase": "in pink tulip",
+      "tag": "pink_tulip"
+    },
+    {
+      "phrase": "pink tulip",
+      "tag": "pink_tulip"
+    },
+    {
+      "phrase": "pink tulip setting",
+      "tag": "pink_tulip"
+    },
+    {
+      "phrase": "in pisces",
+      "tag": "pisces_(constellation)"
+    },
+    {
+      "phrase": "pisces",
+      "tag": "pisces_(constellation)"
+    },
+    {
+      "phrase": "pisces constellation",
+      "tag": "pisces_(constellation)"
+    },
+    {
+      "phrase": "pisces setting",
+      "tag": "pisces_(constellation)"
+    },
+    {
+      "phrase": "in pitfall",
+      "tag": "pitfall"
+    },
+    {
+      "phrase": "pitfall",
+      "tag": "pitfall"
+    },
+    {
+      "phrase": "pitfall setting",
+      "tag": "pitfall"
+    },
+    {
+      "phrase": "in plum blossoms",
+      "tag": "plum_blossoms"
+    },
+    {
+      "phrase": "plum blossoms",
+      "tag": "plum_blossoms"
+    },
+    {
+      "phrase": "plum blossoms setting",
+      "tag": "plum_blossoms"
+    },
+    {
+      "phrase": "in plumeria",
+      "tag": "plumeria"
+    },
+    {
+      "phrase": "plumeria",
+      "tag": "plumeria"
+    },
+    {
+      "phrase": "plumeria setting",
+      "tag": "plumeria"
+    },
+    {
+      "phrase": "in poinsettia",
+      "tag": "poinsettia"
+    },
+    {
+      "phrase": "poinsettia",
+      "tag": "poinsettia"
+    },
+    {
+      "phrase": "poinsettia setting",
+      "tag": "poinsettia"
+    },
+    {
+      "phrase": "in polar star",
+      "tag": "polar_star_(genshin_impact)"
+    },
+    {
+      "phrase": "polar star",
+      "tag": "polar_star_(genshin_impact)"
+    },
+    {
+      "phrase": "polar star genshin impact",
+      "tag": "polar_star_(genshin_impact)"
+    },
+    {
+      "phrase": "polar star setting",
+      "tag": "polar_star_(genshin_impact)"
+    },
+    {
+      "phrase": "in pomegranate flower",
+      "tag": "pomegranate_flower"
+    },
+    {
+      "phrase": "pomegranate flower",
+      "tag": "pomegranate_flower"
+    },
+    {
+      "phrase": "pomegranate flower setting",
+      "tag": "pomegranate_flower"
+    },
+    {
+      "phrase": "in pool ladder",
+      "tag": "pool_ladder"
+    },
+    {
+      "phrase": "pool ladder",
+      "tag": "pool_ladder"
+    },
+    {
+      "phrase": "pool ladder setting",
+      "tag": "pool_ladder"
+    },
+    {
+      "phrase": "in poppy",
+      "tag": "poppy_(flower)"
+    },
+    {
+      "phrase": "poppy",
+      "tag": "poppy_(flower)"
+    },
+    {
+      "phrase": "poppy flower",
+      "tag": "poppy_(flower)"
+    },
+    {
+      "phrase": "poppy setting",
+      "tag": "poppy_(flower)"
+    },
+    {
+      "phrase": "in post and rail fence",
+      "tag": "post_and_rail_fence"
+    },
+    {
+      "phrase": "post and rail fence",
+      "tag": "post_and_rail_fence"
+    },
+    {
+      "phrase": "post and rail fence setting",
+      "tag": "post_and_rail_fence"
+    },
+    {
+      "phrase": "in primrose field illusion",
+      "tag": "primrose_field_illusion"
+    },
+    {
+      "phrase": "primrose field illusion",
+      "tag": "primrose_field_illusion"
+    },
+    {
+      "phrase": "primrose field illusion setting",
+      "tag": "primrose_field_illusion"
+    },
+    {
+      "phrase": "in print curtains",
+      "tag": "print_curtains"
+    },
+    {
+      "phrase": "print curtains",
+      "tag": "print_curtains"
+    },
+    {
+      "phrase": "print curtains setting",
+      "tag": "print_curtains"
+    },
+    {
+      "phrase": "in puddle",
+      "tag": "puddle"
+    },
+    {
+      "phrase": "puddle",
+      "tag": "puddle"
+    },
+    {
+      "phrase": "puddle setting",
+      "tag": "puddle"
+    },
+    {
+      "phrase": "in purple flower",
+      "tag": "purple_flower"
+    },
+    {
+      "phrase": "purple flower",
+      "tag": "purple_flower"
+    },
+    {
+      "phrase": "purple flower setting",
+      "tag": "purple_flower"
+    },
+    {
+      "phrase": "in purple moon",
+      "tag": "purple_moon"
+    },
+    {
+      "phrase": "purple moon",
+      "tag": "purple_moon"
+    },
+    {
+      "phrase": "purple moon setting",
+      "tag": "purple_moon"
+    },
+    {
+      "phrase": "in purple sky",
+      "tag": "purple_sky"
+    },
+    {
+      "phrase": "purple sky",
+      "tag": "purple_sky"
+    },
+    {
+      "phrase": "purple sky setting",
+      "tag": "purple_sky"
+    },
+    {
+      "phrase": "in qingxin flower",
+      "tag": "qingxin_flower"
+    },
+    {
+      "phrase": "qingxin flower",
+      "tag": "qingxin_flower"
+    },
+    {
+      "phrase": "qingxin flower setting",
+      "tag": "qingxin_flower"
+    },
+    {
+      "phrase": "in quince flower",
+      "tag": "quince_flower"
+    },
+    {
+      "phrase": "quince flower",
+      "tag": "quince_flower"
+    },
+    {
+      "phrase": "quince flower setting",
+      "tag": "quince_flower"
+    },
+    {
+      "phrase": "in radar dish",
+      "tag": "radar_dish"
+    },
+    {
+      "phrase": "radar dish",
+      "tag": "radar_dish"
+    },
+    {
+      "phrase": "radar dish setting",
+      "tag": "radar_dish"
+    },
+    {
+      "phrase": "in radio tower",
+      "tag": "radio_tower"
+    },
+    {
+      "phrase": "radio tower",
+      "tag": "radio_tower"
+    },
+    {
+      "phrase": "radio tower setting",
+      "tag": "radio_tower"
+    },
+    {
+      "phrase": "in railroad signal",
+      "tag": "railroad_signal"
+    },
+    {
+      "phrase": "railroad signal",
+      "tag": "railroad_signal"
+    },
+    {
+      "phrase": "railroad signal setting",
+      "tag": "railroad_signal"
+    },
+    {
+      "phrase": "in rain of arrows",
+      "tag": "rain_of_arrows"
+    },
+    {
+      "phrase": "rain of arrows",
+      "tag": "rain_of_arrows"
+    },
+    {
+      "phrase": "rain of arrows setting",
+      "tag": "rain_of_arrows"
+    },
+    {
+      "phrase": "in rainbow",
+      "tag": "rainbow"
+    },
+    {
+      "phrase": "rainbow",
+      "tag": "rainbow"
+    },
+    {
+      "phrase": "rainbow setting",
+      "tag": "rainbow"
+    },
+    {
+      "phrase": "in ranunculus",
+      "tag": "ranunculus"
+    },
+    {
+      "phrase": "ranunculus",
+      "tag": "ranunculus"
+    },
+    {
+      "phrase": "ranunculus setting",
+      "tag": "ranunculus"
+    },
+    {
+      "phrase": "in rapeseed blossoms",
+      "tag": "rapeseed_blossoms"
+    },
+    {
+      "phrase": "rapeseed blossoms",
+      "tag": "rapeseed_blossoms"
+    },
+    {
+      "phrase": "rapeseed blossoms setting",
+      "tag": "rapeseed_blossoms"
+    },
+    {
+      "phrase": "in red clouds",
+      "tag": "red_clouds"
+    },
+    {
+      "phrase": "red clouds",
+      "tag": "red_clouds"
+    },
+    {
+      "phrase": "red clouds setting",
+      "tag": "red_clouds"
+    },
+    {
+      "phrase": "in red flower",
+      "tag": "red_flower"
+    },
+    {
+      "phrase": "red flower",
+      "tag": "red_flower"
+    },
+    {
+      "phrase": "red flower setting",
+      "tag": "red_flower"
+    },
+    {
+      "phrase": "in red lightning",
+      "tag": "red_lightning"
+    },
+    {
+      "phrase": "red lightning",
+      "tag": "red_lightning"
+    },
+    {
+      "phrase": "red lightning setting",
+      "tag": "red_lightning"
+    },
+    {
+      "phrase": "in red moon",
+      "tag": "red_moon"
+    },
+    {
+      "phrase": "red moon",
+      "tag": "red_moon"
+    },
+    {
+      "phrase": "red moon setting",
+      "tag": "red_moon"
+    },
+    {
+      "phrase": "in red ocean",
+      "tag": "red_ocean"
+    },
+    {
+      "phrase": "red ocean",
+      "tag": "red_ocean"
+    },
+    {
+      "phrase": "red ocean setting",
+      "tag": "red_ocean"
+    },
+    {
+      "phrase": "in red rose",
+      "tag": "red_rose"
+    },
+    {
+      "phrase": "red rose",
+      "tag": "red_rose"
+    },
+    {
+      "phrase": "red rose setting",
+      "tag": "red_rose"
+    },
+    {
+      "phrase": "in red sky",
+      "tag": "red_sky"
+    },
+    {
+      "phrase": "red sky",
+      "tag": "red_sky"
+    },
+    {
+      "phrase": "red sky setting",
+      "tag": "red_sky"
+    },
+    {
+      "phrase": "in red star",
+      "tag": "red_star"
+    },
+    {
+      "phrase": "red star",
+      "tag": "red_star"
+    },
+    {
+      "phrase": "red star setting",
+      "tag": "red_star"
+    },
+    {
+      "phrase": "in red sun",
+      "tag": "red_sun"
+    },
+    {
+      "phrase": "red sun",
+      "tag": "red_sun"
+    },
+    {
+      "phrase": "red sun setting",
+      "tag": "red_sun"
+    },
+    {
+      "phrase": "in red tulip",
+      "tag": "red_tulip"
+    },
+    {
+      "phrase": "red tulip",
+      "tag": "red_tulip"
+    },
+    {
+      "phrase": "red tulip setting",
+      "tag": "red_tulip"
+    },
+    {
+      "phrase": "in reeds",
+      "tag": "reeds"
+    },
+    {
+      "phrase": "reeds",
+      "tag": "reeds"
+    },
+    {
+      "phrase": "reeds setting",
+      "tag": "reeds"
+    },
+    {
+      "phrase": "in reflection",
+      "tag": "reflection"
+    },
+    {
+      "phrase": "reflection",
+      "tag": "reflection"
+    },
+    {
+      "phrase": "reflection setting",
+      "tag": "reflection"
+    },
+    {
+      "phrase": "in reflective floor",
+      "tag": "reflective_floor"
+    },
+    {
+      "phrase": "reflective floor",
+      "tag": "reflective_floor"
+    },
+    {
+      "phrase": "reflective floor setting",
+      "tag": "reflective_floor"
+    },
+    {
+      "phrase": "in reflective surface",
+      "tag": "reflective_surface"
+    },
+    {
+      "phrase": "reflective surface",
+      "tag": "reflective_surface"
+    },
+    {
+      "phrase": "reflective surface setting",
+      "tag": "reflective_surface"
+    },
+    {
+      "phrase": "in refrigerator",
+      "tag": "refrigerator"
+    },
+    {
+      "phrase": "refrigerator",
+      "tag": "refrigerator"
+    },
+    {
+      "phrase": "refrigerator setting",
+      "tag": "refrigerator"
+    },
+    {
+      "phrase": "in retaining wall",
+      "tag": "retaining_wall"
+    },
+    {
+      "phrase": "retaining wall",
+      "tag": "retaining_wall"
+    },
+    {
+      "phrase": "retaining wall setting",
+      "tag": "retaining_wall"
+    },
+    {
+      "phrase": "in rice",
+      "tag": "rice_(plant)"
+    },
+    {
+      "phrase": "rice",
+      "tag": "rice_(plant)"
+    },
+    {
+      "phrase": "rice plant",
+      "tag": "rice_(plant)"
+    },
+    {
+      "phrase": "rice setting",
+      "tag": "rice_(plant)"
+    },
+    {
+      "phrase": "in ripple star",
+      "tag": "ripple_star"
+    },
+    {
+      "phrase": "ripple star",
+      "tag": "ripple_star"
+    },
+    {
+      "phrase": "ripple star setting",
+      "tag": "ripple_star"
+    },
+    {
+      "phrase": "in ripples",
+      "tag": "ripples"
+    },
+    {
+      "phrase": "ripples",
+      "tag": "ripples"
+    },
+    {
+      "phrase": "ripples setting",
+      "tag": "ripples"
+    },
+    {
+      "phrase": "in river",
+      "tag": "river"
+    },
+    {
+      "phrase": "river",
+      "tag": "river"
+    },
+    {
+      "phrase": "river setting",
+      "tag": "river"
+    },
+    {
+      "phrase": "in roller coaster",
+      "tag": "roller_coaster"
+    },
+    {
+      "phrase": "roller coaster",
+      "tag": "roller_coaster"
+    },
+    {
+      "phrase": "roller coaster setting",
+      "tag": "roller_coaster"
+    },
+    {
+      "phrase": "in romaritime flower",
+      "tag": "romaritime_flower"
+    },
+    {
+      "phrase": "romaritime flower",
+      "tag": "romaritime_flower"
+    },
+    {
+      "phrase": "romaritime flower setting",
+      "tag": "romaritime_flower"
+    },
+    {
+      "phrase": "in rose",
+      "tag": "rose"
+    },
+    {
+      "phrase": "rose",
+      "tag": "rose"
+    },
+    {
+      "phrase": "rose setting",
+      "tag": "rose"
+    },
+    {
+      "phrase": "in rose bush",
+      "tag": "rose_bush"
+    },
+    {
+      "phrase": "rose bush",
+      "tag": "rose_bush"
+    },
+    {
+      "phrase": "rose bush setting",
+      "tag": "rose_bush"
+    },
+    {
+      "phrase": "in rowan",
+      "tag": "rowan"
+    },
+    {
+      "phrase": "rowan",
+      "tag": "rowan"
+    },
+    {
+      "phrase": "rowan setting",
+      "tag": "rowan"
+    },
+    {
+      "phrase": "in rubble",
+      "tag": "rubble"
+    },
+    {
+      "phrase": "rubble",
+      "tag": "rubble"
+    },
+    {
+      "phrase": "rubble setting",
+      "tag": "rubble"
+    },
+    {
+      "phrase": "in running bond",
+      "tag": "running_bond"
+    },
+    {
+      "phrase": "running bond",
+      "tag": "running_bond"
+    },
+    {
+      "phrase": "running bond setting",
+      "tag": "running_bond"
+    },
+    {
+      "phrase": "in rust",
+      "tag": "rust"
+    },
+    {
+      "phrase": "rust",
+      "tag": "rust"
+    },
+    {
+      "phrase": "rust setting",
+      "tag": "rust"
+    },
+    {
+      "phrase": "in ryokan",
+      "tag": "ryokan"
+    },
+    {
+      "phrase": "ryokan",
+      "tag": "ryokan"
+    },
+    {
+      "phrase": "ryokan setting",
+      "tag": "ryokan"
+    },
+    {
+      "phrase": "in ryoubu torii",
+      "tag": "ryoubu_torii"
+    },
+    {
+      "phrase": "ryoubu torii",
+      "tag": "ryoubu_torii"
+    },
+    {
+      "phrase": "ryoubu torii setting",
+      "tag": "ryoubu_torii"
+    },
+    {
+      "phrase": "in sagittarius",
+      "tag": "sagittarius_(constellation)"
+    },
+    {
+      "phrase": "sagittarius",
+      "tag": "sagittarius_(constellation)"
+    },
+    {
+      "phrase": "sagittarius constellation",
+      "tag": "sagittarius_(constellation)"
+    },
+    {
+      "phrase": "sagittarius setting",
+      "tag": "sagittarius_(constellation)"
+    },
+    {
+      "phrase": "in saint snow",
+      "tag": "saint_snow"
+    },
+    {
+      "phrase": "saint snow",
+      "tag": "saint_snow"
+    },
+    {
+      "phrase": "saint snow setting",
+      "tag": "saint_snow"
+    },
+    {
+      "phrase": "in sand",
+      "tag": "sand"
+    },
+    {
+      "phrase": "sand",
+      "tag": "sand"
+    },
+    {
+      "phrase": "sand setting",
+      "tag": "sand"
+    },
+    {
+      "phrase": "in sand dune",
+      "tag": "sand_dune"
+    },
+    {
+      "phrase": "sand dune",
+      "tag": "sand_dune"
+    },
+    {
+      "phrase": "sand dune setting",
+      "tag": "sand_dune"
+    },
+    {
+      "phrase": "in sapling",
+      "tag": "sapling"
+    },
+    {
+      "phrase": "sapling",
+      "tag": "sapling"
+    },
+    {
+      "phrase": "sapling setting",
+      "tag": "sapling"
+    },
+    {
+      "phrase": "in satellite dish",
+      "tag": "satellite_dish"
+    },
+    {
+      "phrase": "satellite dish",
+      "tag": "satellite_dish"
+    },
+    {
+      "phrase": "satellite dish setting",
+      "tag": "satellite_dish"
+    },
+    {
+      "phrase": "in saturn",
+      "tag": "saturn_(planet)"
+    },
+    {
+      "phrase": "saturn",
+      "tag": "saturn_(planet)"
+    },
+    {
+      "phrase": "saturn planet",
+      "tag": "saturn_(planet)"
+    },
+    {
+      "phrase": "saturn setting",
+      "tag": "saturn_(planet)"
+    },
+    {
+      "phrase": "in scaffolding",
+      "tag": "scaffolding"
+    },
+    {
+      "phrase": "scaffolding",
+      "tag": "scaffolding"
+    },
+    {
+      "phrase": "scaffolding setting",
+      "tag": "scaffolding"
+    },
+    {
+      "phrase": "in scenery",
+      "tag": "scenery"
+    },
+    {
+      "phrase": "scenery",
+      "tag": "scenery"
+    },
+    {
+      "phrase": "scenery setting",
+      "tag": "scenery"
+    },
+    {
+      "phrase": "in scorpius",
+      "tag": "scorpius_(constellation)"
+    },
+    {
+      "phrase": "scorpius",
+      "tag": "scorpius_(constellation)"
+    },
+    {
+      "phrase": "scorpius constellation",
+      "tag": "scorpius_(constellation)"
+    },
+    {
+      "phrase": "scorpius setting",
+      "tag": "scorpius_(constellation)"
+    },
+    {
+      "phrase": "in sea spray",
+      "tag": "sea_spray"
+    },
+    {
+      "phrase": "sea spray",
+      "tag": "sea_spray"
+    },
+    {
+      "phrase": "sea spray setting",
+      "tag": "sea_spray"
+    },
+    {
+      "phrase": "in searchlight",
+      "tag": "searchlight"
+    },
+    {
+      "phrase": "searchlight",
+      "tag": "searchlight"
+    },
+    {
+      "phrase": "searchlight setting",
+      "tag": "searchlight"
+    },
+    {
+      "phrase": "in seaweed",
+      "tag": "seaweed"
+    },
+    {
+      "phrase": "seaweed",
+      "tag": "seaweed"
+    },
+    {
+      "phrase": "seaweed setting",
+      "tag": "seaweed"
+    },
+    {
+      "phrase": "in secret stone",
+      "tag": "secret_stone"
+    },
+    {
+      "phrase": "secret stone",
+      "tag": "secret_stone"
+    },
+    {
+      "phrase": "secret stone setting",
+      "tag": "secret_stone"
+    },
+    {
+      "phrase": "in security shutter",
+      "tag": "security_shutter"
+    },
+    {
+      "phrase": "security shutter",
+      "tag": "security_shutter"
+    },
+    {
+      "phrase": "security shutter setting",
+      "tag": "security_shutter"
+    },
+    {
+      "phrase": "in see-through curtains",
+      "tag": "see-through_curtains"
+    },
+    {
+      "phrase": "see-through curtains",
+      "tag": "see-through_curtains"
+    },
+    {
+      "phrase": "see-through curtains setting",
+      "tag": "see-through_curtains"
+    },
+    {
+      "phrase": "in sewer grate",
+      "tag": "sewer_grate"
+    },
+    {
+      "phrase": "sewer grate",
+      "tag": "sewer_grate"
+    },
+    {
+      "phrase": "sewer grate setting",
+      "tag": "sewer_grate"
+    },
+    {
+      "phrase": "in shaped cloud",
+      "tag": "shaped_cloud"
+    },
+    {
+      "phrase": "shaped cloud",
+      "tag": "shaped_cloud"
+    },
+    {
+      "phrase": "shaped cloud setting",
+      "tag": "shaped_cloud"
+    },
+    {
+      "phrase": "in shining",
+      "tag": "shining"
+    },
+    {
+      "phrase": "shining",
+      "tag": "shining"
+    },
+    {
+      "phrase": "shining setting",
+      "tag": "shining"
+    },
+    {
+      "phrase": "in shipping container",
+      "tag": "shipping_container"
+    },
+    {
+      "phrase": "shipping container",
+      "tag": "shipping_container"
+    },
+    {
+      "phrase": "shipping container setting",
+      "tag": "shipping_container"
+    },
+    {
+      "phrase": "in shockwave",
+      "tag": "shockwave"
+    },
+    {
+      "phrase": "shockwave",
+      "tag": "shockwave"
+    },
+    {
+      "phrase": "shockwave setting",
+      "tag": "shockwave"
+    },
+    {
+      "phrase": "in shooting star",
+      "tag": "shooting_star"
+    },
+    {
+      "phrase": "shooting star",
+      "tag": "shooting_star"
+    },
+    {
+      "phrase": "shooting star setting",
+      "tag": "shooting_star"
+    },
+    {
+      "phrase": "in shooting star",
+      "tag": "shooting_star_(symbol)"
+    },
+    {
+      "phrase": "shooting star",
+      "tag": "shooting_star_(symbol)"
+    },
+    {
+      "phrase": "shooting star setting",
+      "tag": "shooting_star_(symbol)"
+    },
+    {
+      "phrase": "shooting star symbol",
+      "tag": "shooting_star_(symbol)"
+    },
+    {
+      "phrase": "in signpost",
+      "tag": "signpost"
+    },
+    {
+      "phrase": "signpost",
+      "tag": "signpost"
+    },
+    {
+      "phrase": "signpost setting",
+      "tag": "signpost"
+    },
+    {
+      "phrase": "in silent princess",
+      "tag": "silent_princess"
+    },
+    {
+      "phrase": "silent princess",
+      "tag": "silent_princess"
+    },
+    {
+      "phrase": "silent princess setting",
+      "tag": "silent_princess"
+    },
+    {
+      "phrase": "in silk flower",
+      "tag": "silk_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "silk flower",
+      "tag": "silk_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "silk flower genshin impact",
+      "tag": "silk_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "silk flower setting",
+      "tag": "silk_flower_(genshin_impact)"
+    },
+    {
+      "phrase": "in simple flower",
+      "tag": "simple_flower"
+    },
+    {
+      "phrase": "simple flower",
+      "tag": "simple_flower"
+    },
+    {
+      "phrase": "simple flower setting",
+      "tag": "simple_flower"
+    },
+    {
+      "phrase": "in single flame",
+      "tag": "single_flame"
+    },
+    {
+      "phrase": "single flame",
+      "tag": "single_flame"
+    },
+    {
+      "phrase": "single flame setting",
+      "tag": "single_flame"
+    },
+    {
+      "phrase": "in six pointed star",
+      "tag": "six_pointed_star"
+    },
+    {
+      "phrase": "six pointed star",
+      "tag": "six_pointed_star"
+    },
+    {
+      "phrase": "six pointed star setting",
+      "tag": "six_pointed_star"
+    },
+    {
+      "phrase": "in sketch background",
+      "tag": "sketch_background"
+    },
+    {
+      "phrase": "sketch background",
+      "tag": "sketch_background"
+    },
+    {
+      "phrase": "sketch background setting",
+      "tag": "sketch_background"
+    },
+    {
+      "phrase": "in sky",
+      "tag": "sky"
+    },
+    {
+      "phrase": "sky",
+      "tag": "sky"
+    },
+    {
+      "phrase": "sky setting",
+      "tag": "sky"
+    },
+    {
+      "phrase": "in sky face",
+      "tag": "sky_face"
+    },
+    {
+      "phrase": "sky face",
+      "tag": "sky_face"
+    },
+    {
+      "phrase": "sky face setting",
+      "tag": "sky_face"
+    },
+    {
+      "phrase": "focus on sky",
+      "tag": "sky_focus"
+    },
+    {
+      "phrase": "focused on sky",
+      "tag": "sky_focus"
+    },
+    {
+      "phrase": "in sky focus",
+      "tag": "sky_focus"
+    },
+    {
+      "phrase": "sky focus",
+      "tag": "sky_focus"
+    },
+    {
+      "phrase": "sky focus setting",
+      "tag": "sky_focus"
+    },
+    {
+      "phrase": "in sky mirage",
+      "tag": "sky_mirage"
+    },
+    {
+      "phrase": "sky mirage",
+      "tag": "sky_mirage"
+    },
+    {
+      "phrase": "sky mirage setting",
+      "tag": "sky_mirage"
+    },
+    {
+      "phrase": "in sky print",
+      "tag": "sky_print"
+    },
+    {
+      "phrase": "sky print",
+      "tag": "sky_print"
+    },
+    {
+      "phrase": "sky print setting",
+      "tag": "sky_print"
+    },
+    {
+      "phrase": "in skylight",
+      "tag": "skylight"
+    },
+    {
+      "phrase": "skylight",
+      "tag": "skylight"
+    },
+    {
+      "phrase": "skylight setting",
+      "tag": "skylight"
+    },
+    {
+      "phrase": "in skyline",
+      "tag": "skyline"
+    },
+    {
+      "phrase": "skyline",
+      "tag": "skyline"
+    },
+    {
+      "phrase": "skyline setting",
+      "tag": "skyline"
+    },
+    {
+      "phrase": "in slide",
+      "tag": "slide"
+    },
+    {
+      "phrase": "slide",
+      "tag": "slide"
+    },
+    {
+      "phrase": "slide setting",
+      "tag": "slide"
+    },
+    {
+      "phrase": "in small lamp grass",
+      "tag": "small_lamp_grass"
+    },
+    {
+      "phrase": "small lamp grass",
+      "tag": "small_lamp_grass"
+    },
+    {
+      "phrase": "small lamp grass setting",
+      "tag": "small_lamp_grass"
+    },
+    {
+      "phrase": "in smelling flower",
+      "tag": "smelling_flower"
+    },
+    {
+      "phrase": "smelling flower",
+      "tag": "smelling_flower"
+    },
+    {
+      "phrase": "smelling flower setting",
+      "tag": "smelling_flower"
+    },
+    {
+      "phrase": "in smokestack",
+      "tag": "smokestack"
+    },
+    {
+      "phrase": "smokestack",
+      "tag": "smokestack"
+    },
+    {
+      "phrase": "smokestack setting",
+      "tag": "smokestack"
+    },
+    {
+      "phrase": "in snow",
+      "tag": "snow"
+    },
+    {
+      "phrase": "snow",
+      "tag": "snow"
+    },
+    {
+      "phrase": "snow setting",
+      "tag": "snow"
+    },
+    {
+      "phrase": "in snow camouflage",
+      "tag": "snow_camouflage"
+    },
+    {
+      "phrase": "snow camouflage",
+      "tag": "snow_camouflage"
+    },
+    {
+      "phrase": "snow camouflage setting",
+      "tag": "snow_camouflage"
+    },
+    {
+      "phrase": "in snow duck",
+      "tag": "snow_duck"
+    },
+    {
+      "phrase": "snow duck",
+      "tag": "snow_duck"
+    },
+    {
+      "phrase": "snow duck setting",
+      "tag": "snow_duck"
+    },
+    {
+      "phrase": "in snow halation",
+      "tag": "snow_halation"
+    },
+    {
+      "phrase": "snow halation",
+      "tag": "snow_halation"
+    },
+    {
+      "phrase": "snow halation setting",
+      "tag": "snow_halation"
+    },
+    {
+      "phrase": "in snow on body",
+      "tag": "snow_on_body"
+    },
+    {
+      "phrase": "snow on body",
+      "tag": "snow_on_body"
+    },
+    {
+      "phrase": "snow on body setting",
+      "tag": "snow_on_body"
+    },
+    {
+      "phrase": "in snow on face",
+      "tag": "snow_on_face"
+    },
+    {
+      "phrase": "snow on face",
+      "tag": "snow_on_face"
+    },
+    {
+      "phrase": "snow on face setting",
+      "tag": "snow_on_face"
+    },
+    {
+      "phrase": "in snow on headwear",
+      "tag": "snow_on_headwear"
+    },
+    {
+      "phrase": "snow on headwear",
+      "tag": "snow_on_headwear"
+    },
+    {
+      "phrase": "snow on headwear setting",
+      "tag": "snow_on_headwear"
+    },
+    {
+      "phrase": "in snow on tree",
+      "tag": "snow_on_tree"
+    },
+    {
+      "phrase": "snow on tree",
+      "tag": "snow_on_tree"
+    },
+    {
+      "phrase": "snow on tree setting",
+      "tag": "snow_on_tree"
+    },
+    {
+      "phrase": "in snow shovel",
+      "tag": "snow_shovel"
+    },
+    {
+      "phrase": "snow shovel",
+      "tag": "snow_shovel"
+    },
+    {
+      "phrase": "snow shovel setting",
+      "tag": "snow_shovel"
+    },
+    {
+      "phrase": "in snowflakes",
+      "tag": "snowflakes"
+    },
+    {
+      "phrase": "snowflakes",
+      "tag": "snowflakes"
+    },
+    {
+      "phrase": "snowflakes setting",
+      "tag": "snowflakes"
+    },
+    {
+      "phrase": "in snowing",
+      "tag": "snowing"
+    },
+    {
+      "phrase": "snowing",
+      "tag": "snowing"
+    },
+    {
+      "phrase": "snowing setting",
+      "tag": "snowing"
+    },
+    {
+      "phrase": "in soap bubbles",
+      "tag": "soap_bubbles"
+    },
+    {
+      "phrase": "soap bubbles",
+      "tag": "soap_bubbles"
+    },
+    {
+      "phrase": "soap bubbles setting",
+      "tag": "soap_bubbles"
+    },
+    {
+      "phrase": "in soccer field",
+      "tag": "soccer_field"
+    },
+    {
+      "phrase": "soccer field",
+      "tag": "soccer_field"
+    },
+    {
+      "phrase": "soccer field setting",
+      "tag": "soccer_field"
+    },
+    {
+      "phrase": "in soil",
+      "tag": "soil"
+    },
+    {
+      "phrase": "soil",
+      "tag": "soil"
+    },
+    {
+      "phrase": "soil setting",
+      "tag": "soil"
+    },
+    {
+      "phrase": "in solar eclipse",
+      "tag": "solar_eclipse"
+    },
+    {
+      "phrase": "solar eclipse",
+      "tag": "solar_eclipse"
+    },
+    {
+      "phrase": "solar eclipse setting",
+      "tag": "solar_eclipse"
+    },
+    {
+      "phrase": "in solar panel",
+      "tag": "solar_panel"
+    },
+    {
+      "phrase": "solar panel",
+      "tag": "solar_panel"
+    },
+    {
+      "phrase": "solar panel setting",
+      "tag": "solar_panel"
+    },
+    {
+      "phrase": "in solar system",
+      "tag": "solar_system"
+    },
+    {
+      "phrase": "solar system",
+      "tag": "solar_system"
+    },
+    {
+      "phrase": "solar system setting",
+      "tag": "solar_system"
+    },
+    {
+      "phrase": "in soul eater moon",
+      "tag": "soul_eater_moon"
+    },
+    {
+      "phrase": "soul eater moon",
+      "tag": "soul_eater_moon"
+    },
+    {
+      "phrase": "soul eater moon setting",
+      "tag": "soul_eater_moon"
+    },
+    {
+      "phrase": "in sound of a star",
+      "tag": "sound_of_a_star_(e.g.o)"
+    },
+    {
+      "phrase": "sound of a star",
+      "tag": "sound_of_a_star_(e.g.o)"
+    },
+    {
+      "phrase": "sound of a star e.g.o",
+      "tag": "sound_of_a_star_(e.g.o)"
+    },
+    {
+      "phrase": "sound of a star setting",
+      "tag": "sound_of_a_star_(e.g.o)"
+    },
+    {
+      "phrase": "in sparks",
+      "tag": "sparks"
+    },
+    {
+      "phrase": "sparks",
+      "tag": "sparks"
+    },
+    {
+      "phrase": "sparks setting",
+      "tag": "sparks"
+    },
+    {
+      "phrase": "in spider web",
+      "tag": "spider_web"
+    },
+    {
+      "phrase": "spider web",
+      "tag": "spider_web"
+    },
+    {
+      "phrase": "spider web setting",
+      "tag": "spider_web"
+    },
+    {
+      "phrase": "in spiral staircase",
+      "tag": "spiral_staircase"
+    },
+    {
+      "phrase": "spiral staircase",
+      "tag": "spiral_staircase"
+    },
+    {
+      "phrase": "spiral staircase setting",
+      "tag": "spiral_staircase"
+    },
+    {
+      "phrase": "in spire",
+      "tag": "spire"
+    },
+    {
+      "phrase": "spire",
+      "tag": "spire"
+    },
+    {
+      "phrase": "spire setting",
+      "tag": "spire"
+    },
+    {
+      "phrase": "in spoken flower",
+      "tag": "spoken_flower"
+    },
+    {
+      "phrase": "spoken flower",
+      "tag": "spoken_flower"
+    },
+    {
+      "phrase": "spoken flower setting",
+      "tag": "spoken_flower"
+    },
+    {
+      "phrase": "in spoken star",
+      "tag": "spoken_star"
+    },
+    {
+      "phrase": "spoken star",
+      "tag": "spoken_star"
+    },
+    {
+      "phrase": "spoken star setting",
+      "tag": "spoken_star"
+    },
+    {
+      "phrase": "in sprout",
+      "tag": "sprout"
+    },
+    {
+      "phrase": "sprout",
+      "tag": "sprout"
+    },
+    {
+      "phrase": "sprout setting",
+      "tag": "sprout"
+    },
+    {
+      "phrase": "in squat toilet",
+      "tag": "squat_toilet"
+    },
+    {
+      "phrase": "squat toilet",
+      "tag": "squat_toilet"
+    },
+    {
+      "phrase": "squat toilet setting",
+      "tag": "squat_toilet"
+    },
+    {
+      "phrase": "in stage curtains",
+      "tag": "stage_curtains"
+    },
+    {
+      "phrase": "stage curtains",
+      "tag": "stage_curtains"
+    },
+    {
+      "phrase": "stage curtains setting",
+      "tag": "stage_curtains"
+    },
+    {
+      "phrase": "in stained glass",
+      "tag": "stained_glass"
+    },
+    {
+      "phrase": "stained glass",
+      "tag": "stained_glass"
+    },
+    {
+      "phrase": "stained glass setting",
+      "tag": "stained_glass"
+    },
+    {
+      "phrase": "in stalactite",
+      "tag": "stalactite"
+    },
+    {
+      "phrase": "stalactite",
+      "tag": "stalactite"
+    },
+    {
+      "phrase": "stalactite setting",
+      "tag": "stalactite"
+    },
+    {
+      "phrase": "in stalagmite",
+      "tag": "stalagmite"
+    },
+    {
+      "phrase": "stalagmite",
+      "tag": "stalagmite"
+    },
+    {
+      "phrase": "stalagmite setting",
+      "tag": "stalagmite"
+    },
+    {
+      "phrase": "in star",
+      "tag": "star_(sky)"
+    },
+    {
+      "phrase": "star",
+      "tag": "star_(sky)"
+    },
+    {
+      "phrase": "star setting",
+      "tag": "star_(sky)"
+    },
+    {
+      "phrase": "star sky",
+      "tag": "star_(sky)"
+    },
+    {
+      "phrase": "in star",
+      "tag": "star_(symbol)"
+    },
+    {
+      "phrase": "star",
+      "tag": "star_(symbol)"
+    },
+    {
+      "phrase": "star setting",
+      "tag": "star_(symbol)"
+    },
+    {
+      "phrase": "star symbol",
+      "tag": "star_(symbol)"
+    },
+    {
+      "phrase": "in star and crescent",
+      "tag": "star_and_crescent"
+    },
+    {
+      "phrase": "star and crescent",
+      "tag": "star_and_crescent"
+    },
+    {
+      "phrase": "star and crescent setting",
+      "tag": "star_and_crescent"
+    },
+    {
+      "phrase": "in star anise",
+      "tag": "star_anise_(spice)"
+    },
+    {
+      "phrase": "star anise",
+      "tag": "star_anise_(spice)"
+    },
+    {
+      "phrase": "star anise setting",
+      "tag": "star_anise_(spice)"
+    },
+    {
+      "phrase": "star anise spice",
+      "tag": "star_anise_(spice)"
+    },
+    {
+      "phrase": "in star balloon",
+      "tag": "star_balloon"
+    },
+    {
+      "phrase": "star balloon",
+      "tag": "star_balloon"
+    },
+    {
+      "phrase": "star balloon setting",
+      "tag": "star_balloon"
+    },
+    {
+      "phrase": "in star bit",
+      "tag": "star_bit"
+    },
+    {
+      "phrase": "star bit",
+      "tag": "star_bit"
+    },
+    {
+      "phrase": "star bit setting",
+      "tag": "star_bit"
+    },
+    {
+      "phrase": "in star block",
+      "tag": "star_block"
+    },
+    {
+      "phrase": "star block",
+      "tag": "star_block"
+    },
+    {
+      "phrase": "star block setting",
+      "tag": "star_block"
+    },
+    {
+      "phrase": "in star button",
+      "tag": "star_button"
+    },
+    {
+      "phrase": "star button",
+      "tag": "star_button"
+    },
+    {
+      "phrase": "star button setting",
+      "tag": "star_button"
+    },
+    {
+      "phrase": "in star censor",
+      "tag": "star_censor"
+    },
+    {
+      "phrase": "star censor",
+      "tag": "star_censor"
+    },
+    {
+      "phrase": "star censor setting",
+      "tag": "star_censor"
+    },
+    {
+      "phrase": "in star charm",
+      "tag": "star_charm"
+    },
+    {
+      "phrase": "star charm",
+      "tag": "star_charm"
+    },
+    {
+      "phrase": "star charm setting",
+      "tag": "star_charm"
+    },
+    {
+      "phrase": "in star chart",
+      "tag": "star_chart"
+    },
+    {
+      "phrase": "star chart",
+      "tag": "star_chart"
+    },
+    {
+      "phrase": "star chart setting",
+      "tag": "star_chart"
+    },
+    {
+      "phrase": "in star color pen",
+      "tag": "star_color_pen"
+    },
+    {
+      "phrase": "star color pen",
+      "tag": "star_color_pen"
+    },
+    {
+      "phrase": "star color pen setting",
+      "tag": "star_color_pen"
+    },
+    {
+      "phrase": "in star color pendant",
+      "tag": "star_color_pendant"
+    },
+    {
+      "phrase": "star color pendant",
+      "tag": "star_color_pendant"
+    },
+    {
+      "phrase": "star color pendant setting",
+      "tag": "star_color_pendant"
+    },
+    {
+      "phrase": "in star cutout",
+      "tag": "star_cutout"
+    },
+    {
+      "phrase": "star cutout",
+      "tag": "star_cutout"
+    },
+    {
+      "phrase": "star cutout setting",
+      "tag": "star_cutout"
+    },
+    {
+      "phrase": "in star destroyer",
+      "tag": "star_destroyer"
+    },
+    {
+      "phrase": "star destroyer",
+      "tag": "star_destroyer"
+    },
+    {
+      "phrase": "star destroyer setting",
+      "tag": "star_destroyer"
+    },
+    {
+      "phrase": "in star guardian",
+      "tag": "star_guardian_(league_of_legends)"
+    },
+    {
+      "phrase": "star guardian",
+      "tag": "star_guardian_(league_of_legends)"
+    },
+    {
+      "phrase": "star guardian league of legends",
+      "tag": "star_guardian_(league_of_legends)"
+    },
+    {
+      "phrase": "star guardian setting",
+      "tag": "star_guardian_(league_of_legends)"
+    },
+    {
+      "phrase": "in star guardian pet",
+      "tag": "star_guardian_pet"
+    },
+    {
+      "phrase": "star guardian pet",
+      "tag": "star_guardian_pet"
+    },
+    {
+      "phrase": "star guardian pet setting",
+      "tag": "star_guardian_pet"
+    },
+    {
+      "phrase": "in star hands",
+      "tag": "star_hands"
+    },
+    {
+      "phrase": "star hands",
+      "tag": "star_hands"
+    },
+    {
+      "phrase": "star hands setting",
+      "tag": "star_hands"
+    },
+    {
+      "phrase": "in star in eye",
+      "tag": "star_in_eye"
+    },
+    {
+      "phrase": "star in eye",
+      "tag": "star_in_eye"
+    },
+    {
+      "phrase": "star in eye setting",
+      "tag": "star_in_eye"
+    },
+    {
+      "phrase": "in star maebari",
+      "tag": "star_maebari"
+    },
+    {
+      "phrase": "star maebari",
+      "tag": "star_maebari"
+    },
+    {
+      "phrase": "star maebari setting",
+      "tag": "star_maebari"
+    },
+    {
+      "phrase": "in star map",
+      "tag": "star_map"
+    },
+    {
+      "phrase": "star map",
+      "tag": "star_map"
+    },
+    {
+      "phrase": "star map setting",
+      "tag": "star_map"
+    },
+    {
+      "phrase": "in star o-ring",
+      "tag": "star_o-ring"
+    },
+    {
+      "phrase": "star o-ring",
+      "tag": "star_o-ring"
+    },
+    {
+      "phrase": "star o-ring setting",
+      "tag": "star_o-ring"
+    },
+    {
+      "phrase": "in star of david",
+      "tag": "star_of_david"
+    },
+    {
+      "phrase": "star of david",
+      "tag": "star_of_david"
+    },
+    {
+      "phrase": "star of david setting",
+      "tag": "star_of_david"
+    },
+    {
+      "phrase": "in star of lakshmi",
+      "tag": "star_of_lakshmi"
+    },
+    {
+      "phrase": "star of lakshmi",
+      "tag": "star_of_lakshmi"
+    },
+    {
+      "phrase": "star of lakshmi setting",
+      "tag": "star_of_lakshmi"
+    },
+    {
+      "phrase": "in star of life",
+      "tag": "star_of_life"
+    },
+    {
+      "phrase": "star of life",
+      "tag": "star_of_life"
+    },
+    {
+      "phrase": "star of life setting",
+      "tag": "star_of_life"
+    },
+    {
+      "phrase": "in star ornament",
+      "tag": "star_ornament"
+    },
+    {
+      "phrase": "star ornament",
+      "tag": "star_ornament"
+    },
+    {
+      "phrase": "star ornament setting",
+      "tag": "star_ornament"
+    },
+    {
+      "phrase": "in star pasties",
+      "tag": "star_pasties"
+    },
+    {
+      "phrase": "star pasties",
+      "tag": "star_pasties"
+    },
+    {
+      "phrase": "star pasties setting",
+      "tag": "star_pasties"
+    },
+    {
+      "phrase": "in star pendant",
+      "tag": "star_pendant"
+    },
+    {
+      "phrase": "star pendant",
+      "tag": "star_pendant"
+    },
+    {
+      "phrase": "star pendant setting",
+      "tag": "star_pendant"
+    },
+    {
+      "phrase": "in star pin",
+      "tag": "star_pin"
+    },
+    {
+      "phrase": "star pin",
+      "tag": "star_pin"
+    },
+    {
+      "phrase": "star pin setting",
+      "tag": "star_pin"
+    },
+    {
+      "phrase": "in star power stick",
+      "tag": "star_power_stick"
+    },
+    {
+      "phrase": "star power stick",
+      "tag": "star_power_stick"
+    },
+    {
+      "phrase": "star power stick setting",
+      "tag": "star_power_stick"
+    },
+    {
+      "phrase": "in star rail special pass",
+      "tag": "star_rail_special_pass_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "star rail special pass",
+      "tag": "star_rail_special_pass_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "star rail special pass honkai: star rail",
+      "tag": "star_rail_special_pass_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "star rail special pass setting",
+      "tag": "star_rail_special_pass_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in star rod",
+      "tag": "star_rod"
+    },
+    {
+      "phrase": "star rod",
+      "tag": "star_rod"
+    },
+    {
+      "phrase": "star rod setting",
+      "tag": "star_rod"
+    },
+    {
+      "phrase": "in star sticker",
+      "tag": "star_sticker"
+    },
+    {
+      "phrase": "star sticker",
+      "tag": "star_sticker"
+    },
+    {
+      "phrase": "star sticker setting",
+      "tag": "star_sticker"
+    },
+    {
+      "phrase": "in star trail",
+      "tag": "star_trail"
+    },
+    {
+      "phrase": "star trail",
+      "tag": "star_trail"
+    },
+    {
+      "phrase": "star trail setting",
+      "tag": "star_trail"
+    },
+    {
+      "phrase": "in star wand",
+      "tag": "star_wand"
+    },
+    {
+      "phrase": "star wand",
+      "tag": "star_wand"
+    },
+    {
+      "phrase": "star wand setting",
+      "tag": "star_wand"
+    },
+    {
+      "phrase": "in starry moon",
+      "tag": "starry_moon"
+    },
+    {
+      "phrase": "starry moon",
+      "tag": "starry_moon"
+    },
+    {
+      "phrase": "starry moon setting",
+      "tag": "starry_moon"
+    },
+    {
+      "phrase": "in starry sky",
+      "tag": "starry_sky"
+    },
+    {
+      "phrase": "starry sky",
+      "tag": "starry_sky"
+    },
+    {
+      "phrase": "starry sky setting",
+      "tag": "starry_sky"
+    },
+    {
+      "phrase": "in starry sky print",
+      "tag": "starry_sky_print"
+    },
+    {
+      "phrase": "starry sky print",
+      "tag": "starry_sky_print"
+    },
+    {
+      "phrase": "starry sky print setting",
+      "tag": "starry_sky_print"
+    },
+    {
+      "phrase": "in statue of liberty",
+      "tag": "statue_of_liberty"
+    },
+    {
+      "phrase": "statue of liberty",
+      "tag": "statue_of_liberty"
+    },
+    {
+      "phrase": "statue of liberty setting",
+      "tag": "statue_of_liberty"
+    },
+    {
+      "phrase": "in steel beam",
+      "tag": "steel_beam"
+    },
+    {
+      "phrase": "steel beam",
+      "tag": "steel_beam"
+    },
+    {
+      "phrase": "steel beam setting",
+      "tag": "steel_beam"
+    },
+    {
+      "phrase": "in stellaron hunters",
+      "tag": "stellaron_hunters_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "stellaron hunters",
+      "tag": "stellaron_hunters_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "stellaron hunters honkai: star rail",
+      "tag": "stellaron_hunters_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "stellaron hunters setting",
+      "tag": "stellaron_hunters_(honkai:_star_rail)"
+    },
+    {
+      "phrase": "in stepping stones",
+      "tag": "stepping_stones"
+    },
+    {
+      "phrase": "stepping stones",
+      "tag": "stepping_stones"
+    },
+    {
+      "phrase": "stepping stones setting",
+      "tag": "stepping_stones"
+    },
+    {
+      "phrase": "in stone building",
+      "tag": "stone_building"
+    },
+    {
+      "phrase": "stone building",
+      "tag": "stone_building"
+    },
+    {
+      "phrase": "stone building setting",
+      "tag": "stone_building"
+    },
+    {
+      "phrase": "in stone floor",
+      "tag": "stone_floor"
+    },
+    {
+      "phrase": "stone floor",
+      "tag": "stone_floor"
+    },
+    {
+      "phrase": "stone floor setting",
+      "tag": "stone_floor"
+    },
+    {
+      "phrase": "in stone lantern",
+      "tag": "stone_lantern"
+    },
+    {
+      "phrase": "stone lantern",
+      "tag": "stone_lantern"
+    },
+    {
+      "phrase": "stone lantern setting",
+      "tag": "stone_lantern"
+    },
+    {
+      "phrase": "in stone pillar",
+      "tag": "stone_pillar"
+    },
+    {
+      "phrase": "stone pillar",
+      "tag": "stone_pillar"
+    },
+    {
+      "phrase": "stone pillar setting",
+      "tag": "stone_pillar"
+    },
+    {
+      "phrase": "in stone stairs",
+      "tag": "stone_stairs"
+    },
+    {
+      "phrase": "stone stairs",
+      "tag": "stone_stairs"
+    },
+    {
+      "phrase": "stone stairs setting",
+      "tag": "stone_stairs"
+    },
+    {
+      "phrase": "in stone walkway",
+      "tag": "stone_walkway"
+    },
+    {
+      "phrase": "stone walkway",
+      "tag": "stone_walkway"
+    },
+    {
+      "phrase": "stone walkway setting",
+      "tag": "stone_walkway"
+    },
+    {
+      "phrase": "in stone wall",
+      "tag": "stone_wall"
+    },
+    {
+      "phrase": "stone wall",
+      "tag": "stone_wall"
+    },
+    {
+      "phrase": "stone wall setting",
+      "tag": "stone_wall"
+    },
+    {
+      "phrase": "in storm",
+      "tag": "storm"
+    },
+    {
+      "phrase": "storm",
+      "tag": "storm"
+    },
+    {
+      "phrase": "storm setting",
+      "tag": "storm"
+    },
+    {
+      "phrase": "in storm cloud",
+      "tag": "storm_cloud"
+    },
+    {
+      "phrase": "storm cloud",
+      "tag": "storm_cloud"
+    },
+    {
+      "phrase": "storm cloud setting",
+      "tag": "storm_cloud"
+    },
+    {
+      "phrase": "in stove",
+      "tag": "stove"
+    },
+    {
+      "phrase": "stove",
+      "tag": "stove"
+    },
+    {
+      "phrase": "stove setting",
+      "tag": "stove"
+    },
+    {
+      "phrase": "in straw",
+      "tag": "straw_(stalk)"
+    },
+    {
+      "phrase": "straw",
+      "tag": "straw_(stalk)"
+    },
+    {
+      "phrase": "straw setting",
+      "tag": "straw_(stalk)"
+    },
+    {
+      "phrase": "straw stalk",
+      "tag": "straw_(stalk)"
+    },
+    {
+      "phrase": "in strawberry blossoms",
+      "tag": "strawberry_blossoms"
+    },
+    {
+      "phrase": "strawberry blossoms",
+      "tag": "strawberry_blossoms"
+    },
+    {
+      "phrase": "strawberry blossoms setting",
+      "tag": "strawberry_blossoms"
+    },
+    {
+      "phrase": "in stream",
+      "tag": "stream"
+    },
+    {
+      "phrase": "stream",
+      "tag": "stream"
+    },
+    {
+      "phrase": "stream setting",
+      "tag": "stream"
+    },
+    {
+      "phrase": "in street snap",
+      "tag": "street_snap"
+    },
+    {
+      "phrase": "street snap",
+      "tag": "street_snap"
+    },
+    {
+      "phrase": "street snap setting",
+      "tag": "street_snap"
+    },
+    {
+      "phrase": "in stuffed flower",
+      "tag": "stuffed_flower"
+    },
+    {
+      "phrase": "stuffed flower",
+      "tag": "stuffed_flower"
+    },
+    {
+      "phrase": "stuffed flower setting",
+      "tag": "stuffed_flower"
+    },
+    {
+      "phrase": "in stuffed star",
+      "tag": "stuffed_star"
+    },
+    {
+      "phrase": "stuffed star",
+      "tag": "stuffed_star"
+    },
+    {
+      "phrase": "stuffed star setting",
+      "tag": "stuffed_star"
+    },
+    {
+      "phrase": "in summer",
+      "tag": "summer"
+    },
+    {
+      "phrase": "summer",
+      "tag": "summer"
+    },
+    {
+      "phrase": "summer setting",
+      "tag": "summer"
+    },
+    {
+      "phrase": "in sun",
+      "tag": "sun"
+    },
+    {
+      "phrase": "sun",
+      "tag": "sun"
+    },
+    {
+      "phrase": "sun setting",
+      "tag": "sun"
+    },
+    {
+      "phrase": "in sun shower",
+      "tag": "sun_shower"
+    },
+    {
+      "phrase": "sun shower",
+      "tag": "sun_shower"
+    },
+    {
+      "phrase": "sun shower setting",
+      "tag": "sun_shower"
+    },
+    {
+      "phrase": "in sunbeam",
+      "tag": "sunbeam"
+    },
+    {
+      "phrase": "sunbeam",
+      "tag": "sunbeam"
+    },
+    {
+      "phrase": "sunbeam setting",
+      "tag": "sunbeam"
+    },
+    {
+      "phrase": "in sunflower",
+      "tag": "sunflower"
+    },
+    {
+      "phrase": "sunflower",
+      "tag": "sunflower"
+    },
+    {
+      "phrase": "sunflower setting",
+      "tag": "sunflower"
+    },
+    {
+      "phrase": "in sunflower field",
+      "tag": "sunflower_field"
+    },
+    {
+      "phrase": "sunflower field",
+      "tag": "sunflower_field"
+    },
+    {
+      "phrase": "sunflower field setting",
+      "tag": "sunflower_field"
+    },
+    {
+      "phrase": "in super star",
+      "tag": "super_star_(mario)"
+    },
+    {
+      "phrase": "super star",
+      "tag": "super_star_(mario)"
+    },
+    {
+      "phrase": "super star mario",
+      "tag": "super_star_(mario)"
+    },
+    {
+      "phrase": "super star setting",
+      "tag": "super_star_(mario)"
+    },
+    {
+      "phrase": "in susuki grass",
+      "tag": "susuki_grass"
+    },
+    {
+      "phrase": "susuki grass",
+      "tag": "susuki_grass"
+    },
+    {
+      "phrase": "susuki grass setting",
+      "tag": "susuki_grass"
+    },
+    {
+      "phrase": "in sweet flower",
+      "tag": "sweet_flower"
+    },
+    {
+      "phrase": "sweet flower",
+      "tag": "sweet_flower"
+    },
+    {
+      "phrase": "sweet flower setting",
+      "tag": "sweet_flower"
+    },
+    {
+      "phrase": "in swing set",
+      "tag": "swing_set"
+    },
+    {
+      "phrase": "swing set",
+      "tag": "swing_set"
+    },
+    {
+      "phrase": "swing set setting",
+      "tag": "swing_set"
+    },
+    {
+      "phrase": "in tactile paving",
+      "tag": "tactile_paving"
+    },
+    {
+      "phrase": "tactile paving",
+      "tag": "tactile_paving"
+    },
+    {
+      "phrase": "tactile paving setting",
+      "tag": "tactile_paving"
+    },
+    {
+      "phrase": "in tall grass",
+      "tag": "tall_grass"
+    },
+    {
+      "phrase": "tall grass",
+      "tag": "tall_grass"
+    },
+    {
+      "phrase": "tall grass setting",
+      "tag": "tall_grass"
+    },
+    {
+      "phrase": "in taurus",
+      "tag": "taurus_(constellation)"
+    },
+    {
+      "phrase": "taurus",
+      "tag": "taurus_(constellation)"
+    },
+    {
+      "phrase": "taurus constellation",
+      "tag": "taurus_(constellation)"
+    },
+    {
+      "phrase": "taurus setting",
+      "tag": "taurus_(constellation)"
+    },
+    {
+      "phrase": "in team star",
+      "tag": "team_star"
+    },
+    {
+      "phrase": "team star",
+      "tag": "team_star"
+    },
+    {
+      "phrase": "team star setting",
+      "tag": "team_star"
+    },
+    {
+      "phrase": "in tennis net",
+      "tag": "tennis_net"
+    },
+    {
+      "phrase": "tennis net",
+      "tag": "tennis_net"
+    },
+    {
+      "phrase": "tennis net setting",
+      "tag": "tennis_net"
+    },
+    {
+      "phrase": "in the star",
+      "tag": "the_star_(tarot)"
+    },
+    {
+      "phrase": "the star",
+      "tag": "the_star_(tarot)"
+    },
+    {
+      "phrase": "the star setting",
+      "tag": "the_star_(tarot)"
+    },
+    {
+      "phrase": "the star tarot",
+      "tag": "the_star_(tarot)"
+    },
+    {
+      "phrase": "in theater seating",
+      "tag": "theater_seating"
+    },
+    {
+      "phrase": "theater seating",
+      "tag": "theater_seating"
+    },
+    {
+      "phrase": "theater seating setting",
+      "tag": "theater_seating"
+    },
+    {
+      "phrase": "in thorns",
+      "tag": "thorns"
+    },
+    {
+      "phrase": "thorns",
+      "tag": "thorns"
+    },
+    {
+      "phrase": "thorns setting",
+      "tag": "thorns"
+    },
+    {
+      "phrase": "in thunder",
+      "tag": "thunder"
+    },
+    {
+      "phrase": "thunder",
+      "tag": "thunder"
+    },
+    {
+      "phrase": "thunder setting",
+      "tag": "thunder"
+    },
+    {
+      "phrase": "in tile ceiling",
+      "tag": "tile_ceiling"
+    },
+    {
+      "phrase": "tile ceiling",
+      "tag": "tile_ceiling"
+    },
+    {
+      "phrase": "tile ceiling setting",
+      "tag": "tile_ceiling"
+    },
+    {
+      "phrase": "in tile floor",
+      "tag": "tile_floor"
+    },
+    {
+      "phrase": "tile floor",
+      "tag": "tile_floor"
+    },
+    {
+      "phrase": "tile floor setting",
+      "tag": "tile_floor"
+    },
+    {
+      "phrase": "in tile roof",
+      "tag": "tile_roof"
+    },
+    {
+      "phrase": "tile roof",
+      "tag": "tile_roof"
+    },
+    {
+      "phrase": "tile roof setting",
+      "tag": "tile_roof"
+    },
+    {
+      "phrase": "in too many flowers",
+      "tag": "too_many_flowers"
+    },
+    {
+      "phrase": "too many flowers",
+      "tag": "too_many_flowers"
+    },
+    {
+      "phrase": "too many flowers setting",
+      "tag": "too_many_flowers"
+    },
+    {
+      "phrase": "in torn curtains",
+      "tag": "torn_curtains"
+    },
+    {
+      "phrase": "torn curtains",
+      "tag": "torn_curtains"
+    },
+    {
+      "phrase": "torn curtains setting",
+      "tag": "torn_curtains"
+    },
+    {
+      "phrase": "in tornado",
+      "tag": "tornado"
+    },
+    {
+      "phrase": "tornado",
+      "tag": "tornado"
+    },
+    {
+      "phrase": "tornado setting",
+      "tag": "tornado"
+    },
+    {
+      "phrase": "in traffic",
+      "tag": "traffic"
+    },
+    {
+      "phrase": "traffic",
+      "tag": "traffic"
+    },
+    {
+      "phrase": "traffic setting",
+      "tag": "traffic"
+    },
+    {
+      "phrase": "in traffic mirror",
+      "tag": "traffic_mirror"
+    },
+    {
+      "phrase": "traffic mirror",
+      "tag": "traffic_mirror"
+    },
+    {
+      "phrase": "traffic mirror setting",
+      "tag": "traffic_mirror"
+    },
+    {
+      "phrase": "in transmission tower",
+      "tag": "transmission_tower"
+    },
+    {
+      "phrase": "transmission tower",
+      "tag": "transmission_tower"
+    },
+    {
+      "phrase": "transmission tower setting",
+      "tag": "transmission_tower"
+    },
+    {
+      "phrase": "in transparent flower",
+      "tag": "transparent_flower"
+    },
+    {
+      "phrase": "transparent flower",
+      "tag": "transparent_flower"
+    },
+    {
+      "phrase": "transparent flower setting",
+      "tag": "transparent_flower"
+    },
+    {
+      "phrase": "in tree",
+      "tag": "tree"
+    },
+    {
+      "phrase": "tree",
+      "tag": "tree"
+    },
+    {
+      "phrase": "tree setting",
+      "tag": "tree"
+    },
+    {
+      "phrase": "in tree bark",
+      "tag": "tree_bark"
+    },
+    {
+      "phrase": "tree bark",
+      "tag": "tree_bark"
+    },
+    {
+      "phrase": "tree bark setting",
+      "tag": "tree_bark"
+    },
+    {
+      "phrase": "in tree costume",
+      "tag": "tree_costume"
+    },
+    {
+      "phrase": "tree costume",
+      "tag": "tree_costume"
+    },
+    {
+      "phrase": "tree costume setting",
+      "tag": "tree_costume"
+    },
+    {
+      "phrase": "in tree print",
+      "tag": "tree_print"
+    },
+    {
+      "phrase": "tree print",
+      "tag": "tree_print"
+    },
+    {
+      "phrase": "tree print setting",
+      "tag": "tree_print"
+    },
+    {
+      "phrase": "in tree shade",
+      "tag": "tree_shade"
+    },
+    {
+      "phrase": "tree shade",
+      "tag": "tree_shade"
+    },
+    {
+      "phrase": "tree shade setting",
+      "tag": "tree_shade"
+    },
+    {
+      "phrase": "in tree stump",
+      "tag": "tree_stump"
+    },
+    {
+      "phrase": "tree stump",
+      "tag": "tree_stump"
+    },
+    {
+      "phrase": "tree stump setting",
+      "tag": "tree_stump"
+    },
+    {
+      "phrase": "in trellis",
+      "tag": "trellis"
+    },
+    {
+      "phrase": "trellis",
+      "tag": "trellis"
+    },
+    {
+      "phrase": "trellis setting",
+      "tag": "trellis"
+    },
+    {
+      "phrase": "in truss",
+      "tag": "truss"
+    },
+    {
+      "phrase": "truss",
+      "tag": "truss"
+    },
+    {
+      "phrase": "truss setting",
+      "tag": "truss"
+    },
+    {
+      "phrase": "in twinkle star",
+      "tag": "twinkle_star_(idolmaster)"
+    },
+    {
+      "phrase": "twinkle star",
+      "tag": "twinkle_star_(idolmaster)"
+    },
+    {
+      "phrase": "twinkle star idolmaster",
+      "tag": "twinkle_star_(idolmaster)"
+    },
+    {
+      "phrase": "twinkle star setting",
+      "tag": "twinkle_star_(idolmaster)"
+    },
+    {
+      "phrase": "in two-tone flower",
+      "tag": "two-tone_flower"
+    },
+    {
+      "phrase": "two-tone flower",
+      "tag": "two-tone_flower"
+    },
+    {
+      "phrase": "two-tone flower setting",
+      "tag": "two-tone_flower"
+    },
+    {
+      "phrase": "in umbrella flower",
+      "tag": "umbrella_flower"
+    },
+    {
+      "phrase": "umbrella flower",
+      "tag": "umbrella_flower"
+    },
+    {
+      "phrase": "umbrella flower setting",
+      "tag": "umbrella_flower"
+    },
+    {
+      "phrase": "in umbrella sky",
+      "tag": "umbrella_sky"
+    },
+    {
+      "phrase": "umbrella sky",
+      "tag": "umbrella_sky"
+    },
+    {
+      "phrase": "umbrella sky setting",
+      "tag": "umbrella_sky"
+    },
+    {
+      "phrase": "in urinal",
+      "tag": "urinal"
+    },
+    {
+      "phrase": "urinal",
+      "tag": "urinal"
+    },
+    {
+      "phrase": "urinal setting",
+      "tag": "urinal"
+    },
+    {
+      "phrase": "in vegetation",
+      "tag": "vegetation"
+    },
+    {
+      "phrase": "vegetation",
+      "tag": "vegetation"
+    },
+    {
+      "phrase": "vegetation setting",
+      "tag": "vegetation"
+    },
+    {
+      "phrase": "in vending machine",
+      "tag": "vending_machine"
+    },
+    {
+      "phrase": "vending machine",
+      "tag": "vending_machine"
+    },
+    {
+      "phrase": "vending machine setting",
+      "tag": "vending_machine"
+    },
+    {
+      "phrase": "in vent",
+      "tag": "vent_(object)"
+    },
+    {
+      "phrase": "vent",
+      "tag": "vent_(object)"
+    },
+    {
+      "phrase": "vent object",
+      "tag": "vent_(object)"
+    },
+    {
+      "phrase": "vent setting",
+      "tag": "vent_(object)"
+    },
+    {
+      "phrase": "in ventilation shaft",
+      "tag": "ventilation_shaft"
+    },
+    {
+      "phrase": "ventilation shaft",
+      "tag": "ventilation_shaft"
+    },
+    {
+      "phrase": "ventilation shaft setting",
+      "tag": "ventilation_shaft"
+    },
+    {
+      "phrase": "in venus flytrap",
+      "tag": "venus_flytrap"
+    },
+    {
+      "phrase": "venus flytrap",
+      "tag": "venus_flytrap"
+    },
+    {
+      "phrase": "venus flytrap setting",
+      "tag": "venus_flytrap"
+    },
+    {
+      "phrase": "in vines",
+      "tag": "vines"
+    },
+    {
+      "phrase": "vines",
+      "tag": "vines"
+    },
+    {
+      "phrase": "vines setting",
+      "tag": "vines"
+    },
+    {
+      "phrase": "in violet",
+      "tag": "violet_(flower)"
+    },
+    {
+      "phrase": "violet",
+      "tag": "violet_(flower)"
+    },
+    {
+      "phrase": "violet flower",
+      "tag": "violet_(flower)"
+    },
+    {
+      "phrase": "violet setting",
+      "tag": "violet_(flower)"
+    },
+    {
+      "phrase": "in viparyas flower",
+      "tag": "viparyas_flower"
+    },
+    {
+      "phrase": "viparyas flower",
+      "tag": "viparyas_flower"
+    },
+    {
+      "phrase": "viparyas flower setting",
+      "tag": "viparyas_flower"
+    },
+    {
+      "phrase": "in virgo",
+      "tag": "virgo_(constellation)"
+    },
+    {
+      "phrase": "virgo",
+      "tag": "virgo_(constellation)"
+    },
+    {
+      "phrase": "virgo constellation",
+      "tag": "virgo_(constellation)"
+    },
+    {
+      "phrase": "virgo setting",
+      "tag": "virgo_(constellation)"
+    },
+    {
+      "phrase": "in visible air",
+      "tag": "visible_air"
+    },
+    {
+      "phrase": "visible air",
+      "tag": "visible_air"
+    },
+    {
+      "phrase": "visible air setting",
+      "tag": "visible_air"
+    },
+    {
+      "phrase": "in vortex",
+      "tag": "vortex"
+    },
+    {
+      "phrase": "vortex",
+      "tag": "vortex"
+    },
+    {
+      "phrase": "vortex setting",
+      "tag": "vortex"
+    },
+    {
+      "phrase": "in wainscoting",
+      "tag": "wainscoting"
+    },
+    {
+      "phrase": "wainscoting",
+      "tag": "wainscoting"
+    },
+    {
+      "phrase": "wainscoting setting",
+      "tag": "wainscoting"
+    },
+    {
+      "phrase": "in wall lamp",
+      "tag": "wall_lamp"
+    },
+    {
+      "phrase": "wall lamp",
+      "tag": "wall_lamp"
+    },
+    {
+      "phrase": "wall lamp setting",
+      "tag": "wall_lamp"
+    },
+    {
+      "phrase": "in warp star",
+      "tag": "warp_star"
+    },
+    {
+      "phrase": "warp star",
+      "tag": "warp_star"
+    },
+    {
+      "phrase": "warp star setting",
+      "tag": "warp_star"
+    },
+    {
+      "phrase": "in washing machine",
+      "tag": "washing_machine"
+    },
+    {
+      "phrase": "washing machine",
+      "tag": "washing_machine"
+    },
+    {
+      "phrase": "washing machine setting",
+      "tag": "washing_machine"
+    },
+    {
+      "phrase": "in water lily flower",
+      "tag": "water_lily_flower"
+    },
+    {
+      "phrase": "water lily flower",
+      "tag": "water_lily_flower"
+    },
+    {
+      "phrase": "water lily flower setting",
+      "tag": "water_lily_flower"
+    },
+    {
+      "phrase": "in waves",
+      "tag": "waves"
+    },
+    {
+      "phrase": "waves",
+      "tag": "waves"
+    },
+    {
+      "phrase": "waves setting",
+      "tag": "waves"
+    },
+    {
+      "phrase": "in weather vane",
+      "tag": "weather_vane"
+    },
+    {
+      "phrase": "weather vane",
+      "tag": "weather_vane"
+    },
+    {
+      "phrase": "weather vane setting",
+      "tag": "weather_vane"
+    },
+    {
+      "phrase": "in weeds",
+      "tag": "weeds"
+    },
+    {
+      "phrase": "weeds",
+      "tag": "weeds"
+    },
+    {
+      "phrase": "weeds setting",
+      "tag": "weeds"
+    },
+    {
+      "phrase": "in weeping cherry blossoms",
+      "tag": "weeping_cherry_blossoms"
+    },
+    {
+      "phrase": "weeping cherry blossoms",
+      "tag": "weeping_cherry_blossoms"
+    },
+    {
+      "phrase": "weeping cherry blossoms setting",
+      "tag": "weeping_cherry_blossoms"
+    },
+    {
+      "phrase": "in well",
+      "tag": "well"
+    },
+    {
+      "phrase": "well",
+      "tag": "well"
+    },
+    {
+      "phrase": "well setting",
+      "tag": "well"
+    },
+    {
+      "phrase": "in wet floor",
+      "tag": "wet_floor"
+    },
+    {
+      "phrase": "wet floor",
+      "tag": "wet_floor"
+    },
+    {
+      "phrase": "wet floor setting",
+      "tag": "wet_floor"
+    },
+    {
+      "phrase": "in wheat",
+      "tag": "wheat"
+    },
+    {
+      "phrase": "wheat",
+      "tag": "wheat"
+    },
+    {
+      "phrase": "wheat setting",
+      "tag": "wheat"
+    },
+    {
+      "phrase": "in wheat field",
+      "tag": "wheat_field"
+    },
+    {
+      "phrase": "wheat field",
+      "tag": "wheat_field"
+    },
+    {
+      "phrase": "wheat field setting",
+      "tag": "wheat_field"
+    },
+    {
+      "phrase": "in white flower",
+      "tag": "white_flower"
+    },
+    {
+      "phrase": "white flower",
+      "tag": "white_flower"
+    },
+    {
+      "phrase": "white flower setting",
+      "tag": "white_flower"
+    },
+    {
+      "phrase": "in white rose",
+      "tag": "white_rose"
+    },
+    {
+      "phrase": "white rose",
+      "tag": "white_rose"
+    },
+    {
+      "phrase": "white rose setting",
+      "tag": "white_rose"
+    },
+    {
+      "phrase": "in white sky",
+      "tag": "white_sky"
+    },
+    {
+      "phrase": "white sky",
+      "tag": "white_sky"
+    },
+    {
+      "phrase": "white sky setting",
+      "tag": "white_sky"
+    },
+    {
+      "phrase": "in white spider lily",
+      "tag": "white_spider_lily"
+    },
+    {
+      "phrase": "white spider lily",
+      "tag": "white_spider_lily"
+    },
+    {
+      "phrase": "white spider lily setting",
+      "tag": "white_spider_lily"
+    },
+    {
+      "phrase": "in white tree",
+      "tag": "white_tree"
+    },
+    {
+      "phrase": "white tree",
+      "tag": "white_tree"
+    },
+    {
+      "phrase": "white tree setting",
+      "tag": "white_tree"
+    },
+    {
+      "phrase": "in white tulip",
+      "tag": "white_tulip"
+    },
+    {
+      "phrase": "white tulip",
+      "tag": "white_tulip"
+    },
+    {
+      "phrase": "white tulip setting",
+      "tag": "white_tulip"
+    },
+    {
+      "phrase": "in whiteboard",
+      "tag": "whiteboard"
+    },
+    {
+      "phrase": "whiteboard",
+      "tag": "whiteboard"
+    },
+    {
+      "phrase": "whiteboard setting",
+      "tag": "whiteboard"
+    },
+    {
+      "phrase": "in willow",
+      "tag": "willow"
+    },
+    {
+      "phrase": "willow",
+      "tag": "willow"
+    },
+    {
+      "phrase": "willow setting",
+      "tag": "willow"
+    },
+    {
+      "phrase": "in wilted flower",
+      "tag": "wilted_flower"
+    },
+    {
+      "phrase": "wilted flower",
+      "tag": "wilted_flower"
+    },
+    {
+      "phrase": "wilted flower setting",
+      "tag": "wilted_flower"
+    },
+    {
+      "phrase": "in wind",
+      "tag": "wind"
+    },
+    {
+      "phrase": "wind",
+      "tag": "wind"
+    },
+    {
+      "phrase": "wind setting",
+      "tag": "wind"
+    },
+    {
+      "phrase": "in wind turbine",
+      "tag": "wind_turbine"
+    },
+    {
+      "phrase": "wind turbine",
+      "tag": "wind_turbine"
+    },
+    {
+      "phrase": "wind turbine setting",
+      "tag": "wind_turbine"
+    },
+    {
+      "phrase": "in windmill",
+      "tag": "windmill"
+    },
+    {
+      "phrase": "windmill",
+      "tag": "windmill"
+    },
+    {
+      "phrase": "windmill setting",
+      "tag": "windmill"
+    },
+    {
+      "phrase": "in window fog",
+      "tag": "window_fog"
+    },
+    {
+      "phrase": "window fog",
+      "tag": "window_fog"
+    },
+    {
+      "phrase": "window fog setting",
+      "tag": "window_fog"
+    },
+    {
+      "phrase": "in window shadow",
+      "tag": "window_shadow"
+    },
+    {
+      "phrase": "window shadow",
+      "tag": "window_shadow"
+    },
+    {
+      "phrase": "window shadow setting",
+      "tag": "window_shadow"
+    },
+    {
+      "phrase": "in windowsill",
+      "tag": "windowsill"
+    },
+    {
+      "phrase": "windowsill",
+      "tag": "windowsill"
+    },
+    {
+      "phrase": "windowsill setting",
+      "tag": "windowsill"
+    },
+    {
+      "phrase": "in windsock",
+      "tag": "windsock"
+    },
+    {
+      "phrase": "windsock",
+      "tag": "windsock"
+    },
+    {
+      "phrase": "windsock setting",
+      "tag": "windsock"
+    },
+    {
+      "phrase": "in wing star",
+      "tag": "wing_star"
+    },
+    {
+      "phrase": "wing star",
+      "tag": "wing_star"
+    },
+    {
+      "phrase": "wing star setting",
+      "tag": "wing_star"
+    },
+    {
+      "phrase": "in wink star",
+      "tag": "wink_star"
+    },
+    {
+      "phrase": "wink star",
+      "tag": "wink_star"
+    },
+    {
+      "phrase": "wink star setting",
+      "tag": "wink_star"
+    },
+    {
+      "phrase": "in winter",
+      "tag": "winter"
+    },
+    {
+      "phrase": "winter",
+      "tag": "winter"
+    },
+    {
+      "phrase": "winter setting",
+      "tag": "winter"
+    },
+    {
+      "phrase": "in wisteria",
+      "tag": "wisteria"
+    },
+    {
+      "phrase": "wisteria",
+      "tag": "wisteria"
+    },
+    {
+      "phrase": "wisteria setting",
+      "tag": "wisteria"
+    },
+    {
+      "phrase": "in wonder flower",
+      "tag": "wonder_flower"
+    },
+    {
+      "phrase": "wonder flower",
+      "tag": "wonder_flower"
+    },
+    {
+      "phrase": "wonder flower setting",
+      "tag": "wonder_flower"
+    },
+    {
+      "phrase": "in wooden bench",
+      "tag": "wooden_bench"
+    },
+    {
+      "phrase": "wooden bench",
+      "tag": "wooden_bench"
+    },
+    {
+      "phrase": "wooden bench setting",
+      "tag": "wooden_bench"
+    },
+    {
+      "phrase": "in wooden bridge",
+      "tag": "wooden_bridge"
+    },
+    {
+      "phrase": "wooden bridge",
+      "tag": "wooden_bridge"
+    },
+    {
+      "phrase": "wooden bridge setting",
+      "tag": "wooden_bridge"
+    },
+    {
+      "phrase": "in wooden ceiling",
+      "tag": "wooden_ceiling"
+    },
+    {
+      "phrase": "wooden ceiling",
+      "tag": "wooden_ceiling"
+    },
+    {
+      "phrase": "wooden ceiling setting",
+      "tag": "wooden_ceiling"
+    },
+    {
+      "phrase": "in wooden door",
+      "tag": "wooden_door"
+    },
+    {
+      "phrase": "wooden door",
+      "tag": "wooden_door"
+    },
+    {
+      "phrase": "wooden door setting",
+      "tag": "wooden_door"
+    },
+    {
+      "phrase": "in wooden fence",
+      "tag": "wooden_fence"
+    },
+    {
+      "phrase": "wooden fence",
+      "tag": "wooden_fence"
+    },
+    {
+      "phrase": "wooden fence setting",
+      "tag": "wooden_fence"
+    },
+    {
+      "phrase": "in wooden railing",
+      "tag": "wooden_railing"
+    },
+    {
+      "phrase": "wooden railing",
+      "tag": "wooden_railing"
+    },
+    {
+      "phrase": "wooden railing setting",
+      "tag": "wooden_railing"
+    },
+    {
+      "phrase": "in wooden wall",
+      "tag": "wooden_wall"
+    },
+    {
+      "phrase": "wooden wall",
+      "tag": "wooden_wall"
+    },
+    {
+      "phrase": "wooden wall setting",
+      "tag": "wooden_wall"
+    },
+    {
+      "phrase": "in wreckage",
+      "tag": "wreckage"
+    },
+    {
+      "phrase": "wreckage",
+      "tag": "wreckage"
+    },
+    {
+      "phrase": "wreckage setting",
+      "tag": "wreckage"
+    },
+    {
+      "phrase": "in wrist flower",
+      "tag": "wrist_flower"
+    },
+    {
+      "phrase": "wrist flower",
+      "tag": "wrist_flower"
+    },
+    {
+      "phrase": "wrist flower setting",
+      "tag": "wrist_flower"
+    },
+    {
+      "phrase": "in yellow flower",
+      "tag": "yellow_flower"
+    },
+    {
+      "phrase": "yellow flower",
+      "tag": "yellow_flower"
+    },
+    {
+      "phrase": "yellow flower setting",
+      "tag": "yellow_flower"
+    },
+    {
+      "phrase": "in yellow leaves",
+      "tag": "yellow_leaves"
+    },
+    {
+      "phrase": "yellow leaves",
+      "tag": "yellow_leaves"
+    },
+    {
+      "phrase": "yellow leaves setting",
+      "tag": "yellow_leaves"
+    },
+    {
+      "phrase": "in yellow moon",
+      "tag": "yellow_moon"
+    },
+    {
+      "phrase": "yellow moon",
+      "tag": "yellow_moon"
+    },
+    {
+      "phrase": "yellow moon setting",
+      "tag": "yellow_moon"
+    },
+    {
+      "phrase": "in yellow sky",
+      "tag": "yellow_sky"
+    },
+    {
+      "phrase": "yellow sky",
+      "tag": "yellow_sky"
+    },
+    {
+      "phrase": "yellow sky setting",
+      "tag": "yellow_sky"
+    },
+    {
+      "phrase": "in yellow star",
+      "tag": "yellow_star"
+    },
+    {
+      "phrase": "yellow star",
+      "tag": "yellow_star"
+    },
+    {
+      "phrase": "yellow star setting",
+      "tag": "yellow_star"
+    },
+    {
+      "phrase": "in yellow tulip",
+      "tag": "yellow_tulip"
+    },
+    {
+      "phrase": "yellow tulip",
+      "tag": "yellow_tulip"
+    },
+    {
+      "phrase": "yellow tulip setting",
+      "tag": "yellow_tulip"
+    },
+    {
+      "phrase": "in zero gravity",
+      "tag": "zero_gravity"
+    },
+    {
+      "phrase": "zero gravity",
+      "tag": "zero_gravity"
+    },
+    {
+      "phrase": "zero gravity setting",
+      "tag": "zero_gravity"
+    }
+  ]
+}

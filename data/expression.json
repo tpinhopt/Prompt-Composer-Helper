@@ -1,0 +1,2756 @@
+{
+  "items": [
+    {
+      "phrase": "3 3",
+      "tag": "3_3"
+    },
+    {
+      "phrase": "3 3 expression",
+      "tag": "3_3"
+    },
+    {
+      "phrase": "looking 3 3",
+      "tag": "3_3"
+    },
+    {
+      "phrase": "akanbe",
+      "tag": "akanbe"
+    },
+    {
+      "phrase": "akanbe expression",
+      "tag": "akanbe"
+    },
+    {
+      "phrase": "looking akanbe",
+      "tag": "akanbe"
+    },
+    {
+      "phrase": "alternate eye color",
+      "tag": "alternate_eye_color"
+    },
+    {
+      "phrase": "alternate eye color expression",
+      "tag": "alternate_eye_color"
+    },
+    {
+      "phrase": "looking alternate eye color",
+      "tag": "alternate_eye_color"
+    },
+    {
+      "phrase": "angry",
+      "tag": "angry"
+    },
+    {
+      "phrase": "angry expression",
+      "tag": "angry"
+    },
+    {
+      "phrase": "looking angry",
+      "tag": "angry"
+    },
+    {
+      "phrase": "ara ara",
+      "tag": "ara_ara"
+    },
+    {
+      "phrase": "ara ara expression",
+      "tag": "ara_ara"
+    },
+    {
+      "phrase": "looking ara ara",
+      "tag": "ara_ara"
+    },
+    {
+      "phrase": "aroused",
+      "tag": "aroused"
+    },
+    {
+      "phrase": "aroused expression",
+      "tag": "aroused"
+    },
+    {
+      "phrase": "looking aroused",
+      "tag": "aroused"
+    },
+    {
+      "phrase": "awestruck",
+      "tag": "awestruck"
+    },
+    {
+      "phrase": "awestruck expression",
+      "tag": "awestruck"
+    },
+    {
+      "phrase": "looking awestruck",
+      "tag": "awestruck"
+    },
+    {
+      "phrase": "awkward",
+      "tag": "awkward"
+    },
+    {
+      "phrase": "awkward expression",
+      "tag": "awkward"
+    },
+    {
+      "phrase": "looking awkward",
+      "tag": "awkward"
+    },
+    {
+      "phrase": "ayaya~",
+      "tag": "ayaya~"
+    },
+    {
+      "phrase": "ayaya~ expression",
+      "tag": "ayaya~"
+    },
+    {
+      "phrase": "looking ayaya~",
+      "tag": "ayaya~"
+    },
+    {
+      "phrase": "bad ass",
+      "tag": "bad_ass"
+    },
+    {
+      "phrase": "bad ass expression",
+      "tag": "bad_ass"
+    },
+    {
+      "phrase": "looking bad ass",
+      "tag": "bad_ass"
+    },
+    {
+      "phrase": "beamed eighth notes",
+      "tag": "beamed_eighth_notes"
+    },
+    {
+      "phrase": "beamed eighth notes expression",
+      "tag": "beamed_eighth_notes"
+    },
+    {
+      "phrase": "looking beamed eighth notes",
+      "tag": "beamed_eighth_notes"
+    },
+    {
+      "phrase": "biting cheek",
+      "tag": "biting_cheek"
+    },
+    {
+      "phrase": "biting cheek expression",
+      "tag": "biting_cheek"
+    },
+    {
+      "phrase": "looking biting cheek",
+      "tag": "biting_cheek"
+    },
+    {
+      "phrase": "biting own lip",
+      "tag": "biting_own_lip"
+    },
+    {
+      "phrase": "biting own lip expression",
+      "tag": "biting_own_lip"
+    },
+    {
+      "phrase": "looking biting own lip",
+      "tag": "biting_own_lip"
+    },
+    {
+      "phrase": "blank stare",
+      "tag": "blank_stare"
+    },
+    {
+      "phrase": "blank stare expression",
+      "tag": "blank_stare"
+    },
+    {
+      "phrase": "looking blank stare",
+      "tag": "blank_stare"
+    },
+    {
+      "phrase": "blind eye",
+      "tag": "blind_eye"
+    },
+    {
+      "phrase": "blind eye expression",
+      "tag": "blind_eye"
+    },
+    {
+      "phrase": "looking blind eye",
+      "tag": "blind_eye"
+    },
+    {
+      "phrase": "blinking",
+      "tag": "blinking"
+    },
+    {
+      "phrase": "blinking expression",
+      "tag": "blinking"
+    },
+    {
+      "phrase": "looking blinking",
+      "tag": "blinking"
+    },
+    {
+      "phrase": "blue blush",
+      "tag": "blue_blush"
+    },
+    {
+      "phrase": "blue blush expression",
+      "tag": "blue_blush"
+    },
+    {
+      "phrase": "looking blue blush",
+      "tag": "blue_blush"
+    },
+    {
+      "phrase": "blush",
+      "tag": "blush"
+    },
+    {
+      "phrase": "blush expression",
+      "tag": "blush"
+    },
+    {
+      "phrase": "looking blush",
+      "tag": "blush"
+    },
+    {
+      "phrase": "blush stickers",
+      "tag": "blush_stickers"
+    },
+    {
+      "phrase": "blush stickers expression",
+      "tag": "blush_stickers"
+    },
+    {
+      "phrase": "looking blush stickers",
+      "tag": "blush_stickers"
+    },
+    {
+      "phrase": "blush visible through hands",
+      "tag": "blush_visible_through_hands"
+    },
+    {
+      "phrase": "blush visible through hands expression",
+      "tag": "blush_visible_through_hands"
+    },
+    {
+      "phrase": "looking blush visible through hands",
+      "tag": "blush_visible_through_hands"
+    },
+    {
+      "phrase": "body blush",
+      "tag": "body_blush"
+    },
+    {
+      "phrase": "body blush expression",
+      "tag": "body_blush"
+    },
+    {
+      "phrase": "looking body blush",
+      "tag": "body_blush"
+    },
+    {
+      "phrase": "bored",
+      "tag": "bored"
+    },
+    {
+      "phrase": "bored expression",
+      "tag": "bored"
+    },
+    {
+      "phrase": "looking bored",
+      "tag": "bored"
+    },
+    {
+      "phrase": "brain freeze",
+      "tag": "brain_freeze"
+    },
+    {
+      "phrase": "brain freeze expression",
+      "tag": "brain_freeze"
+    },
+    {
+      "phrase": "looking brain freeze",
+      "tag": "brain_freeze"
+    },
+    {
+      "phrase": "broken heart",
+      "tag": "broken_heart"
+    },
+    {
+      "phrase": "broken heart expression",
+      "tag": "broken_heart"
+    },
+    {
+      "phrase": "looking broken heart",
+      "tag": "broken_heart"
+    },
+    {
+      "phrase": "buck teeth",
+      "tag": "buck_teeth"
+    },
+    {
+      "phrase": "buck teeth expression",
+      "tag": "buck_teeth"
+    },
+    {
+      "phrase": "looking buck teeth",
+      "tag": "buck_teeth"
+    },
+    {
+      "phrase": "c:",
+      "tag": "c:"
+    },
+    {
+      "phrase": "c: expression",
+      "tag": "c:"
+    },
+    {
+      "phrase": "with c:",
+      "tag": "c:"
+    },
+    {
+      "phrase": "car-mouth cake",
+      "tag": "car-mouth_cake"
+    },
+    {
+      "phrase": "car-mouth cake expression",
+      "tag": "car-mouth_cake"
+    },
+    {
+      "phrase": "looking car-mouth cake",
+      "tag": "car-mouth_cake"
+    },
+    {
+      "phrase": "chest blush",
+      "tag": "chest_blush"
+    },
+    {
+      "phrase": "chest blush expression",
+      "tag": "chest_blush"
+    },
+    {
+      "phrase": "looking chest blush",
+      "tag": "chest_blush"
+    },
+    {
+      "phrase": "chest mouth",
+      "tag": "chest_mouth"
+    },
+    {
+      "phrase": "chest mouth expression",
+      "tag": "chest_mouth"
+    },
+    {
+      "phrase": "looking chest mouth",
+      "tag": "chest_mouth"
+    },
+    {
+      "phrase": "chestnut mouth",
+      "tag": "chestnut_mouth"
+    },
+    {
+      "phrase": "chestnut mouth expression",
+      "tag": "chestnut_mouth"
+    },
+    {
+      "phrase": "looking chestnut mouth",
+      "tag": "chestnut_mouth"
+    },
+    {
+      "phrase": "clenched teeth",
+      "tag": "clenched_teeth"
+    },
+    {
+      "phrase": "clenched teeth expression",
+      "tag": "clenched_teeth"
+    },
+    {
+      "phrase": "looking clenched teeth",
+      "tag": "clenched_teeth"
+    },
+    {
+      "phrase": "closed mouth",
+      "tag": "closed_mouth"
+    },
+    {
+      "phrase": "closed mouth expression",
+      "tag": "closed_mouth"
+    },
+    {
+      "phrase": "looking closed mouth",
+      "tag": "closed_mouth"
+    },
+    {
+      "phrase": "clueless",
+      "tag": "clueless"
+    },
+    {
+      "phrase": "clueless expression",
+      "tag": "clueless"
+    },
+    {
+      "phrase": "looking clueless",
+      "tag": "clueless"
+    },
+    {
+      "phrase": "cocked eyebrow",
+      "tag": "cocked_eyebrow"
+    },
+    {
+      "phrase": "cocked eyebrow expression",
+      "tag": "cocked_eyebrow"
+    },
+    {
+      "phrase": "looking cocked eyebrow",
+      "tag": "cocked_eyebrow"
+    },
+    {
+      "phrase": "cold",
+      "tag": "cold"
+    },
+    {
+      "phrase": "cold expression",
+      "tag": "cold"
+    },
+    {
+      "phrase": "looking cold",
+      "tag": "cold"
+    },
+    {
+      "phrase": "comedic sweatdrop",
+      "tag": "comedic_sweatdrop"
+    },
+    {
+      "phrase": "comedic sweatdrop expression",
+      "tag": "comedic_sweatdrop"
+    },
+    {
+      "phrase": "looking comedic sweatdrop",
+      "tag": "comedic_sweatdrop"
+    },
+    {
+      "phrase": "concentrating",
+      "tag": "concentrating"
+    },
+    {
+      "phrase": "concentrating expression",
+      "tag": "concentrating"
+    },
+    {
+      "phrase": "looking concentrating",
+      "tag": "concentrating"
+    },
+    {
+      "phrase": "confused",
+      "tag": "confused"
+    },
+    {
+      "phrase": "confused expression",
+      "tag": "confused"
+    },
+    {
+      "phrase": "looking confused",
+      "tag": "confused"
+    },
+    {
+      "phrase": "conical teeth",
+      "tag": "conical_teeth"
+    },
+    {
+      "phrase": "conical teeth expression",
+      "tag": "conical_teeth"
+    },
+    {
+      "phrase": "looking conical teeth",
+      "tag": "conical_teeth"
+    },
+    {
+      "phrase": "covered mouth",
+      "tag": "covered_mouth"
+    },
+    {
+      "phrase": "covered mouth expression",
+      "tag": "covered_mouth"
+    },
+    {
+      "phrase": "looking covered mouth",
+      "tag": "covered_mouth"
+    },
+    {
+      "phrase": "crazy",
+      "tag": "crazy"
+    },
+    {
+      "phrase": "crazy expression",
+      "tag": "crazy"
+    },
+    {
+      "phrase": "looking crazy",
+      "tag": "crazy"
+    },
+    {
+      "phrase": "crazy grin",
+      "tag": "crazy_grin"
+    },
+    {
+      "phrase": "crazy grin expression",
+      "tag": "crazy_grin"
+    },
+    {
+      "phrase": "looking crazy grin",
+      "tag": "crazy_grin"
+    },
+    {
+      "phrase": "crazy smile",
+      "tag": "crazy_smile"
+    },
+    {
+      "phrase": "crazy smile expression",
+      "tag": "crazy_smile"
+    },
+    {
+      "phrase": "looking crazy smile",
+      "tag": "crazy_smile"
+    },
+    {
+      "phrase": "crooked smile",
+      "tag": "crooked_smile"
+    },
+    {
+      "phrase": "crooked smile expression",
+      "tag": "crooked_smile"
+    },
+    {
+      "phrase": "looking crooked smile",
+      "tag": "crooked_smile"
+    },
+    {
+      "phrase": "cross in eye",
+      "tag": "cross_in_eye"
+    },
+    {
+      "phrase": "cross in eye expression",
+      "tag": "cross_in_eye"
+    },
+    {
+      "phrase": "looking cross in eye",
+      "tag": "cross_in_eye"
+    },
+    {
+      "phrase": "crying",
+      "tag": "crying"
+    },
+    {
+      "phrase": "crying expression",
+      "tag": "crying"
+    },
+    {
+      "phrase": "looking crying",
+      "tag": "crying"
+    },
+    {
+      "phrase": "crying with eyes open",
+      "tag": "crying_with_eyes_open"
+    },
+    {
+      "phrase": "crying with eyes open expression",
+      "tag": "crying_with_eyes_open"
+    },
+    {
+      "phrase": "looking crying with eyes open",
+      "tag": "crying_with_eyes_open"
+    },
+    {
+      "phrase": "crystal eye",
+      "tag": "crystal_eye"
+    },
+    {
+      "phrase": "crystal eye expression",
+      "tag": "crystal_eye"
+    },
+    {
+      "phrase": "looking crystal eye",
+      "tag": "crystal_eye"
+    },
+    {
+      "phrase": "curious",
+      "tag": "curious"
+    },
+    {
+      "phrase": "curious expression",
+      "tag": "curious"
+    },
+    {
+      "phrase": "looking curious",
+      "tag": "curious"
+    },
+    {
+      "phrase": "dazed",
+      "tag": "dazed"
+    },
+    {
+      "phrase": "dazed expression",
+      "tag": "dazed"
+    },
+    {
+      "phrase": "looking dazed",
+      "tag": "dazed"
+    },
+    {
+      "phrase": "diamond in eye",
+      "tag": "diamond_in_eye"
+    },
+    {
+      "phrase": "diamond in eye expression",
+      "tag": "diamond_in_eye"
+    },
+    {
+      "phrase": "looking diamond in eye",
+      "tag": "diamond_in_eye"
+    },
+    {
+      "phrase": "dirty face",
+      "tag": "dirty_face"
+    },
+    {
+      "phrase": "dirty face expression",
+      "tag": "dirty_face"
+    },
+    {
+      "phrase": "looking dirty face",
+      "tag": "dirty_face"
+    },
+    {
+      "phrase": "disappointed",
+      "tag": "disappointed"
+    },
+    {
+      "phrase": "disappointed expression",
+      "tag": "disappointed"
+    },
+    {
+      "phrase": "looking disappointed",
+      "tag": "disappointed"
+    },
+    {
+      "phrase": "disdain",
+      "tag": "disdain"
+    },
+    {
+      "phrase": "disdain expression",
+      "tag": "disdain"
+    },
+    {
+      "phrase": "looking disdain",
+      "tag": "disdain"
+    },
+    {
+      "phrase": "disgust",
+      "tag": "disgust"
+    },
+    {
+      "phrase": "disgust expression",
+      "tag": "disgust"
+    },
+    {
+      "phrase": "looking disgust",
+      "tag": "disgust"
+    },
+    {
+      "phrase": "dizzy",
+      "tag": "dizzy"
+    },
+    {
+      "phrase": "dizzy expression",
+      "tag": "dizzy"
+    },
+    {
+      "phrase": "looking dizzy",
+      "tag": "dizzy"
+    },
+    {
+      "phrase": "dot mouth",
+      "tag": "dot_mouth"
+    },
+    {
+      "phrase": "dot mouth expression",
+      "tag": "dot_mouth"
+    },
+    {
+      "phrase": "looking dot mouth",
+      "tag": "dot_mouth"
+    },
+    {
+      "phrase": "downcast eyes",
+      "tag": "downcast_eyes"
+    },
+    {
+      "phrase": "downcast eyes expression",
+      "tag": "downcast_eyes"
+    },
+    {
+      "phrase": "looking downcast eyes",
+      "tag": "downcast_eyes"
+    },
+    {
+      "phrase": "doyagao",
+      "tag": "doyagao"
+    },
+    {
+      "phrase": "doyagao expression",
+      "tag": "doyagao"
+    },
+    {
+      "phrase": "looking doyagao",
+      "tag": "doyagao"
+    },
+    {
+      "phrase": "dripping eye",
+      "tag": "dripping_eye"
+    },
+    {
+      "phrase": "dripping eye expression",
+      "tag": "dripping_eye"
+    },
+    {
+      "phrase": "looking dripping eye",
+      "tag": "dripping_eye"
+    },
+    {
+      "phrase": "ear blush",
+      "tag": "ear_blush"
+    },
+    {
+      "phrase": "ear blush expression",
+      "tag": "ear_blush"
+    },
+    {
+      "phrase": "looking ear blush",
+      "tag": "ear_blush"
+    },
+    {
+      "phrase": "eargasm",
+      "tag": "eargasm"
+    },
+    {
+      "phrase": "eargasm expression",
+      "tag": "eargasm"
+    },
+    {
+      "phrase": "looking eargasm",
+      "tag": "eargasm"
+    },
+    {
+      "phrase": "elbow blush",
+      "tag": "elbow_blush"
+    },
+    {
+      "phrase": "elbow blush expression",
+      "tag": "elbow_blush"
+    },
+    {
+      "phrase": "looking elbow blush",
+      "tag": "elbow_blush"
+    },
+    {
+      "phrase": "envy",
+      "tag": "envy"
+    },
+    {
+      "phrase": "envy expression",
+      "tag": "envy"
+    },
+    {
+      "phrase": "looking envy",
+      "tag": "envy"
+    },
+    {
+      "phrase": "evil grin",
+      "tag": "evil_grin"
+    },
+    {
+      "phrase": "evil grin expression",
+      "tag": "evil_grin"
+    },
+    {
+      "phrase": "looking evil grin",
+      "tag": "evil_grin"
+    },
+    {
+      "phrase": "evil smile",
+      "tag": "evil_smile"
+    },
+    {
+      "phrase": "evil smile expression",
+      "tag": "evil_smile"
+    },
+    {
+      "phrase": "looking evil smile",
+      "tag": "evil_smile"
+    },
+    {
+      "phrase": "excessive nosebleed",
+      "tag": "excessive_nosebleed"
+    },
+    {
+      "phrase": "excessive nosebleed expression",
+      "tag": "excessive_nosebleed"
+    },
+    {
+      "phrase": "looking excessive nosebleed",
+      "tag": "excessive_nosebleed"
+    },
+    {
+      "phrase": "excited",
+      "tag": "excited"
+    },
+    {
+      "phrase": "excited expression",
+      "tag": "excited"
+    },
+    {
+      "phrase": "looking excited",
+      "tag": "excited"
+    },
+    {
+      "phrase": "expressionless",
+      "tag": "expressionless"
+    },
+    {
+      "phrase": "expressionless expression",
+      "tag": "expressionless"
+    },
+    {
+      "phrase": "looking expressionless",
+      "tag": "expressionless"
+    },
+    {
+      "phrase": "eye beam",
+      "tag": "eye_beam"
+    },
+    {
+      "phrase": "eye beam expression",
+      "tag": "eye_beam"
+    },
+    {
+      "phrase": "looking eye beam",
+      "tag": "eye_beam"
+    },
+    {
+      "phrase": "eye black",
+      "tag": "eye_black"
+    },
+    {
+      "phrase": "eye black expression",
+      "tag": "eye_black"
+    },
+    {
+      "phrase": "looking eye black",
+      "tag": "eye_black"
+    },
+    {
+      "phrase": "eye chart",
+      "tag": "eye_chart"
+    },
+    {
+      "phrase": "eye chart expression",
+      "tag": "eye_chart"
+    },
+    {
+      "phrase": "looking eye chart",
+      "tag": "eye_chart"
+    },
+    {
+      "phrase": "eye color connection",
+      "tag": "eye_color_connection"
+    },
+    {
+      "phrase": "eye color connection expression",
+      "tag": "eye_color_connection"
+    },
+    {
+      "phrase": "looking eye color connection",
+      "tag": "eye_color_connection"
+    },
+    {
+      "phrase": "eye color switch",
+      "tag": "eye_color_switch"
+    },
+    {
+      "phrase": "eye color switch expression",
+      "tag": "eye_color_switch"
+    },
+    {
+      "phrase": "looking eye color switch",
+      "tag": "eye_color_switch"
+    },
+    {
+      "phrase": "eye injury",
+      "tag": "eye_injury"
+    },
+    {
+      "phrase": "eye injury expression",
+      "tag": "eye_injury"
+    },
+    {
+      "phrase": "looking eye injury",
+      "tag": "eye_injury"
+    },
+    {
+      "phrase": "eye poke",
+      "tag": "eye_poke"
+    },
+    {
+      "phrase": "eye poke expression",
+      "tag": "eye_poke"
+    },
+    {
+      "phrase": "looking eye poke",
+      "tag": "eye_poke"
+    },
+    {
+      "phrase": "eye pop",
+      "tag": "eye_pop"
+    },
+    {
+      "phrase": "eye pop expression",
+      "tag": "eye_pop"
+    },
+    {
+      "phrase": "looking eye pop",
+      "tag": "eye_pop"
+    },
+    {
+      "phrase": "eye print",
+      "tag": "eye_print"
+    },
+    {
+      "phrase": "eye print expression",
+      "tag": "eye_print"
+    },
+    {
+      "phrase": "looking eye print",
+      "tag": "eye_print"
+    },
+    {
+      "phrase": "eye reflection",
+      "tag": "eye_reflection"
+    },
+    {
+      "phrase": "eye reflection expression",
+      "tag": "eye_reflection"
+    },
+    {
+      "phrase": "looking eye reflection",
+      "tag": "eye_reflection"
+    },
+    {
+      "phrase": "eye slugger",
+      "tag": "eye_slugger"
+    },
+    {
+      "phrase": "eye slugger expression",
+      "tag": "eye_slugger"
+    },
+    {
+      "phrase": "looking eye slugger",
+      "tag": "eye_slugger"
+    },
+    {
+      "phrase": "eye socket",
+      "tag": "eye_socket"
+    },
+    {
+      "phrase": "eye socket expression",
+      "tag": "eye_socket"
+    },
+    {
+      "phrase": "looking eye socket",
+      "tag": "eye_socket"
+    },
+    {
+      "phrase": "eye symbol",
+      "tag": "eye_symbol"
+    },
+    {
+      "phrase": "eye symbol expression",
+      "tag": "eye_symbol"
+    },
+    {
+      "phrase": "looking eye symbol",
+      "tag": "eye_symbol"
+    },
+    {
+      "phrase": "eye trail",
+      "tag": "eye_trail"
+    },
+    {
+      "phrase": "eye trail expression",
+      "tag": "eye_trail"
+    },
+    {
+      "phrase": "looking eye trail",
+      "tag": "eye_trail"
+    },
+    {
+      "phrase": "eye twitch",
+      "tag": "eye_twitch"
+    },
+    {
+      "phrase": "eye twitch expression",
+      "tag": "eye_twitch"
+    },
+    {
+      "phrase": "looking eye twitch",
+      "tag": "eye_twitch"
+    },
+    {
+      "phrase": "false smile",
+      "tag": "false_smile"
+    },
+    {
+      "phrase": "false smile expression",
+      "tag": "false_smile"
+    },
+    {
+      "phrase": "looking false smile",
+      "tag": "false_smile"
+    },
+    {
+      "phrase": "flaming eye",
+      "tag": "flaming_eye"
+    },
+    {
+      "phrase": "flaming eye expression",
+      "tag": "flaming_eye"
+    },
+    {
+      "phrase": "looking flaming eye",
+      "tag": "flaming_eye"
+    },
+    {
+      "phrase": "flustered",
+      "tag": "flustered"
+    },
+    {
+      "phrase": "flustered expression",
+      "tag": "flustered"
+    },
+    {
+      "phrase": "looking flustered",
+      "tag": "flustered"
+    },
+    {
+      "phrase": "flying teardrops",
+      "tag": "flying_teardrops"
+    },
+    {
+      "phrase": "flying teardrops expression",
+      "tag": "flying_teardrops"
+    },
+    {
+      "phrase": "looking flying teardrops",
+      "tag": "flying_teardrops"
+    },
+    {
+      "phrase": "foaming at the mouth",
+      "tag": "foaming_at_the_mouth"
+    },
+    {
+      "phrase": "foaming at the mouth expression",
+      "tag": "foaming_at_the_mouth"
+    },
+    {
+      "phrase": "looking foaming at the mouth",
+      "tag": "foaming_at_the_mouth"
+    },
+    {
+      "phrase": "foodgasm",
+      "tag": "foodgasm"
+    },
+    {
+      "phrase": "foodgasm expression",
+      "tag": "foodgasm"
+    },
+    {
+      "phrase": "looking foodgasm",
+      "tag": "foodgasm"
+    },
+    {
+      "phrase": "forced smile",
+      "tag": "forced_smile"
+    },
+    {
+      "phrase": "forced smile expression",
+      "tag": "forced_smile"
+    },
+    {
+      "phrase": "looking forced smile",
+      "tag": "forced_smile"
+    },
+    {
+      "phrase": "forehead blush",
+      "tag": "forehead_blush"
+    },
+    {
+      "phrase": "forehead blush expression",
+      "tag": "forehead_blush"
+    },
+    {
+      "phrase": "looking forehead blush",
+      "tag": "forehead_blush"
+    },
+    {
+      "phrase": "frown",
+      "tag": "frown"
+    },
+    {
+      "phrase": "frown expression",
+      "tag": "frown"
+    },
+    {
+      "phrase": "looking frown",
+      "tag": "frown"
+    },
+    {
+      "phrase": "frustrated",
+      "tag": "frustrated"
+    },
+    {
+      "phrase": "frustrated expression",
+      "tag": "frustrated"
+    },
+    {
+      "phrase": "looking frustrated",
+      "tag": "frustrated"
+    },
+    {
+      "phrase": "full-body blush",
+      "tag": "full-body_blush"
+    },
+    {
+      "phrase": "full-body blush expression",
+      "tag": "full-body_blush"
+    },
+    {
+      "phrase": "looking full-body blush",
+      "tag": "full-body_blush"
+    },
+    {
+      "phrase": "full-face blush",
+      "tag": "full-face_blush"
+    },
+    {
+      "phrase": "full-face blush expression",
+      "tag": "full-face_blush"
+    },
+    {
+      "phrase": "looking full-face blush",
+      "tag": "full-face_blush"
+    },
+    {
+      "phrase": "full mouth",
+      "tag": "full_mouth"
+    },
+    {
+      "phrase": "full mouth expression",
+      "tag": "full_mouth"
+    },
+    {
+      "phrase": "looking full mouth",
+      "tag": "full_mouth"
+    },
+    {
+      "phrase": "furious",
+      "tag": "furious"
+    },
+    {
+      "phrase": "furious expression",
+      "tag": "furious"
+    },
+    {
+      "phrase": "looking furious",
+      "tag": "furious"
+    },
+    {
+      "phrase": "gao",
+      "tag": "gao"
+    },
+    {
+      "phrase": "gao expression",
+      "tag": "gao"
+    },
+    {
+      "phrase": "looking gao",
+      "tag": "gao"
+    },
+    {
+      "phrase": "gasp",
+      "tag": "gasp"
+    },
+    {
+      "phrase": "gasp expression",
+      "tag": "gasp"
+    },
+    {
+      "phrase": "looking gasp",
+      "tag": "gasp"
+    },
+    {
+      "phrase": "gesugao",
+      "tag": "gesugao"
+    },
+    {
+      "phrase": "gesugao expression",
+      "tag": "gesugao"
+    },
+    {
+      "phrase": "looking gesugao",
+      "tag": "gesugao"
+    },
+    {
+      "phrase": "glance",
+      "tag": "glance"
+    },
+    {
+      "phrase": "glance expression",
+      "tag": "glance"
+    },
+    {
+      "phrase": "looking glance",
+      "tag": "glance"
+    },
+    {
+      "phrase": "glaring",
+      "tag": "glaring"
+    },
+    {
+      "phrase": "glaring expression",
+      "tag": "glaring"
+    },
+    {
+      "phrase": "looking glaring",
+      "tag": "glaring"
+    },
+    {
+      "phrase": "glasgow smile",
+      "tag": "glasgow_smile"
+    },
+    {
+      "phrase": "glasgow smile expression",
+      "tag": "glasgow_smile"
+    },
+    {
+      "phrase": "looking glasgow smile",
+      "tag": "glasgow_smile"
+    },
+    {
+      "phrase": "gloom",
+      "tag": "gloom_(expression)"
+    },
+    {
+      "phrase": "gloom expression",
+      "tag": "gloom_(expression)"
+    },
+    {
+      "phrase": "looking gloom",
+      "tag": "gloom_(expression)"
+    },
+    {
+      "phrase": "grid teeth",
+      "tag": "grid_teeth"
+    },
+    {
+      "phrase": "grid teeth expression",
+      "tag": "grid_teeth"
+    },
+    {
+      "phrase": "looking grid teeth",
+      "tag": "grid_teeth"
+    },
+    {
+      "phrase": "grimace",
+      "tag": "grimace"
+    },
+    {
+      "phrase": "grimace expression",
+      "tag": "grimace"
+    },
+    {
+      "phrase": "looking grimace",
+      "tag": "grimace"
+    },
+    {
+      "phrase": "grin",
+      "tag": "grin"
+    },
+    {
+      "phrase": "grin expression",
+      "tag": "grin"
+    },
+    {
+      "phrase": "looking grin",
+      "tag": "grin"
+    },
+    {
+      "phrase": "grumpy",
+      "tag": "grumpy"
+    },
+    {
+      "phrase": "grumpy expression",
+      "tag": "grumpy"
+    },
+    {
+      "phrase": "looking grumpy",
+      "tag": "grumpy"
+    },
+    {
+      "phrase": "half-closed eye",
+      "tag": "half-closed_eye"
+    },
+    {
+      "phrase": "half-closed eye expression",
+      "tag": "half-closed_eye"
+    },
+    {
+      "phrase": "looking half-closed eye",
+      "tag": "half-closed_eye"
+    },
+    {
+      "phrase": "hand blush",
+      "tag": "hand_blush"
+    },
+    {
+      "phrase": "hand blush expression",
+      "tag": "hand_blush"
+    },
+    {
+      "phrase": "looking hand blush",
+      "tag": "hand_blush"
+    },
+    {
+      "phrase": "happy facial",
+      "tag": "happy_facial"
+    },
+    {
+      "phrase": "happy facial expression",
+      "tag": "happy_facial"
+    },
+    {
+      "phrase": "looking happy facial",
+      "tag": "happy_facial"
+    },
+    {
+      "phrase": "happy tears",
+      "tag": "happy_tears"
+    },
+    {
+      "phrase": "happy tears expression",
+      "tag": "happy_tears"
+    },
+    {
+      "phrase": "looking happy tears",
+      "tag": "happy_tears"
+    },
+    {
+      "phrase": "head blush",
+      "tag": "head_blush"
+    },
+    {
+      "phrase": "head blush expression",
+      "tag": "head_blush"
+    },
+    {
+      "phrase": "looking head blush",
+      "tag": "head_blush"
+    },
+    {
+      "phrase": "heart hands failure",
+      "tag": "heart_hands_failure"
+    },
+    {
+      "phrase": "heart hands failure expression",
+      "tag": "heart_hands_failure"
+    },
+    {
+      "phrase": "looking heart hands failure",
+      "tag": "heart_hands_failure"
+    },
+    {
+      "phrase": "heart in eye",
+      "tag": "heart_in_eye"
+    },
+    {
+      "phrase": "heart in eye expression",
+      "tag": "heart_in_eye"
+    },
+    {
+      "phrase": "looking heart in eye",
+      "tag": "heart_in_eye"
+    },
+    {
+      "phrase": "heart in mouth",
+      "tag": "heart_in_mouth"
+    },
+    {
+      "phrase": "heart in mouth expression",
+      "tag": "heart_in_mouth"
+    },
+    {
+      "phrase": "looking heart in mouth",
+      "tag": "heart_in_mouth"
+    },
+    {
+      "phrase": "hollow mouth",
+      "tag": "hollow_mouth"
+    },
+    {
+      "phrase": "hollow mouth expression",
+      "tag": "hollow_mouth"
+    },
+    {
+      "phrase": "looking hollow mouth",
+      "tag": "hollow_mouth"
+    },
+    {
+      "phrase": "horrified",
+      "tag": "horrified"
+    },
+    {
+      "phrase": "horrified expression",
+      "tag": "horrified"
+    },
+    {
+      "phrase": "looking horrified",
+      "tag": "horrified"
+    },
+    {
+      "phrase": "jaw drop",
+      "tag": "jaw_drop"
+    },
+    {
+      "phrase": "jaw drop expression",
+      "tag": "jaw_drop"
+    },
+    {
+      "phrase": "looking jaw drop",
+      "tag": "jaw_drop"
+    },
+    {
+      "phrase": "jealous",
+      "tag": "jealous"
+    },
+    {
+      "phrase": "jealous expression",
+      "tag": "jealous"
+    },
+    {
+      "phrase": "looking jealous",
+      "tag": "jealous"
+    },
+    {
+      "phrase": "jumpscare",
+      "tag": "jumpscare"
+    },
+    {
+      "phrase": "jumpscare expression",
+      "tag": "jumpscare"
+    },
+    {
+      "phrase": "looking jumpscare",
+      "tag": "jumpscare"
+    },
+    {
+      "phrase": "knee blush",
+      "tag": "knee_blush"
+    },
+    {
+      "phrase": "knee blush expression",
+      "tag": "knee_blush"
+    },
+    {
+      "phrase": "looking knee blush",
+      "tag": "knee_blush"
+    },
+    {
+      "phrase": "lazy eye",
+      "tag": "lazy_eye"
+    },
+    {
+      "phrase": "lazy eye expression",
+      "tag": "lazy_eye"
+    },
+    {
+      "phrase": "looking lazy eye",
+      "tag": "lazy_eye"
+    },
+    {
+      "phrase": "lens eye",
+      "tag": "lens_eye"
+    },
+    {
+      "phrase": "lens eye expression",
+      "tag": "lens_eye"
+    },
+    {
+      "phrase": "looking lens eye",
+      "tag": "lens_eye"
+    },
+    {
+      "phrase": "light blush",
+      "tag": "light_blush"
+    },
+    {
+      "phrase": "light blush expression",
+      "tag": "light_blush"
+    },
+    {
+      "phrase": "looking light blush",
+      "tag": "light_blush"
+    },
+    {
+      "phrase": "light frown",
+      "tag": "light_frown"
+    },
+    {
+      "phrase": "light frown expression",
+      "tag": "light_frown"
+    },
+    {
+      "phrase": "looking light frown",
+      "tag": "light_frown"
+    },
+    {
+      "phrase": "light smile",
+      "tag": "light_smile"
+    },
+    {
+      "phrase": "light smile expression",
+      "tag": "light_smile"
+    },
+    {
+      "phrase": "looking light smile",
+      "tag": "light_smile"
+    },
+    {
+      "phrase": "looking lovestruck",
+      "tag": "lovestruck"
+    },
+    {
+      "phrase": "lovestruck",
+      "tag": "lovestruck"
+    },
+    {
+      "phrase": "lovestruck expression",
+      "tag": "lovestruck"
+    },
+    {
+      "phrase": "looking lower teeth only",
+      "tag": "lower_teeth_only"
+    },
+    {
+      "phrase": "lower teeth only",
+      "tag": "lower_teeth_only"
+    },
+    {
+      "phrase": "lower teeth only expression",
+      "tag": "lower_teeth_only"
+    },
+    {
+      "phrase": "looking lowered eyelids",
+      "tag": "lowered_eyelids"
+    },
+    {
+      "phrase": "lowered eyelids",
+      "tag": "lowered_eyelids"
+    },
+    {
+      "phrase": "lowered eyelids expression",
+      "tag": "lowered_eyelids"
+    },
+    {
+      "phrase": "looking millennium eye",
+      "tag": "millennium_eye"
+    },
+    {
+      "phrase": "millennium eye",
+      "tag": "millennium_eye"
+    },
+    {
+      "phrase": "millennium eye expression",
+      "tag": "millennium_eye"
+    },
+    {
+      "phrase": "looking mob face",
+      "tag": "mob_face"
+    },
+    {
+      "phrase": "mob face",
+      "tag": "mob_face"
+    },
+    {
+      "phrase": "mob face expression",
+      "tag": "mob_face"
+    },
+    {
+      "phrase": "looking mono-eye",
+      "tag": "mono-eye"
+    },
+    {
+      "phrase": "mono-eye",
+      "tag": "mono-eye"
+    },
+    {
+      "phrase": "mono-eye expression",
+      "tag": "mono-eye"
+    },
+    {
+      "phrase": "looking mouth beam",
+      "tag": "mouth_beam"
+    },
+    {
+      "phrase": "mouth beam",
+      "tag": "mouth_beam"
+    },
+    {
+      "phrase": "mouth beam expression",
+      "tag": "mouth_beam"
+    },
+    {
+      "phrase": "looking mouth hold",
+      "tag": "mouth_hold"
+    },
+    {
+      "phrase": "mouth hold",
+      "tag": "mouth_hold"
+    },
+    {
+      "phrase": "mouth hold expression",
+      "tag": "mouth_hold"
+    },
+    {
+      "phrase": "looking mouth submerged",
+      "tag": "mouth_submerged"
+    },
+    {
+      "phrase": "mouth submerged",
+      "tag": "mouth_submerged"
+    },
+    {
+      "phrase": "mouth submerged expression",
+      "tag": "mouth_submerged"
+    },
+    {
+      "phrase": "looking mouth trail",
+      "tag": "mouth_trail"
+    },
+    {
+      "phrase": "mouth trail",
+      "tag": "mouth_trail"
+    },
+    {
+      "phrase": "mouth trail expression",
+      "tag": "mouth_trail"
+    },
+    {
+      "phrase": "looking mouth veil",
+      "tag": "mouth_veil"
+    },
+    {
+      "phrase": "mouth veil",
+      "tag": "mouth_veil"
+    },
+    {
+      "phrase": "mouth veil expression",
+      "tag": "mouth_veil"
+    },
+    {
+      "phrase": "looking muffled",
+      "tag": "muffled"
+    },
+    {
+      "phrase": "muffled",
+      "tag": "muffled"
+    },
+    {
+      "phrase": "muffled expression",
+      "tag": "muffled"
+    },
+    {
+      "phrase": "looking naughty face",
+      "tag": "naughty_face"
+    },
+    {
+      "phrase": "naughty face",
+      "tag": "naughty_face"
+    },
+    {
+      "phrase": "naughty face expression",
+      "tag": "naughty_face"
+    },
+    {
+      "phrase": "looking neck blush",
+      "tag": "neck_blush"
+    },
+    {
+      "phrase": "neck blush",
+      "tag": "neck_blush"
+    },
+    {
+      "phrase": "neck blush expression",
+      "tag": "neck_blush"
+    },
+    {
+      "phrase": "looking nervous smile",
+      "tag": "nervous_smile"
+    },
+    {
+      "phrase": "nervous smile",
+      "tag": "nervous_smile"
+    },
+    {
+      "phrase": "nervous smile expression",
+      "tag": "nervous_smile"
+    },
+    {
+      "phrase": "looking nervous sweating",
+      "tag": "nervous_sweating"
+    },
+    {
+      "phrase": "nervous sweating",
+      "tag": "nervous_sweating"
+    },
+    {
+      "phrase": "nervous sweating expression",
+      "tag": "nervous_sweating"
+    },
+    {
+      "phrase": "looking no mouth",
+      "tag": "no_mouth"
+    },
+    {
+      "phrase": "no mouth",
+      "tag": "no_mouth"
+    },
+    {
+      "phrase": "no mouth expression",
+      "tag": "no_mouth"
+    },
+    {
+      "phrase": "looking nose blush",
+      "tag": "nose_blush"
+    },
+    {
+      "phrase": "nose blush",
+      "tag": "nose_blush"
+    },
+    {
+      "phrase": "nose blush expression",
+      "tag": "nose_blush"
+    },
+    {
+      "phrase": "looking nyan",
+      "tag": "nyan"
+    },
+    {
+      "phrase": "nyan",
+      "tag": "nyan"
+    },
+    {
+      "phrase": "nyan expression",
+      "tag": "nyan"
+    },
+    {
+      "phrase": "looking nyoro~n",
+      "tag": "nyoro~n"
+    },
+    {
+      "phrase": "nyoro~n",
+      "tag": "nyoro~n"
+    },
+    {
+      "phrase": "nyoro~n expression",
+      "tag": "nyoro~n"
+    },
+    {
+      "phrase": "looking odd one out",
+      "tag": "odd_one_out"
+    },
+    {
+      "phrase": "odd one out",
+      "tag": "odd_one_out"
+    },
+    {
+      "phrase": "odd one out expression",
+      "tag": "odd_one_out"
+    },
+    {
+      "phrase": "looking one-eyed",
+      "tag": "one-eyed"
+    },
+    {
+      "phrase": "one-eyed",
+      "tag": "one-eyed"
+    },
+    {
+      "phrase": "one-eyed expression",
+      "tag": "one-eyed"
+    },
+    {
+      "phrase": "looking one eye closed",
+      "tag": "one_eye_closed"
+    },
+    {
+      "phrase": "one eye closed",
+      "tag": "one_eye_closed"
+    },
+    {
+      "phrase": "one eye closed expression",
+      "tag": "one_eye_closed"
+    },
+    {
+      "phrase": "looking one eye covered",
+      "tag": "one_eye_covered"
+    },
+    {
+      "phrase": "one eye covered",
+      "tag": "one_eye_covered"
+    },
+    {
+      "phrase": "one eye covered expression",
+      "tag": "one_eye_covered"
+    },
+    {
+      "phrase": "looking one eye in shadow",
+      "tag": "one_eye_in_shadow"
+    },
+    {
+      "phrase": "one eye in shadow",
+      "tag": "one_eye_in_shadow"
+    },
+    {
+      "phrase": "one eye in shadow expression",
+      "tag": "one_eye_in_shadow"
+    },
+    {
+      "phrase": "looking open fly",
+      "tag": "open_fly"
+    },
+    {
+      "phrase": "open fly",
+      "tag": "open_fly"
+    },
+    {
+      "phrase": "open fly expression",
+      "tag": "open_fly"
+    },
+    {
+      "phrase": "looking open mouth",
+      "tag": "open_mouth"
+    },
+    {
+      "phrase": "open mouth",
+      "tag": "open_mouth"
+    },
+    {
+      "phrase": "open mouth expression",
+      "tag": "open_mouth"
+    },
+    {
+      "phrase": "looking pale eye",
+      "tag": "pale_eye"
+    },
+    {
+      "phrase": "pale eye",
+      "tag": "pale_eye"
+    },
+    {
+      "phrase": "pale eye expression",
+      "tag": "pale_eye"
+    },
+    {
+      "phrase": "looking panicking",
+      "tag": "panicking"
+    },
+    {
+      "phrase": "panicking",
+      "tag": "panicking"
+    },
+    {
+      "phrase": "panicking expression",
+      "tag": "panicking"
+    },
+    {
+      "phrase": "looking parted lips",
+      "tag": "parted_lips"
+    },
+    {
+      "phrase": "parted lips",
+      "tag": "parted_lips"
+    },
+    {
+      "phrase": "parted lips expression",
+      "tag": "parted_lips"
+    },
+    {
+      "phrase": "looking peanut mouth",
+      "tag": "peanut_mouth"
+    },
+    {
+      "phrase": "peanut mouth",
+      "tag": "peanut_mouth"
+    },
+    {
+      "phrase": "peanut mouth expression",
+      "tag": "peanut_mouth"
+    },
+    {
+      "phrase": "looking penis awe",
+      "tag": "penis_awe"
+    },
+    {
+      "phrase": "penis awe",
+      "tag": "penis_awe"
+    },
+    {
+      "phrase": "penis awe expression",
+      "tag": "penis_awe"
+    },
+    {
+      "phrase": "looking pleading eyes",
+      "tag": "pleading_eyes"
+    },
+    {
+      "phrase": "pleading eyes",
+      "tag": "pleading_eyes"
+    },
+    {
+      "phrase": "pleading eyes expression",
+      "tag": "pleading_eyes"
+    },
+    {
+      "phrase": "looking pleading face emoji",
+      "tag": "pleading_face_emoji"
+    },
+    {
+      "phrase": "pleading face emoji",
+      "tag": "pleading_face_emoji"
+    },
+    {
+      "phrase": "pleading face emoji expression",
+      "tag": "pleading_face_emoji"
+    },
+    {
+      "phrase": "looking puckered face",
+      "tag": "puckered_face"
+    },
+    {
+      "phrase": "puckered face",
+      "tag": "puckered_face"
+    },
+    {
+      "phrase": "puckered face expression",
+      "tag": "puckered_face"
+    },
+    {
+      "phrase": "looking raised eyebrow",
+      "tag": "raised_eyebrow"
+    },
+    {
+      "phrase": "raised eyebrow",
+      "tag": "raised_eyebrow"
+    },
+    {
+      "phrase": "raised eyebrow expression",
+      "tag": "raised_eyebrow"
+    },
+    {
+      "phrase": "looking red-eye effect",
+      "tag": "red-eye_effect"
+    },
+    {
+      "phrase": "red-eye effect",
+      "tag": "red-eye_effect"
+    },
+    {
+      "phrase": "red-eye effect expression",
+      "tag": "red-eye_effect"
+    },
+    {
+      "phrase": "looking sad smile",
+      "tag": "sad_smile"
+    },
+    {
+      "phrase": "sad smile",
+      "tag": "sad_smile"
+    },
+    {
+      "phrase": "sad smile expression",
+      "tag": "sad_smile"
+    },
+    {
+      "phrase": "looking scowl",
+      "tag": "scowl"
+    },
+    {
+      "phrase": "scowl",
+      "tag": "scowl"
+    },
+    {
+      "phrase": "scowl expression",
+      "tag": "scowl"
+    },
+    {
+      "phrase": "looking screaming",
+      "tag": "screaming"
+    },
+    {
+      "phrase": "screaming",
+      "tag": "screaming"
+    },
+    {
+      "phrase": "screaming expression",
+      "tag": "screaming"
+    },
+    {
+      "phrase": "looking seductive smile",
+      "tag": "seductive_smile"
+    },
+    {
+      "phrase": "seductive smile",
+      "tag": "seductive_smile"
+    },
+    {
+      "phrase": "seductive smile expression",
+      "tag": "seductive_smile"
+    },
+    {
+      "phrase": "looking sharp tongue",
+      "tag": "sharp_tongue"
+    },
+    {
+      "phrase": "sharp tongue",
+      "tag": "sharp_tongue"
+    },
+    {
+      "phrase": "sharp tongue expression",
+      "tag": "sharp_tongue"
+    },
+    {
+      "phrase": "looking shoulder blush",
+      "tag": "shoulder_blush"
+    },
+    {
+      "phrase": "shoulder blush",
+      "tag": "shoulder_blush"
+    },
+    {
+      "phrase": "shoulder blush expression",
+      "tag": "shoulder_blush"
+    },
+    {
+      "phrase": "looking sideways mouth",
+      "tag": "sideways_mouth"
+    },
+    {
+      "phrase": "sideways mouth",
+      "tag": "sideways_mouth"
+    },
+    {
+      "phrase": "sideways mouth expression",
+      "tag": "sideways_mouth"
+    },
+    {
+      "phrase": "looking sigh",
+      "tag": "sigh"
+    },
+    {
+      "phrase": "sigh",
+      "tag": "sigh"
+    },
+    {
+      "phrase": "sigh expression",
+      "tag": "sigh"
+    },
+    {
+      "phrase": "looking single blank eye",
+      "tag": "single_blank_eye"
+    },
+    {
+      "phrase": "single blank eye",
+      "tag": "single_blank_eye"
+    },
+    {
+      "phrase": "single blank eye expression",
+      "tag": "single_blank_eye"
+    },
+    {
+      "phrase": "looking single empty eye",
+      "tag": "single_empty_eye"
+    },
+    {
+      "phrase": "single empty eye",
+      "tag": "single_empty_eye"
+    },
+    {
+      "phrase": "single empty eye expression",
+      "tag": "single_empty_eye"
+    },
+    {
+      "phrase": "looking smile",
+      "tag": "smile"
+    },
+    {
+      "phrase": "smile",
+      "tag": "smile"
+    },
+    {
+      "phrase": "smile expression",
+      "tag": "smile"
+    },
+    {
+      "phrase": "smiling",
+      "tag": "smile"
+    },
+    {
+      "phrase": "looking smile pact",
+      "tag": "smile_pact"
+    },
+    {
+      "phrase": "smile pact",
+      "tag": "smile_pact"
+    },
+    {
+      "phrase": "smile pact expression",
+      "tag": "smile_pact"
+    },
+    {
+      "phrase": "looking smirk",
+      "tag": "smirk"
+    },
+    {
+      "phrase": "smirk",
+      "tag": "smirk"
+    },
+    {
+      "phrase": "smirk expression",
+      "tag": "smirk"
+    },
+    {
+      "phrase": "looking smug",
+      "tag": "smug"
+    },
+    {
+      "phrase": "smug",
+      "tag": "smug"
+    },
+    {
+      "phrase": "smug expression",
+      "tag": "smug"
+    },
+    {
+      "phrase": "looking sneer",
+      "tag": "sneer"
+    },
+    {
+      "phrase": "sneer",
+      "tag": "sneer"
+    },
+    {
+      "phrase": "sneer expression",
+      "tag": "sneer"
+    },
+    {
+      "phrase": "looking sobbing",
+      "tag": "sobbing"
+    },
+    {
+      "phrase": "sobbing",
+      "tag": "sobbing"
+    },
+    {
+      "phrase": "sobbing expression",
+      "tag": "sobbing"
+    },
+    {
+      "phrase": "looking solid eye",
+      "tag": "solid_eye"
+    },
+    {
+      "phrase": "solid eye",
+      "tag": "solid_eye"
+    },
+    {
+      "phrase": "solid eye expression",
+      "tag": "solid_eye"
+    },
+    {
+      "phrase": "looking split mouth",
+      "tag": "split_mouth"
+    },
+    {
+      "phrase": "split mouth",
+      "tag": "split_mouth"
+    },
+    {
+      "phrase": "split mouth expression",
+      "tag": "split_mouth"
+    },
+    {
+      "phrase": "looking spoken anger vein",
+      "tag": "spoken_anger_vein"
+    },
+    {
+      "phrase": "spoken anger vein",
+      "tag": "spoken_anger_vein"
+    },
+    {
+      "phrase": "spoken anger vein expression",
+      "tag": "spoken_anger_vein"
+    },
+    {
+      "phrase": "looking spoken blush",
+      "tag": "spoken_blush"
+    },
+    {
+      "phrase": "spoken blush",
+      "tag": "spoken_blush"
+    },
+    {
+      "phrase": "spoken blush expression",
+      "tag": "spoken_blush"
+    },
+    {
+      "phrase": "looking spoken musical note",
+      "tag": "spoken_musical_note"
+    },
+    {
+      "phrase": "spoken musical note",
+      "tag": "spoken_musical_note"
+    },
+    {
+      "phrase": "spoken musical note expression",
+      "tag": "spoken_musical_note"
+    },
+    {
+      "phrase": "looking spoken smile",
+      "tag": "spoken_smile"
+    },
+    {
+      "phrase": "spoken smile",
+      "tag": "spoken_smile"
+    },
+    {
+      "phrase": "spoken smile expression",
+      "tag": "spoken_smile"
+    },
+    {
+      "phrase": "looking spoken squiggle",
+      "tag": "spoken_squiggle"
+    },
+    {
+      "phrase": "spoken squiggle",
+      "tag": "spoken_squiggle"
+    },
+    {
+      "phrase": "spoken squiggle expression",
+      "tag": "spoken_squiggle"
+    },
+    {
+      "phrase": "looking spoken sweatdrop",
+      "tag": "spoken_sweatdrop"
+    },
+    {
+      "phrase": "spoken sweatdrop",
+      "tag": "spoken_sweatdrop"
+    },
+    {
+      "phrase": "spoken sweatdrop expression",
+      "tag": "spoken_sweatdrop"
+    },
+    {
+      "phrase": "looking squinting",
+      "tag": "squinting"
+    },
+    {
+      "phrase": "squinting",
+      "tag": "squinting"
+    },
+    {
+      "phrase": "squinting expression",
+      "tag": "squinting"
+    },
+    {
+      "phrase": "looking staring",
+      "tag": "staring"
+    },
+    {
+      "phrase": "staring",
+      "tag": "staring"
+    },
+    {
+      "phrase": "staring expression",
+      "tag": "staring"
+    },
+    {
+      "phrase": "looking stifled laugh",
+      "tag": "stifled_laugh"
+    },
+    {
+      "phrase": "stifled laugh",
+      "tag": "stifled_laugh"
+    },
+    {
+      "phrase": "stifled laugh expression",
+      "tag": "stifled_laugh"
+    },
+    {
+      "phrase": "looking striped blush",
+      "tag": "striped_blush"
+    },
+    {
+      "phrase": "striped blush",
+      "tag": "striped_blush"
+    },
+    {
+      "phrase": "striped blush expression",
+      "tag": "striped_blush"
+    },
+    {
+      "phrase": "looking stutter",
+      "tag": "stutter"
+    },
+    {
+      "phrase": "stutter",
+      "tag": "stutter"
+    },
+    {
+      "phrase": "stutter expression",
+      "tag": "stutter"
+    },
+    {
+      "phrase": "looking sulking",
+      "tag": "sulking"
+    },
+    {
+      "phrase": "sulking",
+      "tag": "sulking"
+    },
+    {
+      "phrase": "sulking expression",
+      "tag": "sulking"
+    },
+    {
+      "phrase": "looking surprised",
+      "tag": "surprised"
+    },
+    {
+      "phrase": "surprised",
+      "tag": "surprised"
+    },
+    {
+      "phrase": "surprised expression",
+      "tag": "surprised"
+    },
+    {
+      "phrase": "looking surprised arms",
+      "tag": "surprised_arms"
+    },
+    {
+      "phrase": "surprised arms",
+      "tag": "surprised_arms"
+    },
+    {
+      "phrase": "surprised arms expression",
+      "tag": "surprised_arms"
+    },
+    {
+      "phrase": "looking sweatdrop",
+      "tag": "sweatdrop"
+    },
+    {
+      "phrase": "sweatdrop",
+      "tag": "sweatdrop"
+    },
+    {
+      "phrase": "sweatdrop expression",
+      "tag": "sweatdrop"
+    },
+    {
+      "phrase": "looking symbol in eye",
+      "tag": "symbol_in_eye"
+    },
+    {
+      "phrase": "symbol in eye",
+      "tag": "symbol_in_eye"
+    },
+    {
+      "phrase": "symbol in eye expression",
+      "tag": "symbol_in_eye"
+    },
+    {
+      "phrase": "looking t t",
+      "tag": "t_t"
+    },
+    {
+      "phrase": "t t",
+      "tag": "t_t"
+    },
+    {
+      "phrase": "t t expression",
+      "tag": "t_t"
+    },
+    {
+      "phrase": "looking teeth hold",
+      "tag": "teeth_hold"
+    },
+    {
+      "phrase": "teeth hold",
+      "tag": "teeth_hold"
+    },
+    {
+      "phrase": "teeth hold expression",
+      "tag": "teeth_hold"
+    },
+    {
+      "phrase": "looking tehepero",
+      "tag": "tehepero"
+    },
+    {
+      "phrase": "tehepero",
+      "tag": "tehepero"
+    },
+    {
+      "phrase": "tehepero expression",
+      "tag": "tehepero"
+    },
+    {
+      "phrase": "looking third eye",
+      "tag": "third_eye"
+    },
+    {
+      "phrase": "third eye",
+      "tag": "third_eye"
+    },
+    {
+      "phrase": "third eye expression",
+      "tag": "third_eye"
+    },
+    {
+      "phrase": "looking tongue out",
+      "tag": "tongue_out"
+    },
+    {
+      "phrase": "tongue out",
+      "tag": "tongue_out"
+    },
+    {
+      "phrase": "tongue out expression",
+      "tag": "tongue_out"
+    },
+    {
+      "phrase": "looking tongue twister",
+      "tag": "tongue_twister"
+    },
+    {
+      "phrase": "tongue twister",
+      "tag": "tongue_twister"
+    },
+    {
+      "phrase": "tongue twister expression",
+      "tag": "tongue_twister"
+    },
+    {
+      "phrase": "looking tongue up",
+      "tag": "tongue_up"
+    },
+    {
+      "phrase": "tongue up",
+      "tag": "tongue_up"
+    },
+    {
+      "phrase": "tongue up expression",
+      "tag": "tongue_up"
+    },
+    {
+      "phrase": "looking tongue wrap",
+      "tag": "tongue_wrap"
+    },
+    {
+      "phrase": "tongue wrap",
+      "tag": "tongue_wrap"
+    },
+    {
+      "phrase": "tongue wrap expression",
+      "tag": "tongue_wrap"
+    },
+    {
+      "phrase": "looking torogao",
+      "tag": "torogao"
+    },
+    {
+      "phrase": "torogao",
+      "tag": "torogao"
+    },
+    {
+      "phrase": "torogao expression",
+      "tag": "torogao"
+    },
+    {
+      "phrase": "looking traumatized",
+      "tag": "traumatized"
+    },
+    {
+      "phrase": "traumatized",
+      "tag": "traumatized"
+    },
+    {
+      "phrase": "traumatized expression",
+      "tag": "traumatized"
+    },
+    {
+      "phrase": "looking turn pale",
+      "tag": "turn_pale"
+    },
+    {
+      "phrase": "turn pale",
+      "tag": "turn_pale"
+    },
+    {
+      "phrase": "turn pale expression",
+      "tag": "turn_pale"
+    },
+    {
+      "phrase": "looking twinkle eye",
+      "tag": "twinkle_eye"
+    },
+    {
+      "phrase": "twinkle eye",
+      "tag": "twinkle_eye"
+    },
+    {
+      "phrase": "twinkle eye expression",
+      "tag": "twinkle_eye"
+    },
+    {
+      "phrase": "looking u u",
+      "tag": "u_u"
+    },
+    {
+      "phrase": "u u",
+      "tag": "u_u"
+    },
+    {
+      "phrase": "u u expression",
+      "tag": "u_u"
+    },
+    {
+      "phrase": "looking unamused",
+      "tag": "unamused"
+    },
+    {
+      "phrase": "unamused",
+      "tag": "unamused"
+    },
+    {
+      "phrase": "unamused expression",
+      "tag": "unamused"
+    },
+    {
+      "phrase": "looking unyu",
+      "tag": "unyu"
+    },
+    {
+      "phrase": "unyu",
+      "tag": "unyu"
+    },
+    {
+      "phrase": "unyu expression",
+      "tag": "unyu"
+    },
+    {
+      "phrase": "looking upper teeth only",
+      "tag": "upper_teeth_only"
+    },
+    {
+      "phrase": "upper teeth only",
+      "tag": "upper_teeth_only"
+    },
+    {
+      "phrase": "upper teeth only expression",
+      "tag": "upper_teeth_only"
+    },
+    {
+      "phrase": "looking uu~",
+      "tag": "uu~"
+    },
+    {
+      "phrase": "uu~",
+      "tag": "uu~"
+    },
+    {
+      "phrase": "uu~ expression",
+      "tag": "uu~"
+    },
+    {
+      "phrase": "looking uwu",
+      "tag": "uwu"
+    },
+    {
+      "phrase": "uwu",
+      "tag": "uwu"
+    },
+    {
+      "phrase": "uwu expression",
+      "tag": "uwu"
+    },
+    {
+      "phrase": "looking wavy mouth",
+      "tag": "wavy_mouth"
+    },
+    {
+      "phrase": "wavy mouth",
+      "tag": "wavy_mouth"
+    },
+    {
+      "phrase": "wavy mouth expression",
+      "tag": "wavy_mouth"
+    },
+    {
+      "phrase": "looking what",
+      "tag": "what"
+    },
+    {
+      "phrase": "what",
+      "tag": "what"
+    },
+    {
+      "phrase": "what expression",
+      "tag": "what"
+    },
+    {
+      "phrase": "looking wide-eyed",
+      "tag": "wide-eyed"
+    },
+    {
+      "phrase": "wide-eyed",
+      "tag": "wide-eyed"
+    },
+    {
+      "phrase": "wide-eyed expression",
+      "tag": "wide-eyed"
+    },
+    {
+      "phrase": "looking wilt and blush",
+      "tag": "wilt_and_blush"
+    },
+    {
+      "phrase": "wilt and blush",
+      "tag": "wilt_and_blush"
+    },
+    {
+      "phrase": "wilt and blush expression",
+      "tag": "wilt_and_blush"
+    },
+    {
+      "phrase": "looking wink heart",
+      "tag": "wink_heart"
+    },
+    {
+      "phrase": "wink heart",
+      "tag": "wink_heart"
+    },
+    {
+      "phrase": "wink heart expression",
+      "tag": "wink_heart"
+    },
+    {
+      "phrase": "looking worried",
+      "tag": "worried"
+    },
+    {
+      "phrase": "worried",
+      "tag": "worried"
+    },
+    {
+      "phrase": "worried expression",
+      "tag": "worried"
+    },
+    {
+      "phrase": "looking x3",
+      "tag": "x3"
+    },
+    {
+      "phrase": "x3",
+      "tag": "x3"
+    },
+    {
+      "phrase": "x3 expression",
+      "tag": "x3"
+    },
+    {
+      "phrase": "looking x mouth",
+      "tag": "x_mouth"
+    },
+    {
+      "phrase": "x mouth",
+      "tag": "x_mouth"
+    },
+    {
+      "phrase": "x mouth expression",
+      "tag": "x_mouth"
+    },
+    {
+      "phrase": "looking x x",
+      "tag": "x_x"
+    },
+    {
+      "phrase": "x x",
+      "tag": "x_x"
+    },
+    {
+      "phrase": "x x expression",
+      "tag": "x_x"
+    },
+    {
+      "phrase": "looking xd",
+      "tag": "xd"
+    },
+    {
+      "phrase": "xd",
+      "tag": "xd"
+    },
+    {
+      "phrase": "xd expression",
+      "tag": "xd"
+    },
+    {
+      "phrase": "looking yandere trance",
+      "tag": "yandere_trance"
+    },
+    {
+      "phrase": "yandere trance",
+      "tag": "yandere_trance"
+    },
+    {
+      "phrase": "yandere trance expression",
+      "tag": "yandere_trance"
+    },
+    {
+      "phrase": "looking yes",
+      "tag": "yes"
+    },
+    {
+      "phrase": "yes",
+      "tag": "yes"
+    },
+    {
+      "phrase": "yes expression",
+      "tag": "yes"
+    }
+  ]
+}
